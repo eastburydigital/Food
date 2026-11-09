@@ -33,7 +33,7 @@ export const SWAPS = [
     { word: 'butter beans', has: ['beans','butter beans','pulses'], note: 'Blend well and sieve to remove any skins.' } ] },
   { names: ['beans', 'butter beans', 'pulses'], re: /\b(butter|cannellini) beans?\b/i, options: [
     { word: 'peeled, diced potato', has: ['potato','nightshade'], note: 'Simmer until very soft, then blend.' } ] },
-  { names: ['milk', ...DAIRY], re: /(?<!coconut |skimmed )\bmilk\b(?! powder)/i, options: [
+  { names: ['milk', ...DAIRY], re: /\bmilk\b(?! powder)/i, skip: /\b(coconut|skimmed) milk\b/gi, options: [
     { word: 'oat or soya milk', has: ['oats','oat'], note: 'Unsweetened, calcium-fortified plant milk works best.' } ] },
   { names: ['milk powder', ...DAIRY], re: /\b(skimmed )?milk powder\b/i, options: [
     { word: 'soya protein powder (unflavoured)', has: ['soy','soya'], note: 'Or leave it out.' },
@@ -44,7 +44,7 @@ export const SWAPS = [
   { names: ['yoghurt', 'yogurt', ...DAIRY], re: /\b(greek |natural )?yog(h)?urt\b/i, options: [
     { word: 'plain soya yoghurt', has: ['soy','soya'], note: 'Choose unsweetened.' },
     { word: 'coconut yoghurt', has: ['coconut'], note: 'Choose unsweetened.' } ] },
-  { names: ['butter', ...DAIRY], re: /(?<!(peanut|almond|nut) )\bbutter\b(?! beans?)/i, options: [
+  { names: ['butter', ...DAIRY], re: /\bbutter\b(?! beans?)/i, skip: /\b(peanut|almond|nut) butter\b/gi, options: [
     { word: 'olive oil', has: [], note: 'Use the same amount of olive oil, or a plant spread for baking.' } ] },
   { names: ['paneer', 'cheese', ...DAIRY], re: /\bpaneer\b/i, options: [
     { word: 'firm tofu', has: ['tofu','soy','soya'], note: 'Press the tofu first and fry until golden, just like the paneer.' } ] },
@@ -71,7 +71,7 @@ export const SWAPS = [
     { word: 'oat cream', has: ['oats','oat'], note: 'Stir it in at the end.' } ] },
   { names: ['tomato', 'tomatoes', 'passata', 'nightshade', 'nightshades'], re: /\bpassata\b|tomato purée|\btomato(es)?\b/i, options: [
     { word: 'butternut squash purée (roasted and blended)', has: ['squash','butternut squash'], note: 'Makes a sweet, smooth sauce in place of tomato. Add a squeeze of lemon.' } ] },
-  { names: ['pepper', 'peppers', 'red pepper', 'nightshade', 'nightshades'], re: /(?<!(salt and |black |white ))\b(roasted )?(red )?peppers?\b/i, options: [
+  { names: ['pepper', 'peppers', 'red pepper', 'nightshade', 'nightshades'], re: /\b(roasted )?(red )?peppers?\b/i, skip: /\b(salt and|black|white) pepper\b/gi, options: [
     { word: 'roasted, peeled butternut squash', has: ['squash','butternut squash'], note: 'Roast until very soft before blending or adding.' } ] },
   { names: ['spinach'], re: /\b(baby )?spinach\b/i, options: [
     { word: 'peeled, grated courgette', has: ['courgette'], note: 'Cook until very soft.' } ] },
@@ -96,7 +96,7 @@ export const SWAPS = [
     { word: 'butternut squash', has: ['squash','butternut squash'], note: 'Peel and cook until very soft.' } ] },
   { names: ['squash', 'butternut squash', 'butternut'], re: /\b(butternut )?squash\b/i, options: [
     { word: 'peeled sweet potato', has: ['sweet potato'], note: 'Cook until very soft.' } ] },
-  { names: ['potato', 'potatoes', 'nightshade', 'nightshades'], re: /(?<!sweet )\bpotato(es)?\b/i, options: [
+  { names: ['potato', 'potatoes', 'nightshade', 'nightshades'], re: /\bpotato(es)?\b/i, skip: /\bsweet potato(es)?\b/gi, options: [
     { word: 'peeled sweet potato', has: ['sweet potato'], note: 'Cooks a little faster than potato.' } ] },
   { names: ['courgette', 'courgettes', 'zucchini'], re: /\bcourgettes?\b/i, options: [
     { word: 'peeled butternut squash', has: ['squash','butternut squash'], note: 'Grate or dice it and cook until soft.' } ] },
@@ -117,6 +117,20 @@ export const SWAPS = [
   { names: ['curry', 'curry powder', 'spice', 'spices'], re: /\bmild curry powder\b|\bgaram masala\b/i, options: [
     { omit: true, has: [], note: 'Leave out the curry spices; add a pinch of ground cinnamon and turmeric for warmth.' } ] },
 ];
+
+// Hide phrases a rule should ignore (e.g. "coconut milk" for the milk rule) by
+// blanking them out, so the match positions still line up with the original text.
+function masked(entry, text) {
+  return entry.skip ? text.replace(entry.skip, (m) => ' '.repeat(m.length)) : text;
+}
+function hits(entry, text) {
+  return entry.re.test(masked(entry, text));
+}
+function swapIn(entry, text, make) {
+  const m = masked(entry, text).match(entry.re);
+  if (!m) return text;
+  return text.slice(0, m.index) + make(m) + text.slice(m.index + m[0].length);
+}
 
 const norm = (s) => s.toLowerCase().trim().replace(/s$/, '');
 
@@ -147,15 +161,15 @@ export function adapt(recipe, avoid) {
     }
     for (const entry of entries) {
       // The main ingredient (named in the title) can't be swapped out.
-      if (entry.re.test(recipe.title)) { result.blockers.push(word); continue; }
+      if (hits(entry, recipe.title)) { result.blockers.push(word); continue; }
       result.lines.forEach((line, i) => {
-        if (line === null || !entry.re.test(line)) return;
+        if (line === null || !hits(entry, line)) return;
         const option = entry.options.find((o) => !clashes(o));
         if (!option) { result.blockers.push(word); return; }
         let next;
         if (option.omit) next = null;
         else if (option.line) next = option.line;
-        else next = line.replace(entry.re, (...m) => option.word.replace('$1', m[1] || ''));
+        else next = swapIn(entry, line, (m) => option.word.replace('$1', m[1] || ''));
         result.swaps.push({ from: line, to: next, note: option.note });
         result.lines[i] = next;
       });

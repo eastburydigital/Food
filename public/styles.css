@@ -429,3 +429,4 @@ body.cooking .timer-bar { bottom: calc(96px + env(safe-area-inset-bottom)); }
 html.large-text .topbar { flex-wrap: wrap; }
 html.large-text .brand { flex-basis: 100%; }
 .timer-bar[hidden] { display: none; }
+.loading { text-align: center; color: var(--muted); padding: 48px 16px; }

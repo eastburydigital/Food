@@ -1173,8 +1173,24 @@ async function boot() {
   render();
 }
 
+// When a new version of the app is deployed, reload once so it shows straight away.
 if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => navigator.serviceWorker.register('/sw.js').catch(() => {}));
+  const hadController = !!navigator.serviceWorker.controller;
+  let reloading = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (!hadController || reloading) return;
+    reloading = true;
+    location.reload();
+  });
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js', { updateViaCache: 'none' })
+      .then((reg) => {
+        reg.update();
+        // Check again whenever the app is brought back to the front.
+        document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') reg.update(); });
+      })
+      .catch(() => {});
+  });
 }
 
 boot();

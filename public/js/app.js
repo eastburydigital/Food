@@ -315,10 +315,13 @@ function storageHtml(r) {
   if (!s) return '';
   const fridge = s.fridgeDays ? plural(s.fridgeDays, 'day') : 'Eat fresh';
   const freezer = s.freezerMonths ? plural(s.freezerMonths, 'month') : "Don't freeze";
+  const first = s.roomDays
+    ? `<div class="store"><span class="store-ico" aria-hidden="true">🫙</span><span><small>In a tin</small>${plural(s.roomDays, 'day')}</span></div>`
+    : `<div class="store ${s.fridgeDays ? '' : 'no'}"><span class="store-ico" aria-hidden="true">🥶</span><span><small>Fridge</small>${fridge}</span></div>`;
   return `
     <div class="section-head"><h3>Storage</h3>${s.batch ? '<span class="tag batch">🍱 Good for batch cooking</span>' : ''}</div>
     <div class="store-grid">
-      <div class="store ${s.fridgeDays ? '' : 'no'}"><span class="store-ico" aria-hidden="true">🥶</span><span><small>Fridge</small>${fridge}</span></div>
+      ${first}
       <div class="store ${s.freezerMonths ? '' : 'no'}"><span class="store-ico" aria-hidden="true">❄️</span><span><small>Freezer</small>${freezer}</span></div>
     </div>
     <p class="store-text">${esc(s.text)}</p>

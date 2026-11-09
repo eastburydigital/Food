@@ -27,7 +27,9 @@
       "Use oat or soya milk"
     ],
     "nutrients": [
-      "calcium"
+      "protein",
+      "calcium",
+      "b12"
     ],
     "storage": {
       "fridgeDays": 1,
@@ -51,13 +53,13 @@
       "1 tbsp milk or crème fraîche",
       "1–2 slices white sourdough",
       "Salt and pepper",
-      "Finely snipped chives (optional)"
+      "Very finely snipped chives (optional)"
     ],
     "steps": [
       "Beat the eggs with the milk and a pinch of salt.",
       "Melt the butter in a non-stick pan over a low heat.",
       "Add the eggs and stir slowly with a spatula until just set and creamy.",
-      "Toast the bread and spoon the eggs on top."
+      "Toast the bread, spoon the eggs on top, then add pepper and chives if using."
     ],
     "tip": "White sourdough is lower in fibre than wholemeal or seeded bread, and usually has a short ingredient list.",
     "swaps": [
@@ -82,7 +84,7 @@
     "time": 5,
     "serves": 1,
     "texture": "smooth",
-    "summary": "A filling, protein-rich smoothie that's easy on the gut.",
+    "summary": "A filling, protein-rich smoothie.",
     "ingredients": [
       "1 ripe banana",
       "1 tbsp smooth peanut butter (100% peanuts)",
@@ -101,7 +103,8 @@
     ],
     "nutrients": [
       "protein",
-      "calcium"
+      "calcium",
+      "b12"
     ],
     "storage": {
       "fridgeDays": 1,
@@ -133,7 +136,9 @@
       "Spoon over the yoghurt, warm or cold."
     ],
     "tip": "Peeling and cooking fruit removes the tough skin and softens the fibre.",
-    "swaps": [],
+    "swaps": [
+      "Use peeled apple, or add a strip of orange zest while stewing"
+    ],
     "nutrients": [
       "protein",
       "calcium",
@@ -171,7 +176,10 @@
       "Serve with maple syrup and banana."
     ],
     "tip": "Homemade pancakes avoid the additives found in many shop-bought ones.",
-    "swaps": [],
+    "swaps": [
+      "Add ½ tsp cinnamon or vanilla",
+      "Use oat milk"
+    ],
     "nutrients": [
       "protein"
     ],
@@ -206,7 +214,7 @@
       "Peel the pepper with a vegetable peeler (or use jarred roasted peppers, which peel easily).",
       "Fry the onion and pepper in the oil over a low heat for 10 minutes until very soft.",
       "Add the cumin and paprika for 1 minute, then the passata. Simmer for 5 minutes.",
-      "Blend the sauce smooth with a stick blender if you like.",
+      "Blend the sauce smooth with a stick blender.",
       "Make 4 hollows and crack in the eggs. Cover and cook for 6–8 minutes until the whites are set.",
       "Crumble over the feta and serve with bread."
     ],
@@ -236,7 +244,7 @@
     "summary": "A soft, folded omelette with wilted, finely chopped spinach and cheddar.",
     "ingredients": [
       "3 eggs",
-      "Handful of baby spinach",
+      "30g baby spinach",
       "30g cheddar, grated",
       "1 tsp butter",
       "Salt and pepper"
@@ -252,6 +260,7 @@
     "nutrients": [
       "protein",
       "iron",
+      "calcium",
       "b12"
     ],
     "storage": {
@@ -274,17 +283,19 @@
       "1 tbsp olive oil",
       "1 onion, chopped",
       "600g carrots, peeled and sliced",
-      "Thumb-sized piece fresh ginger, peeled and grated",
+      "1 thumb-sized piece (3cm) fresh ginger, peeled and grated",
       "1 litre vegetable stock",
-      "2 tbsp crème fraîche or a splash of milk"
+      "2 tbsp crème fraîche or a splash of milk",
+      "Squeeze of lemon, and salt to taste"
     ],
     "steps": [
       "Soften the onion in the oil for 5 minutes.",
       "Add the carrots and ginger and cook for 2 minutes.",
       "Pour in the stock, cover and simmer for 20 minutes until the carrots are very soft.",
-      "Blend until completely smooth, then stir in the crème fraîche."
+      "Blend until completely smooth, then stir in the crème fraîche.",
+      "Finish with a squeeze of lemon and season with salt to taste."
     ],
-    "tip": "Blending makes soups one of the easiest ways to eat veg with strictures. Choose a stock with a short ingredient list, or make your own.",
+    "tip": "Blending makes soups an easy way to enjoy veg. Choose a stock with a short ingredient list, or make your own.",
     "swaps": [
       "Use a little ground ginger if fresh is too strong"
     ],
@@ -311,16 +322,20 @@
       "2 tbsp olive oil",
       "1 litre vegetable stock",
       "Pinch of nutmeg",
-      "Splash of cream (optional)"
+      "Splash of cream (optional)",
+      "Squeeze of lemon, and salt to taste"
     ],
     "steps": [
       "Heat the oven to 200°C (180°C fan).",
       "Toss the squash and onion in the oil and roast for 25 minutes until soft.",
       "Tip into a pan with the stock and nutmeg and simmer for 5 minutes.",
-      "Blend until silky smooth. Stir in the cream if using."
+      "Blend until silky smooth. Stir in the cream if using.",
+      "Finish with a squeeze of lemon and season with salt to taste."
     ],
     "tip": "Make sure every squash seed is scooped out before roasting.",
-    "swaps": [],
+    "swaps": [
+      "Use peeled carrot or sweet potato for half the squash"
+    ],
     "nutrients": [],
     "storage": {
       "fridgeDays": 3,
@@ -397,6 +412,7 @@
     "tip": "Homemade soup avoids the thickeners and additives in many tinned soups.",
     "swaps": [],
     "nutrients": [
+      "protein",
       "calcium"
     ],
     "storage": {
@@ -420,12 +436,13 @@
       "2 leeks, white parts only, sliced",
       "3 medium potatoes, peeled and diced",
       "1 litre vegetable stock",
-      "100ml milk"
+      "100ml milk",
+      "1 bay leaf"
     ],
     "steps": [
       "Melt the butter and cook the leeks gently for 10 minutes until very soft.",
-      "Add the potatoes and stock and simmer for 15–20 minutes.",
-      "Add the milk and blend until completely smooth. Season to taste."
+      "Add the potatoes, stock and bay leaf and simmer for 15–20 minutes.",
+      "Remove the bay leaf, add the milk and blend until completely smooth. Season to taste."
     ],
     "tip": "Use only the pale part of the leek — the dark green tops are tougher and more fibrous.",
     "swaps": [],
@@ -450,8 +467,7 @@
       "1 white flour tortilla",
       "3 tbsp smooth hummus (see the homemade hummus recipe)",
       "2 jarred roasted red peppers, skins removed",
-      "30g feta",
-      "Few leaves of soft butter lettuce, finely shredded (optional)"
+      "30g feta"
     ],
     "steps": [
       "Warm the tortilla in a dry pan for a few seconds.",
@@ -459,7 +475,7 @@
       "Slice the peppers into strips, checking for any skin, and lay them on top.",
       "Crumble over the feta, roll up tightly and cut in half."
     ],
-    "tip": "Leave out the lettuce on harder days. Jarred peppers are already cooked and peel easily.",
+    "tip": "Jarred peppers are already cooked and peel easily — check every strip for skin.",
     "swaps": [],
     "nutrients": [],
     "storage": {
@@ -477,12 +493,12 @@
     "time": 15,
     "serves": 2,
     "texture": "soft",
-    "summary": "Soft-boiled eggs mashed with mayo and chives on soft white bread.",
+    "summary": "Hard-boiled eggs mashed with mayo and chives on soft white bread.",
     "ingredients": [
       "4 eggs",
       "2 tbsp mayonnaise",
       "1 tbsp Greek yoghurt",
-      "1 tbsp finely snipped chives",
+      "1 tbsp very finely snipped chives (optional)",
       "4 slices soft white bread",
       "Salt and pepper"
     ],
@@ -518,7 +534,7 @@
       "100g feta, crumbled",
       "2 eggs",
       "60g plain flour",
-      "Small handful of mint or dill, finely chopped",
+      "2 tbsp finely chopped mint or dill",
       "Olive oil for frying",
       "Greek yoghurt, to serve"
     ],
@@ -564,7 +580,8 @@
     "tip": "Skip chilli flakes and seeds that are often added to this dish.",
     "swaps": [],
     "nutrients": [
-      "protein"
+      "protein",
+      "b12"
     ],
     "storage": {
       "fridgeDays": 0,
@@ -591,7 +608,7 @@
       "1 tsp ground coriander",
       "200g red lentils, rinsed",
       "300g butternut squash, peeled and diced small",
-      "400ml tin coconut milk",
+      "400ml tin light coconut milk",
       "500ml vegetable stock",
       "White basmati rice, to serve"
     ],
@@ -613,7 +630,7 @@
       "fridgeDays": 3,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Great for batch cooking. Fridge for 3 days or freeze in portions for 3 months. Cook rice fresh, or see the rice note below."
+      "text": "Great for batch cooking. Fridge for 3 days or freeze in portions for 3 months. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     }
   },
   {
@@ -637,12 +654,14 @@
     ],
     "steps": [
       "Roast the squash in the oil at 200°C (180°C fan) for 25 minutes. Mash half of it.",
-      "Meanwhile, melt the butter and soften the onion for 5 minutes.",
+      "Meanwhile, melt the butter and soften the onion for 5 minutes, adding the sage, finely chopped.",
       "Stir in the rice for 1 minute, then add the stock a ladle at a time, stirring, for about 20 minutes.",
       "Stir in the mashed squash, the cubes and the cheese. Rest for 2 minutes before serving."
     ],
     "tip": "Traditional parmesan isn't vegetarian — look for a vegetarian hard cheese. Risotto rice is soft and low in fibre.",
-    "swaps": [],
+    "swaps": [
+      "Use peeled sweet potato instead of squash"
+    ],
     "nutrients": [],
     "storage": {
       "fridgeDays": 1,
@@ -666,9 +685,9 @@
       "250g risotto rice",
       "1 litre hot vegetable stock",
       "100g baby spinach",
-      "Zest and juice of 1 lemon",
+      "1 lemon, zested and juiced (add juice to taste)",
       "50g vegetarian Italian-style hard cheese, grated",
-      "1 tbsp mascarpone or crème fraîche"
+      "1 tbsp mascarpone or crème fraîche (optional)"
     ],
     "steps": [
       "Soften the onion in the butter for 5 minutes.",
@@ -678,9 +697,7 @@
     ],
     "tip": "Blending the spinach gives you the greens without the stringy leaves.",
     "swaps": [],
-    "nutrients": [
-      "iron"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 1,
       "freezerMonths": 0,
@@ -739,11 +756,12 @@
     "texture": "regular",
     "summary": "Crispy tofu in a sticky, garlicky glaze with soft carrots and rice.",
     "ingredients": [
-      "280g firm tofu, pressed and cubed",
+      "280g calcium-set firm tofu, pressed and cubed",
       "1 tbsp cornflour",
       "1 tbsp oil",
       "2 tbsp soy sauce",
       "2 tbsp honey",
+      "1 tsp rice vinegar",
       "1 garlic clove, crushed",
       "1 tsp grated ginger",
       "2 carrots, peeled and thinly sliced",
@@ -753,7 +771,7 @@
       "Toss the tofu in the cornflour.",
       "Fry in the oil for 8–10 minutes, turning, until golden.",
       "Steam or boil the carrots for 8 minutes until very soft.",
-      "Mix the soy, honey, garlic and ginger, pour into the pan and bubble until sticky.",
+      "Mix the soy, honey, vinegar, garlic and ginger, pour into the pan and bubble until sticky. Toss the carrots through.",
       "Serve over rice with the carrots."
     ],
     "tip": "Leave off the sesame seeds that usually top this dish. Plain tofu is a minimally processed protein.",
@@ -813,7 +831,7 @@
       "fridgeDays": 3,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Fridge for 3 days or freeze for 3 months. The sauce freezes well; add a splash of cream when reheating."
+      "text": "Fridge for 3 days or freeze for 3 months. The sauce freezes well; add a splash of cream when reheating. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     }
   },
   {
@@ -837,11 +855,13 @@
     "steps": [
       "Heat the oven to 200°C (180°C fan).",
       "Warm the oil and garlic, add the passata and oregano and simmer for 10 minutes.",
-      "Boil the gnocchi for 2 minutes until they float. Drain and stir into the sauce.",
-      "Tip into a baking dish, top with mozzarella and bake for 15 minutes until bubbling."
+      "Stir the raw gnocchi straight into the sauce — no need to boil them first.",
+      "Tip into a baking dish, top with mozzarella and bake for 20 minutes, covered for the first 10, until bubbling. Scatter over basil."
     ],
     "tip": "Choose gnocchi with a short ingredient list (mostly potato and flour), or make your own.",
-    "swaps": [],
+    "swaps": [
+      "Use cheddar instead of mozzarella"
+    ],
     "nutrients": [],
     "storage": {
       "fridgeDays": 2,
@@ -880,7 +900,7 @@
       "Spoon the filling into a dish, top with mash and cheese.",
       "Bake at 200°C (180°C fan) for 20 minutes until golden."
     ],
-    "tip": "No peas here (a common stricture risk). Standard Worcestershire sauce contains anchovies — use a vegetarian one or soy.",
+    "tip": "No peas here — their skins can be hard to break down. Standard Worcestershire sauce contains anchovies — use a vegetarian one or soy.",
     "swaps": [
       "Top with mashed sweet potato instead"
     ],
@@ -910,17 +930,19 @@
       "30g plain flour",
       "400ml milk",
       "120g mature cheddar, grated",
-      "1 tsp mustard"
+      "1 tsp Dijon mustard",
+      "Pinch of nutmeg"
     ],
     "steps": [
       "Boil the florets for 8–10 minutes until very tender. Drain well.",
       "Melt the butter, stir in the flour, then slowly whisk in the milk until thick.",
-      "Stir in most of the cheese and the mustard.",
+      "Stir in most of the cheese and the mustard and nutmeg.",
       "Pour over the cauliflower, top with the rest of the cheese and grill until golden."
     ],
     "tip": "Use only the florets and cook them until very soft. Cauliflower can cause wind for some people, so try a small portion first.",
     "swaps": [],
     "nutrients": [
+      "protein",
       "calcium"
     ],
     "storage": {
@@ -941,9 +963,9 @@
     "summary": "Roasted sweet potato, carrots and courgette with golden halloumi.",
     "ingredients": [
       "2 sweet potatoes, peeled and cubed",
-      "3 carrots, peeled and cut into chunks",
+      "3 carrots, peeled and cut into 1cm slices",
       "1 courgette, peeled and cut into chunks",
-      "1 red onion, cut into wedges",
+      "1 onion, finely sliced",
       "2 tbsp olive oil",
       "1 tsp dried oregano",
       "225g halloumi, sliced",
@@ -951,7 +973,7 @@
     ],
     "steps": [
       "Heat the oven to 200°C (180°C fan).",
-      "Toss the veg with oil and oregano on a large tray and roast for 30 minutes.",
+      "Toss the veg with oil and oregano on a large tray. Cover with foil for the first 20 minutes so it steams soft, then uncover and roast for 10 more minutes.",
       "Add the halloumi slices and roast for 10–15 minutes more until golden.",
       "Finish with lemon."
     ],
@@ -980,7 +1002,7 @@
     "texture": "regular",
     "summary": "Quick fried rice with egg and soft carrot — no peas or sweetcorn.",
     "ingredients": [
-      "250g cooked and cooled white rice",
+      "400g cooked and cooled white rice",
       "1 tbsp oil",
       "1 carrot, peeled and finely grated",
       "3 eggs, beaten",
@@ -991,7 +1013,7 @@
       "Heat the oil in a wok and cook the grated carrot for 2–3 minutes until soft.",
       "Push to one side, add the eggs and scramble.",
       "Add the rice and soy sauce and stir-fry until piping hot.",
-      "Scatter over the spring onion."
+      "Stir in the spring onion for the last minute so it softens."
     ],
     "tip": "Shop and takeaway versions usually include peas and sweetcorn — making it yourself avoids both.",
     "swaps": [
@@ -1021,13 +1043,14 @@
       "200g pasta",
       "1 jar (about 220g drained) roasted red peppers",
       "1 garlic clove",
+      "1 tsp olive oil",
       "75g cream cheese",
       "30g vegetarian Italian-style hard cheese, grated",
       "Few basil leaves"
     ],
     "steps": [
       "Cook the pasta. Keep a cup of the water.",
-      "Blend the peppers, garlic, cream cheese and hard cheese until very smooth.",
+      "Soften the garlic in the oil for 1 minute, then blend with the peppers, cream cheese and hard cheese until very smooth.",
       "Warm the sauce in the pan, loosening with pasta water.",
       "Toss with the pasta and top with basil."
     ],
@@ -1040,7 +1063,7 @@
       "fridgeDays": 2,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Batch-make the sauce: fridge for 3 days or freeze for 3 months. Cooked pasta with sauce keeps 2 days in the fridge."
+      "text": "Sauce: fridge for 2 days or freeze for 3 months. Cooked pasta with sauce keeps 2 days in the fridge."
     }
   },
   {
@@ -1070,7 +1093,9 @@
       "Bake at 200°C (180°C fan) for 20 minutes."
     ],
     "tip": "Finely chopped or blended spinach is easier to digest than whole leaves.",
-    "swaps": [],
+    "swaps": [
+      "Use blended cottage cheese instead of ricotta"
+    ],
     "nutrients": [
       "protein",
       "iron",
@@ -1093,20 +1118,19 @@
     "texture": "soft",
     "summary": "A light, soothing broth with soft noodles and silken tofu.",
     "ingredients": [
-      "1 litre water",
-      "2 tbsp white miso paste",
+      "800ml water",
+      "3 tbsp white miso paste",
       "1 tbsp soy sauce",
       "1 tsp grated ginger",
-      "150g udon or rice noodles",
+      "300g straight-to-wok udon or 150g dried rice noodles",
       "150g silken tofu, cubed",
-      "1 carrot, peeled and cut into thin ribbons",
-      "1 spring onion, green part only, finely sliced"
+      "1 carrot, peeled and cut into thin ribbons"
     ],
     "steps": [
-      "Bring the water to a simmer with the ginger and carrot. Cook for 5 minutes.",
+      "Bring the water to a simmer with the ginger and carrot. Cook for 8–10 minutes until the carrot is very soft.",
       "Add the noodles and cook as the packet says.",
       "Turn off the heat, then whisk in the miso and soy.",
-      "Add the tofu gently and serve topped with spring onion."
+      "Add the tofu gently and serve."
     ],
     "tip": "Don't boil the miso — add it off the heat. Udon noodles are soft and low in fibre.",
     "swaps": [],
@@ -1139,26 +1163,26 @@
       "400ml tin coconut milk",
       "200ml vegetable stock",
       "100g spinach, finely chopped",
-      "White basmati rice, to serve"
+      "White basmati rice, to serve",
+      "Squeeze of lemon, and salt to taste"
     ],
     "steps": [
       "Soften the onion in the oil for 8 minutes. Add the garlic, ginger and curry powder for 1 minute.",
       "Add the sweet potato, coconut milk and stock. Simmer for 20 minutes until soft.",
-      "Stir in the spinach until wilted.",
-      "Serve with rice."
+      "Stir in the spinach until wilted, then blend the spinach with a ladle of the sauce until smooth and stir back in.",
+      "Serve with rice.",
+      "Finish with a squeeze of lemon and season with salt to taste."
     ],
     "tip": "Pick a 'mild' curry powder and check it has no chilli listed high up.",
     "swaps": [
       "Use butternut squash instead of sweet potato"
     ],
-    "nutrients": [
-      "iron"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 3,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Great for batch cooking. Fridge for 3 days or freeze for 3 months. Cook rice fresh."
+      "text": "Great for batch cooking. Fridge for 3 days or freeze for 3 months. Cook rice fresh. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     }
   },
   {
@@ -1172,9 +1196,9 @@
     "summary": "Eggs baked in little dishes with cream, spinach purée and cheese.",
     "ingredients": [
       "Butter for greasing",
-      "50g spinach, wilted and finely chopped",
+      "50g spinach, wilted and blended to a purée",
       "4 eggs",
-      "4 tbsp double cream",
+      "4 tbsp milk or single cream",
       "30g gruyère or cheddar, grated",
       "White toast, to serve"
     ],
@@ -1262,9 +1286,7 @@
     ],
     "tip": "Homemade custard avoids colourings and thickeners in many ready-made versions.",
     "swaps": [],
-    "nutrients": [
-      "calcium"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 3,
       "freezerMonths": 3,
@@ -1277,7 +1299,7 @@
     "title": "Creamy rice pudding",
     "meal": "snack",
     "gentle": true,
-    "time": 40,
+    "time": 50,
     "serves": 4,
     "texture": "soft",
     "summary": "Slow-cooked pudding rice in vanilla milk — pure comfort.",
@@ -1291,21 +1313,22 @@
     ],
     "steps": [
       "Put the rice, milk, sugar and vanilla in a pan.",
-      "Simmer very gently for 30–35 minutes, stirring often, until thick and creamy.",
+      "Simmer very gently for 40–45 minutes, stirring often, until thick and creamy.",
       "Stir in the butter and top with nutmeg."
     ],
-    "tip": "Very gentle and filling — a good choice during a flare.",
+    "tip": "Very soft and filling — handy on harder days.",
     "swaps": [
       "Use oat or soya milk and maple syrup to make it vegan"
     ],
     "nutrients": [
-      "calcium"
+      "calcium",
+      "b12"
     ],
     "storage": {
-      "fridgeDays": 2,
+      "fridgeDays": 1,
       "freezerMonths": 0,
       "batch": false,
-      "text": "Cool within 1 hour and fridge for up to 2 days. Eat cold, or reheat once until hot. Don't freeze."
+      "text": "Cool within 1 hour, fridge, and eat within 1 day. Eat cold, or reheat once until steaming hot. Don't freeze."
     }
   },
   {
@@ -1339,10 +1362,11 @@
     ],
     "nutrients": [],
     "storage": {
-      "fridgeDays": 3,
+      "fridgeDays": 0,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Keep wrapped at room temperature for 3 days. Freeze whole or in slices for 3 months."
+      "text": "Keep wrapped in a tin at room temperature for 3 days. Freeze whole or in slices for 3 months.",
+      "roomDays": 3
     }
   },
   {
@@ -1357,7 +1381,7 @@
     "ingredients": [
       "400g tin chickpeas, drained (keep the liquid)",
       "2 tbsp tahini",
-      "Juice of 1 lemon",
+      "1 lemon, juiced",
       "1 small garlic clove",
       "2 tbsp olive oil",
       "3–4 tbsp ice-cold water",
@@ -1403,18 +1427,16 @@
     "steps": [
       "Heat the oven to 180°C (160°C fan) and line a 20cm square tin.",
       "Mash the bananas, then beat in the eggs, milk and honey.",
-      "Stir in the oats, cinnamon and baking powder.",
+      "Blitz the oats briefly in a blender, then stir them in with the cinnamon and baking powder.",
       "Spread into the tin and bake for 25 minutes until set and golden.",
       "Cool in the tin, then cut into 8 bars."
     ],
-    "tip": "No nuts, seeds or dried fruit. Blitz the oats first for a smoother bar.",
+    "tip": "No nuts, seeds or dried fruit. Blitzing the oats gives a smoother bar.",
     "swaps": [
       "Use maple syrup instead of honey",
       "Use any milk, including oat milk"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 3,
       "freezerMonths": 3,
@@ -1430,9 +1452,9 @@
     "time": 5,
     "serves": 1,
     "texture": "soft",
-    "summary": "Five-ingredient oats that soften overnight — breakfast is ready when you wake.",
+    "summary": "Five-ingredient oats that soften overnight — make it the night before.",
     "ingredients": [
-      "40g porridge oats",
+      "40g fine or instant oats",
       "120ml milk",
       "3 tbsp Greek yoghurt",
       "1 tbsp smooth peanut butter (100% peanuts)",
@@ -1523,7 +1545,7 @@
     "tip": "Peeling and cooking the apple removes the skin and softens the fibre.",
     "swaps": [
       "Use pears instead of apples",
-      "Use stewed pear or banana if apple doesn't suit you"
+      "Fry sliced banana in butter instead of apple"
     ],
     "nutrients": [
       "protein"
@@ -1590,7 +1612,7 @@
       "50ml milk",
       "1 courgette, peeled and finely grated",
       "60g cheddar, grated",
-      "1 tbsp finely snipped chives",
+      "1 tbsp very finely snipped chives (optional)",
       "Butter or oil for greasing"
     ],
     "steps": [
@@ -1607,14 +1629,13 @@
     ],
     "nutrients": [
       "protein",
-      "calcium",
       "b12"
     ],
     "storage": {
-      "fridgeDays": 3,
+      "fridgeDays": 2,
       "freezerMonths": 2,
       "batch": true,
-      "text": "Fridge in a sealed tub for 3 days, or freeze for 2 months. Reheat until piping hot, or eat cold from the fridge within 3 days."
+      "text": "Fridge in a sealed tub for 2 days, or freeze for 2 months. Reheat until piping hot, or eat cold from the fridge."
     }
   },
   {
@@ -1625,7 +1646,7 @@
     "time": 30,
     "serves": 4,
     "texture": "smooth",
-    "summary": "Like cauliflower cheese in a bowl — velvety, comforting and rich in calcium.",
+    "summary": "Like cauliflower cheese in a bowl — velvety and comforting.",
     "ingredients": [
       "1 tbsp butter",
       "1 onion, chopped",
@@ -1647,8 +1668,7 @@
       "Use broccoli florets (no stalks) instead of half the cauliflower"
     ],
     "nutrients": [
-      "calcium",
-      "protein"
+      "calcium"
     ],
     "storage": {
       "fridgeDays": 3,
@@ -1673,21 +1693,21 @@
       "1 litre vegetable stock",
       "200g spinach",
       "Pinch of nutmeg",
-      "2 tbsp crème fraîche"
+      "2 tbsp crème fraîche",
+      "Squeeze of lemon, and salt to taste"
     ],
     "steps": [
       "Soften the onion in the oil for 5 minutes.",
       "Add the potatoes and stock and simmer for 15 minutes until soft.",
       "Stir in the spinach for 2 minutes until wilted.",
-      "Blend until completely smooth, then add nutmeg and crème fraîche."
+      "Blend until completely smooth, then add nutmeg and crème fraîche.",
+      "Finish with a squeeze of lemon and season with salt to taste."
     ],
-    "tip": "Blending the spinach fully gives you its iron without the stringy texture.",
+    "tip": "Blending the spinach fully avoids the stringy texture. A squeeze of lemon adds brightness.",
     "swaps": [
       "Use a splash of oat cream to make it dairy-free"
     ],
-    "nutrients": [
-      "iron"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 3,
       "freezerMonths": 3,
@@ -1717,7 +1737,7 @@
       "Soften the onion in the oil for 8 minutes. Add the garlic and paprika for 1 minute.",
       "Add the peppers, butter beans and stock and simmer for 10 minutes.",
       "Blend for 2–3 minutes until completely smooth.",
-      "For extra smoothness, push through a sieve to catch any bean skins."
+      "Push through a fine sieve to remove any bean skins."
     ],
     "tip": "Whole beans have tough skins, so blend this very well and sieve if you're unsure. Try a small portion first.",
     "swaps": [
@@ -1749,15 +1769,15 @@
       "1 tbsp soy sauce",
       "1 tbsp cornflour mixed with 2 tbsp water",
       "2 eggs, beaten",
-      "1 spring onion, green part only, finely sliced"
+      "150g silken tofu, cubed"
     ],
     "steps": [
       "Simmer the stock, ginger and soy sauce for 5 minutes.",
       "Stir in the cornflour mix and simmer until slightly thickened.",
       "Stir the soup in a circle and slowly pour in the eggs in a thin stream.",
-      "Leave for 30 seconds, then stir gently. Top with spring onion."
+      "Add the tofu and leave for 30 seconds, then stir gently and serve."
     ],
-    "tip": "Very gentle and quick to make — a good choice on a flare day.",
+    "tip": "Very quick and soft — handy on harder days.",
     "swaps": [
       "Add cubes of silken tofu for extra protein",
       "Add a nest of soft udon noodles to make it more filling"
@@ -1785,14 +1805,14 @@
       "600g potatoes, peeled",
       "80g mature cheddar, grated",
       "1 egg yolk",
-      "2 tbsp snipped chives",
+      "2 tbsp very finely snipped chives (optional)",
       "2 tbsp plain flour, plus extra for dusting",
       "Oil and butter for frying"
     ],
     "steps": [
       "Boil the potatoes until very soft. Drain well and mash smooth.",
       "Mix in the cheese, egg yolk, chives and flour. Season.",
-      "With floured hands, shape into 8 cakes.",
+      "With floured hands, shape into 8 cakes. Chill for 15 minutes if they feel soft.",
       "Fry in a little oil and butter for 3–4 minutes each side until golden."
     ],
     "tip": "Peeled, well-mashed potato is one of the gentlest starchy foods.",
@@ -1824,13 +1844,12 @@
       "2 tbsp soy sauce",
       "1 tbsp honey or sugar",
       "4 eggs, lightly beaten",
-      "Cooked white rice, to serve",
-      "1 spring onion, green part only, sliced"
+      "300g cooked white rice"
     ],
     "steps": [
       "Simmer the onion in the stock, soy and honey for 8–10 minutes until very soft.",
       "Pour the eggs over the onions. Cover and cook on a low heat for 2–3 minutes until just set.",
-      "Slide on to bowls of hot rice and top with spring onion."
+      "Slide on to bowls of hot rice."
     ],
     "tip": "Simmering the onion until very soft makes it much easier to digest.",
     "swaps": [
@@ -1867,7 +1886,7 @@
       "Cook the potatoes and onion gently in the oil in a 20cm non-stick pan for 20 minutes, until very soft but not browned.",
       "Drain off most of the oil. Beat the eggs with salt and stir in the potatoes.",
       "Return to the pan and cook on a low heat for 8–10 minutes until almost set.",
-      "Flip on to a plate, slide back in and cook for 3–4 minutes more."
+      "Flip on to a plate and slide back in for 3–4 minutes — or skip the flip and finish under a hot grill for 3–4 minutes."
     ],
     "tip": "Cooking the potato and onion slowly until soft keeps it gentle.",
     "swaps": [
@@ -1878,10 +1897,10 @@
       "b12"
     ],
     "storage": {
-      "fridgeDays": 3,
+      "fridgeDays": 2,
       "freezerMonths": 0,
       "batch": true,
-      "text": "Cool, wrap and keep in the fridge for 3 days. Eat cold or warm gently. Don't freeze — the egg goes watery."
+      "text": "Cool, wrap and keep in the fridge for 2 days. Eat cold or warm gently. Don't freeze — the egg goes watery."
     }
   },
   {
@@ -1901,6 +1920,7 @@
       "150g red lentils, rinsed",
       "500g passata",
       "2 tbsp tomato purée",
+      "1 tbsp soy sauce or vegetarian Worcestershire sauce",
       "500ml vegetable stock",
       "1 tsp dried oregano",
       "300g spaghetti",
@@ -1908,7 +1928,7 @@
     ],
     "steps": [
       "Soften the onion and carrots in the oil for 10 minutes. Add the garlic for 1 minute.",
-      "Add the lentils, passata, tomato purée, stock and oregano.",
+      "Stir in the tomato purée for 2 minutes, then add the lentils, passata, soy sauce, stock and oregano.",
       "Simmer for 25 minutes, stirring often, until thick and the lentils have broken down.",
       "Cook the spaghetti until soft and serve with the sauce and cheese."
     ],
@@ -1938,7 +1958,7 @@
     "texture": "soft",
     "summary": "A creamy, gently spiced curry with no nuts and no chilli.",
     "ingredients": [
-      "280g firm tofu, cubed",
+      "280g calcium-set firm tofu, pressed and cubed",
       "1 tbsp oil",
       "1 onion, finely chopped",
       "2 garlic cloves, crushed",
@@ -1946,15 +1966,16 @@
       "1 tsp garam masala",
       "1 tsp ground turmeric",
       "200ml coconut milk",
+      "1 tsp honey",
       "150g Greek yoghurt",
-      "100g spinach, finely chopped",
+      "100g spinach",
       "White basmati rice, to serve"
     ],
     "steps": [
       "Fry the tofu in the oil until golden. Set aside.",
       "Soften the onion for 8 minutes, then add the garlic, ginger and spices for 1 minute.",
-      "Add the coconut milk and simmer for 5 minutes, then blend smooth.",
-      "Stir in the spinach and tofu. Take off the heat and stir in the yoghurt.",
+      "Add the coconut milk and spinach, simmer for 5 minutes, then blend smooth.",
+      "Stir in the tofu and honey. Take off the heat and stir in the yoghurt.",
       "Serve with rice."
     ],
     "tip": "Korma is usually thickened with nuts — this version uses blended onion and yoghurt instead.",
@@ -1971,7 +1992,7 @@
       "fridgeDays": 3,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Fridge for 3 days or freeze for 3 months. Reheat gently — don't let it boil after the yoghurt goes in."
+      "text": "Fridge for 3 days or freeze for 3 months. Reheat gently — don't let it boil after the yoghurt goes in. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     }
   },
   {
@@ -1979,12 +2000,12 @@
     "title": "Lentil & squash lasagne",
     "meal": "dinner",
     "gentle": false,
-    "time": 75,
+    "time": 115,
     "serves": 6,
     "texture": "soft",
     "summary": "Layers of soft lentil ragu, squash and creamy white sauce — a freezer favourite.",
     "ingredients": [
-      "1 batch red lentil bolognese sauce (see that recipe)",
+      "1 batch red lentil bolognese sauce (sauce only, no spaghetti)",
       "300g butternut squash, peeled and thinly sliced",
       "40g butter",
       "40g plain flour",
@@ -2020,13 +2041,13 @@
     "title": "Cheesy leek & potato gratin",
     "meal": "dinner",
     "gentle": false,
-    "time": 60,
+    "time": 90,
     "serves": 4,
     "texture": "soft",
     "summary": "Thin potato slices baked in garlicky cream with soft leeks and cheese.",
     "ingredients": [
       "800g potatoes, peeled and thinly sliced",
-      "2 leeks, white parts only, sliced",
+      "2 leeks, white parts only, very finely chopped",
       "20g butter",
       "300ml double cream",
       "200ml milk",
@@ -2034,11 +2055,11 @@
       "80g gruyère or cheddar, grated"
     ],
     "steps": [
-      "Heat the oven to 180°C (160°C fan).",
-      "Soften the leeks in the butter for 10 minutes.",
-      "Warm the cream, milk and garlic. Layer the potatoes and leeks in a dish.",
+      "Heat the oven to 190°C (170°C fan).",
+      "Soften the leeks in the butter for 15 minutes until silky.",
+      "Warm the cream, milk and garlic with a pinch of salt and nutmeg. Layer the potatoes and leeks in a dish.",
       "Pour over the cream and top with cheese.",
-      "Cover with foil and bake for 40 minutes, then uncover for 15 minutes until golden and soft."
+      "Cover with foil and bake for 50 minutes, then uncover for 20 minutes until golden and a knife slides through easily."
     ],
     "tip": "Rich, so keep portions moderate if high-fat food bothers you.",
     "swaps": [
@@ -2073,14 +2094,16 @@
       "1 tsp garam masala",
       "400g spinach",
       "3 tbsp double cream",
-      "White basmati rice or plain naan, to serve"
+      "White basmati rice or plain naan, to serve",
+      "Squeeze of lemon, and salt to taste"
     ],
     "steps": [
       "Fry the paneer in half the butter until golden. Set aside.",
       "Soften the onion in the rest of the butter for 8 minutes, then add the garlic, ginger and spices.",
       "Add the spinach in batches until wilted.",
       "Blend the sauce until completely smooth.",
-      "Stir in the cream and paneer and heat through."
+      "Stir in the cream and paneer and heat through.",
+      "Finish with a squeeze of lemon and season with salt to taste."
     ],
     "tip": "Blending makes the spinach smooth. No chilli — warmth comes from ginger and cumin.",
     "swaps": [
@@ -2095,7 +2118,7 @@
       "fridgeDays": 3,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Fridge for 3 days or freeze for 3 months. The paneer may firm up slightly after freezing."
+      "text": "Fridge for 3 days or freeze for 3 months. The paneer may firm up slightly after freezing. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     }
   },
   {
@@ -2116,13 +2139,15 @@
       "2 tsp mild curry powder",
       "300g passata",
       "200ml coconut milk",
-      "White basmati rice, to serve"
+      "White basmati rice, to serve",
+      "Squeeze of lemon, and salt to taste"
     ],
     "steps": [
       "Boil the eggs for 8 minutes, cool in cold water and peel.",
       "Soften the onion in the oil for 8 minutes, then add the garlic, ginger and curry powder.",
       "Add the passata and coconut milk and simmer for 10 minutes. Blend smooth.",
-      "Halve the eggs, add to the sauce and warm through. Serve with rice."
+      "Halve the eggs, add to the sauce and warm through. Serve with rice.",
+      "Finish with a squeeze of lemon and season with salt to taste."
     ],
     "tip": "Check your curry powder is labelled mild and has no chilli high on the list.",
     "swaps": [
@@ -2136,7 +2161,7 @@
       "fridgeDays": 2,
       "freezerMonths": 3,
       "batch": false,
-      "text": "Freeze the sauce on its own for 3 months and add freshly boiled eggs. With eggs, keep in the fridge for up to 2 days."
+      "text": "Freeze the sauce on its own for 3 months and add freshly boiled eggs. With eggs, keep in the fridge for up to 2 days. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     }
   },
   {
@@ -2152,13 +2177,15 @@
       "200g pasta",
       "2 courgettes, peeled and grated",
       "1 tbsp butter",
+      "1 garlic clove, crushed",
       "150g ricotta",
-      "Zest of 1 lemon"
+      "1 lemon, zested, plus a squeeze of juice",
+      "30g vegetarian Italian-style hard cheese, grated"
     ],
     "steps": [
       "Cook the pasta until soft. Keep a cup of the water.",
-      "Cook the courgettes in the butter for 8 minutes until very soft.",
-      "Stir in the ricotta, lemon zest and a splash of pasta water to make a creamy sauce.",
+      "Cook the courgettes and garlic in the butter for 8 minutes until very soft.",
+      "Stir in the ricotta, hard cheese, lemon zest and a splash of pasta water to make a creamy sauce.",
       "Toss with the pasta and season."
     ],
     "tip": "Peeled, well-cooked courgette is one of the easiest vegetables to tolerate.",
@@ -2194,7 +2221,7 @@
       "400g passata",
       "1 tsp ground cumin",
       "1 tsp sweet paprika",
-      "1 litre vegetable stock",
+      "600ml vegetable stock",
       "Squeeze of lemon"
     ],
     "steps": [
@@ -2203,7 +2230,7 @@
       "Mash or blend some of it for a thicker, smoother stew.",
       "Add lemon and season before serving."
     ],
-    "tip": "Slow cooking breaks vegetables down until they're very tender. The 15 minutes is hands-on time — total cooking time is 4–8 hours.",
+    "tip": "The time shown is 15 minutes' prep plus 4 hours on high; on low allow 6–8 hours.",
     "swaps": [
       "No slow cooker? Simmer in a covered pan for 40 minutes, stirring often."
     ],
@@ -2272,15 +2299,16 @@
       "150g ricotta",
       "2 eggs",
       "Pinch of nutmeg",
+      "2 tbsp chopped dill",
       "6 sheets filo pastry",
       "40g butter, melted"
     ],
     "steps": [
       "Heat the oven to 190°C (170°C fan).",
       "Wilt the spinach, squeeze out the water and chop very finely.",
-      "Mix with the feta, ricotta, eggs and nutmeg.",
-      "Line a dish with 3 buttered filo sheets, add the filling and top with 3 more buttered sheets, scrunched.",
-      "Bake for 30–35 minutes until golden and set."
+      "Mix with the feta, ricotta, eggs, nutmeg and dill.",
+      "Line a 20cm square dish with 3 buttered filo sheets, add the filling and lay 3 more buttered sheets flat on top.",
+      "Cover with foil for the first 20 minutes for a softer top, then bake uncovered for 10–15 minutes until golden and set."
     ],
     "tip": "Leave off the sesame seeds often scattered on top. Chew the crisp filo well.",
     "swaps": [
@@ -2306,7 +2334,7 @@
     "time": 10,
     "serves": 4,
     "texture": "smooth",
-    "summary": "Three ingredients — rich chocolate mousse made with silken tofu.",
+    "summary": "Three ingredients — rich chocolate mousse made with silken tofu. Needs 1 hour to chill.",
     "ingredients": [
       "300g silken tofu",
       "100g dark chocolate, melted",
@@ -2322,7 +2350,6 @@
       "Use milk chocolate for a milder flavour"
     ],
     "nutrients": [
-      "protein",
       "iron"
     ],
     "storage": {
@@ -2468,10 +2495,11 @@
     ],
     "nutrients": [],
     "storage": {
-      "fridgeDays": 3,
+      "fridgeDays": 0,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Keep in a tin for 3 days, or freeze for 3 months. Thaw at room temperature or warm for 15 seconds."
+      "text": "Keep in a tin at room temperature for 3 days, or freeze for 3 months. Thaw at room temperature or warm for 15 seconds.",
+      "roomDays": 3
     }
   },
   {
@@ -2502,14 +2530,13 @@
     "swaps": [
       "Add 1 tbsp snipped chives to the dough"
     ],
-    "nutrients": [
-      "calcium"
-    ],
+    "nutrients": [],
     "storage": {
-      "fridgeDays": 2,
+      "fridgeDays": 0,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Best on the day. Keep in a tin for 2 days, or freeze for 3 months and warm through in the oven."
+      "text": "Best on the day. Keep in a tin at room temperature for 2 days, or freeze for 3 months and warm through in the oven.",
+      "roomDays": 2
     }
   },
   {
@@ -2532,7 +2559,7 @@
       "Blend everything until completely smooth.",
       "Taste and add more honey if needed. Serve chilled."
     ],
-    "tip": "Natural yoghurt with live cultures — a gentle, calcium-rich snack.",
+    "tip": "A creamy, calcium-rich snack.",
     "swaps": [
       "Use soya yoghurt and milk to make it dairy-free"
     ],
@@ -2545,6 +2572,347 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake before drinking."
+    }
+  },
+  {
+    "id": "nourishing-milkshake",
+    "title": "Nourishing banana milkshake",
+    "meal": "snack",
+    "gentle": true,
+    "time": 5,
+    "serves": 1,
+    "texture": "smooth",
+    "summary": "An energy- and protein-rich shake for days when eating a full meal feels hard.",
+    "ingredients": [
+      "250ml whole milk",
+      "2 tbsp skimmed milk powder",
+      "1 ripe banana",
+      "1 tbsp smooth peanut butter (100% peanuts)",
+      "1 tsp honey"
+    ],
+    "steps": [
+      "Put everything in a blender.",
+      "Blend until completely smooth and frothy.",
+      "Drink straight away, slowly."
+    ],
+    "tip": "Milk powder adds protein and energy without extra volume. Sip it over 20–30 minutes if a full glass feels like a lot.",
+    "swaps": [
+      "Use 2 tbsp Greek yoghurt instead of milk powder",
+      "Leave out the peanut butter for a lighter shake"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake well."
+    }
+  },
+  {
+    "id": "steamed-egg-custard",
+    "title": "Silky steamed egg custard",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 20,
+    "serves": 2,
+    "texture": "smooth",
+    "summary": "A Japanese-style savoury custard (chawanmushi) — wobbly, gentle and high in protein.",
+    "ingredients": [
+      "3 eggs",
+      "300ml warm vegetable stock",
+      "1 tsp soy sauce",
+      "½ tsp grated ginger",
+      "1 tsp mirin or a pinch of sugar"
+    ],
+    "steps": [
+      "Whisk the eggs gently, without making them foamy.",
+      "Stir in the stock, soy, ginger and mirin, then strain through a sieve into 2 heatproof bowls or mugs.",
+      "Cover each with foil.",
+      "Steam over gently simmering water for 12–15 minutes until just set with a slight wobble."
+    ],
+    "tip": "Straining gives a perfectly smooth texture. Keep the water at a gentle simmer so it stays silky, not spongy.",
+    "swaps": [
+      "Add a few cubes of silken tofu before steaming"
+    ],
+    "nutrients": [
+      "protein",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten warm and fresh. Can be kept covered in the fridge for 1 day and eaten cold. Don't freeze."
+    }
+  },
+  {
+    "id": "avgolemono-soup",
+    "title": "Lemon & egg orzo soup",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 25,
+    "serves": 3,
+    "texture": "soft",
+    "summary": "Greek avgolemono — a velvety, bright soup thickened with egg and lemon.",
+    "ingredients": [
+      "1 litre vegetable stock",
+      "100g orzo",
+      "2 eggs",
+      "1 lemon, juiced",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Bring the stock to the boil and cook the orzo for 10 minutes until soft.",
+      "Whisk the eggs and lemon juice in a bowl.",
+      "Slowly whisk 2 ladles of hot stock into the eggs.",
+      "Take the pan off the heat and stir the egg mix in. Stir for 1 minute until silky — don't let it boil.",
+      "Season and serve."
+    ],
+    "tip": "Adding hot stock to the eggs first stops them scrambling.",
+    "swaps": [
+      "Use white rice instead of orzo",
+      "Stir in finely chopped dill at the end"
+    ],
+    "nutrients": [
+      "protein"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Fridge for 2 days. Reheat gently without boiling, or the egg will split. Don't freeze."
+    }
+  },
+  {
+    "id": "ginger-congee",
+    "title": "Ginger rice congee",
+    "meal": "breakfast",
+    "gentle": true,
+    "time": 60,
+    "serves": 3,
+    "texture": "smooth",
+    "summary": "Slow-cooked rice porridge with ginger and soy, topped with a soft egg.",
+    "ingredients": [
+      "100g white jasmine rice, rinsed",
+      "1.2 litres vegetable stock or water",
+      "1 thumb-sized piece (3cm) fresh ginger, peeled and sliced",
+      "1 tbsp soy sauce",
+      "3 eggs",
+      "1 tsp sesame oil (optional)"
+    ],
+    "steps": [
+      "Put the rice, stock and ginger in a large pan and bring to the boil.",
+      "Simmer very gently, partly covered, for 45–50 minutes, stirring now and then, until creamy and broken down.",
+      "Remove the ginger slices and stir in the soy.",
+      "Meanwhile, boil the eggs for 6½ minutes, cool and peel.",
+      "Serve the congee topped with a halved egg and a few drops of sesame oil."
+    ],
+    "tip": "Congee is one of the gentlest foods there is — the rice breaks down completely. Sesame oil has no seeds.",
+    "swaps": [
+      "Add cubes of silken tofu instead of egg"
+    ],
+    "nutrients": [
+      "protein"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Contains rice: cool within 1 hour, fridge, and eat within 1 day. Reheat once with a splash of water until steaming. Don't freeze."
+    }
+  },
+  {
+    "id": "vegetarian-kedgeree",
+    "title": "Vegetarian kedgeree",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 30,
+    "serves": 3,
+    "texture": "soft",
+    "summary": "Buttery, mildly spiced rice with soft-boiled eggs and lemon.",
+    "ingredients": [
+      "30g butter",
+      "1 onion, finely chopped",
+      "1 tsp mild curry powder",
+      "½ tsp ground turmeric",
+      "200g white basmati rice, rinsed",
+      "450ml vegetable stock",
+      "4 eggs",
+      "1 lemon, juiced",
+      "2 tbsp chopped parsley"
+    ],
+    "steps": [
+      "Soften the onion in the butter for 8 minutes. Stir in the spices for 1 minute.",
+      "Add the rice and stock, cover and simmer for 12 minutes until the rice is tender.",
+      "Meanwhile, boil the eggs for 7 minutes, cool and peel.",
+      "Fluff the rice with lemon juice and parsley, then top with the quartered eggs."
+    ],
+    "tip": "Traditional kedgeree uses smoked fish — eggs carry it here. Check the curry powder is mild.",
+    "swaps": [
+      "Add flakes of smoked tofu",
+      "Stir in a spoonful of crème fraîche for creaminess"
+    ],
+    "nutrients": [
+      "protein",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Contains rice: cool within 1 hour, fridge, and eat within 1 day. Reheat once until steaming hot. Don't freeze."
+    }
+  },
+  {
+    "id": "cilbir-eggs",
+    "title": "Poached eggs on herby yoghurt",
+    "meal": "breakfast",
+    "gentle": false,
+    "time": 15,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "Turkish çılbır — soft poached eggs on creamy yoghurt with warm paprika butter.",
+    "ingredients": [
+      "200g Greek yoghurt",
+      "1 small garlic clove, grated (optional)",
+      "4 eggs",
+      "30g butter",
+      "1 tsp sweet paprika",
+      "1 tbsp finely chopped dill",
+      "White sourdough, to serve"
+    ],
+    "steps": [
+      "Let the yoghurt come to room temperature and stir in the garlic and a pinch of salt. Spread on 2 plates.",
+      "Poach the eggs in gently simmering water for 3 minutes.",
+      "Melt the butter with the paprika until it foams.",
+      "Put the eggs on the yoghurt, spoon over the paprika butter and scatter with dill. Serve with bread."
+    ],
+    "tip": "Sweet paprika gives the colour without the chilli flakes used in the original.",
+    "swaps": [
+      "Leave out the garlic if raw garlic doesn't suit you"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 0,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten straight away."
+    }
+  },
+  {
+    "id": "ricotta-gnudi",
+    "title": "Ricotta gnudi with sage butter",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 40,
+    "serves": 3,
+    "texture": "soft",
+    "summary": "Pillowy ricotta dumplings in nutty sage butter — like the filling of ravioli, without the pasta.",
+    "ingredients": [
+      "500g ricotta, drained",
+      "1 egg",
+      "60g vegetarian Italian-style hard cheese, grated",
+      "Pinch of nutmeg",
+      "60g plain flour, plus extra for rolling",
+      "40g butter",
+      "6 sage leaves"
+    ],
+    "steps": [
+      "Mix the ricotta, egg, cheese, nutmeg and flour into a soft dough.",
+      "With floured hands, roll into walnut-sized balls and dust with flour. Chill for 20 minutes.",
+      "Cook in gently simmering salted water for 3–4 minutes until they float.",
+      "Meanwhile, melt the butter with the sage until it smells nutty.",
+      "Toss the gnudi in the sage butter and serve with extra cheese."
+    ],
+    "tip": "Very soft and rich in protein and calcium. Lift the sage leaves out before serving if you'd rather not chew them.",
+    "swaps": [
+      "Serve in smooth tomato sauce instead of sage butter"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Freeze uncooked gnudi on a tray, then bag for 2 months — cook from frozen for 5–6 minutes. Cooked gnudi keep 2 days in the fridge."
+    }
+  },
+  {
+    "id": "silky-borscht",
+    "title": "Silky beetroot soup",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 45,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "A deep pink, sweet and earthy blended borscht with dill soured cream.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "500g raw beetroot, peeled and diced",
+      "1 medium potato, peeled and diced",
+      "1 litre vegetable stock",
+      "1 tbsp red wine vinegar or lemon juice",
+      "4 tbsp soured cream",
+      "1 tbsp finely chopped dill"
+    ],
+    "steps": [
+      "Soften the onion in the oil for 5 minutes.",
+      "Add the beetroot, potato and stock. Simmer for 30 minutes until very soft.",
+      "Blend until completely smooth and stir in the vinegar. Season.",
+      "Serve with a spoonful of soured cream mixed with the dill."
+    ],
+    "tip": "Peeled and blended beetroot is soft and smooth. It can turn your wee and poo pink or red — that's harmless and expected.",
+    "swaps": [
+      "Use ready-cooked beetroot (not in vinegar) and simmer for 15 minutes"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze for 3 months. Add the soured cream after reheating."
+    }
+  },
+  {
+    "id": "lemon-posset",
+    "title": "Lemon posset",
+    "meal": "snack",
+    "gentle": false,
+    "time": 10,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "Three ingredients — a silky, sharp-sweet set cream pudding. Needs 3 hours to set.",
+    "ingredients": [
+      "400ml double cream",
+      "100g caster sugar",
+      "2 lemons, zested and juiced"
+    ],
+    "steps": [
+      "Heat the cream and sugar, stirring, until it just comes to the boil. Bubble for 2 minutes.",
+      "Take off the heat and stir in the lemon juice and zest.",
+      "Strain into 4 small glasses and chill for at least 3 hours until set."
+    ],
+    "tip": "Rich, so the portions are small. Straining removes the zest for a perfectly smooth finish.",
+    "swaps": [
+      "Use oranges for a milder flavour"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 0,
+      "batch": true,
+      "text": "Cover and keep in the fridge for 3 days. Don't freeze."
     }
   }
 ]

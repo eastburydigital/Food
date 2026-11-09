@@ -1,0 +1,110 @@
+[
+  {
+    "id": "nourishing-milkshake",
+    "title": "Nourishing banana milkshake",
+    "meal": "snack", "gentle": true, "time": 5, "serves": 1, "texture": "smooth",
+    "summary": "An energy- and protein-rich shake for days when eating a full meal feels hard.",
+    "ingredients": ["250ml whole milk", "2 tbsp skimmed milk powder", "1 ripe banana", "1 tbsp smooth peanut butter (100% peanuts)", "1 tsp honey"],
+    "steps": ["Put everything in a blender.", "Blend until completely smooth and frothy.", "Drink straight away, slowly."],
+    "tip": "Milk powder adds protein and energy without extra volume. Sip it over 20–30 minutes if a full glass feels like a lot.",
+    "swaps": ["Use 2 tbsp Greek yoghurt instead of milk powder", "Leave out the peanut butter for a lighter shake"],
+    "nutrients": ["protein", "calcium", "b12"],
+    "storage": {"fridgeDays": 1, "freezerMonths": 0, "batch": false, "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake well."}
+  },
+  {
+    "id": "steamed-egg-custard",
+    "title": "Silky steamed egg custard",
+    "meal": "lunch", "gentle": true, "time": 20, "serves": 2, "texture": "smooth",
+    "summary": "A Japanese-style savoury custard (chawanmushi) — wobbly, gentle and high in protein.",
+    "ingredients": ["3 eggs", "300ml warm vegetable stock", "1 tsp soy sauce", "½ tsp grated ginger", "1 tsp mirin or a pinch of sugar"],
+    "steps": ["Whisk the eggs gently, without making them foamy.", "Stir in the stock, soy, ginger and mirin, then strain through a sieve into 2 heatproof bowls or mugs.", "Cover each with foil.", "Steam over gently simmering water for 12–15 minutes until just set with a slight wobble."],
+    "tip": "Straining gives a perfectly smooth texture. Keep the water at a gentle simmer so it stays silky, not spongy.",
+    "swaps": ["Add a few cubes of silken tofu before steaming"],
+    "nutrients": ["protein", "b12"],
+    "storage": {"fridgeDays": 1, "freezerMonths": 0, "batch": false, "text": "Best eaten warm and fresh. Can be kept covered in the fridge for 1 day and eaten cold. Don't freeze."}
+  },
+  {
+    "id": "avgolemono-soup",
+    "title": "Lemon & egg orzo soup",
+    "meal": "lunch", "gentle": true, "time": 25, "serves": 3, "texture": "soft",
+    "summary": "Greek avgolemono — a velvety, bright soup thickened with egg and lemon.",
+    "ingredients": ["1 litre vegetable stock", "100g orzo", "2 eggs", "1 lemon, juiced", "Salt and pepper"],
+    "steps": ["Bring the stock to the boil and cook the orzo for 10 minutes until soft.", "Whisk the eggs and lemon juice in a bowl.", "Slowly whisk 2 ladles of hot stock into the eggs.", "Take the pan off the heat and stir the egg mix in. Stir for 1 minute until silky — don't let it boil.", "Season and serve."],
+    "tip": "Adding hot stock to the eggs first stops them scrambling.",
+    "swaps": ["Use white rice instead of orzo", "Stir in finely chopped dill at the end"],
+    "nutrients": ["protein"],
+    "storage": {"fridgeDays": 2, "freezerMonths": 0, "batch": false, "text": "Fridge for 2 days. Reheat gently without boiling, or the egg will split. Don't freeze."}
+  },
+  {
+    "id": "ginger-congee",
+    "title": "Ginger rice congee",
+    "meal": "breakfast", "gentle": true, "time": 60, "serves": 3, "texture": "smooth",
+    "summary": "Slow-cooked rice porridge with ginger and soy, topped with a soft egg.",
+    "ingredients": ["100g white jasmine rice, rinsed", "1.2 litres vegetable stock or water", "1 thumb-sized piece (3cm) fresh ginger, peeled and sliced", "1 tbsp soy sauce", "3 eggs", "1 tsp sesame oil (optional)"],
+    "steps": ["Put the rice, stock and ginger in a large pan and bring to the boil.", "Simmer very gently, partly covered, for 45–50 minutes, stirring now and then, until creamy and broken down.", "Remove the ginger slices and stir in the soy.", "Meanwhile, boil the eggs for 6½ minutes, cool and peel.", "Serve the congee topped with a halved egg and a few drops of sesame oil."],
+    "tip": "Congee is one of the gentlest foods there is — the rice breaks down completely. Sesame oil has no seeds.",
+    "swaps": ["Add cubes of silken tofu instead of egg"],
+    "nutrients": ["protein"],
+    "storage": {"fridgeDays": 1, "freezerMonths": 0, "batch": false, "text": "Contains rice: cool within 1 hour, fridge, and eat within 1 day. Reheat once with a splash of water until steaming. Don't freeze."}
+  },
+  {
+    "id": "vegetarian-kedgeree",
+    "title": "Vegetarian kedgeree",
+    "meal": "dinner", "gentle": false, "time": 30, "serves": 3, "texture": "soft",
+    "summary": "Buttery, mildly spiced rice with soft-boiled eggs and lemon.",
+    "ingredients": ["30g butter", "1 onion, finely chopped", "1 tsp mild curry powder", "½ tsp ground turmeric", "200g white basmati rice, rinsed", "450ml vegetable stock", "4 eggs", "1 lemon, juiced", "2 tbsp chopped parsley"],
+    "steps": ["Soften the onion in the butter for 8 minutes. Stir in the spices for 1 minute.", "Add the rice and stock, cover and simmer for 12 minutes until the rice is tender.", "Meanwhile, boil the eggs for 7 minutes, cool and peel.", "Fluff the rice with lemon juice and parsley, then top with the quartered eggs."],
+    "tip": "Traditional kedgeree uses smoked fish — eggs carry it here. Check the curry powder is mild.",
+    "swaps": ["Add flakes of smoked tofu", "Stir in a spoonful of crème fraîche for creaminess"],
+    "nutrients": ["protein", "b12"],
+    "storage": {"fridgeDays": 1, "freezerMonths": 0, "batch": false, "text": "Contains rice: cool within 1 hour, fridge, and eat within 1 day. Reheat once until steaming hot. Don't freeze."}
+  },
+  {
+    "id": "cilbir-eggs",
+    "title": "Poached eggs on herby yoghurt",
+    "meal": "breakfast", "gentle": false, "time": 15, "serves": 2, "texture": "soft",
+    "summary": "Turkish çılbır — soft poached eggs on creamy yoghurt with warm paprika butter.",
+    "ingredients": ["200g Greek yoghurt", "1 small garlic clove, grated (optional)", "4 eggs", "30g butter", "1 tsp sweet paprika", "1 tbsp finely chopped dill", "White sourdough, to serve"],
+    "steps": ["Let the yoghurt come to room temperature and stir in the garlic and a pinch of salt. Spread on 2 plates.", "Poach the eggs in gently simmering water for 3 minutes.", "Melt the butter with the paprika until it foams.", "Put the eggs on the yoghurt, spoon over the paprika butter and scatter with dill. Serve with bread."],
+    "tip": "Sweet paprika gives the colour without the chilli flakes used in the original.",
+    "swaps": ["Leave out the garlic if raw garlic doesn't suit you"],
+    "nutrients": ["protein", "calcium", "b12"],
+    "storage": {"fridgeDays": 0, "freezerMonths": 0, "batch": false, "text": "Best eaten straight away."}
+  },
+  {
+    "id": "ricotta-gnudi",
+    "title": "Ricotta gnudi with sage butter",
+    "meal": "dinner", "gentle": false, "time": 40, "serves": 3, "texture": "soft",
+    "summary": "Pillowy ricotta dumplings in nutty sage butter — like the filling of ravioli, without the pasta.",
+    "ingredients": ["500g ricotta, drained", "1 egg", "60g vegetarian Italian-style hard cheese, grated", "Pinch of nutmeg", "60g plain flour, plus extra for rolling", "40g butter", "6 sage leaves"],
+    "steps": ["Mix the ricotta, egg, cheese, nutmeg and flour into a soft dough.", "With floured hands, roll into walnut-sized balls and dust with flour. Chill for 20 minutes.", "Cook in gently simmering salted water for 3–4 minutes until they float.", "Meanwhile, melt the butter with the sage until it smells nutty.", "Toss the gnudi in the sage butter and serve with extra cheese."],
+    "tip": "Very soft and rich in protein and calcium. Lift the sage leaves out before serving if you'd rather not chew them.",
+    "swaps": ["Serve in smooth tomato sauce instead of sage butter"],
+    "nutrients": ["protein", "calcium"],
+    "storage": {"fridgeDays": 2, "freezerMonths": 2, "batch": true, "text": "Freeze uncooked gnudi on a tray, then bag for 2 months — cook from frozen for 5–6 minutes. Cooked gnudi keep 2 days in the fridge."}
+  },
+  {
+    "id": "silky-borscht",
+    "title": "Silky beetroot soup",
+    "meal": "lunch", "gentle": true, "time": 45, "serves": 4, "texture": "smooth",
+    "summary": "A deep pink, sweet and earthy blended borscht with dill soured cream.",
+    "ingredients": ["1 tbsp olive oil", "1 onion, chopped", "500g raw beetroot, peeled and diced", "1 medium potato, peeled and diced", "1 litre vegetable stock", "1 tbsp red wine vinegar or lemon juice", "4 tbsp soured cream", "1 tbsp finely chopped dill"],
+    "steps": ["Soften the onion in the oil for 5 minutes.", "Add the beetroot, potato and stock. Simmer for 30 minutes until very soft.", "Blend until completely smooth and stir in the vinegar. Season.", "Serve with a spoonful of soured cream mixed with the dill."],
+    "tip": "Peeled and blended beetroot is soft and smooth. It can turn your wee and poo pink or red — that's harmless and expected.",
+    "swaps": ["Use ready-cooked beetroot (not in vinegar) and simmer for 15 minutes"],
+    "nutrients": [],
+    "storage": {"fridgeDays": 3, "freezerMonths": 3, "batch": true, "text": "Fridge for 3 days or freeze for 3 months. Add the soured cream after reheating."}
+  },
+  {
+    "id": "lemon-posset",
+    "title": "Lemon posset",
+    "meal": "snack", "gentle": false, "time": 10, "serves": 4, "texture": "smooth",
+    "summary": "Three ingredients — a silky, sharp-sweet set cream pudding. Needs 3 hours to set.",
+    "ingredients": ["400ml double cream", "100g caster sugar", "2 lemons, zested and juiced"],
+    "steps": ["Heat the cream and sugar, stirring, until it just comes to the boil. Bubble for 2 minutes.", "Take off the heat and stir in the lemon juice and zest.", "Strain into 4 small glasses and chill for at least 3 hours until set."],
+    "tip": "Rich, so the portions are small. Straining removes the zest for a perfectly smooth finish.",
+    "swaps": ["Use oranges for a milder flavour"],
+    "nutrients": [],
+    "storage": {"fridgeDays": 3, "freezerMonths": 0, "batch": true, "text": "Cover and keep in the fridge for 3 days. Don't freeze."}
+  }
+]

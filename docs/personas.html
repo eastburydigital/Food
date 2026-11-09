@@ -1,0 +1,346 @@
+<title>Gentle Kitchen Personas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+/* Layout: a working brief. Two persona groups (people we cook for / the build team),
+   then where they agree, a Now-Next-Later roadmap, and questions for the founder. */
+:root {
+  --bg: #f3f5f0;
+  --paper: #fdfefb;
+  --ink: #1f2a22;
+  --muted: #5d6b60;
+  --line: #d9e0d6;
+  --sage: #3f6b4c;
+  --sage-soft: #e1ebe0;
+  --plum: #7a3f63;
+  --plum-soft: #f1e4ec;
+  --amber: #9a6512;
+  --amber-soft: #f6ead3;
+  --display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #151a16; --paper: #1d241f; --ink: #e8eee6; --muted: #a3b0a5; --line: #2f3a32;
+    --sage: #8fc49c; --sage-soft: #24352a; --plum: #e2a3c8; --plum-soft: #3a2532;
+    --amber: #e6b660; --amber-soft: #3a2f1a; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #151a16; --paper: #1d241f; --ink: #e8eee6; --muted: #a3b0a5; --line: #2f3a32;
+  --sage: #8fc49c; --sage-soft: #24352a; --plum: #e2a3c8; --plum-soft: #3a2532;
+  --amber: #e6b660; --amber-soft: #3a2f1a; color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink);
+  font: 16px/1.6 var(--body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 64px;
+}
+.wrap { max-width: 1080px; margin: 0 auto; }
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+p { margin: 0; }
+a { color: var(--sage); }
+
+header.top { padding-block: 48px 28px; display: grid; gap: 14px; }
+.eyebrow { font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+h1 { font-size: clamp(2.2rem, 6vw, 3.6rem); font-weight: 800; line-height: 1.02; }
+.lede { max-width: 62ch; font-size: 1.08rem; color: var(--muted); }
+.lede strong { color: var(--ink); }
+
+nav.jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+nav.jump a {
+  text-decoration: none; color: var(--ink); border: 1px solid var(--line); background: var(--paper);
+  padding: 6px 14px; border-radius: 999px; font-size: .9rem;
+}
+nav.jump a:hover, nav.jump a:focus-visible { border-color: var(--sage); outline: none; }
+
+section { padding-block: 36px 8px; display: grid; gap: 18px; }
+.sec-head { display: grid; gap: 6px; max-width: 70ch; }
+h2 { font-size: clamp(1.5rem, 3.6vw, 2.1rem); font-weight: 700; }
+.sec-head p { color: var(--muted); }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr)); gap: 16px; }
+
+.persona {
+  background: var(--paper); border: 1px solid var(--line); border-radius: 14px;
+  padding: 20px; display: grid; gap: 14px; align-content: start; min-width: 0;
+}
+.who { display: grid; grid-template-columns: 52px 1fr; gap: 14px; align-items: center; }
+.mono {
+  width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center;
+  font-family: var(--display); font-weight: 800; font-size: 1.15rem;
+}
+.cust .mono { background: var(--plum-soft); color: var(--plum); }
+.team .mono { background: var(--sage-soft); color: var(--sage); }
+.you .mono { background: var(--amber-soft); color: var(--amber); }
+.persona h3 { font-size: 1.2rem; font-weight: 700; line-height: 1.2; }
+.role { color: var(--muted); font-size: .92rem; line-height: 1.35; }
+blockquote {
+  margin: 0; font-style: italic; font-size: 1.02rem; padding-left: 14px;
+  border-left: 3px solid var(--line);
+}
+.cust blockquote { border-color: var(--plum); }
+.team blockquote { border-color: var(--sage); }
+.you blockquote { border-color: var(--amber); }
+dl { margin: 0; display: grid; gap: 10px; }
+dt { font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; font-weight: 700; color: var(--muted); }
+dd { margin: 2px 0 0; }
+dd ul { margin: 0; padding-left: 18px; }
+dd li + li { margin-top: 2px; }
+.tagline { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-size: .78rem; padding: 2px 10px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); color: var(--muted); }
+
+.themes { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 0; border-top: 1px solid var(--line); }
+.theme { padding: 18px 18px 18px 0; border-bottom: 1px solid var(--line); display: grid; gap: 6px; min-width: 0; }
+.theme h3 { font-size: 1.08rem; }
+.theme p { color: var(--muted); }
+.theme .by { font-size: .82rem; color: var(--sage); font-weight: 700; }
+
+.road { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 16px; }
+.lane { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 20px; display: grid; gap: 12px; align-content: start; }
+.lane-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.lane h3 { font-size: 1.35rem; font-weight: 800; }
+.when { font-size: .82rem; color: var(--muted); }
+.lane.now h3 { color: var(--amber); }
+.lane.next h3 { color: var(--sage); }
+.lane.later h3 { color: var(--plum); }
+.lane ol { margin: 0; padding-left: 22px; display: grid; gap: 10px; }
+.lane li strong { display: block; }
+.lane li span { color: var(--muted); font-size: .92rem; }
+
+.qs { counter-reset: q; display: grid; gap: 0; border-top: 1px solid var(--line); max-width: 820px; }
+.q { counter-increment: q; display: grid; grid-template-columns: 44px 1fr; gap: 12px; padding: 16px 0; border-bottom: 1px solid var(--line); }
+.q::before { content: counter(q); font-family: var(--display); font-weight: 800; font-size: 1.4rem; color: var(--sage); line-height: 1.2; }
+.q p + p { color: var(--muted); font-size: .94rem; margin-top: 2px; }
+
+.note { margin-top: 32px; font-size: .88rem; color: var(--muted); max-width: 75ch; }
+
+@media (prefers-reduced-motion: no-preference) {
+  nav.jump a { transition: border-color .15s; }
+}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow">Gentle Kitchen · product brief</div>
+    <h1>Who we're cooking for, and who's in the kitchen</h1>
+    <p class="lede"><strong>Goal:</strong> an app you rely on every week for Crohn's with mild strictures, built so it can later open up to other people with IBD. These personas are fictional composites. Each one gives us a lens to check new recipes and features against.</p>
+    <nav class="jump" aria-label="Sections">
+      <a href="#people">People we cook for</a>
+      <a href="#team">The build team</a>
+      <a href="#agree">Where they agree</a>
+      <a href="#roadmap">Roadmap</a>
+      <a href="#questions">Questions for you</a>
+    </nav>
+  </header>
+
+  <section id="people" aria-labelledby="people-h">
+    <div class="sec-head">
+      <h2 id="people-h">People we cook for</h2>
+      <p>You come first. The other five show where the app needs to stretch when it opens up to others.</p>
+    </div>
+    <div class="grid">
+
+      <article class="persona you">
+        <div class="who"><div class="mono" aria-hidden="true">You</div><div><h3>The founder</h3><p class="role">Vegetarian (eggs and dairy), mild strictures, mushrooms are a known trigger. Primary user.</p></div></div>
+        <blockquote>"I want to open the app and find something I can safely eat, and actually want to eat, in under a minute."</blockquote>
+        <dl>
+          <div><dt>Needs</dt><dd><ul><li>Recipes already checked against strictures and triggers</li><li>Real photos so a dish looks worth cooking</li><li>Batch and freezer meals for low-energy days</li></ul></dd></div>
+          <div><dt>Frustrations</dt><dd><ul><li>Generic IBD advice that ignores vegetarians</li><li>Recipe sites full of seeds, skins and chilli</li></ul></dd></div>
+          <div><dt>Would love</dt><dd><ul><li>A weekly plan with one shopping list</li><li>A way to learn which meals sit well</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona cust">
+        <div class="who"><div class="mono" aria-hidden="true">M</div><div><h3>Maya, 22</h3><p class="role">Student, diagnosed four months ago. Small budget, shared kitchen, basic cooking skills.</p></div></div>
+        <blockquote>"I'm scared of food right now. I need someone to tell me what's OK and why."</blockquote>
+        <dl>
+          <div><dt>Needs</dt><dd><ul><li>Cheap recipes with five ingredients or fewer</li><li>Plain explanations of why each one is gentle</li><li>Confidence to try new foods slowly</li></ul></dd></div>
+          <div><dt>Frustrations</dt><dd><ul><li>Conflicting advice online</li><li>Recipes that assume a blender or fancy kit</li></ul></dd></div>
+          <div><dt>Would love</dt><dd><ul><li>"Beginner" and "budget" filters</li><li>A simple "start here" guide</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona cust">
+        <div class="who"><div class="mono" aria-hidden="true">T</div><div><h3>Tom, 44</h3><p class="role">Parent cooking for a 15-year-old with Crohn's, plus the rest of the family.</p></div></div>
+        <blockquote>"I can't cook three dinners a night. I need one meal everyone will eat."</blockquote>
+        <dl>
+          <div><dt>Needs</dt><dd><ul><li>Family-sized portions and a servings scaler</li><li>Food a teenager actually likes</li><li>Packed lunches for school</li></ul></dd></div>
+          <div><dt>Frustrations</dt><dd><ul><li>"Special diet" food the rest of the family won't touch</li><li>Worry about growth and weight</li></ul></dd></div>
+          <div><dt>Would love</dt><dd><ul><li>Add-ons (e.g. chilli on the side) for others at the table</li><li>A shared shopping list</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona cust">
+        <div class="who"><div class="mono" aria-hidden="true">A</div><div><h3>Aisha, 35</h3><p class="role">Nurse on rotating shifts, in remission with a stricture. Eats fish and chicken.</p></div></div>
+        <blockquote>"Sunday is my cooking day. Everything after that comes out of the freezer."</blockquote>
+        <dl>
+          <div><dt>Needs</dt><dd><ul><li>Batch-cook plans with a timed order of work</li><li>Freezer tracking with use-by dates</li><li>Portable lunches for long shifts</li></ul></dd></div>
+          <div><dt>Frustrations</dt><dd><ul><li>Apps that are all-vegetarian or all-meat</li><li>Losing track of what's in the freezer</li></ul></dd></div>
+          <div><dt>Would love</dt><dd><ul><li>Diet profiles: veggie, pescatarian, omnivore</li><li>"Cook once, eat four times" plans</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona cust">
+        <div class="who"><div class="mono" aria-hidden="true">G</div><div><h3>Graham, 61</h3><p class="role">Had part of his bowel removed last year. Lives alone, tires easily, not confident with apps.</p></div></div>
+        <blockquote>"Big writing, few buttons, and nothing that takes more than half an hour on my feet."</blockquote>
+        <dl>
+          <div><dt>Needs</dt><dd><ul><li>Low-residue meals with soft textures</li><li>Large text and simple screens</li><li>Single portions that freeze well</li></ul></dd></div>
+          <div><dt>Frustrations</dt><dd><ul><li>Small text and fiddly menus</li><li>Long recipes with lots of standing</li></ul></dd></div>
+          <div><dt>Would love</dt><dd><ul><li>A cook mode that keeps the screen on</li><li>Sit-down-friendly recipes</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona cust">
+        <div class="who"><div class="mono" aria-hidden="true">L</div><div><h3>Leah, 29</h3><p class="role">Vegan with Crohn's. Low iron, often tired, worried she isn't getting enough protein.</p></div></div>
+        <blockquote>"Every IBD list tells me to eat chicken and white fish. That doesn't help me."</blockquote>
+        <dl>
+          <div><dt>Needs</dt><dd><ul><li>Plant protein that's gentle (tofu, smooth lentils, nut butters)</li><li>Iron, B12 and calcium flagged on recipes</li></ul></dd></div>
+          <div><dt>Frustrations</dt><dd><ul><li>Pulses and wholegrains being "banned" outright</li><li>Meat substitutes that are heavily processed</li></ul></dd></div>
+          <div><dt>Would love</dt><dd><ul><li>Vegan swaps on every recipe</li><li>Nutrient tags and a weekly protein check</li></ul></dd></div>
+        </dl>
+      </article>
+
+    </div>
+  </section>
+
+  <section id="team" aria-labelledby="team-h">
+    <div class="sec-head">
+      <h2 id="team-h">The build team</h2>
+      <p>Six specialist voices to run ideas past. When we plan a feature or a recipe batch, each one asks their question.</p>
+    </div>
+    <div class="grid">
+
+      <article class="persona team">
+        <div class="who"><div class="mono" aria-hidden="true">PM</div><div><h3>Sam, product manager</h3><p class="role">Keeps the app focused on the jobs people actually need done.</p></div></div>
+        <blockquote>"Does this help someone find a safe meal they want, faster?"</blockquote>
+        <dl>
+          <div><dt>Pushes for</dt><dd><ul><li>One measure of success: time to a meal you'll cook</li><li>Build for you now, design so others fit later</li><li>Small releases you test in your own kitchen</li></ul></dd></div>
+          <div><dt>Watches out for</dt><dd><ul><li>Feature creep before the basics are loved</li><li>Anything that reads like medical advice</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona team">
+        <div class="who"><div class="mono" aria-hidden="true">RD</div><div><h3>Helen, IBD dietitian</h3><p class="role">Registered dietitian specialising in inflammatory bowel disease.</p></div></div>
+        <blockquote>"With strictures, texture matters more than fibre totals. And no diet should get narrower than it needs to."</blockquote>
+        <dl>
+          <div><dt>Pushes for</dt><dd><ul><li>Texture levels on every recipe: smooth, soft, regular</li><li>Protein, iron, B12, calcium and vitamin D for vegetarians</li><li>Portion and "start small" guidance when trying foods</li><li>A food and symptom diary to find personal triggers</li></ul></dd></div>
+          <div><dt>Watches out for</dt><dd><ul><li>Over-restriction leading to weight loss or deficiencies</li><li>Treating all processed food as bad; supplement drinks and tinned staples can help</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona team">
+        <div class="who"><div class="mono" aria-hidden="true">CH</div><div><h3>Marco, chef</h3><p class="role">Recipe developer. Makes gentle food taste of something.</p></div></div>
+        <blockquote>"Mild doesn't mean bland. Herbs, browning, citrus and good stock do the work chilli usually does."</blockquote>
+        <dl>
+          <div><dt>Pushes for</dt><dd><ul><li>Base recipes: one sauce, stock or purée that feeds five meals</li><li>Technique tips: peeling, blending, slow-cooking until soft</li><li>Swaps on each recipe (dairy-free, vegan, cheaper)</li><li>Every recipe cooked and photographed by us</li></ul></dd></div>
+          <div><dt>Watches out for</dt><dd><ul><li>Beige-food fatigue; the menu needs colour and variety</li><li>Untested quantities and timings</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona team">
+        <div class="who"><div class="mono" aria-hidden="true">UX</div><div><h3>Jo, UX and accessibility</h3><p class="role">Designs for fatigue, brain fog and one-handed use in a kitchen.</p></div></div>
+        <blockquote>"On a bad day, every extra tap is a reason to give up and eat toast."</blockquote>
+        <dl>
+          <div><dt>Pushes for</dt><dd><ul><li>Cook mode: big steps, screen stays on, built-in timers</li><li>Larger-text option and strong contrast</li><li>Kind, guilt-free wording (no "bad foods")</li></ul></dd></div>
+          <div><dt>Watches out for</dt><dd><ul><li>Cluttered screens as features pile up</li><li>Tracking that feels like homework</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona team">
+        <div class="who"><div class="mono" aria-hidden="true">TL</div><div><h3>Dev, tech lead</h3><p class="role">Keeps it simple, fast, offline-friendly and cheap to run.</p></div></div>
+        <blockquote>"Your data lives on your phone until there's a good reason, and your permission, to move it."</blockquote>
+        <dl>
+          <div><dt>Pushes for</dt><dd><ul><li>Your own photos, stored on the phone</li><li>Recipe data that supports diet profiles and texture levels</li><li>Auto-deploy to Netlify on every GitHub change</li><li>Backup and export so nothing is lost</li></ul></dd></div>
+          <div><dt>Watches out for</dt><dd><ul><li>Accounts and servers before they're needed</li><li>Storing health data without a plan</li></ul></dd></div>
+        </dl>
+      </article>
+
+      <article class="persona team">
+        <div class="who"><div class="mono" aria-hidden="true">PR</div><div><h3>Nadia, privacy and regulation</h3><p class="role">Advises on UK GDPR and health-app rules.</p></div></div>
+        <blockquote>"A recipe app is fine. An app that tells someone how to treat their disease is a medical device."</blockquote>
+        <dl>
+          <div><dt>Pushes for</dt><dd><ul><li>Clear "not medical advice" wording, with signposting to IBD teams</li><li>Treat symptom data as sensitive health data</li><li>A data protection impact assessment (DPIA) before other users join</li><li>A recorded review process for recipe content</li></ul></dd></div>
+          <div><dt>Watches out for</dt><dd><ul><li>Personalised medical recommendations</li><li>Analytics or third parties seeing health data</li></ul></dd></div>
+        </dl>
+      </article>
+
+    </div>
+  </section>
+
+  <section id="agree" aria-labelledby="agree-h">
+    <div class="sec-head">
+      <h2 id="agree-h">Where they agree</h2>
+      <p>Five ideas came up from several personas at once. These should shape the next round of work.</p>
+    </div>
+    <div class="themes">
+      <div class="theme"><h3>Texture is the stricture question</h3><p>Label every recipe smooth, soft or regular, and let people filter by it. This grows naturally out of today's flare-day switch.</p><span class="by">Helen · Graham · you</span></div>
+      <div class="theme"><h3>Energy is the scarcest ingredient</h3><p>Batch plans, freezer tracking, five-ingredient meals and a cook mode matter more than adding hundreds of recipes.</p><span class="by">Aisha · Graham · Jo · Marco</span></div>
+      <div class="theme"><h3>Vegetarians need a nutrition safety net</h3><p>Show protein and iron per portion, and flag B12, calcium and vitamin D sources, so a gentle diet doesn't become a thin one.</p><span class="by">Helen · Leah · you</span></div>
+      <div class="theme"><h3>Triggers are personal</h3><p>The avoid list is a start. A light "how did that sit?" note after meals would show patterns over time.</p><span class="by">Helen · Maya · you</span></div>
+      <div class="theme"><h3>Trust has to be earned</h3><p>Real photos, tested recipes, a dietitian review and plain "why it's gentle" notes. Never promise to treat anything.</p><span class="by">Marco · Nadia · Maya</span></div>
+    </div>
+  </section>
+
+  <section id="roadmap" aria-labelledby="road-h">
+    <div class="sec-head">
+      <h2 id="road-h">Suggested roadmap</h2>
+      <p>Built for you first. Each item names the persona who'd champion it. Nothing is locked in, so reorder freely.</p>
+    </div>
+    <div class="road">
+      <div class="lane now">
+        <div class="lane-head"><h3>Now</h3><span class="when">For you, next few sessions</span></div>
+        <ol>
+          <li><strong>Your own photos</strong><span>Snap a dish and attach it to the recipe. (Dev, Marco)</span></li>
+          <li><strong>Texture levels and filter</strong><span>Smooth, soft, regular on all recipes. (Helen)</span></li>
+          <li><strong>Cook mode</strong><span>Large steps, screen stays awake, timers. (Jo, Graham)</span></li>
+          <li><strong>Servings scaler</strong><span>Cook for one or a batch of six. (Tom, Aisha)</span></li>
+          <li><strong>20+ new recipes</strong><span>High-protein, iron-rich, five-ingredient and freezer meals. (Marco, Helen)</span></li>
+        </ol>
+      </div>
+      <div class="lane next">
+        <div class="lane-head"><h3>Next</h3><span class="when">Make it a weekly habit</span></div>
+        <ol>
+          <li><strong>Week planner</strong><span>Pick meals, get one shopping list grouped by aisle. (Sam, Aisha)</span></li>
+          <li><strong>Freezer tracker</strong><span>Uses the storage times already on each recipe. (Aisha)</span></li>
+          <li><strong>"How did it sit?" notes</strong><span>Private, optional, kept on your phone. (Helen, Nadia)</span></li>
+          <li><strong>Nutrition tags</strong><span>Protein, iron and calcium per portion. (Helen, Leah)</span></li>
+          <li><strong>Swaps and auto-deploy</strong><span>Recipe swaps; Netlify updates on every GitHub change. (Marco, Dev)</span></li>
+        </ol>
+      </div>
+      <div class="lane later">
+        <div class="lane-head"><h3>Later</h3><span class="when">Opening up to others</span></div>
+        <ol>
+          <li><strong>Diet profiles</strong><span>Vegetarian, vegan, pescatarian, omnivore. (Aisha, Leah)</span></li>
+          <li><strong>Dietitian review</strong><span>Paid review of the whole recipe set, with a badge. (Helen, Nadia)</span></li>
+          <li><strong>Accessibility settings</strong><span>Larger text, simpler layout. (Jo, Graham)</span></li>
+          <li><strong>Accounts and sync</strong><span>Only after a DPIA and clear consent. (Dev, Nadia)</span></li>
+          <li><strong>Sharing and clinic export</strong><span>Share recipes; export notes for appointments. (Tom, Helen)</span></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section id="questions" aria-labelledby="q-h">
+    <div class="sec-head">
+      <h2 id="q-h">Questions for you</h2>
+      <p>Your answers decide the order of the roadmap.</p>
+    </div>
+    <div class="qs">
+      <div class="q"><div><p>Which "Now" item would make the biggest difference to your week?</p><p>Photos, texture levels, cook mode, servings scaler or more recipes.</p></div></div>
+      <div class="q"><div><p>How do you usually cook?</p><p>A big weekend batch, a little every day, or a mix? This shapes the planner and freezer tools.</p></div></div>
+      <div class="q"><div><p>What kitchen kit do you have?</p><p>Blender, stick blender, slow cooker, pressure cooker, air fryer, freezer space.</p></div></div>
+      <div class="q"><div><p>Would a "how did it sit?" note help, or feel like too much tracking?</p><p>It's the dietitian's favourite idea, but only if it's worth your energy.</p></div></div>
+      <div class="q"><div><p>Beyond mushrooms, which foods do you already know suit you, or don't?</p><p>These become your defaults and guide the next batch of recipes.</p></div></div>
+      <div class="q"><div><p>When you open it up, who comes first?</p><p>Friends with IBD, a support group, or the public? This decides when accounts, privacy work and a dietitian review are needed.</p></div></div>
+    </div>
+  </section>
+
+  <p class="note">The personas are fictional composites written to guide design. They are not real people and not clinical guidance. Diet changes for Crohn's should be checked with an IBD team or registered dietitian.</p>
+</div>

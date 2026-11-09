@@ -1,5 +1,5 @@
 // Offline support: serve the app from cache, refresh it in the background.
-const VERSION = 'gk-v1';
+const VERSION = 'gk-v2';
 const SHELL = ['/', '/index.html', '/styles.css', '/app.js', '/recipes.json', '/photos.json', '/manifest.webmanifest', '/icons/icon-192.png'];
 
 self.addEventListener('install', (e) => {

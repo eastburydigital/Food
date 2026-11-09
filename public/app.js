@@ -22,6 +22,7 @@
     query: '',
     meal: 'all',
     quick: false,
+    batch: false,
   };
 
   const MEALS = [
@@ -66,6 +67,7 @@
       if (state.mode === 'flare' && !r.gentle) return false;
       if (state.meal !== 'all' && r.meal !== state.meal) return false;
       if (state.quick && r.time > 20) return false;
+      if (state.batch && !r.storage?.batch) return false;
       if (avoidHits(r).length) return false;
       if (q) {
         const hay = norm([r.title, r.summary, r.meal, ...r.ingredients].join(' '));
@@ -92,7 +94,7 @@
       ${favButton(r)}
       <div class="body">
         <h3>${esc(r.title)}</h3>
-        <div class="meta"><span>${r.time} min</span>${r.gentle ? '<span class="tag gentle">Flare-friendly</span>' : ''}</div>
+        <div class="meta"><span>${r.time} min</span>${r.gentle ? '<span class="tag gentle">Flare-friendly</span>' : ''}${r.storage?.batch ? '<span class="tag batch">Batch cook</span>' : ''}</div>
       </div>
     </a>`;
   }
@@ -142,6 +144,7 @@
       <div class="chips" role="group" aria-label="Filter">
         ${MEALS.map(([k, l]) => `<button type="button" class="chip" data-meal="${k}" aria-pressed="${state.meal === k}">${l}</button>`).join('')}
         <button type="button" class="chip" data-quick aria-pressed="${state.quick}">⏱ 20 min or less</button>
+        <button type="button" class="chip" data-batch aria-pressed="${state.batch}">🍱 Batch cook</button>
       </div>
       ${state.mode === 'flare' ? '<p class="banner"><strong>Flare day:</strong> showing only the softest, smoothest meals — soups, purées, eggs and puddings.</p>' : ''}
       <p class="count">${list.length} recipe${list.length === 1 ? '' : 's'}${hidden ? ` · ${hidden} hidden by your food list` : ''}</p>
@@ -202,9 +205,25 @@
 
           <div class="section-head"><h3>Method</h3></div>
           <ol class="steps">${r.steps.map((s) => `<li>${esc(s)}</li>`).join('')}</ol>
+          ${storageHtml(r)}
         </div>
       </article>`;
     window.scrollTo(0, 0);
+  }
+
+  function storageHtml(r) {
+    const s = r.storage;
+    if (!s) return '';
+    const fridge = s.fridgeDays ? `${s.fridgeDays} day${s.fridgeDays === 1 ? '' : 's'}` : 'Eat fresh';
+    const freezer = s.freezerMonths ? `${s.freezerMonths} month${s.freezerMonths === 1 ? '' : 's'}` : "Don't freeze";
+    return `
+      <div class="section-head"><h3>Storage</h3>${s.batch ? '<span class="tag batch">🍱 Good for batch cooking</span>' : ''}</div>
+      <div class="store-grid">
+        <div class="store ${s.fridgeDays ? '' : 'no'}"><span class="store-ico" aria-hidden="true">🥶</span><span><small>Fridge</small>${fridge}</span></div>
+        <div class="store ${s.freezerMonths ? '' : 'no'}"><span class="store-ico" aria-hidden="true">❄️</span><span><small>Freezer</small>${freezer}</span></div>
+      </div>
+      <p class="store-text">${esc(s.text)}</p>
+      <p class="store-note">Cool leftovers within 1–2 hours, keep them in sealed containers, and reheat until steaming hot all the way through. If in doubt, throw it out.</p>`;
   }
 
   function viewShopping() {
@@ -319,6 +338,7 @@
     if (t.dataset.mode) { setMode(t.dataset.mode); return; }
     if (t.dataset.meal) { state.meal = t.dataset.meal; viewHome(); return; }
     if ('quick' in t.dataset) { state.quick = !state.quick; viewHome(); return; }
+    if ('batch' in t.dataset) { state.batch = !state.batch; viewHome(); return; }
     if ('back' in t.dataset) {
       e.preventDefault();
       if (navCount > 0) history.back();

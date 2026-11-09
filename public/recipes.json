@@ -7,10 +7,27 @@
     "time": 10,
     "serves": 1,
     "summary": "Smooth, slow-cooked oats with mashed banana and a little honey.",
-    "ingredients": ["50g porridge oats (fine or rolled)", "300ml milk", "1 ripe banana", "1 tsp honey or maple syrup", "Pinch of cinnamon"],
-    "steps": ["Put the oats and milk in a small pan over a low heat.", "Mash half the banana and stir it in.", "Cook for 6–8 minutes, stirring often, until thick and very soft. Add a splash more milk if needed.", "Top with the rest of the banana, sliced, plus the honey and cinnamon."],
+    "ingredients": [
+      "50g porridge oats (fine or rolled)",
+      "300ml milk",
+      "1 ripe banana",
+      "1 tsp honey or maple syrup",
+      "Pinch of cinnamon"
+    ],
+    "steps": [
+      "Put the oats and milk in a small pan over a low heat.",
+      "Mash half the banana and stir it in.",
+      "Cook for 6–8 minutes, stirring often, until thick and very soft. Add a splash more milk if needed.",
+      "Top with the rest of the banana, sliced, plus the honey and cinnamon."
+    ],
     "tip": "Cook the oats well so they're soft. If oats bother you, use fine 'instant' oats or ready brek-style oats, which are smoother.",
-    "photo": "porridge banana"
+    "photo": "porridge banana",
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best fresh. Leftovers keep in a covered bowl in the fridge for 1 day — loosen with milk and reheat until piping hot."
+    }
   },
   {
     "id": "soft-scrambled-eggs",
@@ -20,10 +37,28 @@
     "time": 10,
     "serves": 1,
     "summary": "Silky, buttery scrambled eggs on white sourdough.",
-    "ingredients": ["2–3 eggs", "1 tbsp butter", "1 tbsp milk or crème fraîche", "1–2 slices white sourdough", "Salt and pepper", "Finely snipped chives (optional)"],
-    "steps": ["Beat the eggs with the milk and a pinch of salt.", "Melt the butter in a non-stick pan over a low heat.", "Add the eggs and stir slowly with a spatula until just set and creamy.", "Toast the bread and spoon the eggs on top."],
+    "ingredients": [
+      "2–3 eggs",
+      "1 tbsp butter",
+      "1 tbsp milk or crème fraîche",
+      "1–2 slices white sourdough",
+      "Salt and pepper",
+      "Finely snipped chives (optional)"
+    ],
+    "steps": [
+      "Beat the eggs with the milk and a pinch of salt.",
+      "Melt the butter in a non-stick pan over a low heat.",
+      "Add the eggs and stir slowly with a spatula until just set and creamy.",
+      "Toast the bread and spoon the eggs on top."
+    ],
     "tip": "White sourdough is lower in fibre than wholemeal or seeded bread, and usually has a short ingredient list.",
-    "photo": "scrambled eggs toast"
+    "photo": "scrambled eggs toast",
+    "storage": {
+      "fridgeDays": 0,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten straight away. Scrambled eggs go rubbery when stored and reheated."
+    }
   },
   {
     "id": "banana-peanut-smoothie",
@@ -33,10 +68,26 @@
     "time": 5,
     "serves": 1,
     "summary": "A filling, protein-rich smoothie that's easy on the gut.",
-    "ingredients": ["1 ripe banana", "1 tbsp smooth peanut butter (100% peanuts)", "150g natural or Greek yoghurt", "150ml milk", "1 tsp honey (optional)"],
-    "steps": ["Put everything in a blender.", "Blend until completely smooth.", "Drink straight away."],
+    "ingredients": [
+      "1 ripe banana",
+      "1 tbsp smooth peanut butter (100% peanuts)",
+      "150g natural or Greek yoghurt",
+      "150ml milk",
+      "1 tsp honey (optional)"
+    ],
+    "steps": [
+      "Put everything in a blender.",
+      "Blend until completely smooth.",
+      "Drink straight away."
+    ],
     "tip": "Use smooth nut butter only — crunchy has nut pieces. Look for jars that are just peanuts (and maybe salt).",
-    "photo": "banana smoothie"
+    "photo": "banana smoothie",
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best fresh. Can be kept in a sealed bottle in the fridge for up to 1 day — shake before drinking."
+    }
   },
   {
     "id": "yoghurt-stewed-pear",
@@ -46,10 +97,27 @@
     "time": 15,
     "serves": 2,
     "summary": "Peeled pears gently cooked with cinnamon, spooned over thick yoghurt.",
-    "ingredients": ["2 ripe pears", "2 tbsp water", "1 tsp honey", "½ tsp cinnamon", "300g Greek yoghurt"],
-    "steps": ["Peel and core the pears, then cut into small pieces.", "Put in a pan with the water, honey and cinnamon.", "Cover and simmer gently for 8–10 minutes until very soft. Mash lightly if you like.", "Spoon over the yoghurt, warm or cold."],
+    "ingredients": [
+      "2 ripe pears",
+      "2 tbsp water",
+      "1 tsp honey",
+      "½ tsp cinnamon",
+      "300g Greek yoghurt"
+    ],
+    "steps": [
+      "Peel and core the pears, then cut into small pieces.",
+      "Put in a pan with the water, honey and cinnamon.",
+      "Cover and simmer gently for 8–10 minutes until very soft. Mash lightly if you like.",
+      "Spoon over the yoghurt, warm or cold."
+    ],
     "tip": "Peeling and cooking fruit removes the tough skin and softens the fibre.",
-    "photo": "stewed pears"
+    "photo": "stewed pears",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Stew a big batch of pears. Keep in a sealed tub in the fridge for 3 days, or freeze in portions for 3 months. Add the yoghurt when serving."
+    }
   },
   {
     "id": "banana-pancakes",
@@ -59,10 +127,29 @@
     "time": 20,
     "serves": 2,
     "summary": "Simple homemade pancakes sweetened with ripe banana.",
-    "ingredients": ["1 ripe banana", "2 eggs", "100g self-raising flour", "100ml milk", "Butter for frying", "Maple syrup and sliced banana, to serve"],
-    "steps": ["Mash the banana in a bowl, then whisk in the eggs and milk.", "Stir in the flour until just combined.", "Heat a little butter in a non-stick pan over a medium heat.", "Add small ladles of batter and cook for 2 minutes each side until golden.", "Serve with maple syrup and banana."],
+    "ingredients": [
+      "1 ripe banana",
+      "2 eggs",
+      "100g self-raising flour",
+      "100ml milk",
+      "Butter for frying",
+      "Maple syrup and sliced banana, to serve"
+    ],
+    "steps": [
+      "Mash the banana in a bowl, then whisk in the eggs and milk.",
+      "Stir in the flour until just combined.",
+      "Heat a little butter in a non-stick pan over a medium heat.",
+      "Add small ladles of batter and cook for 2 minutes each side until golden.",
+      "Serve with maple syrup and banana."
+    ],
     "tip": "Homemade pancakes avoid the additives found in many shop-bought ones.",
-    "photo": "banana pancakes"
+    "photo": "banana pancakes",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Cool, then stack with baking paper between. Fridge for 2 days or freeze for 2 months. Reheat in a toaster or dry pan."
+    }
   },
   {
     "id": "mild-shakshuka",
@@ -72,10 +159,33 @@
     "time": 25,
     "serves": 2,
     "summary": "Eggs gently poached in a smooth, mildly spiced tomato and pepper sauce.",
-    "ingredients": ["1 tbsp olive oil", "1 small onion, finely chopped", "1 red pepper, peeled and finely chopped", "500g passata", "1 tsp ground cumin", "1 tsp sweet (not hot) paprika", "4 eggs", "50g feta", "White bread, to serve"],
-    "steps": ["Peel the pepper with a vegetable peeler (or use jarred roasted peppers, which peel easily).", "Fry the onion and pepper in the oil over a low heat for 10 minutes until very soft.", "Add the cumin and paprika for 1 minute, then the passata. Simmer for 5 minutes.", "Blend the sauce smooth with a stick blender if you like.", "Make 4 hollows and crack in the eggs. Cover and cook for 6–8 minutes until the whites are set.", "Crumble over the feta and serve with bread."],
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 small onion, finely chopped",
+      "1 red pepper, peeled and finely chopped",
+      "500g passata",
+      "1 tsp ground cumin",
+      "1 tsp sweet (not hot) paprika",
+      "4 eggs",
+      "50g feta",
+      "White bread, to serve"
+    ],
+    "steps": [
+      "Peel the pepper with a vegetable peeler (or use jarred roasted peppers, which peel easily).",
+      "Fry the onion and pepper in the oil over a low heat for 10 minutes until very soft.",
+      "Add the cumin and paprika for 1 minute, then the passata. Simmer for 5 minutes.",
+      "Blend the sauce smooth with a stick blender if you like.",
+      "Make 4 hollows and crack in the eggs. Cover and cook for 6–8 minutes until the whites are set.",
+      "Crumble over the feta and serve with bread."
+    ],
     "tip": "Passata has no tomato skins or seeds, unlike tinned chopped tomatoes. Sweet paprika keeps it mild.",
-    "photo": "shakshuka"
+    "photo": "shakshuka",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Batch-cook the sauce only: fridge for 2 days or freeze for 3 months. Cook fresh eggs in the reheated sauce."
+    }
   },
   {
     "id": "cheese-spinach-omelette",
@@ -85,10 +195,27 @@
     "time": 10,
     "serves": 1,
     "summary": "A soft, folded omelette with wilted, finely chopped spinach and cheddar.",
-    "ingredients": ["3 eggs", "Handful of baby spinach", "30g cheddar, grated", "1 tsp butter", "Salt and pepper"],
-    "steps": ["Wilt the spinach in the pan with a splash of water, then chop it very finely.", "Beat the eggs with salt and pepper.", "Melt the butter in a non-stick pan, add the eggs and swirl.", "When almost set, add the spinach and cheese to one half, fold over and cook for 1 more minute."],
+    "ingredients": [
+      "3 eggs",
+      "Handful of baby spinach",
+      "30g cheddar, grated",
+      "1 tsp butter",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Wilt the spinach in the pan with a splash of water, then chop it very finely.",
+      "Beat the eggs with salt and pepper.",
+      "Melt the butter in a non-stick pan, add the eggs and swirl.",
+      "When almost set, add the spinach and cheese to one half, fold over and cook for 1 more minute."
+    ],
     "tip": "Chopping cooked spinach finely breaks up the stringy leaves.",
-    "photo": "omelette cheese"
+    "photo": "omelette cheese",
+    "storage": {
+      "fridgeDays": 0,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten straight away."
+    }
   },
   {
     "id": "carrot-ginger-soup",
@@ -98,10 +225,28 @@
     "time": 35,
     "serves": 4,
     "summary": "Bright, silky carrot soup with a gentle warmth from fresh ginger.",
-    "ingredients": ["1 tbsp olive oil", "1 onion, chopped", "600g carrots, peeled and sliced", "Thumb-sized piece fresh ginger, peeled and grated", "1 litre vegetable stock", "2 tbsp crème fraîche or a splash of milk"],
-    "steps": ["Soften the onion in the oil for 5 minutes.", "Add the carrots and ginger and cook for 2 minutes.", "Pour in the stock, cover and simmer for 20 minutes until the carrots are very soft.", "Blend until completely smooth, then stir in the crème fraîche."],
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "600g carrots, peeled and sliced",
+      "Thumb-sized piece fresh ginger, peeled and grated",
+      "1 litre vegetable stock",
+      "2 tbsp crème fraîche or a splash of milk"
+    ],
+    "steps": [
+      "Soften the onion in the oil for 5 minutes.",
+      "Add the carrots and ginger and cook for 2 minutes.",
+      "Pour in the stock, cover and simmer for 20 minutes until the carrots are very soft.",
+      "Blend until completely smooth, then stir in the crème fraîche."
+    ],
     "tip": "Blending makes soups one of the easiest ways to eat veg with strictures. Choose a stock with a short ingredient list, or make your own.",
-    "photo": "carrot soup"
+    "photo": "carrot soup",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Cool quickly, then fridge for 3 days or freeze in portions for 3 months. Add the crème fraîche after reheating."
+    }
   },
   {
     "id": "butternut-squash-soup",
@@ -111,10 +256,28 @@
     "time": 40,
     "serves": 4,
     "summary": "Velvety roasted squash soup — sweet, smooth and comforting.",
-    "ingredients": ["1 butternut squash, peeled, deseeded and cubed", "1 onion, chopped", "2 tbsp olive oil", "1 litre vegetable stock", "Pinch of nutmeg", "Splash of cream (optional)"],
-    "steps": ["Heat the oven to 200°C (180°C fan).", "Toss the squash and onion in the oil and roast for 25 minutes until soft.", "Tip into a pan with the stock and nutmeg and simmer for 5 minutes.", "Blend until silky smooth. Stir in the cream if using."],
+    "ingredients": [
+      "1 butternut squash, peeled, deseeded and cubed",
+      "1 onion, chopped",
+      "2 tbsp olive oil",
+      "1 litre vegetable stock",
+      "Pinch of nutmeg",
+      "Splash of cream (optional)"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (180°C fan).",
+      "Toss the squash and onion in the oil and roast for 25 minutes until soft.",
+      "Tip into a pan with the stock and nutmeg and simmer for 5 minutes.",
+      "Blend until silky smooth. Stir in the cream if using."
+    ],
     "tip": "Make sure every squash seed is scooped out before roasting.",
-    "photo": "butternut squash soup"
+    "photo": "butternut squash soup",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Cool quickly, then fridge for 3 days or freeze in portions for 3 months. Add any cream after reheating."
+    }
   },
   {
     "id": "red-lentil-soup",
@@ -124,10 +287,29 @@
     "time": 30,
     "serves": 4,
     "summary": "A filling, protein-rich soup that blends to a smooth finish.",
-    "ingredients": ["1 tbsp olive oil", "1 onion, chopped", "2 carrots, peeled and chopped", "150g red lentils, rinsed", "1 tsp ground cumin", "1.2 litres vegetable stock", "Squeeze of lemon"],
-    "steps": ["Soften the onion and carrots in the oil for 5 minutes.", "Stir in the cumin, then add the lentils and stock.", "Simmer for 20 minutes until the lentils have fallen apart.", "Blend smooth and add a squeeze of lemon."],
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "2 carrots, peeled and chopped",
+      "150g red lentils, rinsed",
+      "1 tsp ground cumin",
+      "1.2 litres vegetable stock",
+      "Squeeze of lemon"
+    ],
+    "steps": [
+      "Soften the onion and carrots in the oil for 5 minutes.",
+      "Stir in the cumin, then add the lentils and stock.",
+      "Simmer for 20 minutes until the lentils have fallen apart.",
+      "Blend smooth and add a squeeze of lemon."
+    ],
     "tip": "Red lentils are split and skinless, so they're much gentler than whole beans. Start with small portions if pulses are new to you.",
-    "photo": "red lentil soup"
+    "photo": "red lentil soup",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Thickens as it stands. Fridge for 3 days or freeze for 3 months; loosen with water when reheating."
+    }
   },
   {
     "id": "tomato-soup-grilled-cheese",
@@ -137,10 +319,31 @@
     "time": 25,
     "serves": 2,
     "summary": "Smooth homemade tomato soup with a golden cheese toastie for dipping.",
-    "ingredients": ["1 tbsp butter", "1 onion, chopped", "500g passata", "300ml vegetable stock", "1 tsp sugar", "2 tbsp cream", "4 slices white bread", "80g cheddar, grated", "Butter for spreading"],
-    "steps": ["Soften the onion in the butter for 8 minutes.", "Add the passata, stock and sugar and simmer for 10 minutes.", "Blend smooth and stir in the cream.", "Butter the outside of the bread, fill with cheese and cook in a dry pan for 2–3 minutes each side until golden."],
+    "ingredients": [
+      "1 tbsp butter",
+      "1 onion, chopped",
+      "500g passata",
+      "300ml vegetable stock",
+      "1 tsp sugar",
+      "2 tbsp cream",
+      "4 slices white bread",
+      "80g cheddar, grated",
+      "Butter for spreading"
+    ],
+    "steps": [
+      "Soften the onion in the butter for 8 minutes.",
+      "Add the passata, stock and sugar and simmer for 10 minutes.",
+      "Blend smooth and stir in the cream.",
+      "Butter the outside of the bread, fill with cheese and cook in a dry pan for 2–3 minutes each side until golden."
+    ],
     "tip": "Homemade soup avoids the thickeners and additives in many tinned soups.",
-    "photo": "tomato soup grilled cheese"
+    "photo": "tomato soup grilled cheese",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Batch-cook the soup: fridge for 3 days or freeze for 3 months. Make the toastie fresh."
+    }
   },
   {
     "id": "potato-leek-soup",
@@ -150,10 +353,26 @@
     "time": 35,
     "serves": 4,
     "summary": "A classic creamy soup, blended until totally smooth.",
-    "ingredients": ["30g butter", "2 leeks, white parts only, sliced", "3 medium potatoes, peeled and diced", "1 litre vegetable stock", "100ml milk"],
-    "steps": ["Melt the butter and cook the leeks gently for 10 minutes until very soft.", "Add the potatoes and stock and simmer for 15–20 minutes.", "Add the milk and blend until completely smooth. Season to taste."],
+    "ingredients": [
+      "30g butter",
+      "2 leeks, white parts only, sliced",
+      "3 medium potatoes, peeled and diced",
+      "1 litre vegetable stock",
+      "100ml milk"
+    ],
+    "steps": [
+      "Melt the butter and cook the leeks gently for 10 minutes until very soft.",
+      "Add the potatoes and stock and simmer for 15–20 minutes.",
+      "Add the milk and blend until completely smooth. Season to taste."
+    ],
     "tip": "Use only the pale part of the leek — the dark green tops are tougher and more fibrous.",
-    "photo": "leek potato soup"
+    "photo": "leek potato soup",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze for 3 months. Potato soup can go a little grainy when frozen — blend again after reheating."
+    }
   },
   {
     "id": "hummus-pepper-wrap",
@@ -163,10 +382,27 @@
     "time": 10,
     "serves": 1,
     "summary": "Soft tortilla with smooth hummus, peeled roast peppers and feta.",
-    "ingredients": ["1 white flour tortilla", "3 tbsp smooth hummus (see the homemade hummus recipe)", "2 jarred roasted red peppers, skins removed", "30g feta", "Few leaves of soft butter lettuce, finely shredded (optional)"],
-    "steps": ["Warm the tortilla in a dry pan for a few seconds.", "Spread with hummus.", "Slice the peppers into strips, checking for any skin, and lay them on top.", "Crumble over the feta, roll up tightly and cut in half."],
+    "ingredients": [
+      "1 white flour tortilla",
+      "3 tbsp smooth hummus (see the homemade hummus recipe)",
+      "2 jarred roasted red peppers, skins removed",
+      "30g feta",
+      "Few leaves of soft butter lettuce, finely shredded (optional)"
+    ],
+    "steps": [
+      "Warm the tortilla in a dry pan for a few seconds.",
+      "Spread with hummus.",
+      "Slice the peppers into strips, checking for any skin, and lay them on top.",
+      "Crumble over the feta, roll up tightly and cut in half."
+    ],
     "tip": "Leave out the lettuce on harder days. Jarred peppers are already cooked and peel easily.",
-    "photo": "hummus wrap"
+    "photo": "hummus wrap",
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best made fresh. Can be wrapped and kept in the fridge until the next day."
+    }
   },
   {
     "id": "egg-mayo-sandwich",
@@ -176,10 +412,27 @@
     "time": 15,
     "serves": 2,
     "summary": "Soft-boiled eggs mashed with mayo and chives on soft white bread.",
-    "ingredients": ["4 eggs", "2 tbsp mayonnaise", "1 tbsp Greek yoghurt", "1 tbsp finely snipped chives", "4 slices soft white bread", "Salt and pepper"],
-    "steps": ["Boil the eggs for 9 minutes, then cool in cold water and peel.", "Mash with the mayo, yoghurt, chives, salt and pepper.", "Spread between the bread and cut into halves."],
+    "ingredients": [
+      "4 eggs",
+      "2 tbsp mayonnaise",
+      "1 tbsp Greek yoghurt",
+      "1 tbsp finely snipped chives",
+      "4 slices soft white bread",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Boil the eggs for 9 minutes, then cool in cold water and peel.",
+      "Mash with the mayo, yoghurt, chives, salt and pepper.",
+      "Spread between the bread and cut into halves."
+    ],
     "tip": "Pick a mayonnaise with a short ingredient list, or mix half-and-half with yoghurt.",
-    "photo": "egg mayonnaise sandwich"
+    "photo": "egg mayonnaise sandwich",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Keep the egg mayo filling in a sealed tub in the fridge for 2 days. Make sandwiches fresh. Don't freeze."
+    }
   },
   {
     "id": "courgette-feta-fritters",
@@ -189,10 +442,29 @@
     "time": 25,
     "serves": 2,
     "summary": "Golden fritters made with peeled, grated courgette and salty feta.",
-    "ingredients": ["2 courgettes, peeled", "100g feta, crumbled", "2 eggs", "60g plain flour", "Small handful of mint or dill, finely chopped", "Olive oil for frying", "Greek yoghurt, to serve"],
-    "steps": ["Grate the peeled courgettes, then squeeze out as much water as you can in a clean tea towel.", "Mix with the feta, eggs, flour and herbs.", "Heat oil in a frying pan and add spoonfuls of the mix, flattening slightly.", "Cook for 3 minutes each side until golden and cooked through. Serve with yoghurt."],
+    "ingredients": [
+      "2 courgettes, peeled",
+      "100g feta, crumbled",
+      "2 eggs",
+      "60g plain flour",
+      "Small handful of mint or dill, finely chopped",
+      "Olive oil for frying",
+      "Greek yoghurt, to serve"
+    ],
+    "steps": [
+      "Grate the peeled courgettes, then squeeze out as much water as you can in a clean tea towel.",
+      "Mix with the feta, eggs, flour and herbs.",
+      "Heat oil in a frying pan and add spoonfuls of the mix, flattening slightly.",
+      "Cook for 3 minutes each side until golden and cooked through. Serve with yoghurt."
+    ],
     "tip": "Peeling courgettes removes the tougher skin; the soft flesh is usually well tolerated when cooked.",
-    "photo": "courgette fritters"
+    "photo": "courgette fritters",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Cool, then fridge for 2 days or freeze between baking paper for 2 months. Reheat in the oven until hot all the way through."
+    }
   },
   {
     "id": "avocado-egg-toast",
@@ -202,10 +474,26 @@
     "time": 10,
     "serves": 1,
     "summary": "Smashed avocado with a squeeze of lemon and a soft poached egg.",
-    "ingredients": ["½ ripe avocado", "Squeeze of lemon juice", "1–2 eggs", "1 slice white sourdough", "Salt and pepper"],
-    "steps": ["Mash the avocado with the lemon, salt and pepper until smooth.", "Poach the eggs in gently simmering water for 3 minutes.", "Toast the bread, spread with avocado and top with the eggs."],
+    "ingredients": [
+      "½ ripe avocado",
+      "Squeeze of lemon juice",
+      "1–2 eggs",
+      "1 slice white sourdough",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Mash the avocado with the lemon, salt and pepper until smooth.",
+      "Poach the eggs in gently simmering water for 3 minutes.",
+      "Toast the bread, spread with avocado and top with the eggs."
+    ],
     "tip": "Skip chilli flakes and seeds that are often added to this dish.",
-    "photo": "avocado toast egg"
+    "photo": "avocado toast egg",
+    "storage": {
+      "fridgeDays": 0,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten straight away — avocado browns quickly."
+    }
   },
   {
     "id": "squash-lentil-dhal",
@@ -215,10 +503,33 @@
     "time": 40,
     "serves": 4,
     "summary": "Mild, creamy red lentil dhal with soft squash and coconut milk.",
-    "ingredients": ["1 tbsp oil", "1 onion, finely chopped", "2 garlic cloves, crushed", "1 tsp ground turmeric", "1 tsp ground cumin", "1 tsp ground coriander", "200g red lentils, rinsed", "300g butternut squash, peeled and diced small", "400ml tin coconut milk", "500ml vegetable stock", "White basmati rice, to serve"],
-    "steps": ["Soften the onion in the oil for 8 minutes, then add the garlic and spices for 1 minute.", "Add the lentils, squash, coconut milk and stock.", "Simmer for 25 minutes, stirring now and then, until the lentils are soft and the squash breaks up.", "Mash or blend some of it for a smoother texture. Serve with rice."],
+    "ingredients": [
+      "1 tbsp oil",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "1 tsp ground turmeric",
+      "1 tsp ground cumin",
+      "1 tsp ground coriander",
+      "200g red lentils, rinsed",
+      "300g butternut squash, peeled and diced small",
+      "400ml tin coconut milk",
+      "500ml vegetable stock",
+      "White basmati rice, to serve"
+    ],
+    "steps": [
+      "Soften the onion in the oil for 8 minutes, then add the garlic and spices for 1 minute.",
+      "Add the lentils, squash, coconut milk and stock.",
+      "Simmer for 25 minutes, stirring now and then, until the lentils are soft and the squash breaks up.",
+      "Mash or blend some of it for a smoother texture. Serve with rice."
+    ],
     "tip": "No chilli — the flavour comes from warming spices instead. White rice is lower in fibre than brown.",
-    "photo": "dal lentil"
+    "photo": "dal lentil",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Great for batch cooking. Fridge for 3 days or freeze in portions for 3 months. Cook rice fresh, or see the rice note below."
+    }
   },
   {
     "id": "butternut-risotto",
@@ -228,10 +539,30 @@
     "time": 40,
     "serves": 3,
     "summary": "Creamy risotto with soft roasted squash and parmesan-style cheese.",
-    "ingredients": ["400g butternut squash, peeled and cubed", "1 tbsp olive oil", "30g butter", "1 onion, finely chopped", "250g risotto rice", "1 litre hot vegetable stock", "50g vegetarian Italian-style hard cheese, grated", "Few sage leaves (optional)"],
-    "steps": ["Roast the squash in the oil at 200°C (180°C fan) for 25 minutes. Mash half of it.", "Meanwhile, melt the butter and soften the onion for 5 minutes.", "Stir in the rice for 1 minute, then add the stock a ladle at a time, stirring, for about 20 minutes.", "Stir in the mashed squash, the cubes and the cheese. Rest for 2 minutes before serving."],
+    "ingredients": [
+      "400g butternut squash, peeled and cubed",
+      "1 tbsp olive oil",
+      "30g butter",
+      "1 onion, finely chopped",
+      "250g risotto rice",
+      "1 litre hot vegetable stock",
+      "50g vegetarian Italian-style hard cheese, grated",
+      "Few sage leaves (optional)"
+    ],
+    "steps": [
+      "Roast the squash in the oil at 200°C (180°C fan) for 25 minutes. Mash half of it.",
+      "Meanwhile, melt the butter and soften the onion for 5 minutes.",
+      "Stir in the rice for 1 minute, then add the stock a ladle at a time, stirring, for about 20 minutes.",
+      "Stir in the mashed squash, the cubes and the cheese. Rest for 2 minutes before serving."
+    ],
     "tip": "Traditional parmesan isn't vegetarian — look for a vegetarian hard cheese. Risotto rice is soft and low in fibre.",
-    "photo": "butternut squash risotto"
+    "photo": "butternut squash risotto",
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Risotto contains rice, so cool within 1 hour, fridge, and eat within 1 day. Reheat only once, until steaming hot. Don't freeze."
+    }
   },
   {
     "id": "lemon-spinach-risotto",
@@ -241,10 +572,30 @@
     "time": 30,
     "serves": 3,
     "summary": "Fresh, bright risotto with wilted spinach blended into the rice.",
-    "ingredients": ["30g butter", "1 onion, finely chopped", "250g risotto rice", "1 litre hot vegetable stock", "100g baby spinach", "Zest and juice of 1 lemon", "50g vegetarian Italian-style hard cheese, grated", "1 tbsp mascarpone or crème fraîche"],
-    "steps": ["Soften the onion in the butter for 5 minutes.", "Add the rice and stir for 1 minute, then add the stock a ladle at a time, stirring, for 18–20 minutes.", "Meanwhile, wilt the spinach and blend it with a splash of stock to a smooth purée.", "Stir the spinach purée, lemon, cheese and mascarpone into the rice."],
+    "ingredients": [
+      "30g butter",
+      "1 onion, finely chopped",
+      "250g risotto rice",
+      "1 litre hot vegetable stock",
+      "100g baby spinach",
+      "Zest and juice of 1 lemon",
+      "50g vegetarian Italian-style hard cheese, grated",
+      "1 tbsp mascarpone or crème fraîche"
+    ],
+    "steps": [
+      "Soften the onion in the butter for 5 minutes.",
+      "Add the rice and stir for 1 minute, then add the stock a ladle at a time, stirring, for 18–20 minutes.",
+      "Meanwhile, wilt the spinach and blend it with a splash of stock to a smooth purée.",
+      "Stir the spinach purée, lemon, cheese and mascarpone into the rice."
+    ],
     "tip": "Blending the spinach gives you the greens without the stringy leaves.",
-    "photo": "spinach risotto"
+    "photo": "spinach risotto",
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Risotto contains rice, so cool within 1 hour, fridge, and eat within 1 day. Reheat only once, until steaming hot. Don't freeze."
+    }
   },
   {
     "id": "squash-mac-cheese",
@@ -254,10 +605,31 @@
     "time": 35,
     "serves": 4,
     "summary": "Homemade cheese sauce with puréed squash hidden inside.",
-    "ingredients": ["300g macaroni", "300g butternut squash, peeled and cubed", "40g butter", "40g plain flour", "500ml milk", "150g mature cheddar, grated", "1 tsp Dijon mustard", "Pinch of nutmeg"],
-    "steps": ["Boil the squash for 12 minutes until soft, then mash or blend smooth.", "Cook the macaroni until soft. Drain.", "Melt the butter, stir in the flour for 1 minute, then slowly whisk in the milk until thick.", "Stir in the squash, most of the cheese, the mustard and nutmeg.", "Mix with the pasta, top with the rest of the cheese and grill until bubbling."],
+    "ingredients": [
+      "300g macaroni",
+      "300g butternut squash, peeled and cubed",
+      "40g butter",
+      "40g plain flour",
+      "500ml milk",
+      "150g mature cheddar, grated",
+      "1 tsp Dijon mustard",
+      "Pinch of nutmeg"
+    ],
+    "steps": [
+      "Boil the squash for 12 minutes until soft, then mash or blend smooth.",
+      "Cook the macaroni until soft. Drain.",
+      "Melt the butter, stir in the flour for 1 minute, then slowly whisk in the milk until thick.",
+      "Stir in the squash, most of the cheese, the mustard and nutmeg.",
+      "Mix with the pasta, top with the rest of the cheese and grill until bubbling."
+    ],
     "tip": "Cook pasta a little past al dente on harder days — softer pasta is easier to digest.",
-    "photo": "macaroni and cheese"
+    "photo": "macaroni and cheese",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Fridge for 2 days or freeze in portions for 2 months. Add a splash of milk when reheating."
+    }
   },
   {
     "id": "honey-soy-tofu",
@@ -267,10 +639,32 @@
     "time": 30,
     "serves": 2,
     "summary": "Crispy tofu in a sticky, garlicky glaze with soft carrots and rice.",
-    "ingredients": ["280g firm tofu, pressed and cubed", "1 tbsp cornflour", "1 tbsp oil", "2 tbsp soy sauce", "2 tbsp honey", "1 garlic clove, crushed", "1 tsp grated ginger", "2 carrots, peeled and thinly sliced", "White jasmine rice, to serve"],
-    "steps": ["Toss the tofu in the cornflour.", "Fry in the oil for 8–10 minutes, turning, until golden.", "Steam or boil the carrots for 8 minutes until very soft.", "Mix the soy, honey, garlic and ginger, pour into the pan and bubble until sticky.", "Serve over rice with the carrots."],
+    "ingredients": [
+      "280g firm tofu, pressed and cubed",
+      "1 tbsp cornflour",
+      "1 tbsp oil",
+      "2 tbsp soy sauce",
+      "2 tbsp honey",
+      "1 garlic clove, crushed",
+      "1 tsp grated ginger",
+      "2 carrots, peeled and thinly sliced",
+      "White jasmine rice, to serve"
+    ],
+    "steps": [
+      "Toss the tofu in the cornflour.",
+      "Fry in the oil for 8–10 minutes, turning, until golden.",
+      "Steam or boil the carrots for 8 minutes until very soft.",
+      "Mix the soy, honey, garlic and ginger, pour into the pan and bubble until sticky.",
+      "Serve over rice with the carrots."
+    ],
     "tip": "Leave off the sesame seeds that usually top this dish. Plain tofu is a minimally processed protein.",
-    "photo": "tofu rice"
+    "photo": "tofu rice",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Store the tofu and carrots for 2 days in the fridge. Cooked rice must be cooled within 1 hour and eaten within 1 day."
+    }
   },
   {
     "id": "butter-paneer",
@@ -280,10 +674,33 @@
     "time": 30,
     "serves": 3,
     "summary": "Paneer in a smooth, creamy tomato sauce — all flavour, no heat.",
-    "ingredients": ["225g paneer, cubed", "30g butter", "1 onion, finely chopped", "2 garlic cloves, crushed", "1 tsp grated ginger", "1 tsp garam masala", "1 tsp ground cumin", "400g passata", "100ml double cream", "1 tsp honey", "White basmati rice or plain naan, to serve"],
-    "steps": ["Fry the paneer in half the butter until golden. Set aside.", "Melt the rest of the butter and soften the onion for 8 minutes. Add garlic, ginger and spices for 1 minute.", "Add the passata and simmer for 10 minutes, then blend until smooth.", "Stir in the cream, honey and paneer and heat through."],
+    "ingredients": [
+      "225g paneer, cubed",
+      "30g butter",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "1 tsp grated ginger",
+      "1 tsp garam masala",
+      "1 tsp ground cumin",
+      "400g passata",
+      "100ml double cream",
+      "1 tsp honey",
+      "White basmati rice or plain naan, to serve"
+    ],
+    "steps": [
+      "Fry the paneer in half the butter until golden. Set aside.",
+      "Melt the rest of the butter and soften the onion for 8 minutes. Add garlic, ginger and spices for 1 minute.",
+      "Add the passata and simmer for 10 minutes, then blend until smooth.",
+      "Stir in the cream, honey and paneer and heat through."
+    ],
     "tip": "Leave out chilli and fresh green chillies. Blending the sauce removes onion pieces.",
-    "photo": "paneer butter masala"
+    "photo": "paneer butter masala",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze for 3 months. The sauce freezes well; add a splash of cream when reheating."
+    }
   },
   {
     "id": "gnocchi-tomato-bake",
@@ -293,10 +710,29 @@
     "time": 30,
     "serves": 3,
     "summary": "Soft potato gnocchi baked in tomato sauce with melting mozzarella.",
-    "ingredients": ["500g potato gnocchi", "1 tbsp olive oil", "1 garlic clove, crushed", "500g passata", "1 tsp dried oregano", "125g mozzarella ball, torn", "Few basil leaves"],
-    "steps": ["Heat the oven to 200°C (180°C fan).", "Warm the oil and garlic, add the passata and oregano and simmer for 10 minutes.", "Boil the gnocchi for 2 minutes until they float. Drain and stir into the sauce.", "Tip into a baking dish, top with mozzarella and bake for 15 minutes until bubbling."],
+    "ingredients": [
+      "500g potato gnocchi",
+      "1 tbsp olive oil",
+      "1 garlic clove, crushed",
+      "500g passata",
+      "1 tsp dried oregano",
+      "125g mozzarella ball, torn",
+      "Few basil leaves"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (180°C fan).",
+      "Warm the oil and garlic, add the passata and oregano and simmer for 10 minutes.",
+      "Boil the gnocchi for 2 minutes until they float. Drain and stir into the sauce.",
+      "Tip into a baking dish, top with mozzarella and bake for 15 minutes until bubbling."
+    ],
     "tip": "Choose gnocchi with a short ingredient list (mostly potato and flour), or make your own.",
-    "photo": "gnocchi baked tomato mozzarella"
+    "photo": "gnocchi baked tomato mozzarella",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Fridge for 2 days. Gnocchi goes soft when frozen, but you can freeze the sauce on its own for 3 months."
+    }
   },
   {
     "id": "lentil-shepherds-pie",
@@ -306,10 +742,35 @@
     "time": 60,
     "serves": 4,
     "summary": "Rich red lentil and carrot filling under fluffy, buttery mash.",
-    "ingredients": ["1 tbsp olive oil", "1 onion, finely chopped", "2 carrots, peeled and finely diced", "200g red lentils, rinsed", "2 tbsp tomato purée", "1 tbsp vegetarian Worcestershire sauce or soy sauce", "600ml vegetable stock", "1 tsp dried thyme", "1kg potatoes, peeled", "50g butter", "Splash of milk", "50g cheddar, grated"],
-    "steps": ["Soften the onion and carrots in the oil for 10 minutes.", "Add the lentils, tomato purée, Worcestershire, stock and thyme. Simmer for 20 minutes until thick.", "Meanwhile, boil the potatoes until soft and mash with the butter and milk.", "Spoon the filling into a dish, top with mash and cheese.", "Bake at 200°C (180°C fan) for 20 minutes until golden."],
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, finely chopped",
+      "2 carrots, peeled and finely diced",
+      "200g red lentils, rinsed",
+      "2 tbsp tomato purée",
+      "1 tbsp vegetarian Worcestershire sauce or soy sauce",
+      "600ml vegetable stock",
+      "1 tsp dried thyme",
+      "1kg potatoes, peeled",
+      "50g butter",
+      "Splash of milk",
+      "50g cheddar, grated"
+    ],
+    "steps": [
+      "Soften the onion and carrots in the oil for 10 minutes.",
+      "Add the lentils, tomato purée, Worcestershire, stock and thyme. Simmer for 20 minutes until thick.",
+      "Meanwhile, boil the potatoes until soft and mash with the butter and milk.",
+      "Spoon the filling into a dish, top with mash and cheese.",
+      "Bake at 200°C (180°C fan) for 20 minutes until golden."
+    ],
     "tip": "No peas here (a common stricture risk). Standard Worcestershire sauce contains anchovies — use a vegetarian one or soy.",
-    "photo": "shepherd's pie"
+    "photo": "shepherd's pie",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Ideal for batch cooking. Fridge for 3 days or freeze (whole or in portions) for 3 months. Defrost in the fridge overnight, then reheat until piping hot."
+    }
   },
   {
     "id": "cauliflower-cheese",
@@ -319,10 +780,28 @@
     "time": 35,
     "serves": 3,
     "summary": "Tender cauliflower in a golden, bubbling cheddar sauce.",
-    "ingredients": ["1 cauliflower, cut into small florets (stalks removed)", "30g butter", "30g plain flour", "400ml milk", "120g mature cheddar, grated", "1 tsp mustard"],
-    "steps": ["Boil the florets for 8–10 minutes until very tender. Drain well.", "Melt the butter, stir in the flour, then slowly whisk in the milk until thick.", "Stir in most of the cheese and the mustard.", "Pour over the cauliflower, top with the rest of the cheese and grill until golden."],
+    "ingredients": [
+      "1 cauliflower, cut into small florets (stalks removed)",
+      "30g butter",
+      "30g plain flour",
+      "400ml milk",
+      "120g mature cheddar, grated",
+      "1 tsp mustard"
+    ],
+    "steps": [
+      "Boil the florets for 8–10 minutes until very tender. Drain well.",
+      "Melt the butter, stir in the flour, then slowly whisk in the milk until thick.",
+      "Stir in most of the cheese and the mustard.",
+      "Pour over the cauliflower, top with the rest of the cheese and grill until golden."
+    ],
     "tip": "Use only the florets and cook them until very soft. Cauliflower can cause wind for some people, so try a small portion first.",
-    "photo": "cauliflower cheese"
+    "photo": "cauliflower cheese",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Fridge for 2 days or freeze for 2 months. Reheat in the oven until bubbling."
+    }
   },
   {
     "id": "halloumi-traybake",
@@ -332,10 +811,30 @@
     "time": 45,
     "serves": 3,
     "summary": "Roasted sweet potato, carrots and courgette with golden halloumi.",
-    "ingredients": ["2 sweet potatoes, peeled and cubed", "3 carrots, peeled and cut into chunks", "1 courgette, peeled and cut into chunks", "1 red onion, cut into wedges", "2 tbsp olive oil", "1 tsp dried oregano", "225g halloumi, sliced", "Squeeze of lemon"],
-    "steps": ["Heat the oven to 200°C (180°C fan).", "Toss the veg with oil and oregano on a large tray and roast for 30 minutes.", "Add the halloumi slices and roast for 10–15 minutes more until golden.", "Finish with lemon."],
+    "ingredients": [
+      "2 sweet potatoes, peeled and cubed",
+      "3 carrots, peeled and cut into chunks",
+      "1 courgette, peeled and cut into chunks",
+      "1 red onion, cut into wedges",
+      "2 tbsp olive oil",
+      "1 tsp dried oregano",
+      "225g halloumi, sliced",
+      "Squeeze of lemon"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (180°C fan).",
+      "Toss the veg with oil and oregano on a large tray and roast for 30 minutes.",
+      "Add the halloumi slices and roast for 10–15 minutes more until golden.",
+      "Finish with lemon."
+    ],
     "tip": "Roast until the veg is soft all the way through, not crunchy at the edges.",
-    "photo": "halloumi roasted vegetables"
+    "photo": "halloumi roasted vegetables",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Fridge for 2 days. Halloumi goes rubbery if frozen, but the roast veg alone freezes for 2 months."
+    }
   },
   {
     "id": "egg-fried-rice",
@@ -345,10 +844,28 @@
     "time": 15,
     "serves": 2,
     "summary": "Quick fried rice with egg and soft carrot — no peas or sweetcorn.",
-    "ingredients": ["250g cooked and cooled white rice", "1 tbsp oil", "1 carrot, peeled and finely grated", "3 eggs, beaten", "2 tbsp soy sauce", "1 spring onion, green part only, finely sliced"],
-    "steps": ["Heat the oil in a wok and cook the grated carrot for 2–3 minutes until soft.", "Push to one side, add the eggs and scramble.", "Add the rice and soy sauce and stir-fry until piping hot.", "Scatter over the spring onion."],
+    "ingredients": [
+      "250g cooked and cooled white rice",
+      "1 tbsp oil",
+      "1 carrot, peeled and finely grated",
+      "3 eggs, beaten",
+      "2 tbsp soy sauce",
+      "1 spring onion, green part only, finely sliced"
+    ],
+    "steps": [
+      "Heat the oil in a wok and cook the grated carrot for 2–3 minutes until soft.",
+      "Push to one side, add the eggs and scramble.",
+      "Add the rice and soy sauce and stir-fry until piping hot.",
+      "Scatter over the spring onion."
+    ],
     "tip": "Shop and takeaway versions usually include peas and sweetcorn — making it yourself avoids both.",
-    "photo": "egg fried rice"
+    "photo": "egg fried rice",
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Cool within 1 hour, fridge, and eat within 1 day. Reheat only once, until steaming hot. Don't freeze."
+    }
   },
   {
     "id": "red-pepper-pasta",
@@ -358,10 +875,28 @@
     "time": 20,
     "serves": 2,
     "summary": "Pasta in a silky blended sauce of roast peppers and cream cheese.",
-    "ingredients": ["200g pasta", "1 jar (about 220g drained) roasted red peppers", "1 garlic clove", "75g cream cheese", "30g vegetarian Italian-style hard cheese, grated", "Few basil leaves"],
-    "steps": ["Cook the pasta. Keep a cup of the water.", "Blend the peppers, garlic, cream cheese and hard cheese until very smooth.", "Warm the sauce in the pan, loosening with pasta water.", "Toss with the pasta and top with basil."],
+    "ingredients": [
+      "200g pasta",
+      "1 jar (about 220g drained) roasted red peppers",
+      "1 garlic clove",
+      "75g cream cheese",
+      "30g vegetarian Italian-style hard cheese, grated",
+      "Few basil leaves"
+    ],
+    "steps": [
+      "Cook the pasta. Keep a cup of the water.",
+      "Blend the peppers, garlic, cream cheese and hard cheese until very smooth.",
+      "Warm the sauce in the pan, loosening with pasta water.",
+      "Toss with the pasta and top with basil."
+    ],
     "tip": "Blending the peppers removes any bits of skin.",
-    "photo": "red pepper pasta"
+    "photo": "red pepper pasta",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Batch-make the sauce: fridge for 3 days or freeze for 3 months. Cooked pasta with sauce keeps 2 days in the fridge."
+    }
   },
   {
     "id": "spinach-ricotta-pasta-bake",
@@ -371,10 +906,31 @@
     "time": 40,
     "serves": 4,
     "summary": "Pasta shells baked with tomato sauce, creamy ricotta and blended spinach.",
-    "ingredients": ["300g pasta shells", "200g spinach", "250g ricotta", "1 egg", "Pinch of nutmeg", "500g passata", "1 garlic clove, crushed", "125g mozzarella"],
-    "steps": ["Cook the pasta until soft. Drain.", "Wilt the spinach, squeeze dry and blend or chop very finely. Mix with the ricotta, egg and nutmeg.", "Warm the passata with the garlic for 5 minutes.", "Mix the pasta with the sauce, dollop over the ricotta mix and top with mozzarella.", "Bake at 200°C (180°C fan) for 20 minutes."],
+    "ingredients": [
+      "300g pasta shells",
+      "200g spinach",
+      "250g ricotta",
+      "1 egg",
+      "Pinch of nutmeg",
+      "500g passata",
+      "1 garlic clove, crushed",
+      "125g mozzarella"
+    ],
+    "steps": [
+      "Cook the pasta until soft. Drain.",
+      "Wilt the spinach, squeeze dry and blend or chop very finely. Mix with the ricotta, egg and nutmeg.",
+      "Warm the passata with the garlic for 5 minutes.",
+      "Mix the pasta with the sauce, dollop over the ricotta mix and top with mozzarella.",
+      "Bake at 200°C (180°C fan) for 20 minutes."
+    ],
     "tip": "Finely chopped or blended spinach is easier to digest than whole leaves.",
-    "photo": "pasta bake ricotta spinach"
+    "photo": "pasta bake ricotta spinach",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Fridge for 2 days or freeze for 2 months. Reheat covered in the oven until hot all the way through."
+    }
   },
   {
     "id": "miso-noodle-soup",
@@ -384,10 +940,30 @@
     "time": 15,
     "serves": 2,
     "summary": "A light, soothing broth with soft noodles and silken tofu.",
-    "ingredients": ["1 litre water", "2 tbsp white miso paste", "1 tbsp soy sauce", "1 tsp grated ginger", "150g udon or rice noodles", "150g silken tofu, cubed", "1 carrot, peeled and cut into thin ribbons", "1 spring onion, green part only, finely sliced"],
-    "steps": ["Bring the water to a simmer with the ginger and carrot. Cook for 5 minutes.", "Add the noodles and cook as the packet says.", "Turn off the heat, then whisk in the miso and soy.", "Add the tofu gently and serve topped with spring onion."],
+    "ingredients": [
+      "1 litre water",
+      "2 tbsp white miso paste",
+      "1 tbsp soy sauce",
+      "1 tsp grated ginger",
+      "150g udon or rice noodles",
+      "150g silken tofu, cubed",
+      "1 carrot, peeled and cut into thin ribbons",
+      "1 spring onion, green part only, finely sliced"
+    ],
+    "steps": [
+      "Bring the water to a simmer with the ginger and carrot. Cook for 5 minutes.",
+      "Add the noodles and cook as the packet says.",
+      "Turn off the heat, then whisk in the miso and soy.",
+      "Add the tofu gently and serve topped with spring onion."
+    ],
     "tip": "Don't boil the miso — add it off the heat. Udon noodles are soft and low in fibre.",
-    "photo": "miso soup noodles"
+    "photo": "miso soup noodles",
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best fresh. The broth (without noodles or tofu) keeps 1 day in the fridge."
+    }
   },
   {
     "id": "sweet-potato-coconut-curry",
@@ -397,10 +973,32 @@
     "time": 35,
     "serves": 4,
     "summary": "A gentle, creamy curry with peeled sweet potato and spinach.",
-    "ingredients": ["1 tbsp oil", "1 onion, finely chopped", "2 garlic cloves, crushed", "1 tsp grated ginger", "2 tsp mild curry powder", "2 sweet potatoes, peeled and cubed", "400ml tin coconut milk", "200ml vegetable stock", "100g spinach, finely chopped", "White basmati rice, to serve"],
-    "steps": ["Soften the onion in the oil for 8 minutes. Add the garlic, ginger and curry powder for 1 minute.", "Add the sweet potato, coconut milk and stock. Simmer for 20 minutes until soft.", "Stir in the spinach until wilted.", "Serve with rice."],
+    "ingredients": [
+      "1 tbsp oil",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "1 tsp grated ginger",
+      "2 tsp mild curry powder",
+      "2 sweet potatoes, peeled and cubed",
+      "400ml tin coconut milk",
+      "200ml vegetable stock",
+      "100g spinach, finely chopped",
+      "White basmati rice, to serve"
+    ],
+    "steps": [
+      "Soften the onion in the oil for 8 minutes. Add the garlic, ginger and curry powder for 1 minute.",
+      "Add the sweet potato, coconut milk and stock. Simmer for 20 minutes until soft.",
+      "Stir in the spinach until wilted.",
+      "Serve with rice."
+    ],
     "tip": "Pick a 'mild' curry powder and check it has no chilli listed high up.",
-    "photo": "sweet potato curry"
+    "photo": "sweet potato curry",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Great for batch cooking. Fridge for 3 days or freeze for 3 months. Cook rice fresh."
+    }
   },
   {
     "id": "baked-eggs-spinach",
@@ -410,10 +1008,28 @@
     "time": 20,
     "serves": 2,
     "summary": "Eggs baked in little dishes with cream, spinach purée and cheese.",
-    "ingredients": ["Butter for greasing", "50g spinach, wilted and finely chopped", "4 eggs", "4 tbsp double cream", "30g gruyère or cheddar, grated", "White toast, to serve"],
-    "steps": ["Heat the oven to 180°C (160°C fan). Butter 2 ramekins.", "Divide the spinach between them, crack 2 eggs into each and spoon over the cream.", "Top with cheese and bake for 12–15 minutes until the whites are set.", "Serve with toast for dipping."],
+    "ingredients": [
+      "Butter for greasing",
+      "50g spinach, wilted and finely chopped",
+      "4 eggs",
+      "4 tbsp double cream",
+      "30g gruyère or cheddar, grated",
+      "White toast, to serve"
+    ],
+    "steps": [
+      "Heat the oven to 180°C (160°C fan). Butter 2 ramekins.",
+      "Divide the spinach between them, crack 2 eggs into each and spoon over the cream.",
+      "Top with cheese and bake for 12–15 minutes until the whites are set.",
+      "Serve with toast for dipping."
+    ],
     "tip": "A quick, soft, high-protein meal for days when you don't feel like much.",
-    "photo": "baked eggs ramekin"
+    "photo": "baked eggs ramekin",
+    "storage": {
+      "fridgeDays": 0,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten straight away."
+    }
   },
   {
     "id": "cheesy-polenta",
@@ -423,10 +1039,30 @@
     "time": 25,
     "serves": 2,
     "summary": "Soft, creamy polenta topped with a slow-simmered smooth tomato sauce.",
-    "ingredients": ["150g quick-cook polenta", "750ml vegetable stock", "30g butter", "50g vegetarian Italian-style hard cheese, grated", "400g passata", "1 tbsp olive oil", "1 garlic clove, crushed", "Few basil leaves"],
-    "steps": ["Warm the oil and garlic, add the passata and simmer for 15 minutes.", "Bring the stock to the boil and whisk in the polenta. Cook, stirring, for 5 minutes until thick.", "Beat in the butter and cheese.", "Spoon into bowls and top with the sauce and basil."],
+    "ingredients": [
+      "150g quick-cook polenta",
+      "750ml vegetable stock",
+      "30g butter",
+      "50g vegetarian Italian-style hard cheese, grated",
+      "400g passata",
+      "1 tbsp olive oil",
+      "1 garlic clove, crushed",
+      "Few basil leaves"
+    ],
+    "steps": [
+      "Warm the oil and garlic, add the passata and simmer for 15 minutes.",
+      "Bring the stock to the boil and whisk in the polenta. Cook, stirring, for 5 minutes until thick.",
+      "Beat in the butter and cheese.",
+      "Spoon into bowls and top with the sauce and basil."
+    ],
     "tip": "Polenta is made from finely ground corn, without the tough husks of whole sweetcorn kernels. Try a small portion first.",
-    "photo": "polenta"
+    "photo": "polenta",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 3,
+      "batch": false,
+      "text": "Polenta sets firm in the fridge (2 days) — slice and fry it, or reheat with milk. The tomato sauce freezes for 3 months."
+    }
   },
   {
     "id": "stewed-apple-custard",
@@ -436,10 +1072,31 @@
     "time": 20,
     "serves": 4,
     "summary": "Soft cinnamon apple with simple homemade custard.",
-    "ingredients": ["4 apples, peeled, cored and chopped", "2 tbsp sugar", "½ tsp cinnamon", "3 tbsp water", "400ml whole milk", "3 egg yolks", "2 tbsp sugar (for custard)", "1 tbsp cornflour", "1 tsp vanilla extract"],
-    "steps": ["Simmer the apples, sugar, cinnamon and water with a lid on for 10 minutes until soft.", "For the custard, heat the milk until steaming.", "Whisk the yolks, sugar, cornflour and vanilla, then slowly whisk in the hot milk.", "Return to the pan and stir over a low heat until thick. Pour over the apples."],
+    "ingredients": [
+      "4 apples, peeled, cored and chopped",
+      "2 tbsp sugar",
+      "½ tsp cinnamon",
+      "3 tbsp water",
+      "400ml whole milk",
+      "3 egg yolks",
+      "2 tbsp sugar (for custard)",
+      "1 tbsp cornflour",
+      "1 tsp vanilla extract"
+    ],
+    "steps": [
+      "Simmer the apples, sugar, cinnamon and water with a lid on for 10 minutes until soft.",
+      "For the custard, heat the milk until steaming.",
+      "Whisk the yolks, sugar, cornflour and vanilla, then slowly whisk in the hot milk.",
+      "Return to the pan and stir over a low heat until thick. Pour over the apples."
+    ],
     "tip": "Homemade custard avoids colourings and thickeners in many ready-made versions.",
-    "photo": "apple custard"
+    "photo": "apple custard",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Stewed apple keeps 3 days in the fridge or freezes for 3 months. Custard keeps 2 days in the fridge — don't freeze it."
+    }
   },
   {
     "id": "rice-pudding",
@@ -449,10 +1106,27 @@
     "time": 40,
     "serves": 4,
     "summary": "Slow-cooked pudding rice in vanilla milk — pure comfort.",
-    "ingredients": ["100g pudding rice", "1 litre whole milk", "50g sugar", "1 tsp vanilla extract", "Small knob of butter", "Pinch of nutmeg"],
-    "steps": ["Put the rice, milk, sugar and vanilla in a pan.", "Simmer very gently for 30–35 minutes, stirring often, until thick and creamy.", "Stir in the butter and top with nutmeg."],
+    "ingredients": [
+      "100g pudding rice",
+      "1 litre whole milk",
+      "50g sugar",
+      "1 tsp vanilla extract",
+      "Small knob of butter",
+      "Pinch of nutmeg"
+    ],
+    "steps": [
+      "Put the rice, milk, sugar and vanilla in a pan.",
+      "Simmer very gently for 30–35 minutes, stirring often, until thick and creamy.",
+      "Stir in the butter and top with nutmeg."
+    ],
     "tip": "Very gentle and filling — a good choice during a flare.",
-    "photo": "rice pudding"
+    "photo": "rice pudding",
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Cool within 1 hour and fridge for up to 2 days. Eat cold, or reheat once until hot. Don't freeze."
+    }
   },
   {
     "id": "banana-bread",
@@ -462,10 +1136,30 @@
     "time": 70,
     "serves": 8,
     "summary": "Moist, nut-free banana bread with a short, simple ingredient list.",
-    "ingredients": ["3 very ripe bananas", "75g melted butter", "100g light brown sugar", "1 egg", "1 tsp vanilla extract", "1 tsp bicarbonate of soda", "Pinch of salt", "190g plain flour"],
-    "steps": ["Heat the oven to 180°C (160°C fan) and line a loaf tin.", "Mash the bananas, then stir in the butter, sugar, egg and vanilla.", "Fold in the bicarb, salt and flour.", "Pour into the tin and bake for 50–60 minutes until a skewer comes out clean."],
+    "ingredients": [
+      "3 very ripe bananas",
+      "75g melted butter",
+      "100g light brown sugar",
+      "1 egg",
+      "1 tsp vanilla extract",
+      "1 tsp bicarbonate of soda",
+      "Pinch of salt",
+      "190g plain flour"
+    ],
+    "steps": [
+      "Heat the oven to 180°C (160°C fan) and line a loaf tin.",
+      "Mash the bananas, then stir in the butter, sugar, egg and vanilla.",
+      "Fold in the bicarb, salt and flour.",
+      "Pour into the tin and bake for 50–60 minutes until a skewer comes out clean."
+    ],
     "tip": "No walnuts or seeds — just plain banana bread.",
-    "photo": "banana bread"
+    "photo": "banana bread",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Keep wrapped at room temperature for 3 days. Freeze whole or in slices for 3 months."
+    }
   },
   {
     "id": "homemade-hummus",
@@ -475,9 +1169,28 @@
     "time": 15,
     "serves": 4,
     "summary": "Extra-smooth hummus with warm pitta for dipping.",
-    "ingredients": ["400g tin chickpeas, drained (keep the liquid)", "2 tbsp tahini", "Juice of 1 lemon", "1 small garlic clove", "2 tbsp olive oil", "3–4 tbsp ice-cold water", "White pitta, to serve"],
-    "steps": ["For the smoothest hummus, pinch the skins off the chickpeas (or simmer them for 10 minutes with ½ tsp bicarb, then rinse).", "Blend the tahini and lemon first until creamy.", "Add the chickpeas, garlic and oil, and blend for 3–4 minutes, adding water until silky.", "Serve with warm pitta."],
+    "ingredients": [
+      "400g tin chickpeas, drained (keep the liquid)",
+      "2 tbsp tahini",
+      "Juice of 1 lemon",
+      "1 small garlic clove",
+      "2 tbsp olive oil",
+      "3–4 tbsp ice-cold water",
+      "White pitta, to serve"
+    ],
+    "steps": [
+      "For the smoothest hummus, pinch the skins off the chickpeas (or simmer them for 10 minutes with ½ tsp bicarb, then rinse).",
+      "Blend the tahini and lemon first until creamy.",
+      "Add the chickpeas, garlic and oil, and blend for 3–4 minutes, adding water until silky.",
+      "Serve with warm pitta."
+    ],
     "tip": "Removing the chickpea skins and blending for longer gives a much smoother result. Tahini is smooth ground sesame, not whole seeds.",
-    "photo": "hummus pita"
+    "photo": "hummus pita",
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Keep in a sealed tub in the fridge for 3 days, or freeze for 2 months. Stir well after thawing."
+    }
   }
 ]

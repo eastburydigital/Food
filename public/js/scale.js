@@ -32,8 +32,22 @@ function formatMetric(n) {
   return String(Math.round(n));
 }
 
+// Keep common nouns agreeing with the new number: "1 egg", "2 lemons", "1 garlic clove".
+const NOUNS = ['egg yolk', 'egg', 'garlic clove', 'lemon', 'lime', 'banana', 'apple', 'pear', 'carrot', 'courgette', 'onion', 'leek', 'sweet potato', 'potato', 'sheet', 'slice'];
+function agree(tail, n) {
+  for (const w of NOUNS) {
+    const pl = w.endsWith('potato') ? `${w}es` : `${w}s`;
+    const re = new RegExp(String.raw`^(\s*(?:(?:large|medium|small|ripe|very ripe|dried) )?)(${pl}|${w})\b`);
+    const m = tail.match(re);
+    if (m) return m[1] + (n > 1 ? pl : w) + tail.slice(m[0].length);
+  }
+  return tail;
+}
+
 export function scaleLine(text, factor) {
   if (factor === 1) return text;
+  const pre = text.match(/^((?:Zest and juice|Juice|Zest) of )(.*)$/i);
+  if (pre) return pre[1] + scaleLine(pre[2], factor);
   const m = text.match(LEAD);
   if (!m) return text;
   const [, a, b, rest] = m;
@@ -47,20 +61,26 @@ export function scaleLine(text, factor) {
   const metric = /^\s*(g|ml)\b/.test(rest);
   const kilo = /^\s*kg\b/.test(rest);
   const litre = /^\s*litres?\b/.test(rest);
-  const egg = /^\s*(large |medium |small )?(eggs?|egg yolks?)\b/.test(rest);
+  // Things you can't sensibly have half of: round to whole numbers.
+  const whole = /^\s*(large |medium |small )?(eggs?|egg yolks?)\b/.test(rest) || /\b(sheets?|slices?)\b/.test(rest);
   const fmt = (v) => {
     const x = parseNum(v) * factor;
     if (metric) return formatMetric(x);
     if (kilo) return String(Math.round(x * 10) / 10);
-    if (egg) return String(Math.max(1, Math.round(x)));
+    if (whole) return String(Math.max(1, Math.round(x)));
     return formatCount(x);
   };
   if (litre) {
-    const val = parseNum(b || a) * factor;
     const tail = rest.replace(/^\s*litres?/, '');
-    if (val < 1) return `${formatMetric(val * 1000)}ml${tail}`;
-    const v = Math.round(val * 10) / 10;
-    return `${v} ${v === 1 ? 'litre' : 'litres'}${tail}`;
+    const lo = parseNum(a) * factor;
+    const hi = b ? parseNum(b) * factor : lo;
+    if (hi < 1) return `${formatMetric(lo * 1000)}${b ? `–${formatMetric(hi * 1000)}` : ''}ml${tail}`;
+    const r = (v) => Math.round(v * 10) / 10;
+    return `${r(lo)}${b && r(hi) !== r(lo) ? `–${r(hi)}` : ''} ${r(hi) === 1 ? 'litre' : 'litres'}${tail}`;
   }
-  return fmt(a) + (b ? `–${fmt(b)}` : '') + rest;
+  const lo = fmt(a);
+  const hi = b ? fmt(b) : null;
+  let out = lo + (hi && hi !== lo ? `–${hi}` : '');
+  let tail = rest;
+  return out + agree(tail, parseNum(hi || lo));
 }

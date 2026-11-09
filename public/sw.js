@@ -1,9 +1,15 @@
-// Offline support: serve the app from cache, refresh it in the background.
-const VERSION = 'gk-v3';
+// Offline support. Network first, so a new deploy shows up straight away;
+// the cache is only used when the phone is offline.
+// __BUILD__ is replaced with a unique id on every Netlify build (see netlify.toml).
+const VERSION = 'gk-__BUILD__';
 const SHELL = ['/', '/index.html', '/styles.css', '/js/app.js', '/js/store.js', '/js/scale.js', '/js/aisles.js', '/js/recommend.js', '/recipes.json', '/manifest.webmanifest', '/icons/icon-192.png'];
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(VERSION).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  e.waitUntil(
+    caches.open(VERSION)
+      .then((c) => Promise.all(SHELL.map((url) => fetch(url, { cache: 'no-cache' }).then((res) => clean(res) && c.put(url, res)).catch(() => {}))))
+      .then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener('activate', (e) => {
@@ -14,18 +20,25 @@ self.addEventListener('activate', (e) => {
   );
 });
 
+// Only keep real files: not redirects (e.g. a login page) or errors.
+function clean(res) {
+  return res && res.ok && !res.redirected && res.type === 'basic';
+}
+
 self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
-  e.respondWith(
-    caches.open(VERSION).then(async (cache) => {
+  e.respondWith((async () => {
+    const cache = await caches.open(VERSION);
+    try {
+      const res = await fetch(req);
+      if (clean(res)) cache.put(req, res.clone());
+      return res;
+    } catch {
       const cached = await cache.match(req, { ignoreSearch: true });
-      const network = fetch(req).then((res) => {
-        if (res.ok) cache.put(req, res.clone());
-        return res;
-      }).catch(() => cached || (req.mode === 'navigate' ? cache.match('/index.html') : undefined));
-      // Photos rarely change: use the cache first. Everything else: cached copy now, fresh copy next time.
-      return cached || network;
-    })
-  );
+      if (cached) return cached;
+      if (req.mode === 'navigate') return (await cache.match('/index.html')) || Response.error();
+      return Response.error();
+    }
+  })());
 });

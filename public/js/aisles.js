@@ -12,7 +12,9 @@ const AISLES = [
 
 // Checked first: phrases that would otherwise match the wrong aisle ("coconut milk", "tin butter beans").
 const SPECIFIC = [
-  ['Tins & jars', /\btin\b|\bjar\b|coconut milk|peanut butter|almond butter|roasted red pepper|passata/i],
+  ['Tins & jars', /\btin\b|\bjar\b|coconut (milk|cream)|peanut butter|almond butter|roasted red pepper|passata|butter beans?/i],
+  ['Spices & oils', /ground (ginger|cumin|coriander|turmeric|cinnamon)|black pepper|white pepper|sesame oil|mirin|vinegar/i],
+  ['Dairy & eggs', /milk powder/i],
   ['Chilled', /gnocchi|tofu/i],
   ['Spices & oils', /salt and pepper|^salt\b/i],
 ];

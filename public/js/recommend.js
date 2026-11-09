@@ -127,7 +127,7 @@ export function suggest(pool, signals, all, count = 6) {
   // Something new: untried, not disliked-looking, and different from what's already picked.
   const fresh = scored.filter((c) => c.untried && c.score > -0.25);
   while (picked.length < count) {
-    const c = pickBest(fresh.length ? fresh : scored, () => 0.3);
+    const c = pickBest(fresh, () => 0.3) || pickBest(scored, () => 0.3);
     if (!c) break;
     picked.push({ ...c, kind: 'new', reason: hasProfile ? 'Something new to try' : 'A good place to start' });
   }

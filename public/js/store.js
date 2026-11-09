@@ -12,8 +12,18 @@ export const store = {
       return fallback;
     }
   },
+  onError: null, // set by the app to tell the person a save failed
   set(key, value) {
-    try { localStorage.setItem(PREFIX + key, JSON.stringify(value)); } catch { /* storage full or blocked */ }
+    try {
+      localStorage.setItem(PREFIX + key, JSON.stringify(value));
+      return true;
+    } catch {
+      this.onError?.();
+      return false;
+    }
+  },
+  remove(key) {
+    try { localStorage.removeItem(PREFIX + key); } catch { /* ignore */ }
   },
   keys() {
     try {
@@ -44,6 +54,7 @@ function tx(mode, fn) {
     const result = fn(t.objectStore('photos'));
     t.oncomplete = () => resolve(result && 'result' in result ? result.result : undefined);
     t.onerror = () => reject(t.error);
+    t.onabort = () => reject(t.error);
   }));
 }
 
@@ -82,7 +93,8 @@ export const photos = {
   },
   async importAll(map) {
     for (const [id, dataUrl] of Object.entries(map || {})) {
-      const blob = await (await fetch(dataUrl)).blob();
+      const blob = dataUrlToBlob(dataUrl);
+      if (!blob) continue;
       await tx('readwrite', (s) => s.put(blob, id));
       this.urls.set(id, URL.createObjectURL(blob));
     }
@@ -107,6 +119,21 @@ function loadImage(file) {
     img.onerror = () => { URL.revokeObjectURL(url); reject(new Error('That photo could not be read. Try a JPEG or PNG.')); };
     img.src = url;
   });
+}
+
+// Only accept embedded images; never fetch arbitrary URLs from a backup file.
+function dataUrlToBlob(dataUrl) {
+  const m = typeof dataUrl === 'string' && dataUrl.match(/^data:(image\/(?:jpeg|png|webp));base64,([A-Za-z0-9+/=]+)$/);
+  if (!m) return null;
+  const bin = atob(m[2]);
+  const bytes = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+  return new Blob([bytes], { type: m[1] });
+}
+
+export async function clearPhotos() {
+  try { await tx('readwrite', (s) => s.clear()); } catch { /* ignore */ }
+  photos.urls.clear();
 }
 
 function blobToDataUrl(blob) {

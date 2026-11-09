@@ -1,6 +1,6 @@
 // Offline support: serve the app from cache, refresh it in the background.
-const VERSION = 'gk-v2';
-const SHELL = ['/', '/index.html', '/styles.css', '/app.js', '/recipes.json', '/photos.json', '/manifest.webmanifest', '/icons/icon-192.png'];
+const VERSION = 'gk-v3';
+const SHELL = ['/', '/index.html', '/styles.css', '/js/app.js', '/js/store.js', '/js/scale.js', '/js/aisles.js', '/js/recommend.js', '/recipes.json', '/manifest.webmanifest', '/icons/icon-192.png'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));

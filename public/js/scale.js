@@ -34,7 +34,7 @@ function formatMetric(n) {
 
 // Keep common nouns agreeing with the new number: "1 egg", "2 lemons", "1 garlic clove".
 const NOUNS = ['egg yolk', 'egg', 'garlic clove', 'lemon', 'lime', 'banana', 'apple', 'pear', 'carrot', 'courgette', 'onion', 'leek', 'sweet potato', 'potato', 'sheet', 'slice'];
-function agree(tail, n) {
+export function agree(tail, n) {
   for (const w of NOUNS) {
     const pl = w.endsWith('potato') ? `${w}es` : `${w}s`;
     const re = new RegExp(String.raw`^(\s*(?:(?:large|medium|small|ripe|very ripe|dried) )?)(${pl}|${w})\b`);
@@ -77,6 +77,12 @@ export function scaleLine(text, factor) {
     if (hi < 1) return `${formatMetric(lo * 1000)}${b ? `–${formatMetric(hi * 1000)}` : ''}ml${tail}`;
     const r = (v) => Math.round(v * 10) / 10;
     return `${r(lo)}${b && r(hi) !== r(lo) ? `–${r(hi)}` : ''} ${r(hi) === 1 ? 'litre' : 'litres'}${tail}`;
+  }
+  // Big metric amounts read better as litres or kilos.
+  if (metric && !b) {
+    const x = parseNum(a) * factor;
+    const unit = rest.match(/^\s*(g|ml)\b/)[1];
+    if (x >= 1000) return `${Math.round(x / 100) / 10}${unit === 'g' ? 'kg' : ' litres'}${rest.replace(/^\s*(g|ml)\b/, '')}`;
   }
   const lo = fmt(a);
   const hi = b ? fmt(b) : null;

@@ -1,7 +1,7 @@
 {
   "name": "Gentle Kitchen",
   "short_name": "Gentle Kitchen",
-  "description": "Vegetarian, low-residue, minimally processed recipes for Crohn's with strictures.",
+  "description": "Gentle, low-residue vegetarian recipe ideas.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

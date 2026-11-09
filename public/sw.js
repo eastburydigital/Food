@@ -2,7 +2,7 @@
 // the cache is only used when the phone is offline.
 // __BUILD__ is replaced with a unique id on every Netlify build (see netlify.toml).
 const VERSION = 'gk-__BUILD__';
-const SHELL = ['/', '/index.html', '/styles.css', '/js/app.js', '/js/store.js', '/js/scale.js', '/js/aisles.js', '/js/recommend.js', '/recipes.json', '/manifest.webmanifest', '/icons/icon-192.png'];
+const SHELL = ['/', '/index.html', '/styles.css', '/js/app.js', '/js/store.js', '/js/scale.js', '/js/aisles.js', '/js/recommend.js', '/js/swaps.js', '/recipes.json', '/manifest.webmanifest', '/icons/icon-192.png'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(

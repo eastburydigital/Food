@@ -2914,5 +2914,385 @@
       "batch": true,
       "text": "Cover and keep in the fridge for 3 days. Don't freeze."
     }
+  },
+  {
+    "id": "squash-tofu-soup",
+    "title": "Butternut & silken tofu soup",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 35,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "Silky squash soup with silken tofu blended in for protein you can't taste.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "600g butternut squash, peeled, deseeded and cubed",
+      "800ml vegetable stock",
+      "300g silken tofu",
+      "Pinch of nutmeg",
+      "Squeeze of lemon, and salt to taste"
+    ],
+    "steps": [
+      "Soften the onion in the oil for 5 minutes.",
+      "Add the squash and stock and simmer for 20 minutes until very soft.",
+      "Add the tofu and nutmeg and blend until completely smooth.",
+      "Finish with lemon and salt."
+    ],
+    "tip": "Silken tofu adds protein to a gentle soup without changing the texture.",
+    "swaps": [
+      "Use peeled sweet potato instead of squash"
+    ],
+    "nutrients": [
+      "protein"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze in portions for 3 months. Blend again after thawing if it separates."
+    }
+  },
+  {
+    "id": "egg-enriched-mash",
+    "title": "Cheesy egg-enriched mash",
+    "meal": "dinner",
+    "gentle": true,
+    "time": 25,
+    "serves": 2,
+    "texture": "smooth",
+    "summary": "Extra-smooth mash with egg yolk and cheese beaten in — soft, filling and nourishing.",
+    "ingredients": [
+      "500g floury potatoes, peeled and cut into chunks",
+      "30g butter",
+      "75ml warm milk",
+      "2 egg yolks",
+      "40g cheddar, finely grated"
+    ],
+    "steps": [
+      "Boil the potatoes for 15 minutes until very soft. Drain well.",
+      "Mash until completely smooth, or push through a sieve.",
+      "Over a low heat, beat in the butter, milk, egg yolks and cheese for 2 minutes until glossy and hot.",
+      "Season and serve."
+    ],
+    "tip": "Beating the yolks into hot mash cooks them through and adds protein and energy when appetite is low.",
+    "swaps": [
+      "Use oat milk and olive oil for a dairy-free version, and leave out the cheese"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 1,
+      "batch": false,
+      "text": "Fridge for 2 days. Freezes for 1 month but may go a little grainy — beat in a splash of milk when reheating until piping hot."
+    }
+  },
+  {
+    "id": "vanilla-protein-shake",
+    "title": "Vanilla protein shake",
+    "meal": "snack",
+    "gentle": true,
+    "time": 5,
+    "serves": 1,
+    "texture": "smooth",
+    "summary": "A creamy, energy-rich shake made from everyday ingredients — no protein powder needed.",
+    "ingredients": [
+      "250ml whole milk",
+      "3 tbsp skimmed milk powder",
+      "100g Greek yoghurt",
+      "1 tsp honey",
+      "½ tsp vanilla extract"
+    ],
+    "steps": [
+      "Blend everything until smooth and frothy.",
+      "Drink chilled, slowly."
+    ],
+    "tip": "Milk powder roughly doubles the protein of a glass of milk without making it bigger.",
+    "swaps": [
+      "Add ½ ripe banana for a thicker shake"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake well."
+    }
+  },
+  {
+    "id": "cottage-cheese-dip",
+    "title": "Smooth herby cottage cheese dip",
+    "meal": "snack",
+    "gentle": false,
+    "time": 5,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "A no-cook, high-protein dip blended until silky, with soft warm pitta.",
+    "ingredients": [
+      "300g cottage cheese",
+      "1 tbsp olive oil",
+      "1 tbsp very finely chopped dill or chives",
+      "1 lemon, zested, plus a squeeze of juice",
+      "White pitta, to serve"
+    ],
+    "steps": [
+      "Blend the cottage cheese and oil until completely smooth.",
+      "Stir in the herbs, lemon zest and juice. Season.",
+      "Serve with warm pitta, cut into strips."
+    ],
+    "tip": "Blending removes the curds for a smooth texture. Leave out the herbs on harder days.",
+    "swaps": [
+      "Use ricotta instead of cottage cheese"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 0,
+      "batch": true,
+      "text": "Keep covered in the fridge for 3 days. Don't freeze."
+    }
+  },
+  {
+    "id": "yoghurt-jam-pot",
+    "title": "Yoghurt & seedless jam pot",
+    "meal": "snack",
+    "gentle": true,
+    "time": 2,
+    "serves": 1,
+    "texture": "smooth",
+    "summary": "A no-cook snack in two minutes — thick yoghurt swirled with smooth jam.",
+    "ingredients": [
+      "150g Greek or natural yoghurt",
+      "1 tbsp seedless jam (e.g. apricot)",
+      "1 tsp honey (optional)"
+    ],
+    "steps": [
+      "Spoon the yoghurt into a bowl or jar.",
+      "Swirl through the jam and honey."
+    ],
+    "tip": "Check the jam says seedless — raspberry and strawberry jams usually have seeds.",
+    "swaps": [
+      "Use stewed pear or apple instead of jam"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best made fresh. Can be made the night before and kept covered in the fridge."
+    }
+  },
+  {
+    "id": "peanut-banana-toast",
+    "title": "Peanut butter & banana toast",
+    "meal": "snack",
+    "gentle": false,
+    "time": 5,
+    "serves": 1,
+    "texture": "soft",
+    "summary": "A quick, filling snack — smooth peanut butter and mashed banana on soft white toast.",
+    "ingredients": [
+      "1 slice white bread or sourdough",
+      "1 tbsp smooth peanut butter (100% peanuts)",
+      "½ ripe banana",
+      "Pinch of cinnamon"
+    ],
+    "steps": [
+      "Toast the bread lightly.",
+      "Spread with peanut butter.",
+      "Mash the banana on top and sprinkle with cinnamon."
+    ],
+    "tip": "Lightly toasted white bread is softer than very crisp toast. Use smooth nut butter only.",
+    "swaps": [
+      "Use smooth tahini instead of peanut butter"
+    ],
+    "nutrients": [
+      "protein"
+    ],
+    "storage": {
+      "fridgeDays": 0,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten straight away."
+    }
+  },
+  {
+    "id": "poached-egg-mash",
+    "title": "Poached eggs on buttery mash",
+    "meal": "dinner",
+    "gentle": true,
+    "time": 25,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "A light, gentle supper — soft poached eggs on smooth mash with a little chive butter.",
+    "ingredients": [
+      "500g potatoes, peeled and cut into chunks",
+      "15g butter",
+      "75ml milk",
+      "4 eggs",
+      "1 tsp very finely snipped chives (optional)"
+    ],
+    "steps": [
+      "Boil the potatoes for 15 minutes until very soft. Drain and mash smooth with the butter and milk.",
+      "Bring a pan of water to a gentle simmer and poach the eggs for 3 minutes.",
+      "Spoon the mash on to plates, top with the eggs and scatter over the chives."
+    ],
+    "tip": "Lower in fat than most comfort food, and soft all the way through.",
+    "swaps": [
+      "Use mashed sweet potato instead"
+    ],
+    "nutrients": [
+      "protein",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 0,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten straight away. Leftover mash keeps 2 days in the fridge — cook eggs fresh."
+    }
+  },
+  {
+    "id": "squash-couscous",
+    "title": "Soft couscous with roast squash",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 35,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "Fluffy lemon couscous with tender roast squash and crumbled feta. Light and quick.",
+    "ingredients": [
+      "300g butternut squash, peeled and cut into small cubes",
+      "1 tbsp olive oil",
+      "½ tsp ground cumin",
+      "150g couscous",
+      "200ml hot vegetable stock",
+      "1 lemon, zested and juiced",
+      "60g feta, crumbled",
+      "1 tbsp very finely chopped parsley"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (180°C fan). Toss the squash with the oil and cumin and roast for 25 minutes until very soft.",
+      "Pour the hot stock over the couscous, cover and leave for 10 minutes.",
+      "Fluff with a fork and stir in the lemon zest and juice.",
+      "Top with the squash, feta and parsley."
+    ],
+    "tip": "Couscous is made from refined wheat and is soft and quick. Use the finest you can find.",
+    "swaps": [
+      "Use paneer or halloumi instead of feta",
+      "Use white rice instead of couscous"
+    ],
+    "nutrients": [
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Fridge for 2 days. Eat cold or reheat until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "potato-cheese-pierogi",
+    "title": "Potato & cheese pierogi",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 75,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "Polish dumplings filled with cheesy mash, served with soft buttery onions and soured cream.",
+    "ingredients": [
+      "300g plain flour, plus extra for rolling",
+      "1 egg",
+      "150ml warm water",
+      "1 tbsp oil",
+      "400g potatoes, peeled",
+      "100g cottage cheese or ricotta",
+      "50g cheddar, grated",
+      "2 onions, thinly sliced",
+      "40g butter",
+      "Soured cream, to serve"
+    ],
+    "steps": [
+      "Mix the flour, egg, water and oil into a soft dough. Knead for 5 minutes, cover and rest for 30 minutes.",
+      "Boil the potatoes until very soft, then mash smooth with the cottage cheese and cheddar. Season and cool.",
+      "Cook the onions in the butter over a low heat for 25 minutes until very soft and golden.",
+      "Roll the dough thinly, cut 8cm circles, add a spoonful of filling and pinch the edges closed.",
+      "Cook in simmering salted water for 3–4 minutes after they float.",
+      "Toss in the onions and butter, and serve with soured cream."
+    ],
+    "tip": "Cook the onions low and slow until they're very soft. Chew the dumpling edges well.",
+    "swaps": [
+      "Leave out the onions and use melted butter with a little dill"
+    ],
+    "nutrients": [
+      "calcium",
+      "protein"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Freeze uncooked pierogi on a tray, then bag for 3 months — boil from frozen for 6–7 minutes. Cooked pierogi keep 2 days in the fridge."
+    }
+  },
+  {
+    "id": "pumpkin-tofu-curry",
+    "title": "Pumpkin & tofu coconut curry",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 35,
+    "serves": 3,
+    "texture": "soft",
+    "summary": "A fragrant Thai-style curry without curry paste or chilli — lemongrass, lime and ginger do the work.",
+    "ingredients": [
+      "1 tbsp oil",
+      "1 onion, finely chopped",
+      "1 tsp grated ginger",
+      "1 lemongrass stalk, bashed",
+      "500g pumpkin or butternut squash, peeled and cubed",
+      "400ml tin coconut milk",
+      "200ml vegetable stock",
+      "1 tbsp soy sauce",
+      "1 tsp sugar",
+      "280g firm tofu, pressed and cubed",
+      "1 lime, juiced",
+      "White jasmine rice, to serve"
+    ],
+    "steps": [
+      "Soften the onion in the oil for 8 minutes, then add the ginger for 1 minute.",
+      "Add the lemongrass, pumpkin, coconut milk, stock, soy and sugar. Simmer for 15–20 minutes until the pumpkin is very soft.",
+      "Remove the lemongrass. Add the tofu and simmer for 5 minutes.",
+      "Stir in the lime juice and serve with rice."
+    ],
+    "tip": "Lemongrass is too fibrous to eat, so it's always removed before serving. Most Thai curry pastes contain chilli and shrimp, so this doesn't use one.",
+    "swaps": [
+      "Use paneer instead of tofu",
+      "Use light coconut milk for a lighter curry"
+    ],
+    "nutrients": [
+      "protein",
+      "iron"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze for 3 months. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
+    }
   }
 ]

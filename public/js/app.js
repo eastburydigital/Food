@@ -109,6 +109,15 @@ const RULES = [
   ['Mild only', 'No chilli. Flavour comes from gentle herbs and warm spices.'],
   ['Low in ultra-processed food', 'Homemade sauces, soups and bakes. Shop-bought staples (stock, gnocchi, mayo, filo) are flagged so you can pick ones with short ingredient lists.'],
 ];
+const KEY_HTML = `<dl>
+  <dt>Smooth / Soft / Regular texture</dt><dd>Smooth is blended with no chewing. Soft mashes with a fork. Regular needs normal chewing but still has no skins, seeds or tough fibres.</dd>
+  <dt>Flare-friendly</dt><dd>Among the gentlest recipes. These are the ones shown on a Flare day.</dd>
+  <dt>Batch cook</dt><dd>Keeps well, so it's worth making extra for the fridge or freezer.</dd>
+  <dt>Adapted for you</dt><dd>Changed to suit your food list. Swaps are marked.</dd>
+  <dt>Good source of…</dt><dd>A normal portion gives a useful amount of protein, iron, calcium or vitamin B12.</dd>
+  <dt>Didn’t sit well</dt><dd>You noted this didn’t agree with you after cooking it.</dd>
+</dl>`;
+
 // Cupboard items most people already have; shown last on the shopping list.
 const STAPLES = /^(salt|pepper|black pepper|salt and pepper|olive oil|oil|butter for|oil for|oil and butter|pinch of|.*ground (cumin|turmeric|coriander|cinnamon|ginger)|.*(cumin|paprika|turmeric|garam masala|curry powder|cinnamon|nutmeg|oregano|thyme|cardamom|baking powder|bicarbonate of soda|vanilla extract|mustard powder|asafoetida))\b/i;
 
@@ -149,6 +158,15 @@ const isHidden = (id) => state.ratings[id] === -1;
 const hasTried = (id) => state.log.some((l) => l.recipeId === id);
 const satBadly = (id) => state.log.filter((l) => l.recipeId === id && l.sat === 'bad').length;
 const servingsFor = (r) => state.servings[r.id] || r.serves;
+// A method step as HTML, with this person's swaps marked.
+function stepHtml(r, i) {
+  const a = adapted(r);
+  if (a.status !== 'adapted' || state.showOriginal.has(r.id)) return esc(r.steps[i]);
+  return a.steps[i].map((p) => (typeof p === 'string' ? esc(p)
+    : p.to ? `<mark class="swap-inline" title="Swapped for ${esc(p.from)}">${esc(p.to)}</mark>`
+      : `<mark class="swap-inline">${esc(p.from)} <small>(see your swap)</small></mark>`)).join('');
+}
+
 // Ingredient lines for this person: swapped where needed, unless they asked to see the original.
 function linesFor(r) {
   if (state.showOriginal.has(r.id)) return r.ingredients.slice();
@@ -354,6 +372,7 @@ function viewRecipe(id) {
         </div>
 
         <div class="tip"><strong>Gut-friendly tip</strong>${esc(r.tip)}</div>
+        <details class="key"><summary>What do the labels mean?</summary>${KEY_HTML}</details>
 
         <div class="section-head">
           <h3>Ingredients</h3>
@@ -369,8 +388,8 @@ function viewRecipe(id) {
         ${r.swaps.length ? `<div class="section-head"><h3>Swaps</h3></div><ul class="swaps">${r.swaps.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
 
         <div class="section-head"><h3>Method</h3></div>
-        ${a.status === 'adapted' && !original ? '<p class="fine">The method uses the original ingredient names. Use your swaps where they appear.</p>' : ''}
-        <ol class="steps">${r.steps.map((x) => `<li>${esc(x)}</li>`).join('')}</ol>
+        ${a.status === 'adapted' && !original ? '<p class="fine">Your swaps are highlighted in the method.</p>' : ''}
+        <ol class="steps">${r.steps.map((x, k) => `<li>${stepHtml(r, k)}</li>`).join('')}</ol>
 
         ${storageHtml(r)}
 
@@ -473,7 +492,7 @@ function viewCook(id) {
     const text = r.steps[i - 1];
     const mins = stepMinutes(text);
     body = `<p class="cook-count">Step ${i} of ${r.steps.length}</p>
-      <p class="cook-step">${esc(text)}</p>
+      <p class="cook-step">${stepHtml(r, i - 1)}</p>
       ${mins ? `<button type="button" class="btn timer-btn" data-timer="${mins}" data-timer-label="Step ${i}">⏲ Start ${fmtTime(mins)} timer</button>` : ''}`;
   }
   app.innerHTML = `
@@ -548,8 +567,19 @@ function chime() {
     });
   } catch { /* no audio */ }
 }
+// The site sits behind a Netlify login that lasts about an hour. When the app comes
+// back to the front, check it's still valid and reload to the login if not.
+async function checkSession() {
+  if (!navigator.onLine) return;
+  try {
+    const res = await fetch('/recipes.json', { method: 'HEAD', cache: 'no-store' });
+    const left = Number(res.headers.get('Netlify-Site-Protection-Expires-In'));
+    if (res.status === 401 || res.redirected || (!Number.isNaN(left) && res.headers.has('Netlify-Site-Protection-Expires-In') && left < 120)) location.reload();
+  } catch { /* offline: carry on with the saved copy */ }
+}
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState !== 'visible') return;
+  if (!location.hash.startsWith('#/cook')) checkSession();
   tickTimer();
   if (location.hash.startsWith('#/cook')) keepAwake();
 });
@@ -587,6 +617,7 @@ function viewPlan() {
         <div><a href="#/recipe/${esc(f.recipeId)}">${esc(r ? r.title : 'Recipe')}</a>
         <p class="hint">${plural(f.portions, 'portion')} · frozen ${esc(fmtDate(f.frozenOn))}</p></div>
         <span class="tag status-${status[0]}">${esc(status[1])}</span>
+        <label class="date-edit"><span class="visually-hidden">Use-by date for ${esc(r ? r.title : 'this item')}</span><input type="date" value="${esc(f.useBy)}" data-freezer-date="${esc(f.id)}"></label>
         <button type="button" class="btn small secondary" data-freezer-eat="${esc(f.id)}">Ate one</button>
       </div>`;
     }).join('')}</div>` : '<p class="empty-inline">Nothing logged yet. On a recipe that freezes, tap “❄️ I froze some”.</p>'}
@@ -773,6 +804,17 @@ function viewSettings() {
       <h2>Texture levels</h2>
       <ul>${Object.values(TEXTURES).map(([t, d]) => `<li><strong>${t}.</strong> ${d}</li>`).join('')}</ul>
       <p class="mt">The <strong>Flare day</strong> switch shows only the gentlest smooth and soft meals.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Good to know</h2>
+      <ul>
+        <li><strong>Vitamin D.</strong> UK guidance suggests most people consider a vitamin D supplement from October to March. Ask your care team what suits you.</li>
+        <li><strong>Iron.</strong> Pairing lentils, tofu or spinach with something containing vitamin C (like a squeeze of lemon) can help your body use the iron.</li>
+        <li><strong>Fluids on bad days.</strong> If you have diarrhoea, oral rehydration sachets from a pharmacy are better than homemade drinks. A pharmacist can advise.</li>
+        <li><strong>Low appetite.</strong> Small, frequent, energy-rich snacks (shakes, puddings, enriched mash) can be easier than full meals.</li>
+      </ul>
+      <p class="fine">General information, not medical advice.</p>
     </section>
 
     <section class="panel">
@@ -1103,6 +1145,10 @@ document.addEventListener('change', async (e) => {
     const ids = new Set(t.dataset.toggle.split(' '));
     state.shopping.forEach((i) => { if (ids.has(i.id)) i.done = t.checked; });
     save.shopping();
+  }
+  if (t.dataset.freezerDate && isDate(t.value)) {
+    const f = state.freezer.find((x) => x.id === t.dataset.freezerDate);
+    if (f) { f.useBy = t.value; save.freezer(); toast('Use-by date updated'); render(true); }
   }
   if (t.dataset.cookTick !== undefined) {
     const k = Number(t.dataset.cookTick);

@@ -430,3 +430,13 @@ html.large-text .topbar { flex-wrap: wrap; }
 html.large-text .brand { flex-basis: 100%; }
 .timer-bar[hidden] { display: none; }
 .loading { text-align: center; color: var(--muted); padding: 48px 16px; }
+
+/* ---------- v5 ---------- */
+mark.swap-inline { background: var(--swap-soft); color: var(--swap); font-weight: 700; border-radius: 4px; padding: 0 3px; }
+mark.swap-inline small { font-weight: 500; }
+.key { margin: -8px 0 18px; font-size: .9rem; }
+.key summary { cursor: pointer; color: var(--accent); font-weight: 600; min-height: 44px; display: flex; align-items: center; }
+.key dl { margin: 4px 0 0; display: grid; gap: 8px; }
+.key dt { font-weight: 700; }
+.key dd { margin: 0; color: var(--muted); }
+.date-edit input { border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--text); padding: 8px; min-height: 44px; font-size: 16px; }

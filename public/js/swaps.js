@@ -55,7 +55,10 @@ export const SWAPS = [
     { word: 'ricotta with a pinch of salt', has: ['ricotta','cheese','dairy','lactose'], note: 'Milder and creamier than feta.' },
     { word: 'firm tofu, crumbled, with lemon and salt', has: ['tofu','soy','soya'], note: 'Season well — tofu needs it.' } ] },
   { names: ['cheddar', 'gruyere', 'gruyère', 'mozzarella', 'parmesan', 'hard cheese', 'cheese', ...DAIRY],
-    re: /\b(mature )?cheddar\b|gruy[eè]re|mozzarella|(vegetarian )?italian-style hard cheese/i, options: [
+    re: /\b(mature )?cheddar\b|gruy[eè]re|mozzarella|(vegetarian )?italian-style hard cheese/i,
+    // In method steps recipes often just say "cheese".
+    stepRe: /\b(mature )?cheddar\b|gruy[eè]re|mozzarella|(vegetarian )?(italian-style )?hard cheese|\bcheese\b/i,
+    stepSkip: /\b(cream|cottage) cheese\b/gi, options: [
     { line: 'Nutritional yeast — 1 tbsp for every 25g of cheese in the original', has: [], note: 'Gives a cheesy flavour without dairy.' } ] },
   { names: ['ricotta', 'cottage cheese', 'cream cheese', 'mascarpone', 'cheese', ...DAIRY], re: /\bricotta\b|cottage cheese|cream cheese|mascarpone/i, options: [
     { word: 'silken tofu, blended smooth', has: ['tofu','soy','soya'], note: 'Season it with lemon and a pinch of salt.' } ] },
@@ -132,6 +135,28 @@ function swapIn(entry, text, make) {
   return text.slice(0, m.index) + make(m) + text.slice(m.index + m[0].length);
 }
 
+// Split text into plain parts and swapped parts, for every match of the rule.
+function splitAll(entry, parts, make) {
+  const out = [];
+  for (const p of parts) {
+    if (typeof p !== 'string') { out.push(p); continue; }
+    const base = entry.stepRe || entry.re;
+    const skip = entry.stepRe ? entry.stepSkip : entry.skip;
+    const text = skip ? p.replace(skip, (x) => ' '.repeat(x.length)) : p;
+    const re = new RegExp(base.source, base.flags.includes('g') ? base.flags : base.flags + 'g');
+    let last = 0;
+    let m;
+    while ((m = re.exec(text))) {
+      if (m.index > last) out.push(p.slice(last, m.index));
+      out.push(make(m, p.slice(m.index, m.index + m[0].length)));
+      last = m.index + m[0].length;
+      if (!m[0].length) re.lastIndex++;
+    }
+    if (last < p.length) out.push(p.slice(last));
+  }
+  return out;
+}
+
 const norm = (s) => s.toLowerCase().trim().replace(/s$/, '');
 
 /** Swap entries that a typed food-list word refers to. */
@@ -145,7 +170,9 @@ function entriesFor(word) {
  * @returns {{status: 'ok'|'adapted'|'hidden', lines: string[], swaps: {from, to, note}[], blockers: string[]}}
  */
 export function adapt(recipe, avoid) {
-  const result = { status: 'ok', lines: recipe.ingredients.slice(), swaps: [], blockers: [] };
+  // steps: each step is a list of parts; a part is plain text or {from, to} (to = null means "see your swaps")
+  const result = { status: 'ok', lines: recipe.ingredients.slice(), swaps: [], blockers: [], steps: recipe.steps.map((t) => [t]) };
+  const used = []; // [entry, option] pairs that changed an ingredient
   if (!avoid.length) return result;
   const avoided = avoid.map((w) => ({ word: w, entries: entriesFor(w) }));
   // A swap clashes if it contains anything on the person's list.
@@ -172,9 +199,23 @@ export function adapt(recipe, avoid) {
         else next = swapIn(entry, line, (m) => option.word.replace('$1', m[1] || ''));
         result.swaps.push({ from: line, to: next, note: option.note });
         result.lines[i] = next;
+        if (!used.some(([e]) => e === entry)) used.push([entry, option]);
       });
     }
   }
+  // Carry the swaps into the method so it matches the ingredients.
+  for (const [entry, option] of used) {
+    result.steps = result.steps.map((parts) => splitAll(entry, parts, (m, from) => ({
+      from,
+      to: option.word ? option.word.replace('$1', m[1] || '').replace(/^(peeled, |diced |grated )+/, '') : null,
+    })));
+  }
+  // Small grammar fixes: you warm oil rather than melt it.
+  result.steps = result.steps.map((parts) => parts.map((p, i) => {
+    const next = parts[i + 1];
+    if (typeof p === 'string' && next && typeof next === 'object' && /oil$/.test(next.to || '')) return p.replace(/\b([Mm])elt( the| a little)? $/, (m, M, rest = '') => `${M === 'M' ? 'W' : 'w'}arm${rest} `);
+    return p;
+  }));
   if (result.blockers.length) result.status = 'hidden';
   else if (result.swaps.length) result.status = 'adapted';
   return result;

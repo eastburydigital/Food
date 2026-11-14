@@ -193,8 +193,14 @@ function visibleRecipes() {
   });
 }
 
-function photoHtml(r) {
+// Your own photo wins; otherwise the illustration made for the recipe; otherwise an emoji.
+function photoHtml(r, large = false) {
   if (photos.has(r.id)) return `<img src="${esc(photos.url(r.id))}" alt="" loading="lazy" decoding="async">`;
+  if (r.image) {
+    const src = large ? `/img/${esc(r.id)}.jpg` : `/img/thumb/${esc(r.id)}.jpg`;
+    return `<img src="${src}" alt="" ${large ? '' : 'loading="lazy" '}decoding="async" width="${large ? 1200 : 600}" height="${large ? 896 : 448}">`
+      + (large ? '<span class="illus">Illustration</span>' : '');
+  }
   return `<div class="placeholder" aria-hidden="true">${EMOJI[r.meal] || '🍽️'}</div>`;
 }
 
@@ -332,7 +338,7 @@ function viewRecipe(id) {
   app.innerHTML = `
     <article class="detail">
       <div class="hero">
-        ${photoHtml(r)}
+        ${photoHtml(r, true)}
         <button type="button" class="back" data-back>${icon.back}Back</button>
         ${favButton(r)}
         <label class="photo-btn">${icon.camera}<span>${photos.has(r.id) ? 'Change photo' : 'Add your photo'}</span>

@@ -15,7 +15,7 @@ self.addEventListener('install', (e) => {
 self.addEventListener('activate', (e) => {
   e.waitUntil(
     caches.keys()
-      .then((keys) => Promise.all(keys.filter((k) => k !== VERSION).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((k) => k !== VERSION && k !== 'gk-img').map((k) => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
@@ -28,6 +28,17 @@ function clean(res) {
 self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
+  // Recipe pictures don't change, so serve them from the cache when we have them.
+  if (new URL(req.url).pathname.startsWith('/img/')) {
+    e.respondWith(caches.open('gk-img').then(async (cache) => {
+      const hit = await cache.match(req);
+      if (hit) return hit;
+      const res = await fetch(req);
+      if (clean(res)) cache.put(req, res.clone());
+      return res;
+    }));
+    return;
+  }
   e.respondWith((async () => {
     const cache = await caches.open(VERSION);
     try {

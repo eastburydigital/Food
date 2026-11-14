@@ -1,0 +1,128 @@
+{
+  "soft-scrambled-eggs": {
+    "creation": "6AHuXU9iJO",
+    "webUrl": "https://www.magnific.com/app/creation/6AHuXU9iJO?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "cheese-spinach-omelette": {
+    "creation": "bxTW9Cr5Y2",
+    "webUrl": "https://www.magnific.com/app/creation/bxTW9Cr5Y2?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "potato-leek-soup": {
+    "creation": "lJ8Xz1xgv9",
+    "webUrl": "https://www.magnific.com/app/creation/lJ8Xz1xgv9?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "avocado-egg-toast": {
+    "creation": "SytoYLPUb8",
+    "webUrl": "https://www.magnific.com/app/creation/SytoYLPUb8?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "squash-mac-cheese": {
+    "creation": "CqGZwvDEEy",
+    "webUrl": "https://www.magnific.com/app/creation/CqGZwvDEEy?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "lentil-shepherds-pie": {
+    "creation": "LwBezvgswO",
+    "webUrl": "https://www.magnific.com/app/creation/LwBezvgswO?utm_source=mcp&utm_medium=ai_connector",
+    "retried": true,
+    "note": "First attempt showed clearly whole lentils; retried with a stronger 'dissolved, dal-like' prompt and the filling now looks smooth."
+  },
+  "red-pepper-pasta": {
+    "creation": "1lpVZtVr4r",
+    "webUrl": "https://www.magnific.com/app/creation/1lpVZtVr4r?utm_source=mcp&utm_medium=ai_connector",
+    "retried": true,
+    "note": "First attempt had whole fresh basil leaves on top (raw herb garnish); retried without basil."
+  },
+  "baked-eggs-spinach": {
+    "creation": "TdSsF3fVNR",
+    "webUrl": "https://www.magnific.com/app/creation/TdSsF3fVNR?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "banana-bread": {
+    "creation": "xSdD2bCjfW",
+    "webUrl": "https://www.magnific.com/app/creation/xSdD2bCjfW?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "mango-tofu-smoothie": {
+    "creation": "ov9yxew829",
+    "webUrl": "https://www.magnific.com/app/creation/ov9yxew829?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "cauliflower-cheddar-soup": {
+    "creation": "1lpVR5ar4r",
+    "webUrl": "https://www.magnific.com/app/creation/1lpVR5ar4r?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "cheese-potato-cakes": {
+    "creation": "YMLrCnpWeC",
+    "webUrl": "https://www.magnific.com/app/creation/YMLrCnpWeC?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "tofu-korma": {
+    "creation": "1lpVZ03r4r",
+    "webUrl": "https://www.magnific.com/app/creation/1lpVZ03r4r?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": "Sauce has fine green flecks from the blended spinach; they could be mistaken for chopped herbs."
+  },
+  "mild-egg-curry": {
+    "creation": "P3Eaea942C",
+    "webUrl": "https://www.magnific.com/app/creation/P3Eaea942C?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "spinach-feta-filo-pie": {
+    "creation": "LwBezdOswO",
+    "webUrl": "https://www.magnific.com/app/creation/LwBezdOswO?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "semolina-pudding": {
+    "creation": "WDsxuLrcXe",
+    "webUrl": "https://www.magnific.com/app/creation/WDsxuLrcXe?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "nourishing-milkshake": {
+    "creation": "yiCvpLHPW9",
+    "webUrl": "https://www.magnific.com/app/creation/yiCvpLHPW9?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "vegetarian-kedgeree": {
+    "creation": "tCi9lDYmZJ",
+    "webUrl": "https://www.magnific.com/app/creation/tCi9lDYmZJ?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": "Small flecks of chopped parsley through the rice, as the prompt asked; not a raw sprig garnish, but check if you want none."
+  },
+  "lemon-posset": {
+    "creation": "9ZQCBt8NYZ",
+    "webUrl": "https://www.magnific.com/app/creation/9ZQCBt8NYZ?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  },
+  "cottage-cheese-dip": {
+    "creation": "jUXpzTwLD0",
+    "webUrl": "https://www.magnific.com/app/creation/jUXpzTwLD0?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": "Fine herb flecks mixed into the dip ('herby'), no garnish on top."
+  },
+  "squash-couscous": {
+    "creation": "UPm8TXWwny",
+    "webUrl": "https://www.magnific.com/app/creation/UPm8TXWwny?utm_source=mcp&utm_medium=ai_connector",
+    "retried": false,
+    "note": ""
+  }
+}

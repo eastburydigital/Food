@@ -36,7 +36,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. Leftovers keep in a covered bowl in the fridge for 1 day — loosen with milk and reheat until piping hot."
-    }
+    },
+    "image": true
   },
   {
     "id": "soft-scrambled-eggs",
@@ -74,7 +75,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten straight away. Scrambled eggs go rubbery when stored and reheated."
-    }
+    },
+    "image": true
   },
   {
     "id": "banana-peanut-smoothie",
@@ -111,7 +113,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. Can be kept in a sealed bottle in the fridge for up to 1 day — shake before drinking."
-    }
+    },
+    "image": true
   },
   {
     "id": "yoghurt-stewed-pear",
@@ -149,7 +152,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Stew a big batch of pears. Keep in a sealed tub in the fridge for 3 days, or freeze in portions for 3 months. Add the yoghurt when serving."
-    }
+    },
+    "image": true
   },
   {
     "id": "banana-pancakes",
@@ -188,7 +192,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Cool, then stack with baking paper between. Fridge for 2 days or freeze for 2 months. Reheat in a toaster or dry pan."
-    }
+    },
+    "image": true
   },
   {
     "id": "mild-shakshuka",
@@ -231,7 +236,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Batch-cook the sauce only: fridge for 2 days or freeze for 3 months. Cook fresh eggs in the reheated sauce."
-    }
+    },
+    "image": true
   },
   {
     "id": "cheese-spinach-omelette",
@@ -268,7 +274,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten straight away."
-    }
+    },
+    "image": true
   },
   {
     "id": "carrot-ginger-soup",
@@ -305,7 +312,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Cool quickly, then fridge for 3 days or freeze in portions for 3 months. Add the crème fraîche after reheating."
-    }
+    },
+    "image": true
   },
   {
     "id": "butternut-squash-soup",
@@ -342,7 +350,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Cool quickly, then fridge for 3 days or freeze in portions for 3 months. Add any cream after reheating."
-    }
+    },
+    "image": true
   },
   {
     "id": "red-lentil-soup",
@@ -381,7 +390,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Thickens as it stands. Fridge for 3 days or freeze for 3 months; loosen with water when reheating."
-    }
+    },
+    "image": true
   },
   {
     "id": "tomato-soup-grilled-cheese",
@@ -420,7 +430,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Batch-cook the soup: fridge for 3 days or freeze for 3 months. Make the toastie fresh."
-    }
+    },
+    "image": true
   },
   {
     "id": "potato-leek-soup",
@@ -452,7 +463,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Potato soup can go a little grainy when frozen — blend again after reheating."
-    }
+    },
+    "image": true
   },
   {
     "id": "hummus-pepper-wrap",
@@ -483,7 +495,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best made fresh. Can be wrapped and kept in the fridge until the next day."
-    }
+    },
+    "image": true
   },
   {
     "id": "egg-mayo-sandwich",
@@ -518,7 +531,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Keep the egg mayo filling in a sealed tub in the fridge for 2 days. Make sandwiches fresh. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "courgette-feta-fritters",
@@ -554,7 +568,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Cool, then fridge for 2 days or freeze between baking paper for 2 months. Reheat in the oven until hot all the way through."
-    }
+    },
+    "image": true
   },
   {
     "id": "avocado-egg-toast",
@@ -588,7 +603,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten straight away — avocado browns quickly."
-    }
+    },
+    "image": true
   },
   {
     "id": "squash-lentil-dhal",
@@ -631,7 +647,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Great for batch cooking. Fridge for 3 days or freeze in portions for 3 months. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
-    }
+    },
+    "image": true
   },
   {
     "id": "butternut-risotto",
@@ -668,7 +685,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Risotto contains rice, so cool within 1 hour, fridge, and eat within 1 day. Reheat only once, until steaming hot. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "lemon-spinach-risotto",
@@ -703,7 +721,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Risotto contains rice, so cool within 1 hour, fridge, and eat within 1 day. Reheat only once, until steaming hot. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "squash-mac-cheese",
@@ -744,7 +763,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Fridge for 2 days or freeze in portions for 2 months. Add a splash of milk when reheating."
-    }
+    },
+    "image": true
   },
   {
     "id": "honey-soy-tofu",
@@ -788,7 +808,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Store the tofu and carrots for 2 days in the fridge. Cooked rice must be cooled within 1 hour and eaten within 1 day."
-    }
+    },
+    "image": true
   },
   {
     "id": "butter-paneer",
@@ -832,7 +853,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. The sauce freezes well; add a splash of cream when reheating. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
-    }
+    },
+    "image": true
   },
   {
     "id": "gnocchi-tomato-bake",
@@ -868,7 +890,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Fridge for 2 days. Gnocchi goes soft when frozen, but you can freeze the sauce on its own for 3 months."
-    }
+    },
+    "image": true
   },
   {
     "id": "lentil-shepherds-pie",
@@ -913,7 +936,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Ideal for batch cooking. Fridge for 3 days or freeze (whole or in portions) for 3 months. Defrost in the fridge overnight, then reheat until piping hot."
-    }
+    },
+    "image": true
   },
   {
     "id": "cauliflower-cheese",
@@ -950,7 +974,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Fridge for 2 days or freeze for 2 months. Reheat in the oven until bubbling."
-    }
+    },
+    "image": true
   },
   {
     "id": "halloumi-traybake",
@@ -990,7 +1015,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Fridge for 2 days. Halloumi goes rubbery if frozen, but the roast veg alone freezes for 2 months."
-    }
+    },
+    "image": true
   },
   {
     "id": "egg-fried-rice",
@@ -1028,7 +1054,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Cool within 1 hour, fridge, and eat within 1 day. Reheat only once, until steaming hot. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "red-pepper-pasta",
@@ -1064,7 +1091,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Sauce: fridge for 2 days or freeze for 3 months. Cooked pasta with sauce keeps 2 days in the fridge."
-    }
+    },
+    "image": true
   },
   {
     "id": "spinach-ricotta-pasta-bake",
@@ -1106,7 +1134,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Fridge for 2 days or freeze for 2 months. Reheat covered in the oven until hot all the way through."
-    }
+    },
+    "image": true
   },
   {
     "id": "miso-noodle-soup",
@@ -1142,7 +1171,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. The broth (without noodles or tofu) keeps 1 day in the fridge."
-    }
+    },
+    "image": true
   },
   {
     "id": "sweet-potato-coconut-curry",
@@ -1183,7 +1213,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Great for batch cooking. Fridge for 3 days or freeze for 3 months. Cook rice fresh. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
-    }
+    },
+    "image": true
   },
   {
     "id": "baked-eggs-spinach",
@@ -1219,7 +1250,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten straight away."
-    }
+    },
+    "image": true
   },
   {
     "id": "cheesy-polenta",
@@ -1256,7 +1288,8 @@
       "freezerMonths": 3,
       "batch": false,
       "text": "Polenta sets firm in the fridge (2 days) — slice and fry it, or reheat with milk. The tomato sauce freezes for 3 months."
-    }
+    },
+    "image": true
   },
   {
     "id": "stewed-apple-custard",
@@ -1292,7 +1325,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Stewed apple keeps 3 days in the fridge or freezes for 3 months. Custard keeps 2 days in the fridge — don't freeze it."
-    }
+    },
+    "image": true
   },
   {
     "id": "rice-pudding",
@@ -1329,7 +1363,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Cool within 1 hour, fridge, and eat within 1 day. Eat cold, or reheat once until steaming hot. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "banana-bread",
@@ -1367,7 +1402,8 @@
       "batch": true,
       "text": "Keep wrapped in a tin at room temperature for 3 days. Freeze whole or in slices for 3 months.",
       "roomDays": 3
-    }
+    },
+    "image": true
   },
   {
     "id": "homemade-hummus",
@@ -1404,7 +1440,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Keep in a sealed tub in the fridge for 3 days, or freeze for 2 months. Stir well after thawing."
-    }
+    },
+    "image": true
   },
   {
     "id": "banana-oat-bars",
@@ -1442,7 +1479,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Keep in a sealed tub in the fridge for 3 days, or wrap bars individually and freeze for 3 months. Thaw overnight or warm for 20 seconds in the microwave."
-    }
+    },
+    "image": true
   },
   {
     "id": "peanut-overnight-oats",
@@ -1479,7 +1517,8 @@
       "freezerMonths": 0,
       "batch": true,
       "text": "Make 2 jars at once — they keep for 2 days in the fridge. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "mango-tofu-smoothie",
@@ -1515,7 +1554,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. Keeps in a sealed bottle in the fridge for 1 day — shake well."
-    }
+    },
+    "image": true
   },
   {
     "id": "french-toast-apple",
@@ -1555,7 +1595,8 @@
       "freezerMonths": 1,
       "batch": false,
       "text": "Best fresh. Cooked French toast can be frozen for 1 month and reheated in a toaster. The apples keep 3 days in the fridge."
-    }
+    },
+    "image": true
   },
   {
     "id": "cottage-cheese-pancakes",
@@ -1596,7 +1637,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Cool, then stack with baking paper between. Fridge for 2 days or freeze for 2 months. Reheat in a toaster or dry pan."
-    }
+    },
+    "image": true
   },
   {
     "id": "egg-muffins",
@@ -1636,7 +1678,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Fridge in a sealed tub for 2 days, or freeze for 2 months. Reheat until piping hot, or eat cold from the fridge."
-    }
+    },
+    "image": true
   },
   {
     "id": "cauliflower-cheddar-soup",
@@ -1675,7 +1718,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Freeze before adding the cheese for the best texture, then stir it in when reheating. Fridge for 3 days or freeze for 3 months."
-    }
+    },
+    "image": true
   },
   {
     "id": "spinach-potato-soup",
@@ -1713,7 +1757,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Cool quickly, then fridge for 3 days or freeze for 3 months. Add the crème fraîche after reheating."
-    }
+    },
+    "image": true
   },
   {
     "id": "pepper-butter-bean-soup",
@@ -1752,7 +1797,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Loosen with a little water when reheating."
-    }
+    },
+    "image": true
   },
   {
     "id": "egg-drop-soup",
@@ -1790,7 +1836,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. Leftovers keep 1 day in the fridge — reheat gently until steaming."
-    }
+    },
+    "image": true
   },
   {
     "id": "cheese-potato-cakes",
@@ -1827,7 +1874,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Freeze uncooked cakes between baking paper for 3 months and fry from frozen (add a few minutes). Cooked cakes keep 2 days in the fridge."
-    }
+    },
+    "image": true
   },
   {
     "id": "egg-onion-rice-bowl",
@@ -1864,7 +1912,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten straight away. Cook rice fresh, or cool leftover rice within 1 hour and eat within 1 day."
-    }
+    },
+    "image": true
   },
   {
     "id": "spanish-tortilla",
@@ -1901,7 +1950,8 @@
       "freezerMonths": 0,
       "batch": true,
       "text": "Cool, wrap and keep in the fridge for 2 days. Eat cold or warm gently. Don't freeze — the egg goes watery."
-    }
+    },
+    "image": true
   },
   {
     "id": "lentil-bolognese",
@@ -1946,7 +1996,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Freeze the sauce in portions for 3 months, or fridge for 3 days. Cook pasta fresh."
-    }
+    },
+    "image": true
   },
   {
     "id": "tofu-korma",
@@ -1993,7 +2044,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Reheat gently — don't let it boil after the yoghurt goes in. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
-    }
+    },
+    "image": true
   },
   {
     "id": "lentil-lasagne",
@@ -2034,7 +2086,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Freeze whole or in portions for 3 months. Defrost in the fridge overnight, then reheat covered until piping hot."
-    }
+    },
+    "image": true
   },
   {
     "id": "leek-potato-gratin",
@@ -2073,7 +2126,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Fridge for 2 days or freeze in portions for 2 months. Reheat covered in the oven."
-    }
+    },
+    "image": true
   },
   {
     "id": "saag-paneer",
@@ -2119,7 +2173,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. The paneer may firm up slightly after freezing. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
-    }
+    },
+    "image": true
   },
   {
     "id": "mild-egg-curry",
@@ -2162,7 +2217,8 @@
       "freezerMonths": 3,
       "batch": false,
       "text": "Freeze the sauce on its own for 3 months and add freshly boiled eggs. With eggs, keep in the fridge for up to 2 days. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
-    }
+    },
+    "image": true
   },
   {
     "id": "courgette-ricotta-pasta",
@@ -2202,7 +2258,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. Keeps 2 days in the fridge; add a splash of water when reheating. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "slow-cooker-lentil-stew",
@@ -2243,7 +2300,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze in portions for 3 months. Loosen with water when reheating."
-    }
+    },
+    "image": true
   },
   {
     "id": "baked-feta-pasta",
@@ -2282,7 +2340,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Fridge for 2 days. Reheat with a splash of water. The sauce alone freezes for 2 months."
-    }
+    },
+    "image": true
   },
   {
     "id": "spinach-feta-filo-pie",
@@ -2324,7 +2383,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Fridge for 2 days, or freeze (baked) for 2 months. Reheat in the oven so the pastry crisps up."
-    }
+    },
+    "image": true
   },
   {
     "id": "chocolate-tofu-pots",
@@ -2357,7 +2417,8 @@
       "freezerMonths": 0,
       "batch": true,
       "text": "Cover and keep in the fridge for 3 days. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "banana-nice-cream",
@@ -2387,7 +2448,8 @@
       "freezerMonths": 1,
       "batch": false,
       "text": "Best eaten fresh. Freeze leftovers in a tub for up to 1 month — let it soften for 10 minutes before scooping."
-    }
+    },
+    "image": true
   },
   {
     "id": "baked-egg-custard",
@@ -2426,7 +2488,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Cool, cover and keep in the fridge for 2 days. Eat cold. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "semolina-pudding",
@@ -2462,7 +2525,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Fridge for 2 days. Reheat with a splash of milk. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "apple-cinnamon-muffins",
@@ -2500,7 +2564,8 @@
       "batch": true,
       "text": "Keep in a tin at room temperature for 3 days, or freeze for 3 months. Thaw at room temperature or warm for 15 seconds.",
       "roomDays": 3
-    }
+    },
+    "image": true
   },
   {
     "id": "cheese-scones",
@@ -2537,7 +2602,8 @@
       "batch": true,
       "text": "Best on the day. Keep in a tin at room temperature for 2 days, or freeze for 3 months and warm through in the oven.",
       "roomDays": 2
-    }
+    },
+    "image": true
   },
   {
     "id": "mango-lassi",
@@ -2572,7 +2638,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake before drinking."
-    }
+    },
+    "image": true
   },
   {
     "id": "nourishing-milkshake",
@@ -2610,7 +2677,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake well."
-    }
+    },
+    "image": true
   },
   {
     "id": "steamed-egg-custard",
@@ -2647,7 +2715,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten warm and fresh. Can be kept covered in the fridge for 1 day and eaten cold. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "avgolemono-soup",
@@ -2685,7 +2754,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Fridge for 2 days. Reheat gently without boiling, or the egg will split. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "ginger-congee",
@@ -2723,7 +2793,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Contains rice: cool within 1 hour, fridge, and eat within 1 day. Reheat once with a splash of water until steaming. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "vegetarian-kedgeree",
@@ -2765,7 +2836,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Contains rice: cool within 1 hour, fridge, and eat within 1 day. Reheat once until steaming hot. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "cilbir-eggs",
@@ -2805,7 +2877,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten straight away."
-    }
+    },
+    "image": true
   },
   {
     "id": "ricotta-gnudi",
@@ -2845,7 +2918,8 @@
       "freezerMonths": 2,
       "batch": true,
       "text": "Freeze uncooked gnudi on a tray, then bag for 2 months — cook from frozen for 5–6 minutes. Cooked gnudi keep 2 days in the fridge."
-    }
+    },
+    "image": true
   },
   {
     "id": "silky-borscht",
@@ -2882,7 +2956,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Add the soured cream after reheating."
-    }
+    },
+    "image": true
   },
   {
     "id": "lemon-posset",
@@ -2913,7 +2988,8 @@
       "freezerMonths": 0,
       "batch": true,
       "text": "Cover and keep in the fridge for 3 days. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "squash-tofu-soup",
@@ -2951,7 +3027,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze in portions for 3 months. Blend again after thawing if it separates."
-    }
+    },
+    "image": true
   },
   {
     "id": "egg-enriched-mash",
@@ -2989,7 +3066,8 @@
       "freezerMonths": 1,
       "batch": false,
       "text": "Fridge for 2 days. Freezes for 1 month but may go a little grainy — beat in a splash of milk when reheating until piping hot."
-    }
+    },
+    "image": true
   },
   {
     "id": "vanilla-protein-shake",
@@ -3025,7 +3103,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake well."
-    }
+    },
+    "image": true
   },
   {
     "id": "cottage-cheese-dip",
@@ -3061,7 +3140,8 @@
       "freezerMonths": 0,
       "batch": true,
       "text": "Keep covered in the fridge for 3 days. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "yoghurt-jam-pot",
@@ -3094,7 +3174,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best made fresh. Can be made the night before and kept covered in the fridge."
-    }
+    },
+    "image": true
   },
   {
     "id": "peanut-banana-toast",
@@ -3128,7 +3209,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten straight away."
-    }
+    },
+    "image": true
   },
   {
     "id": "poached-egg-mash",
@@ -3164,7 +3246,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten straight away. Leftover mash keeps 2 days in the fridge — cook eggs fresh."
-    }
+    },
+    "image": true
   },
   {
     "id": "squash-couscous",
@@ -3204,7 +3287,8 @@
       "freezerMonths": 0,
       "batch": false,
       "text": "Fridge for 2 days. Eat cold or reheat until piping hot. Don't freeze."
-    }
+    },
+    "image": true
   },
   {
     "id": "potato-cheese-pierogi",
@@ -3248,7 +3332,8 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Freeze uncooked pierogi on a tray, then bag for 3 months — boil from frozen for 6–7 minutes. Cooked pierogi keep 2 days in the fridge."
-    }
+    },
+    "image": true
   },
   {
     "id": "pumpkin-tofu-curry",
@@ -3293,6 +3378,7 @@
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
-    }
+    },
+    "image": true
   }
 ]

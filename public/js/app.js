@@ -85,7 +85,9 @@ const FILTERS = [
   ['few', '🧺 6 ingredients or fewer', (r) => r.ingredients.length <= 6],
   ['smooth', 'Smooth', (r) => r.texture === 'smooth'],
   ['soft', 'Soft', (r) => r.texture === 'soft'],
-  ['protein', '💪 Protein', (r) => r.nutrients.includes('protein')],
+  ['highprotein', '💪 20g+ protein', (r) => (r.nutrition?.protein ?? 0) >= 20],
+  ['lighter', 'Under 400 kcal', (r) => r.nutrition && r.nutrition.kcal < 400],
+  ['energy', '⚡ Energy-dense', (r) => r.nutrition && r.nutrition.kcal >= 350 && r.gentle],
   ['iron', 'Iron', (r) => r.nutrients.includes('iron')],
   ['untried', '✨ Not tried yet', (r) => !hasTried(r.id)],
 ];
@@ -218,6 +220,7 @@ function card(r, reason) {
       <div class="body">
         ${reason ? `<p class="reason">${esc(reason)}</p>` : ''}
         <h3>${esc(r.title)}</h3>
+        ${r.nutrition ? `<p class="kcal"><b>${r.nutrition.kcal}</b> kcal · <b>${r.nutrition.protein}g</b> protein</p>` : ''}
         <div class="meta">
           <span>${fmtTime(r.time)}</span>
           ${r.gentle ? '<span class="tag gentle">Flare-friendly</span>' : ''}
@@ -397,6 +400,8 @@ function viewRecipe(id) {
         ${a.status === 'adapted' && !original ? '<p class="fine">Your swaps are highlighted in the method.</p>' : ''}
         <ol class="steps">${r.steps.map((x, k) => `<li>${stepHtml(r, k)}</li>`).join('')}</ol>
 
+        ${nutritionHtml(r)}
+
         ${storageHtml(r)}
 
         ${history.length ? `<div class="section-head"><h3>Your notes</h3></div>
@@ -440,6 +445,25 @@ function panelHtml(r) {
       <button class="btn small" type="submit">Add to freezer list</button></form>`;
   }
   return '';
+}
+
+function nutritionHtml(r) {
+  const n = r.nutrition;
+  if (!n) return '';
+  const factor = servingsFor(r) / r.serves;
+  const row = (label, value, unit) => `<div><dt>${label}</dt><dd>${value}${unit}</dd></div>`;
+  return `
+    <div class="section-head"><h3>Nutrition</h3><span class="hint">per serving</span></div>
+    <div class="nutri-hero">
+      <div class="big-stat"><b>${n.kcal}</b><span>kcal</span></div>
+      <div class="big-stat protein"><b>${n.protein}g</b><span>protein</span></div>
+    </div>
+    <dl class="nutri-grid">
+      ${row('Carbs', n.carbs, 'g')}${row('of which sugars', n.sugars, 'g')}
+      ${row('Fat', n.fat, 'g')}${row('of which saturates', n.satfat, 'g')}
+      ${row('Fibre', n.fibre, 'g')}${row('Salt', n.salt, 'g')}
+    </dl>
+    <p class="fine">Estimated from UK food-composition data for one of ${r.serves} servings${n.servedWith.length ? `, including ${esc(n.servedWith.join(' and ').toLowerCase())}` : ''}.${factor !== 1 ? ' Per-serving values stay the same when you change the number of servings.' : ''}${adapted(r).status === 'adapted' && !state.showOriginal.has(r.id) ? ' Based on the original recipe, before your swaps.' : ''} Actual values vary with brands and portion sizes.</p>`;
 }
 
 function storageHtml(r) {

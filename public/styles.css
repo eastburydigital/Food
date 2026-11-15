@@ -445,3 +445,17 @@ mark.swap-inline small { font-weight: 500; }
 .card .ph img, .hero img { width: 100%; height: 100%; object-fit: cover; }
 .illus { position: absolute; right: 10px; bottom: 12px; font-size: .72rem; font-weight: 600; color: #fff; background: rgba(0,0,0,.45); padding: 3px 8px; border-radius: 999px; }
 .hero:has(.photo-remove) .illus { bottom: 62px; }
+
+/* ---------- v7: nutrition ---------- */
+.kcal { margin: 0; font-size: .82rem; color: var(--muted); }
+.kcal b { color: var(--text); }
+.nutri-hero { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 10px; }
+.big-stat { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; display: flex; align-items: baseline; gap: 6px; }
+.big-stat b { font-size: 1.7rem; line-height: 1; font-variant-numeric: tabular-nums; }
+.big-stat span { color: var(--muted); font-weight: 600; }
+.big-stat.protein { background: var(--accent-soft); border-color: transparent; }
+.big-stat.protein b { color: var(--accent); }
+.nutri-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; margin: 0 0 8px; }
+.nutri-grid div { display: flex; justify-content: space-between; padding: 7px 0; border-bottom: 1px solid var(--line); font-size: .92rem; }
+.nutri-grid dt { color: var(--muted); }
+.nutri-grid dd { margin: 0; font-weight: 600; font-variant-numeric: tabular-nums; }

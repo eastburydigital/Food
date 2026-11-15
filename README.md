@@ -12,7 +12,7 @@ Every recipe is:
 Recipe ideas only, not medical advice.
 
 ## Features
-- **86 recipes** with texture levels (smooth / soft / regular), nutrient tags, swaps and storage advice
+- **186 recipes** across breakfast, lunch, dinner, desserts and snacks & bakes with texture levels (smooth / soft / regular), nutrient tags, swaps and storage advice
 - **Flare day / Good day** switch, search and filters (quick, batch cook, few ingredients, texture, protein, iron, not tried)
 - **Foods I avoid:** recipes are adapted with clearly marked, rule-safe swaps (ingredients and method). Recipes are hidden only when the food is the main ingredient or there's no safe swap
 - **Like / Not for me:** disliked recipes go to Saved › Hidden and can be restored

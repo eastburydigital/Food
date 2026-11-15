@@ -1,0 +1,1164 @@
+[
+  {
+    "id": "tofu-katsu-curry",
+    "title": "Tofu katsu curry",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 50,
+    "serves": 4,
+    "texture": "regular",
+    "summary": "Oven-crisp panko tofu with a smooth, sweet Japanese-style curry sauce and fluffy white rice.",
+    "ingredients": [
+      "400g firm tofu, drained and pressed",
+      "3 tbsp plain flour",
+      "1 egg, beaten",
+      "80g panko breadcrumbs",
+      "3 tbsp vegetable oil",
+      "1 onion, roughly chopped",
+      "2 carrots, peeled and chopped",
+      "2 garlic cloves, crushed",
+      "1 tsp grated fresh ginger",
+      "2 tbsp mild curry powder",
+      "1 tbsp plain flour (for the sauce)",
+      "600ml vegetable stock",
+      "1 apple, peeled, cored and grated",
+      "1 tbsp soy sauce",
+      "1 tbsp honey",
+      "300g white jasmine or sushi rice"
+    ],
+    "steps": [
+      "Heat the oven to 220°C (200°C fan) and line a tray with baking paper.",
+      "Cut the tofu into 8 slabs. Dip each in the 3 tbsp flour, then the egg, then press into the panko.",
+      "Lay on the tray, drizzle with 2 tbsp of the oil and bake for 25 minutes, turning halfway, until golden.",
+      "Meanwhile, soften the onion and carrots in the remaining oil for 10 minutes. Add the garlic and ginger for 1 minute.",
+      "Stir in the curry powder and the 1 tbsp flour, then gradually add the stock, grated apple, soy and honey. Simmer for 15 minutes until the carrots are very soft.",
+      "Blend the sauce until completely smooth, adding a splash of water if it is too thick.",
+      "Cook the rice according to the packet instructions.",
+      "Slice the tofu and serve on the rice with the sauce poured alongside."
+    ],
+    "tip": "The sauce is blended until silky, so there are no pieces of onion or carrot to chew. Baking rather than deep-frying keeps the coating crisp without being greasy.",
+    "swaps": [
+      "Use thick slices of halloumi instead of tofu (skip the egg wash and just dust in flour and panko)",
+      "Serve the sauce over soft udon noodles instead of rice"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Make a double batch of the curry sauce: it keeps for 3 days in the fridge or 3 months in the freezer. The baked tofu keeps for 2 days in the fridge; re-crisp in a hot oven. Cool leftover rice within 1 hour, keep in the fridge, eat within 1 day and reheat only once until piping hot. Don't freeze cooked rice."
+    }
+  },
+  {
+    "id": "malaysian-tofu-potato-curry",
+    "title": "Malaysian-style tofu & potato curry",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 50,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A fragrant, mild coconut curry with lemongrass, turmeric and warm spices, inspired by Malaysian kari.",
+    "ingredients": [
+      "1 onion, roughly chopped",
+      "3 garlic cloves",
+      "1 thumb-sized piece fresh ginger, peeled",
+      "2 tbsp vegetable oil",
+      "1 lemongrass stalk, bashed with a rolling pin",
+      "1 cinnamon stick",
+      "2 star anise",
+      "1 tbsp mild curry powder",
+      "1 tsp ground turmeric",
+      "600g potatoes, peeled and cut into 3cm chunks",
+      "2 carrots, peeled and sliced",
+      "400ml tin coconut milk",
+      "300ml vegetable stock",
+      "400g firm tofu, pressed and cubed",
+      "1 tbsp soy sauce",
+      "1 tsp soft brown sugar",
+      "1/2 lime, juiced",
+      "White rice, to serve"
+    ],
+    "steps": [
+      "Blitz the onion, garlic and ginger to a paste in a mini chopper or blender with a splash of water.",
+      "Heat the oil in a large pan and cook the paste with the lemongrass, cinnamon and star anise for 8 minutes until soft, sweet and lightly golden.",
+      "Stir in the curry powder and turmeric for 1 minute.",
+      "Add the potatoes, carrots, coconut milk and stock. Simmer, partly covered, for 20 minutes until the vegetables are very tender.",
+      "Add the tofu, soy and sugar and simmer for 5 minutes more.",
+      "Remove the lemongrass, cinnamon and star anise, stir in the lime juice and serve with rice."
+    ],
+    "tip": "The whole spices and lemongrass give lots of flavour but are lifted out before serving, so nothing woody is left behind. Choose a coconut milk with a short ingredient list, or use light coconut milk if you prefer it less rich.",
+    "swaps": [
+      "Use peeled butternut squash instead of carrots",
+      "Swap the tofu for 4 halved hard-boiled eggs, added at the end"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Great for batch cooking. Keep the curry in the fridge for 3 days or freeze in portions for 3 months (the potatoes may soften a little). Defrost overnight in the fridge and reheat until piping hot. Cook rice fresh; if you keep leftover rice, cool it within 1 hour, eat within 1 day, reheat once and don't freeze it."
+    }
+  },
+  {
+    "id": "thai-style-coconut-noodles-tofu",
+    "title": "Thai-style coconut noodles with tofu",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 25,
+    "serves": 3,
+    "texture": "regular",
+    "summary": "Silky rice noodles in a fragrant lemongrass, ginger and lime coconut broth, made without curry paste.",
+    "ingredients": [
+      "200g flat rice noodles",
+      "1 tbsp vegetable oil",
+      "1 lemongrass stalk, bashed with a rolling pin",
+      "2 garlic cloves, crushed",
+      "1 tbsp grated fresh ginger",
+      "Small bunch fresh coriander, stalks very finely chopped, leaves very finely chopped (optional)",
+      "1 tsp ground turmeric",
+      "1 tsp ground coriander",
+      "400ml tin light coconut milk",
+      "300ml vegetable stock",
+      "280g firm tofu, pressed and cubed",
+      "1 courgette, peeled and thinly sliced",
+      "100g baby spinach",
+      "1 tbsp soy sauce",
+      "1 tsp soft brown sugar",
+      "1 lime, juiced"
+    ],
+    "steps": [
+      "Soak or cook the rice noodles according to the packet, then drain.",
+      "Heat the oil in a large pan and gently fry the lemongrass, garlic, ginger and chopped coriander stalks for 2 minutes.",
+      "Stir in the turmeric and ground coriander, then pour in the coconut milk and stock. Simmer for 5 minutes.",
+      "Add the tofu and courgette and simmer for 8 minutes until the courgette is very soft.",
+      "Stir in the spinach until wilted, then season with the soy, sugar and lime juice. Remove the lemongrass.",
+      "Divide the noodles between bowls, ladle over the broth and scatter with the coriander leaves if you like."
+    ],
+    "tip": "Shop-bought Thai curry pastes often contain chilli and shrimp paste, so this builds the flavour from lemongrass, ginger and lime instead. Cooking the coriander stalks keeps their flavour without any raw leaves.",
+    "swaps": [
+      "Use soft-boiled eggs instead of tofu",
+      "Swap the courgette for peeled, thinly sliced carrot"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten fresh. Keep leftover broth and noodles separately in the fridge for up to 2 days and reheat the broth until piping hot before pouring over. Not suitable for freezing."
+    }
+  },
+  {
+    "id": "aloo-paneer-curry",
+    "title": "Mild aloo paneer curry",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 40,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "Tender potatoes and soft paneer in a gently spiced, creamy tomato sauce.",
+    "ingredients": [
+      "1 tbsp vegetable oil",
+      "15g butter",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "1 tsp grated fresh ginger",
+      "1 tsp ground cumin",
+      "1 tsp ground coriander",
+      "1/2 tsp ground turmeric",
+      "1 tsp garam masala",
+      "500g passata",
+      "200ml water",
+      "600g potatoes, peeled and cut into 2cm cubes",
+      "225g paneer, cut into 2cm cubes",
+      "4 tbsp single cream",
+      "Warm plain naan or white rice, to serve"
+    ],
+    "steps": [
+      "Heat the oil and butter in a large pan and cook the onion gently for 10 minutes until very soft.",
+      "Add the garlic, ginger, cumin, ground coriander, turmeric and garam masala and stir for 1 minute.",
+      "Pour in the passata and water, add the potatoes and simmer, covered, for 20 minutes until the potatoes are very tender.",
+      "Add the paneer and simmer for 5 minutes until it is soft and warmed through.",
+      "Stir in the cream and serve with naan or rice."
+    ],
+    "tip": "Simmering the paneer in the sauce, rather than frying it, keeps it soft. Blend the sauce before adding the potatoes if you'd like it completely smooth.",
+    "swaps": [
+      "Use cubes of firm tofu instead of paneer",
+      "Use 2 tbsp natural yoghurt instead of the cream (stir in off the heat)"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Keeps for 3 days in the fridge. To freeze, cool before adding the cream and freeze in portions for up to 3 months; defrost in the fridge, reheat until piping hot, then stir in the cream. If serving with rice, cool any leftover rice within 1 hour, eat within 1 day, reheat once and don't freeze it."
+    }
+  },
+  {
+    "id": "one-pot-tomato-orzo-mozzarella",
+    "title": "One-pot creamy tomato orzo",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 25,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "Orzo simmered in tomato and stock until creamy, finished with mascarpone, spinach and melting mozzarella.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "2 garlic cloves, crushed",
+      "300g orzo",
+      "500g passata",
+      "700ml vegetable stock",
+      "1 tsp dried oregano",
+      "100g baby spinach",
+      "60g mascarpone",
+      "125g mozzarella ball, torn",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Warm the oil in a wide, deep pan and cook the garlic for 1 minute without browning.",
+      "Add the orzo, passata, stock and oregano. Bring to a simmer and cook for 12–14 minutes, stirring often, until the orzo is very soft and most of the liquid is absorbed.",
+      "Stir in the spinach until wilted, then the mascarpone. Season with salt and pepper.",
+      "Dot the mozzarella over the top, cover with a lid for 2 minutes until melted, and serve."
+    ],
+    "tip": "Everything cooks in one pan and the orzo turns soft and risotto-like. Add an extra splash of stock for a looser, softer finish.",
+    "swaps": [
+      "Use cream cheese instead of mascarpone",
+      "Stir in 100g ricotta instead of the mozzarella"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Keeps for 2 days in the fridge. Freeze portions (ideally before adding the mozzarella) for up to 2 months. Defrost in the fridge and reheat with a splash of water until piping hot, adding fresh mozzarella if you like."
+    }
+  },
+  {
+    "id": "moong-dal-khichdi",
+    "title": "Moong dal khichdi",
+    "meal": "dinner",
+    "gentle": true,
+    "time": 45,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A soothing, porridge-soft Indian one-pot of white rice and split yellow lentils with ghee and turmeric.",
+    "ingredients": [
+      "150g white basmati rice",
+      "100g split yellow moong dal",
+      "1 tbsp ghee or butter",
+      "1/2 tsp ground cumin",
+      "1/2 tsp ground turmeric",
+      "1 tsp grated fresh ginger",
+      "1 carrot, peeled and finely diced",
+      "1.1 litres water",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Rinse the rice and moong dal together in a sieve until the water runs clear.",
+      "Melt the ghee in a large pan and stir in the cumin, turmeric and ginger for 30 seconds.",
+      "Add the rice, dal, carrot, water and salt. Bring to the boil, then cover and simmer gently for 30–35 minutes, stirring now and then, until very soft and porridge-like.",
+      "Mash lightly with the back of a spoon, loosen with a little hot water if needed and serve."
+    ],
+    "tip": "Split moong dal and white rice cook down until very soft, making this a traditional comforting meal. Keep the ghee to a spoonful so it stays light.",
+    "swaps": [
+      "Use red lentils instead of moong dal",
+      "Swap the carrot for peeled, diced courgette"
+    ],
+    "nutrients": [
+      "protein",
+      "iron"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Contains cooked rice: cool within 1 hour, keep in the fridge and eat within 1 day. Reheat only once, with a splash of water, until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "steamed-silken-tofu-ginger-soy",
+    "title": "Steamed silken tofu with ginger soy",
+    "meal": "dinner",
+    "gentle": true,
+    "time": 25,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "Warm, wobbly silken tofu with a light ginger and soy dressing, served over soft rice with wilted spinach.",
+    "ingredients": [
+      "150g white jasmine rice",
+      "300g silken tofu",
+      "100g baby spinach",
+      "2 tbsp soy sauce",
+      "1 tbsp water",
+      "1 tsp honey",
+      "1 tsp finely grated fresh ginger",
+      "1 tsp toasted sesame oil"
+    ],
+    "steps": [
+      "Cook the rice according to the packet, adding an extra splash of water for a softer result.",
+      "Carefully slide the tofu onto a heatproof plate that fits in a steamer (or a plate set on a rack in a lidded pan of simmering water). Steam for 8 minutes.",
+      "Wilt the spinach in a pan with a splash of water for 1–2 minutes, then squeeze out excess water.",
+      "Mix the soy, water, honey, ginger and sesame oil in a small pan and warm through.",
+      "Spoon the rice into bowls, add the spinach, then cut the tofu into large pieces, place on top and spoon over the dressing."
+    ],
+    "tip": "Silken tofu needs no chewing and the ginger dressing is light, so this is a calm, easy dinner. Toasted sesame oil is just the oil — no seeds.",
+    "swaps": [
+      "Serve over soft udon noodles instead of rice",
+      "Swap the spinach for peeled, steamed courgette"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten straight away. If you keep leftover rice, cool it within 1 hour, keep in the fridge, eat within 1 day and reheat only once until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "gnocchi-courgette-ricotta-sauce",
+    "title": "Gnocchi with silky courgette sauce",
+    "meal": "dinner",
+    "gentle": true,
+    "time": 25,
+    "serves": 3,
+    "texture": "soft",
+    "summary": "Pillowy gnocchi coated in a pale green sauce of blended peeled courgette, ricotta and a little cheese.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 garlic clove, crushed",
+      "2 courgettes, peeled and diced",
+      "100ml vegetable stock",
+      "100g ricotta",
+      "20g vegetarian Italian-style hard cheese, finely grated",
+      "1/2 lemon, finely zested",
+      "500g pack fresh gnocchi",
+      "Basil, very finely chopped (optional)",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Warm the oil in a pan and gently cook the garlic for 1 minute.",
+      "Add the courgettes and stock, cover and cook for 10–12 minutes until completely soft.",
+      "Blend the courgettes with the ricotta, cheese and lemon zest until smooth. Season with salt and pepper.",
+      "Cook the gnocchi in boiling salted water until they float, about 2–3 minutes, then drain.",
+      "Toss the gnocchi with the warm sauce and finish with a little very finely chopped basil if you like."
+    ],
+    "tip": "Peeling and blending the courgette gives a smooth, light sauce with no skins. Choose gnocchi with a short ingredient list.",
+    "swaps": [
+      "Toss the sauce through small pasta shapes instead of gnocchi",
+      "Use cream cheese instead of ricotta"
+    ],
+    "nutrients": [
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten fresh. Keep leftovers in the fridge for up to 2 days and reheat gently with a splash of water until piping hot. Not suitable for freezing."
+    }
+  },
+  {
+    "id": "carrot-thyme-risotto",
+    "title": "Sweet carrot & thyme risotto",
+    "meal": "dinner",
+    "gentle": true,
+    "time": 40,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A bright orange, creamy risotto with finely grated carrot melted right into the rice.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "15g butter",
+      "1 small onion, very finely chopped",
+      "4 carrots (about 300g), peeled and finely grated",
+      "1 tsp dried thyme",
+      "250g risotto rice",
+      "1 litre hot vegetable stock",
+      "30g vegetarian Italian-style hard cheese, finely grated",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Heat the oil and butter in a wide pan and cook the onion gently for 8 minutes until very soft.",
+      "Add the carrots and thyme and cook for 5 minutes, stirring, until the carrot starts to collapse.",
+      "Stir in the rice for 1 minute, then add the stock a ladle at a time, stirring and letting each addition be absorbed before adding the next. This takes about 20 minutes.",
+      "When the rice is very tender and creamy, stir in the cheese, season with salt and pepper and serve."
+    ],
+    "tip": "Finely grated carrot practically dissolves into the risotto, so you get the sweetness without firm pieces. Cook the rice a few minutes longer than usual for an extra-soft texture.",
+    "swaps": [
+      "Use peeled, grated courgette instead of carrot",
+      "Swap the hard cheese for 2 tbsp mascarpone"
+    ],
+    "nutrients": [
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Contains cooked rice: cool within 1 hour, keep in the fridge and eat within 1 day. Reheat only once, with a splash of stock, until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "pastina-egg-cheese",
+    "title": "Pastina with egg & cheese",
+    "meal": "dinner",
+    "gentle": true,
+    "time": 15,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "Tiny pasta stars cooked in stock and stirred with egg and cheese until silky — Italian comfort in a bowl.",
+    "ingredients": [
+      "150g pastina (tiny pasta stars) or orzo",
+      "600ml vegetable stock",
+      "1 egg",
+      "25g vegetarian Italian-style hard cheese, finely grated",
+      "10g butter",
+      "Pinch of black pepper"
+    ],
+    "steps": [
+      "Bring the stock to the boil in a small pan, add the pastina and simmer for 8–10 minutes, stirring often, until very soft and most of the stock is absorbed.",
+      "Beat the egg with the cheese in a bowl.",
+      "Take the pan off the heat and quickly stir in the egg mixture and butter until creamy. Return to a very low heat for 1 minute, stirring, until the egg is fully cooked.",
+      "Season with a pinch of pepper and serve straight away."
+    ],
+    "tip": "Small pasta cooked until very soft is easy to eat on a tired day, and the egg adds protein without making it heavy.",
+    "swaps": [
+      "Use 2 tbsp ricotta instead of the hard cheese",
+      "Stir in a spoonful of smooth butternut purée for colour"
+    ],
+    "nutrients": [
+      "protein",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten as soon as it's made. Leftovers can be kept in the fridge for 1 day and reheated gently with a splash of stock until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "japanese-simmered-tofu-potatoes",
+    "title": "Japanese-style simmered tofu & potatoes",
+    "meal": "dinner",
+    "gentle": true,
+    "time": 40,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A homely nikujaga-style pot of potatoes, carrots and tofu gently simmered in a sweet soy broth.",
+    "ingredients": [
+      "1 tbsp vegetable oil",
+      "1 onion, thinly sliced",
+      "600g potatoes, peeled and cut into large chunks",
+      "2 carrots, peeled and cut into chunks",
+      "500ml vegetable stock",
+      "3 tbsp soy sauce",
+      "2 tbsp mirin",
+      "1 tbsp caster sugar",
+      "400g firm tofu, cut into 3cm cubes",
+      "80g baby spinach"
+    ],
+    "steps": [
+      "Heat the oil in a wide pan and cook the onion gently for 5 minutes until softened.",
+      "Add the potatoes and carrots, then pour in the stock, soy, mirin and sugar.",
+      "Bring to a simmer, cover with a lid slightly ajar and cook for 20 minutes until the vegetables are very tender.",
+      "Add the tofu and simmer for 5 minutes more, spooning the broth over.",
+      "Stir in the spinach until just wilted and serve in bowls with some of the broth."
+    ],
+    "tip": "Everything is simmered rather than fried, and the potatoes and carrots become fork-soft. Cook the onion until completely soft before adding the rest.",
+    "swaps": [
+      "Use peeled chunks of butternut squash instead of carrots",
+      "Add 4 halved hard-boiled eggs instead of tofu"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Keeps for 3 days in the fridge and tastes even better the next day. Reheat until piping hot. Not ideal for freezing as the potatoes and tofu turn spongy."
+    }
+  },
+  {
+    "id": "lentil-aubergine-moussaka",
+    "title": "Red lentil & aubergine moussaka",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 100,
+    "serves": 6,
+    "texture": "soft",
+    "summary": "Layers of soft peeled aubergine, potato and cinnamon-spiced lentil sauce under a golden cheesy topping.",
+    "ingredients": [
+      "2 aubergines, peeled and sliced 1cm thick",
+      "500g potatoes, peeled and sliced 5mm thick",
+      "3 tbsp olive oil",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "150g red lentils, rinsed",
+      "500g passata",
+      "1 tbsp tomato purée",
+      "300ml vegetable stock",
+      "1 tsp dried oregano",
+      "1/2 tsp ground cinnamon",
+      "40g butter",
+      "40g plain flour",
+      "500ml milk",
+      "Pinch of ground nutmeg",
+      "60g cheddar, grated"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (180°C fan). Brush the aubergine slices with 2 tbsp of the oil and roast on a lined tray for 25 minutes until very soft.",
+      "Meanwhile, boil the potato slices for 6 minutes until just tender, then drain.",
+      "Soften the onion in the remaining oil for 10 minutes. Add the garlic, lentils, passata, tomato purée, stock, oregano and cinnamon and simmer for 20 minutes until thick.",
+      "Make the sauce: melt the butter, stir in the flour for 1 minute, then gradually whisk in the milk and simmer until thick. Add the nutmeg and half the cheese.",
+      "Layer the potatoes, lentil sauce and aubergine in a large ovenproof dish, finishing with lentils. Pour over the white sauce and scatter with the remaining cheese.",
+      "Bake for 35 minutes until golden and bubbling. Rest for 10 minutes before serving."
+    ],
+    "tip": "Peeling the aubergine and roasting it until soft removes the tough skin. Lentils make a soft filling with no chewy pieces.",
+    "swaps": [
+      "Use peeled courgette slices instead of aubergine",
+      "Top with 2 beaten eggs mixed into the white sauce for a firmer, more traditional topping (don't freeze if you do)"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Ideal for batch cooking. Keeps for 3 days in the fridge or freeze whole or in portions for 3 months. Defrost in the fridge overnight and reheat until piping hot."
+    }
+  },
+  {
+    "id": "cheese-onion-potato-pie",
+    "title": "Cheese, onion & potato pie",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 80,
+    "serves": 6,
+    "texture": "regular",
+    "summary": "A classic northern-style pie of soft, cheesy potato and sweet onion in crisp shortcrust pastry.",
+    "ingredients": [
+      "700g floury potatoes, peeled and cut into chunks",
+      "25g butter",
+      "1 onion, finely chopped",
+      "200g mature cheddar, grated",
+      "3 tbsp milk",
+      "Pinch of ground nutmeg",
+      "Salt and pepper",
+      "500g block shortcrust pastry",
+      "Plain flour, for dusting",
+      "1 egg, beaten"
+    ],
+    "steps": [
+      "Boil the potatoes for 15 minutes until soft, drain and roughly mash.",
+      "Meanwhile, melt the butter and cook the onion gently for 10 minutes until very soft and sweet.",
+      "Mix the potato, onion, cheese, milk and nutmeg. Season with salt and pepper and leave to cool a little.",
+      "Heat the oven to 200°C (180°C fan). Roll out two-thirds of the pastry on a floured surface and line a 23cm pie dish.",
+      "Spoon in the filling, roll out the remaining pastry for a lid, seal the edges and cut a small steam hole. Brush with egg.",
+      "Bake for 35–40 minutes until deep golden. Rest for 10 minutes before slicing."
+    ],
+    "tip": "The filling is soft and smooth; cook the onion until it melts so there are no firm pieces. Pick a shop-bought pastry made with butter and a short ingredient list.",
+    "swaps": [
+      "Use a mash topping instead of the pastry lid",
+      "Swap half the cheddar for crumbled Lancashire cheese"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Keeps for 3 days in the fridge. Freeze whole or in slices for up to 3 months, wrapped well. Defrost in the fridge and reheat in the oven until piping hot so the pastry crisps up again."
+    }
+  },
+  {
+    "id": "creamy-leek-cheddar-pot-pie",
+    "title": "Creamy leek & cheddar pot pie",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 70,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "Soft leeks, potato and carrot in a cheesy sauce under a golden puff pastry lid.",
+    "ingredients": [
+      "40g butter",
+      "2 leeks, trimmed and finely sliced",
+      "2 carrots, peeled and diced",
+      "400g potatoes, peeled and diced",
+      "40g plain flour",
+      "500ml milk",
+      "200ml vegetable stock",
+      "1 tsp dried thyme",
+      "100g baby spinach",
+      "100g mature cheddar, grated",
+      "320g sheet ready-rolled puff pastry",
+      "1 egg, beaten"
+    ],
+    "steps": [
+      "Melt the butter in a large pan and cook the leeks and carrots gently, covered, for 15 minutes until very soft.",
+      "Meanwhile, boil the potatoes for 8 minutes until just tender, then drain.",
+      "Stir the flour into the leeks for 1 minute, then gradually stir in the milk and stock. Add the thyme and simmer for 5 minutes until thick.",
+      "Stir in the potatoes, spinach and cheese. Tip into a pie dish and leave to cool for 10 minutes.",
+      "Heat the oven to 200°C (180°C fan). Lay the pastry over the dish, trim, crimp the edges, cut a steam hole and brush with egg.",
+      "Bake for 25–30 minutes until puffed and golden."
+    ],
+    "tip": "Slice the leeks finely and cook them slowly until silky so there are no stringy bits. Choose an all-butter puff pastry with a short ingredient list.",
+    "swaps": [
+      "Add 200g cubed firm tofu to the filling for extra protein",
+      "Top with mash instead of pastry"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Keeps for 3 days in the fridge. The filling freezes well for 3 months: defrost in the fridge, add a fresh pastry lid and bake until piping hot. Reheat leftovers in the oven until piping hot."
+    }
+  },
+  {
+    "id": "smoky-lentil-butter-bean-stew",
+    "title": "Smoky red lentil & butter bean stew",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 45,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A thick, smoky-sweet tomato stew of red lentils and carrot, made creamy with blended butter beans.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, finely chopped",
+      "2 carrots, peeled and finely diced",
+      "2 garlic cloves, crushed",
+      "2 tsp smoked paprika (sweet, not hot)",
+      "1 tsp ground cumin",
+      "400g tin butter beans, drained",
+      "500ml vegetable stock",
+      "150g red lentils, rinsed",
+      "500g passata",
+      "1 tbsp tomato purée",
+      "1 tsp soft brown sugar",
+      "1 tbsp vegetarian Worcestershire sauce",
+      "50g cheddar, grated",
+      "Soft buttery mash, to serve"
+    ],
+    "steps": [
+      "Soften the onion and carrots in the oil for 10 minutes. Add the garlic, paprika and cumin and stir for 1 minute.",
+      "Blend the butter beans with 200ml of the stock until completely smooth.",
+      "Add the blended beans, remaining stock, lentils, passata, tomato purée, sugar and Worcestershire to the pan.",
+      "Simmer for 25 minutes, stirring often, until the lentils have broken down and the stew is thick.",
+      "Serve over mash, topped with the grated cheddar."
+    ],
+    "tip": "Blending the butter beans removes their skins from the equation while keeping the creaminess and protein. Look for smoked paprika labelled 'sweet' or 'dulce'.",
+    "swaps": [
+      "Use blended cannellini beans instead of butter beans",
+      "Serve with soft polenta instead of mash"
+    ],
+    "nutrients": [
+      "protein",
+      "iron"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Perfect for batch cooking. Keeps for 3 days in the fridge or freeze in portions for 3 months. Defrost in the fridge and reheat until piping hot, adding a splash of water."
+    }
+  },
+  {
+    "id": "slow-cooker-squash-chickpea-tagine",
+    "title": "Slow-cooker squash & chickpea tagine",
+    "meal": "dinner",
+    "gentle": true,
+    "time": 375,
+    "serves": 6,
+    "texture": "soft",
+    "summary": "A warmly spiced Moroccan-style stew of soft squash and carrot, thickened with blended chickpeas and served with buttery couscous (slow-cooks for 6 hours).",
+    "ingredients": [
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "500g butternut squash, peeled and cut into 2cm chunks",
+      "2 carrots, peeled and sliced",
+      "400g tin chickpeas, drained",
+      "500ml vegetable stock",
+      "100g red lentils, rinsed",
+      "500g passata",
+      "1 tsp ground cumin",
+      "1 tsp ground cinnamon",
+      "1 tsp ground ginger",
+      "1 tsp sweet paprika",
+      "1 tbsp honey",
+      "1/2 lemon, juiced",
+      "300g couscous",
+      "375ml hot vegetable stock (for the couscous)",
+      "15g butter"
+    ],
+    "steps": [
+      "Blend the chickpeas with 200ml of the stock until completely smooth.",
+      "Put the onion, garlic, squash, carrots, blended chickpeas, remaining stock, lentils, passata, cumin, cinnamon, ginger, paprika and honey into the slow cooker and stir.",
+      "Cover and cook on low for 6 hours until the vegetables are very soft. Stir in the lemon juice.",
+      "Just before serving, put the couscous in a bowl with the butter, pour over the hot stock, cover and leave for 5 minutes, then fluff with a fork.",
+      "Serve the tagine over the couscous, lightly mashing the squash if you like it softer."
+    ],
+    "tip": "Long, slow cooking makes the squash and carrot meltingly soft, and blending the chickpeas means no skins. Fluff the couscous with extra butter or stock for a softer texture.",
+    "swaps": [
+      "Use peeled sweet potato instead of squash",
+      "Serve with soft mash instead of couscous"
+    ],
+    "nutrients": [
+      "protein",
+      "iron"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Great for batch cooking. Keep the tagine in the fridge for 3 days or freeze in portions for 3 months; defrost in the fridge and reheat until piping hot. Make the couscous fresh."
+    }
+  },
+  {
+    "id": "paneer-tikka-traybake",
+    "title": "Paneer tikka traybake",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 60,
+    "serves": 4,
+    "texture": "regular",
+    "summary": "A Friday-night fakeaway of mildly spiced yoghurt-marinated paneer roasted with soft potatoes and peeled sweet peppers.",
+    "ingredients": [
+      "450g paneer, cut into 3cm cubes",
+      "150g Greek-style yoghurt",
+      "1 tbsp mild curry powder",
+      "1 tsp garam masala",
+      "1 tsp sweet paprika",
+      "1 garlic clove, crushed",
+      "1 tsp grated fresh ginger",
+      "1/2 lemon, juiced",
+      "2 red peppers",
+      "600g potatoes, peeled and cut into 2cm chunks",
+      "2 tbsp vegetable oil",
+      "Warm plain naan, to serve"
+    ],
+    "steps": [
+      "Mix the yoghurt, curry powder, garam masala, paprika, garlic, ginger and lemon juice. Stir in the paneer and leave to marinate while the veg cooks.",
+      "Heat the oven to 220°C (200°C fan). Put the whole peppers and the potatoes on a large tray, toss the potatoes in the oil and roast for 30 minutes.",
+      "Move the peppers to a bowl, cover with a plate for 10 minutes, then peel off the skins, discard the seeds and slice the flesh.",
+      "Add the paneer to the tray with the potatoes and roast for 15 minutes until lightly charred at the edges.",
+      "Toss in the peeled peppers and serve with warm naan."
+    ],
+    "tip": "Roasting the peppers whole makes their skins slip off easily, leaving just the soft, sweet flesh. The spice blend is fragrant rather than hot.",
+    "swaps": [
+      "Use halloumi or firm tofu instead of paneer",
+      "Swap the peppers for peeled courgette chunks, roasted with the potatoes"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten fresh. Keep leftovers in the fridge for up to 2 days and reheat in a hot oven until piping hot. Not suitable for freezing."
+    }
+  },
+  {
+    "id": "sweet-sour-tofu",
+    "title": "Gentle sweet & sour tofu",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 35,
+    "serves": 3,
+    "texture": "regular",
+    "summary": "Golden tofu and soft peeled peppers in a glossy, tangy-sweet takeaway-style sauce.",
+    "ingredients": [
+      "400g firm tofu, pressed and cut into 2cm cubes",
+      "3 tbsp cornflour, plus 1 tsp for the sauce",
+      "3 tbsp vegetable oil",
+      "1 red pepper, peeled with a speed peeler, deseeded and sliced",
+      "1 yellow pepper, peeled with a speed peeler, deseeded and sliced",
+      "1 carrot, peeled and thinly sliced",
+      "1 small onion, thinly sliced",
+      "150ml smooth orange juice (no bits)",
+      "3 tbsp tomato ketchup",
+      "2 tbsp rice vinegar",
+      "2 tbsp soft brown sugar",
+      "1 tbsp soy sauce",
+      "White rice, to serve"
+    ],
+    "steps": [
+      "Toss the tofu in 3 tbsp cornflour. Fry in 2 tbsp of the oil in a large non-stick frying pan for 8–10 minutes, turning, until golden. Set aside.",
+      "Add the remaining oil, the peppers, carrot and onion with a splash of water. Cover and cook for 8–10 minutes, stirring, until very soft.",
+      "Whisk the orange juice, ketchup, vinegar, sugar, soy and 1 tsp cornflour, pour into the pan and bubble for 2 minutes until glossy.",
+      "Return the tofu, toss to coat and serve with rice."
+    ],
+    "tip": "Peeling the peppers with a speed peeler and covering them as they cook makes them soft and skin-free. Pick a ketchup with a short ingredient list.",
+    "swaps": [
+      "Use cubes of halloumi instead of tofu",
+      "Serve with soft egg noodles instead of rice"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Keep the tofu and sauce in the fridge for up to 2 days and reheat until piping hot. Cool leftover rice within 1 hour, keep in the fridge, eat within 1 day and reheat only once. Don't freeze."
+    }
+  },
+  {
+    "id": "quick-yoghurt-dough-pizza",
+    "title": "Quick yoghurt-dough margherita pizza",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 30,
+    "serves": 2,
+    "texture": "regular",
+    "summary": "No-yeast, two-ingredient pizza bases topped with a simple garlicky tomato sauce and melting mozzarella.",
+    "ingredients": [
+      "250g self-raising flour, plus extra for dusting",
+      "250g Greek-style yoghurt",
+      "Pinch of salt",
+      "150ml passata",
+      "1 small garlic clove, crushed",
+      "1 tsp dried oregano",
+      "1 tsp olive oil",
+      "125g mozzarella ball, torn",
+      "30g cheddar, grated"
+    ],
+    "steps": [
+      "Heat the oven to 220°C (200°C fan) and put two baking trays in to heat.",
+      "Mix the flour, yoghurt and salt into a soft dough. Knead briefly on a floured surface, halve and roll each into a thin 25cm round.",
+      "Stir together the passata, garlic, oregano and olive oil.",
+      "Carefully place the bases on the hot trays, spread with the sauce and top with the mozzarella and cheddar.",
+      "Bake for 12–15 minutes until the base is golden and the cheese is bubbling."
+    ],
+    "tip": "A takeaway-style pizza with a plain white base and no spicy toppings. Add soft, peeled and pre-cooked courgette slices if you want some veg.",
+    "swaps": [
+      "Top with thin slices of peeled, roasted courgette before baking",
+      "Use ricotta dotted over instead of cheddar"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 1,
+      "batch": false,
+      "text": "Keep leftover slices in the fridge for 2 days and reheat in a hot oven until piping hot. Baked, cooled pizzas can be wrapped and frozen for 1 month; reheat from frozen in a hot oven."
+    }
+  },
+  {
+    "id": "satay-noodles-tofu",
+    "title": "Mild satay noodles with tofu",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 25,
+    "serves": 3,
+    "texture": "regular",
+    "summary": "Egg noodles, soft peeled veg and tofu tossed in a creamy, smooth peanut and lime sauce.",
+    "ingredients": [
+      "280g firm tofu, pressed and cubed",
+      "1 tbsp cornflour",
+      "2 tbsp vegetable oil",
+      "1 carrot, peeled and cut into ribbons with a peeler",
+      "1 courgette, peeled and cut into ribbons with a peeler",
+      "2 large handfuls baby spinach",
+      "200g medium egg noodles",
+      "3 tbsp smooth peanut butter",
+      "2 tbsp soy sauce",
+      "1 tbsp honey",
+      "1 tbsp lime juice",
+      "1 tsp grated fresh ginger",
+      "100ml hot water"
+    ],
+    "steps": [
+      "Toss the tofu in the cornflour and fry in 1 tbsp of the oil for 8 minutes until golden. Set aside.",
+      "Add the remaining oil, carrot and courgette ribbons with a splash of water. Cover and cook for 5 minutes until very soft, then stir in the spinach to wilt.",
+      "Meanwhile, cook the noodles according to the packet and drain.",
+      "Whisk the peanut butter, soy, honey, lime juice, ginger and hot water until smooth.",
+      "Toss the noodles, veg, tofu and sauce together in the pan over a low heat until coated and hot."
+    ],
+    "tip": "Smooth peanut butter gives all the satay flavour without any nut pieces. Choose one that's just peanuts and a little salt.",
+    "swaps": [
+      "Use smooth cashew butter instead of peanut butter",
+      "Swap the tofu for sliced omelette"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Keep leftovers in the fridge for up to 2 days. Reheat with a splash of water until piping hot, or eat cold. Not suitable for freezing."
+    }
+  },
+  {
+    "id": "steamed-tofu-carrot-dumplings",
+    "title": "Steamed tofu & carrot dumplings",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 60,
+    "serves": 4,
+    "texture": "regular",
+    "summary": "Soft, gyoza-style dumplings filled with seasoned tofu, carrot and spinach, steamed and served with a sweet soy dip.",
+    "ingredients": [
+      "300g firm tofu, drained",
+      "1 carrot, peeled and finely grated",
+      "100g baby spinach",
+      "1 garlic clove, crushed",
+      "2 tsp grated fresh ginger",
+      "2 tbsp soy sauce",
+      "1 tsp toasted sesame oil",
+      "1 tbsp cornflour",
+      "30 round dumpling wrappers",
+      "1 tbsp rice vinegar",
+      "1 tsp honey"
+    ],
+    "steps": [
+      "Wilt the spinach in a pan with a splash of water, cool, squeeze dry and chop very finely.",
+      "Squeeze the tofu in a clean tea towel, then crumble very finely into a bowl. Add the spinach, carrot, garlic, ginger, 1 tbsp of the soy, the sesame oil and cornflour and mix well.",
+      "Put a heaped teaspoon of filling in the centre of each wrapper, wet the edge with water, fold into a half-moon and pinch to seal.",
+      "Line a steamer basket with baking paper and steam the dumplings in batches for 8–10 minutes until the wrappers are soft and translucent.",
+      "Mix the remaining soy with the rice vinegar and honey and serve as a dip."
+    ],
+    "tip": "Steaming rather than pan-frying keeps the wrappers soft and tender. Look for wrappers with a short ingredient list (usually just flour, water and salt).",
+    "swaps": [
+      "Use 150g ricotta mixed with 50g grated cheddar instead of tofu",
+      "Swap the carrot for peeled, grated courgette, squeezed dry"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Freeze uncooked dumplings on a lined tray, then bag up for up to 3 months and steam from frozen for 12–14 minutes until piping hot. Cooked dumplings keep for 2 days in the fridge."
+    }
+  },
+  {
+    "id": "leek-cheddar-crustless-quiche",
+    "title": "Leek & cheddar crustless quiche",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 55,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A soft, set savoury custard with melting leeks and cheddar, no pastry needed.",
+    "ingredients": [
+      "15g butter, plus extra for greasing",
+      "2 leeks, trimmed and finely sliced",
+      "6 eggs",
+      "300ml milk",
+      "2 tbsp plain flour",
+      "100g mature cheddar, grated",
+      "Pinch of ground nutmeg",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Heat the oven to 180°C (160°C fan) and grease a 23cm ovenproof dish.",
+      "Melt the butter in a pan and cook the leeks gently, covered, for 12–15 minutes until very soft. Spread over the base of the dish.",
+      "Whisk the flour with a little of the milk until smooth, then whisk in the remaining milk, the eggs, most of the cheese and the nutmeg. Season with salt and pepper.",
+      "Pour over the leeks, scatter with the rest of the cheese and bake for 30–35 minutes until just set with a slight wobble.",
+      "Leave to settle for 5 minutes before slicing."
+    ],
+    "tip": "No pastry keeps it lighter, and the leeks are cooked slowly until silky. Slice them very finely so there are no stringy pieces.",
+    "swaps": [
+      "Use peeled, grated courgette (squeezed dry) instead of leeks",
+      "Swap the cheddar for crumbled feta"
+    ],
+    "nutrients": [
+      "protein",
+      "b12",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Cool quickly, cover and keep in the fridge for up to 2 days. Eat cold or reheat until piping hot. Don't freeze — the egg custard turns watery."
+    }
+  },
+  {
+    "id": "lentil-stuffed-courgettes",
+    "title": "Lentil-stuffed courgette boats",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 55,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "Peeled courgette halves baked until tender and filled with a herby tomato and lentil sauce under bubbling mozzarella.",
+    "ingredients": [
+      "4 medium courgettes, peeled and halved lengthways",
+      "1 tbsp olive oil",
+      "1 small onion, finely chopped",
+      "1 garlic clove, crushed",
+      "100g red lentils, rinsed",
+      "300ml passata",
+      "200ml vegetable stock",
+      "1 tsp dried oregano",
+      "125g mozzarella ball, torn",
+      "20g vegetarian Italian-style hard cheese, finely grated"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (180°C fan). Scoop out the soft centres of the courgettes with a teaspoon and finely chop the scooped flesh.",
+      "Lay the courgette halves cut-side up in a baking dish, cover with foil and bake for 15 minutes to soften.",
+      "Meanwhile, soften the onion in the oil for 8 minutes. Add the garlic, chopped courgette flesh, lentils, passata, stock and oregano and simmer for 20 minutes until thick.",
+      "Spoon the lentil sauce into the courgettes, top with the mozzarella and hard cheese and bake uncovered for 20 minutes until golden and the courgettes are very soft."
+    ],
+    "tip": "Peeling the courgettes before baking means the whole boat is soft enough to cut with a spoon. Spoon any extra filling around the courgettes in the dish.",
+    "swaps": [
+      "Use peeled marrow, cut into thick rings, instead of courgettes",
+      "Top with crumbled feta instead of mozzarella"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Keep leftovers in the fridge for up to 2 days and reheat until piping hot. The filling can be frozen on its own for 3 months, but the baked courgettes go watery, so don't freeze those."
+    }
+  },
+  {
+    "id": "lentil-ricotta-balls-tomato-sauce",
+    "title": "Red lentil & ricotta balls in tomato sauce",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 60,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "Tender baked lentil and cheese 'meatballs' simmered in a rich tomato sauce, served over spaghetti.",
+    "ingredients": [
+      "100g red lentils, rinsed",
+      "300ml water",
+      "100g ricotta",
+      "75g fresh white breadcrumbs",
+      "30g vegetarian Italian-style hard cheese, finely grated",
+      "1 egg, beaten",
+      "2 garlic cloves, crushed",
+      "2 tsp dried oregano",
+      "2 tbsp olive oil",
+      "700g passata",
+      "1 tsp caster sugar",
+      "300g spaghetti",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Simmer the lentils in the water for 15 minutes, stirring often, until soft and all the water is absorbed. Spread on a plate to cool for 10 minutes.",
+      "Heat the oven to 200°C (180°C fan). Mix the lentils with the ricotta, breadcrumbs, hard cheese, egg, half the garlic and 1 tsp of the oregano. Season and roll into 16 balls.",
+      "Place on a lined tray, brush with 1 tbsp of the oil and bake for 20 minutes until firm and golden.",
+      "Meanwhile, warm the remaining oil and cook the rest of the garlic for 1 minute. Add the passata, sugar and remaining oregano and simmer for 15 minutes.",
+      "Cook the spaghetti according to the packet. Add the baked balls to the sauce, simmer gently for 5 minutes and serve over the spaghetti."
+    ],
+    "tip": "The lentils break down completely, so the balls are soft enough to cut with a fork. If the mixture feels too wet to roll, add a few more breadcrumbs.",
+    "swaps": [
+      "Use 50g grated cheddar instead of ricotta",
+      "Serve over soft polenta or mash instead of spaghetti"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Freeze the balls in their sauce for up to 3 months; defrost in the fridge and reheat until piping hot. Keeps for 3 days in the fridge. Cook the pasta fresh."
+    }
+  },
+  {
+    "id": "lentil-potato-casserole-cheesy-dumplings",
+    "title": "Lentil casserole with cheesy dumplings",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 70,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A hearty, thick red lentil, carrot and potato casserole topped with fluffy cheddar and thyme dumplings.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, finely chopped",
+      "3 carrots, peeled and cut into chunks",
+      "400g potatoes, peeled and cut into chunks",
+      "150g red lentils, rinsed",
+      "1 litre vegetable stock",
+      "2 tbsp tomato purée",
+      "1 tbsp vegetarian Worcestershire sauce",
+      "2 tsp dried thyme",
+      "1 bay leaf",
+      "150g self-raising flour",
+      "50g cold butter, grated",
+      "50g cheddar, grated",
+      "About 90ml milk",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Soften the onion in the oil in a large casserole pan for 10 minutes.",
+      "Add the carrots, potatoes, lentils, stock, tomato purée, Worcestershire, 1 tsp of the thyme and the bay leaf. Season and simmer, covered, for 25 minutes until the vegetables are tender and the lentils have thickened the gravy.",
+      "Meanwhile, mix the flour, butter, cheese and remaining thyme with a pinch of salt. Stir in enough milk to make a soft, sticky dough and shape into 8 balls.",
+      "Remove the bay leaf. Sit the dumplings on top of the casserole, cover with a lid and simmer gently for 20 minutes until they are risen and fluffy.",
+      "Serve in bowls."
+    ],
+    "tip": "Cook the vegetables until they mash easily with a fork. Steaming the dumplings under the lid keeps them soft rather than crusty.",
+    "swaps": [
+      "Use peeled butternut squash instead of potatoes",
+      "Leave the cheese out of the dumplings and stir it into the casserole instead"
+    ],
+    "nutrients": [
+      "protein",
+      "iron",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Freeze the casserole without the dumplings in portions for up to 3 months; defrost in the fridge, reheat until piping hot and add freshly made dumplings. Leftovers with dumplings keep for 3 days in the fridge."
+    }
+  }
+]

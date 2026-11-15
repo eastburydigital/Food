@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "silky-courgette-basil-soup",
+    "title": "Silky courgette & basil soup",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 35,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "A pale green Italian-style soup of peeled courgettes and potato, blended with a handful of basil until velvety.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, finely chopped",
+      "1 garlic clove, crushed",
+      "4 courgettes (about 800g), peeled and chopped",
+      "1 medium potato (about 200g), peeled and diced",
+      "900ml vegetable stock",
+      "Small handful of basil leaves",
+      "20g vegetarian Italian-style hard cheese, finely grated (optional)",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft. Add the garlic for 1 minute.",
+      "Add the courgettes, potato and stock. Bring to the boil, then simmer for 15–20 minutes until everything is very soft.",
+      "Add the basil leaves and simmer for 1 minute more so they wilt.",
+      "Blend until completely smooth, then season with salt and pepper.",
+      "Serve with the grated cheese stirred through, if using."
+    ],
+    "tip": "Peeling the courgettes keeps the soup silky and pale, and the basil is cooked and blended in rather than scattered on top. Choose a stock with a short ingredient list.",
+    "swaps": [
+      "Use a few tarragon leaves instead of basil for a French twist",
+      "Stir in 2 tbsp ricotta instead of the hard cheese"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze in portions for 3 months (freeze before adding cheese). Defrost in the fridge overnight and reheat until piping hot."
+    }
+  },
+  {
+    "id": "silky-greek-fava-soup",
+    "title": "Silky Greek fava soup",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 70,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "Inspired by Santorini fava, yellow split peas are simmered until they collapse, then blended into a thick, golden soup with oregano and a squeeze of lemon.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, finely chopped",
+      "1 carrot, peeled and finely diced",
+      "1 garlic clove, crushed",
+      "250g yellow split peas, rinsed well",
+      "1.2 litres vegetable stock",
+      "1 bay leaf",
+      "1 tsp dried oregano",
+      "½ lemon, juiced",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Warm the oil in a large pan and soften the onion and carrot for 10 minutes. Add the garlic for 1 minute.",
+      "Add the split peas, stock, bay leaf and oregano. Bring to the boil and skim off any foam.",
+      "Simmer, partly covered, for 45–50 minutes, stirring now and then, until the split peas have completely broken down. Add a splash of water if it gets too thick.",
+      "Remove the bay leaf and blend until very smooth.",
+      "Stir in the lemon juice, season with salt and pepper, and loosen with hot water to your liking."
+    ],
+    "tip": "Greek fava is made from yellow split peas, not broad beans, and they break down completely when cooked long enough. Blend for a good couple of minutes for the smoothest result.",
+    "swaps": [
+      "Use red lentils instead of split peas and simmer for 20 minutes",
+      "Swirl in 1 tbsp Greek yoghurt per bowl instead of the lemon"
+    ],
+    "nutrients": [
+      "protein",
+      "iron"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Thickens as it stands. Fridge for 3 days or freeze in portions for 3 months. Defrost overnight in the fridge and reheat until piping hot, adding a splash of water."
+    }
+  },
+  {
+    "id": "mild-spiced-parsnip-apple-soup",
+    "title": "Mild spiced parsnip & apple soup",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 40,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "Sweet parsnips and a peeled apple simmered with gentle curry spice and ginger, then blended with a splash of milk.",
+    "ingredients": [
+      "1 tbsp butter",
+      "1 onion, finely chopped",
+      "600g parsnips, peeled, woody cores removed, chopped",
+      "1 eating apple, peeled, cored and chopped",
+      "1 tsp mild curry powder",
+      "1 tsp fresh ginger, finely grated",
+      "1 litre vegetable stock",
+      "100ml milk",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Melt the butter in a large pan and cook the onion gently for 8 minutes until soft.",
+      "Stir in the curry powder and ginger for 1 minute.",
+      "Add the parsnips, apple and stock. Simmer for 20–25 minutes until the parsnips are very soft.",
+      "Add the milk and blend until completely smooth. Season with salt and pepper and reheat gently."
+    ],
+    "tip": "Cutting out the woody centre of larger parsnips keeps the soup silky, and a mild curry powder gives warmth without heat.",
+    "swaps": [
+      "Use a peeled pear instead of the apple",
+      "Use oat drink or soya milk instead of milk"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze in portions for 3 months. Defrost in the fridge overnight and reheat until piping hot, whisking if it has separated."
+    }
+  },
+  {
+    "id": "sweet-potato-white-miso-soup",
+    "title": "Sweet potato & white miso soup",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 35,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "A Japanese-inspired velvety soup of peeled sweet potato and ginger, finished with mellow white miso for a savoury depth.",
+    "ingredients": [
+      "1 tbsp neutral oil",
+      "1 small onion, finely chopped",
+      "1 tsp fresh ginger, finely grated",
+      "700g sweet potatoes, peeled and chopped",
+      "900ml vegetable stock",
+      "2 tbsp white (shiro) miso paste",
+      "1 tsp soy sauce"
+    ],
+    "steps": [
+      "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft. Add the ginger for 1 minute.",
+      "Add the sweet potatoes and stock. Simmer for 15–20 minutes until very soft.",
+      "Take the pan off the heat. Mix the miso with a ladle of the hot stock until smooth, then stir it back in with the soy sauce.",
+      "Blend until silky. Reheat gently without boiling."
+    ],
+    "tip": "White miso is milder and sweeter than darker kinds. Adding it off the heat keeps its flavour gentle and rounded.",
+    "swaps": [
+      "Use peeled butternut squash instead of sweet potato",
+      "Blend in 150g silken tofu for extra protein"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze in portions for 3 months. Defrost overnight in the fridge and reheat gently until piping hot."
+    }
+  },
+  {
+    "id": "chinese-tomato-egg-soup",
+    "title": "Chinese tomato & egg soup",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 20,
+    "serves": 3,
+    "texture": "soft",
+    "summary": "A light, home-style Chinese soup of passata and stock, thickened slightly and swirled with soft ribbons of egg and cubes of silken tofu.",
+    "ingredients": [
+      "1 tsp neutral oil",
+      "1 garlic clove, crushed",
+      "1 tsp fresh ginger, finely grated",
+      "400g passata",
+      "700ml vegetable stock",
+      "1 tbsp light soy sauce",
+      "1 tsp sugar",
+      "1 tbsp cornflour mixed with 2 tbsp cold water",
+      "150g silken tofu, cut into small cubes",
+      "3 eggs, beaten",
+      "Salt"
+    ],
+    "steps": [
+      "Warm the oil in a pan and cook the garlic and ginger gently for 1 minute.",
+      "Add the passata, stock, soy sauce and sugar. Simmer for 5 minutes.",
+      "Stir in the cornflour mixture and simmer for 1 minute until slightly thickened.",
+      "Slide in the tofu and heat through for 2 minutes.",
+      "Turn the heat low. Pour in the beaten eggs in a thin stream while slowly stirring, so they set into soft ribbons. Season with salt and serve."
+    ],
+    "tip": "Passata gives all the tomato flavour without any seeds or skins, and the egg sets into soft, delicate strands.",
+    "swaps": [
+      "Leave out the tofu and add a fourth egg",
+      "Pour over soft white rice noodles for a more filling bowl"
+    ],
+    "nutrients": [
+      "protein",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten fresh. Cool quickly and keep in the fridge for up to 1 day; reheat gently until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "celeriac-potato-veloute",
+    "title": "Celeriac & potato velouté",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 40,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "A classic French velouté with a gentle, nutty celeriac flavour, finished with milk, a spoon of crème fraîche and a little nutmeg.",
+    "ingredients": [
+      "1 tbsp butter",
+      "1 onion, finely chopped",
+      "1 small celeriac (about 600g), peeled and diced",
+      "1 medium potato (about 200g), peeled and diced",
+      "900ml vegetable stock",
+      "½ tsp dried thyme",
+      "150ml milk",
+      "2 tbsp crème fraîche",
+      "Pinch of ground nutmeg",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Melt the butter in a large pan and cook the onion gently for 8 minutes until soft.",
+      "Add the celeriac, potato, stock and thyme. Simmer for 20–25 minutes until the celeriac is very soft.",
+      "Add the milk and blend until completely smooth.",
+      "Stir in the crème fraîche and nutmeg, season with salt and pepper and reheat gently."
+    ],
+    "tip": "Peel celeriac thickly with a knife to remove all the knobbly outer layer. Only a little crème fraîche is used, so it stays light.",
+    "swaps": [
+      "Use a leek, very finely sliced, instead of the onion",
+      "Use plain yoghurt instead of crème fraîche, stirred in off the heat"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze for 3 months (best frozen before the crème fraîche goes in). Defrost in the fridge overnight and reheat until piping hot."
+    }
+  },
+  {
+    "id": "spanish-garlic-bread-soup",
+    "title": "Spanish garlic & bread soup with egg",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 30,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "Sopa de ajo: day-old white bread simmered in a sweet paprika and garlic broth until it melts, with an egg poached in each bowl.",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "4 garlic cloves, thinly sliced",
+      "100g day-old white bread, crusts removed, torn into small pieces",
+      "1 tsp sweet smoked paprika",
+      "1 litre vegetable stock",
+      "4 eggs",
+      "Salt"
+    ],
+    "steps": [
+      "Warm the oil in a wide pan over a low heat and cook the garlic gently for 2–3 minutes until soft and pale golden.",
+      "Add the bread and stir for 2 minutes so it soaks up the oil. Stir in the paprika for 30 seconds.",
+      "Pour in the stock and simmer for 10 minutes, whisking now and then, until the bread has broken down. Season with salt.",
+      "Crack the eggs into the simmering soup, cover and cook for 3–4 minutes until the whites are set.",
+      "Ladle into bowls with one egg in each."
+    ],
+    "tip": "Removing the crusts lets the bread dissolve into a soft, thick broth. Use sweet paprika (pimentón dulce), never the hot kind.",
+    "swaps": [
+      "Beat the eggs and swirl them in as ribbons instead of poaching",
+      "Use unsmoked sweet paprika for a milder flavour"
+    ],
+    "nutrients": [
+      "protein",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten straight away. Leftovers keep in the fridge for 1 day; reheat gently until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "polish-dill-potato-soup",
+    "title": "Polish creamy dill & potato soup",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 40,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "Inspired by zupa koperkowa, a mild potato and carrot soup enriched with milk and a little soured cream, with plenty of dill cooked in.",
+    "ingredients": [
+      "1 tbsp butter",
+      "1 onion, finely chopped",
+      "1 carrot, peeled and diced",
+      "700g potatoes, peeled and diced",
+      "1 litre vegetable stock",
+      "1 bay leaf",
+      "1 tbsp plain flour",
+      "200ml milk",
+      "2 tbsp soured cream",
+      "2 tbsp dill, very finely chopped",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Melt the butter in a large pan and cook the onion and carrot gently for 10 minutes until soft.",
+      "Add the potatoes, stock and bay leaf. Simmer for 15–20 minutes until the potatoes are very soft.",
+      "Whisk the flour into the milk until smooth, then stir it into the soup and simmer for 2 minutes until slightly thickened.",
+      "Remove the bay leaf, add the dill and simmer for 1 minute more.",
+      "Blend until smooth, stir in the soured cream and season with salt and pepper."
+    ],
+    "tip": "The dill is simmered and blended in, so it flavours the soup without any stringy bits. Only a little soured cream is used, keeping it light.",
+    "swaps": [
+      "Use plain yoghurt instead of soured cream, stirred in off the heat",
+      "Leave it unblended with very small potato cubes if you're managing soft textures well"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze for 2 months, ideally before adding the soured cream. Potato soups can thicken; reheat until piping hot and whisk in a splash of milk."
+    }
+  },
+  {
+    "id": "caribbean-red-lentil-coconut-soup",
+    "title": "Caribbean-style red lentil & coconut soup",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 40,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "A mild, Caribbean-inspired soup of red lentils and carrot with thyme, allspice and light coconut milk, blended until creamy.",
+    "ingredients": [
+      "1 tbsp neutral oil",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "1 tsp fresh ginger, finely grated",
+      "1 tsp dried thyme",
+      "½ tsp ground allspice",
+      "2 carrots, peeled and diced",
+      "200g red lentils, rinsed",
+      "800ml vegetable stock",
+      "400ml tin light coconut milk",
+      "½ lime, juiced",
+      "Salt"
+    ],
+    "steps": [
+      "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft.",
+      "Add the garlic, ginger, thyme and allspice and stir for 1 minute.",
+      "Add the carrots, lentils, stock and coconut milk. Simmer for 20–25 minutes, stirring now and then, until the lentils have collapsed and the carrots are very soft.",
+      "Blend until smooth, add the lime juice and season with salt."
+    ],
+    "tip": "All the warmth comes from allspice, thyme and ginger rather than Scotch bonnet. Light coconut milk keeps it creamy without being too rich; pick a tin with just coconut and water.",
+    "swaps": [
+      "Use 1 peeled sweet potato instead of the carrots",
+      "Use full-fat coconut milk with extra stock if you prefer"
+    ],
+    "nutrients": [
+      "protein",
+      "iron"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Fridge for 3 days or freeze in portions for 3 months. Defrost overnight in the fridge and reheat until piping hot with a splash of water."
+    }
+  },
+  {
+    "id": "smooth-chickpea-tahini-soup",
+    "title": "Smooth chickpea & tahini soup",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 35,
+    "serves": 4,
+    "texture": "smooth",
+    "summary": "A Middle Eastern-style soup of chickpeas simmered with cumin and coriander, blended very smooth with tahini and lemon.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "1 tsp ground cumin",
+      "1 tsp ground coriander",
+      "2 x 400g tins chickpeas, drained and rinsed",
+      "900ml vegetable stock",
+      "2 tbsp tahini",
+      "½ lemon, juiced",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft. Add the garlic, cumin and coriander for 1 minute.",
+      "Add the chickpeas and stock and simmer for 20 minutes so the chickpeas soften further.",
+      "Add the tahini and lemon juice and blend for 2–3 minutes until completely smooth. Push through a sieve if you want it extra silky.",
+      "Season with salt and pepper and reheat gently, adding hot water if it's too thick."
+    ],
+    "tip": "Chickpeas must be blended until no whole pieces remain; sieving catches any stray skins. Choose tins with just chickpeas, water and salt.",
+    "swaps": [
+      "Use smooth peanut butter instead of tahini",
+      "Swirl in 1 tbsp Greek yoghurt per bowl"
+    ],
+    "nutrients": [
+      "protein",
+      "iron"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Thickens on standing. Fridge for 3 days or freeze in portions for 3 months. Reheat until piping hot, loosening with a little water."
+    }
+  },
+  {
+    "id": "veggie-croque-monsieur",
+    "title": "Veggie croque monsieur",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 20,
+    "serves": 2,
+    "texture": "regular",
+    "summary": "A French café classic without the ham: soft white bread filled and topped with a little béchamel and melted cheddar, then grilled until bubbling.",
+    "ingredients": [
+      "15g butter, plus extra for spreading",
+      "15g plain flour",
+      "150ml milk",
+      "Pinch of ground nutmeg",
+      "80g mature cheddar, grated",
+      "½ tsp Dijon mustard (optional)",
+      "4 slices soft white bread"
+    ],
+    "steps": [
+      "Melt the 15g butter in a small pan, stir in the flour for 1 minute, then whisk in the milk a little at a time. Simmer for 2 minutes until thick, then stir in the nutmeg and half the cheese.",
+      "Heat the grill to medium-high. Lightly butter one side of each slice of bread.",
+      "Lay 2 slices buttered side down on a baking tray. Spread with the mustard, if using, and a spoonful of the sauce, then top with the remaining bread, buttered side up.",
+      "Grill for 2 minutes until golden, then turn over.",
+      "Spread the rest of the sauce over the tops, scatter with the remaining cheese and grill for 3–4 minutes until bubbling and golden."
+    ],
+    "tip": "Keep the grill to medium so the bread turns golden rather than hard and crunchy, and cut off the crusts if they're tricky to chew.",
+    "swaps": [
+      "Top each with a soft fried egg to make a croque madame",
+      "Add a layer of very soft, peeled roasted red pepper inside"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 0,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best eaten hot, straight from the grill. The sauce can be made a day ahead and kept in the fridge."
+    }
+  },
+  {
+    "id": "aloo-paratha",
+    "title": "Mild aloo paratha",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 60,
+    "serves": 4,
+    "texture": "regular",
+    "summary": "Soft white-flour flatbreads stuffed with gently spiced mashed potato and cooked in a dry pan with a little butter.",
+    "ingredients": [
+      "250g plain white flour, plus extra for dusting",
+      "½ tsp salt",
+      "1 tbsp neutral oil",
+      "150ml warm water",
+      "500g floury potatoes, peeled and chopped",
+      "½ tsp ground cumin",
+      "½ tsp garam masala",
+      "¼ tsp ground turmeric",
+      "1 tbsp coriander, very finely chopped (optional)",
+      "20g butter, melted",
+      "4 tbsp plain yoghurt, to serve"
+    ],
+    "steps": [
+      "Mix the flour, salt, oil and water into a soft dough. Knead for 5 minutes, cover and rest for 20 minutes.",
+      "Meanwhile, boil the potatoes for 15 minutes until very soft. Drain well and mash completely smooth with the cumin, garam masala, turmeric, coriander (if using) and a pinch of salt. Leave to cool a little.",
+      "Divide the dough and filling into 4. Roll a piece of dough into a 12cm circle, put a ball of filling in the middle, gather the edges over and pinch to seal.",
+      "Dust with flour and gently roll out to about 18cm, flattening any air pockets. Repeat with the rest.",
+      "Cook each paratha in a dry frying pan over a medium heat for 2 minutes per side, then brush with melted butter and cook for 30 seconds more each side until golden in patches.",
+      "Serve warm with the yoghurt."
+    ],
+    "tip": "Plain white flour keeps these softer and lower in fibre than traditional wholemeal atta. The spices are warm rather than hot.",
+    "swaps": [
+      "Mash 50g grated paneer into the filling",
+      "Serve with a spoonful of smooth mango chutney instead of yoghurt"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Cool, then fridge for 2 days or freeze between sheets of baking paper for 2 months. Reheat from frozen in a dry pan over a low heat until piping hot in the middle."
+    }
+  },
+  {
+    "id": "tamagoyaki-rolled-omelette",
+    "title": "Japanese rolled omelette",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 15,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "Tamagoyaki: thin layers of lightly sweet, soy-seasoned egg rolled into a tender log and sliced, perfect warm or in a lunchbox.",
+    "ingredients": [
+      "4 eggs",
+      "2 tbsp milk or water",
+      "1 tsp sugar",
+      "1 tsp soy sauce",
+      "1 tsp neutral oil"
+    ],
+    "steps": [
+      "Beat the eggs with the milk, sugar and soy sauce until smooth.",
+      "Heat a small non-stick frying pan over a medium-low heat and wipe it with a little oil on kitchen paper.",
+      "Pour in a thin layer of egg and tilt to cover the base. When it's just set but still moist on top, roll it up from one side to the other with a spatula.",
+      "Wipe the empty part of the pan with oil, pour in another thin layer and lift the roll so the egg runs underneath. When just set, roll the omelette back the other way.",
+      "Repeat until all the egg is used. Rest for 2 minutes, then slice into thick pieces."
+    ],
+    "tip": "Cooking over a low heat keeps the egg tender with no crisp edges. Traditional dashi stock is usually made with fish, so this version uses milk or water.",
+    "swaps": [
+      "Add 1 tbsp finely grated cheddar to each layer",
+      "Use a pinch of salt instead of soy sauce"
+    ],
+    "nutrients": [
+      "protein",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Cool quickly and keep in the fridge for up to 1 day; eat cold from a lunchbox or warm through. Don't freeze."
+    }
+  },
+  {
+    "id": "mild-japanese-curry-rice",
+    "title": "Mild Japanese-style curry rice",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 50,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A from-scratch Japanese curry with a glossy, gently sweet sauce, soft potato, carrot and tofu, spooned over white rice.",
+    "ingredients": [
+      "1 tbsp neutral oil",
+      "1 onion, finely chopped",
+      "1 garlic clove, crushed",
+      "1 tsp fresh ginger, finely grated",
+      "2 carrots, peeled and cut into small chunks",
+      "400g potatoes, peeled and cut into small chunks",
+      "600ml vegetable stock",
+      "1 eating apple, peeled and finely grated",
+      "200g firm tofu, cut into cubes",
+      "30g butter",
+      "2 tbsp plain flour",
+      "1 tbsp mild curry powder",
+      "1 tbsp tomato purée",
+      "1 tbsp soy sauce",
+      "1 tsp honey",
+      "250g white rice"
+    ],
+    "steps": [
+      "Warm the oil in a large pan and cook the onion gently for 10 minutes until very soft. Add the garlic and ginger for 1 minute.",
+      "Add the carrots, potatoes, stock and apple. Simmer for 15 minutes, then add the tofu and simmer for 5 minutes more until the vegetables are very soft.",
+      "Meanwhile, cook the rice according to the packet.",
+      "In a small pan, melt the butter, stir in the flour and cook for 2 minutes until light golden. Stir in the curry powder for 30 seconds.",
+      "Whisk a ladle of the hot stock into the roux until smooth, then stir it back into the curry with the tomato purée, soy sauce and honey. Simmer for 5 minutes until thick and glossy.",
+      "Serve the curry over the rice."
+    ],
+    "tip": "The homemade roux replaces shop-bought curry blocks, and grated apple and honey give the classic mellow sweetness without any heat.",
+    "swaps": [
+      "Use peeled sweet potato instead of carrot",
+      "Serve over soft udon noodles instead of rice"
+    ],
+    "nutrients": [
+      "protein"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Cool the rice and curry within 1 hour and refrigerate. Eat rice within 1 day, reheat it only once until piping hot, and don't freeze it. The curry on its own keeps 3 days in the fridge or freezes for 3 months."
+    }
+  },
+  {
+    "id": "steamed-tofu-carrot-dumplings",
+    "title": "Steamed tofu & carrot dumplings",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 50,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "Chinese-style dumplings filled with a soft, gingery tofu, carrot and courgette mixture, steamed until tender and served with a sweet soy dip.",
+    "ingredients": [
+      "1 tbsp neutral oil",
+      "1 carrot, peeled and finely grated",
+      "1 courgette, peeled, finely grated and squeezed dry",
+      "1 garlic clove, crushed",
+      "1 tsp fresh ginger, finely grated",
+      "200g firm tofu, patted dry and crumbled finely",
+      "2 tbsp soy sauce",
+      "1 tsp cornflour",
+      "24 round dumpling (gyoza) wrappers",
+      "1 tsp honey",
+      "1 tbsp warm water"
+    ],
+    "steps": [
+      "Warm the oil in a frying pan and cook the carrot and courgette for 5 minutes until very soft. Add the garlic and ginger for 1 minute.",
+      "Take off the heat and mix in the tofu, 1 tbsp of the soy sauce and the cornflour. Leave to cool for 10 minutes.",
+      "Put a heaped teaspoon of filling in the centre of each wrapper. Wet the edge with water, fold in half and press firmly to seal, pleating if you like.",
+      "Line a steamer with baking paper. Steam the dumplings in batches, spaced apart, for 8–10 minutes until the wrappers are soft and translucent.",
+      "Mix the remaining soy sauce with the honey and warm water to make a dipping sauce, and serve with the dumplings."
+    ],
+    "tip": "Cooking the grated vegetables before filling means they're fully soft inside the dumplings. Look for wrappers made with just flour, water and salt.",
+    "swaps": [
+      "Use finely chopped, well-squeezed cooked spinach instead of courgette",
+      "Pan-fry the bases in a little oil before steaming for a golden finish"
+    ],
+    "nutrients": [
+      "protein"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Freeze uncooked dumplings on a lined tray, then bag them, for up to 2 months; steam from frozen for 12–14 minutes until piping hot. Cooked dumplings keep in the fridge for 2 days."
+    }
+  },
+  {
+    "id": "korean-style-vegetable-pancake",
+    "title": "Korean-style vegetable pancake",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 30,
+    "serves": 2,
+    "texture": "regular",
+    "summary": "A mild take on yachaejeon: a thin, savoury pancake packed with softened courgette, carrot and onion, served with a sweet soy dip.",
+    "ingredients": [
+      "2 tbsp neutral oil",
+      "1 small onion, very thinly sliced",
+      "1 courgette, peeled and grated",
+      "1 carrot, peeled and finely grated",
+      "100g plain flour",
+      "1 tbsp cornflour",
+      "1 egg",
+      "150ml cold water",
+      "Pinch of salt",
+      "2 tbsp soy sauce",
+      "1 tsp honey"
+    ],
+    "steps": [
+      "Warm 1 tsp of the oil in a frying pan and cook the onion, courgette and carrot for 6–8 minutes until very soft. Tip into a bowl and leave to cool for a few minutes.",
+      "Whisk the flour, cornflour, egg, cold water and salt into a smooth batter, then stir in the cooked vegetables.",
+      "Heat half the remaining oil in the pan over a medium heat. Pour in half the batter and spread it into a thin round.",
+      "Cook for 3–4 minutes until golden underneath, flip and cook for 3 minutes more. Repeat with the rest of the oil and batter.",
+      "Mix the soy sauce and honey for dipping. Cut the pancakes into wedges and serve with the dip."
+    ],
+    "tip": "Softening the vegetables first means nothing stays crunchy. The dip is sweet and savoury rather than spicy, with no gochujang.",
+    "swaps": [
+      "Use peeled, grated sweet potato instead of carrot",
+      "Add 50g finely crumbled firm tofu to the batter for extra protein"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 1,
+      "batch": false,
+      "text": "Best fresh. Cool, then fridge for 2 days or freeze for 1 month; reheat in a dry pan or the oven until piping hot."
+    }
+  },
+  {
+    "id": "baked-falafel-soft-pitta",
+    "title": "Baked falafel in soft pitta",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 45,
+    "serves": 4,
+    "texture": "regular",
+    "summary": "Smooth blended chickpea falafel, baked rather than fried, tucked into warm white pittas with a garlicky tahini yoghurt sauce.",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "2 x 400g tins chickpeas, drained, rinsed and patted dry",
+      "1 tsp ground cumin",
+      "1 tsp ground coriander",
+      "2 tbsp parsley, very finely chopped",
+      "3 tbsp plain flour",
+      "½ tsp baking powder",
+      "½ tsp salt",
+      "150g plain yoghurt",
+      "1 tbsp tahini",
+      "1 tbsp lemon juice",
+      "4 soft white pittas"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (180°C fan) and line a baking tray with baking paper.",
+      "Warm 1 tbsp of the oil in a pan and cook the onion gently for 8 minutes until soft. Add half the garlic for 1 minute.",
+      "Blend the onion mixture, chickpeas, cumin, coriander, parsley, flour, baking powder and salt in a food processor until very smooth, scraping down the sides.",
+      "Shape into 16 small patties, put on the tray and brush with the remaining oil. Bake for 25 minutes, turning halfway, until golden and firm.",
+      "Mix the yoghurt, tahini, lemon juice and remaining garlic with a pinch of salt.",
+      "Warm the pittas, split them open and fill with the falafel and a spoonful of the sauce."
+    ],
+    "tip": "Blending the chickpeas to a very smooth paste means no whole pieces, and baking keeps the outside tender rather than crunchy. The parsley is cooked inside the falafel.",
+    "swaps": [
+      "Serve in soft white flour tortillas instead of pittas",
+      "Use a dollop of silky hummus instead of the tahini sauce"
+    ],
+    "nutrients": [
+      "protein",
+      "iron"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Baked falafel keep in the fridge for 3 days or freeze for 3 months; reheat in the oven until piping hot. The yoghurt sauce keeps 2 days in the fridge and shouldn't be frozen."
+    }
+  },
+  {
+    "id": "pisto-with-soft-eggs",
+    "title": "Spanish pisto with soft eggs",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 45,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "A Spanish-style stew of peeled courgette and red pepper in passata, cooked down until jammy, with eggs gently baked on top.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "2 red peppers, peeled with a vegetable peeler, deseeded and finely diced",
+      "2 courgettes, peeled and finely diced",
+      "1 tsp sweet paprika",
+      "400g passata",
+      "½ tsp sugar",
+      "4 eggs",
+      "Salt",
+      "2 slices soft white bread, to serve"
+    ],
+    "steps": [
+      "Warm the oil in a wide, lidded frying pan and cook the onion and peppers gently for 10 minutes until soft.",
+      "Add the garlic, courgettes and paprika and cook for 5 minutes more.",
+      "Stir in the passata and sugar and simmer, partly covered, for 15 minutes until the vegetables are very soft and the sauce is thick. Season with salt.",
+      "Make 4 hollows, crack in the eggs, cover and cook over a low heat for 6–8 minutes until the whites are set.",
+      "Serve with the bread for mopping up."
+    ],
+    "tip": "Peeling the peppers and courgettes and cooking them right down gives a soft, spoonable stew. For an easier job, use roasted peppers from a jar with the skins already removed.",
+    "swaps": [
+      "Use peeled aubergine instead of one of the courgettes",
+      "Crumble over 50g feta instead of the eggs"
+    ],
+    "nutrients": [
+      "protein",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Make a double batch of the pisto without eggs: fridge for 3 days or freeze for 3 months. Reheat until piping hot and cook fresh eggs in it. Leftovers with egg keep 1 day in the fridge."
+    }
+  },
+  {
+    "id": "polish-potato-pancakes",
+    "title": "Polish potato pancakes with soured cream",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 40,
+    "serves": 4,
+    "texture": "regular",
+    "summary": "Placki ziemniaczane: thin, golden fritters of finely grated peeled potato, served with a cool spoonful of soured cream.",
+    "ingredients": [
+      "1kg floury potatoes, peeled",
+      "1 small onion, peeled",
+      "1 egg",
+      "2 tbsp plain flour",
+      "½ tsp salt",
+      "Oil for frying",
+      "150ml soured cream, to serve"
+    ],
+    "steps": [
+      "Finely grate the potatoes and onion. Tip into a clean tea towel and squeeze out as much liquid as you can.",
+      "Mix the potato and onion with the egg, flour and salt.",
+      "Heat a thin layer of oil in a large frying pan over a medium heat. Add heaped tablespoons of the mixture and flatten them into thin pancakes.",
+      "Fry for 3–4 minutes per side until golden and cooked through. Drain on kitchen paper and keep warm while you cook the rest.",
+      "Serve hot with the soured cream."
+    ],
+    "tip": "Grating finely and pressing the pancakes thin means the potato and onion cook right through. Keep the heat moderate so the edges turn golden rather than very crisp.",
+    "swaps": [
+      "Serve with plain yoghurt mixed with very finely chopped dill (optional) instead of soured cream",
+      "Swap a third of the potato for peeled, grated courgette, squeezed dry"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Cool, then fridge for 2 days or freeze between baking paper for 2 months. Reheat on a tray in a 200°C (180°C fan) oven for 10–15 minutes until piping hot."
+    }
+  },
+  {
+    "id": "creamy-leek-cheddar-crepes",
+    "title": "Creamy leek & cheddar crêpes",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 45,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "Thin French crêpes wrapped around meltingly soft leeks in a cheddar sauce, then warmed through in the oven.",
+    "ingredients": [
+      "125g plain flour",
+      "2 eggs",
+      "500ml milk",
+      "40g butter",
+      "2 leeks, trimmed, halved lengthways, washed and very finely sliced",
+      "1 tbsp plain flour, for the sauce",
+      "80g mature cheddar, grated",
+      "Pinch of ground nutmeg",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Whisk the 125g flour, eggs and 300ml of the milk into a smooth batter with a pinch of salt. Rest for 10 minutes.",
+      "Melt 25g of the butter in a pan, add the leeks and a splash of water, cover and cook gently for 12–15 minutes until completely soft.",
+      "Stir the 1 tbsp flour into the leeks, then gradually add the remaining 200ml milk and simmer for 2 minutes until thick. Stir in half the cheese and the nutmeg, and season.",
+      "Heat a non-stick frying pan, brush with a little of the remaining butter and make 8 thin crêpes, cooking each for about 1 minute per side.",
+      "Heat the oven to 200°C (180°C fan). Spoon some filling along each crêpe, roll up and lay in a baking dish. Scatter over the rest of the cheese and bake for 12–15 minutes until hot and melted."
+    ],
+    "tip": "Slicing the leeks very finely and cooking them covered until they collapse keeps the filling soft. Mature cheddar gives plenty of flavour from a modest amount.",
+    "swaps": [
+      "Use well-squeezed, finely chopped cooked spinach instead of leeks",
+      "Use ricotta instead of half the cheddar for a lighter filling"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 2,
+      "batch": true,
+      "text": "Plain crêpes freeze well interleaved with baking paper for 2 months. Filled crêpes keep in the fridge for 2 days; reheat in the oven until piping hot."
+    }
+  },
+  {
+    "id": "mild-caribbean-lentil-patties",
+    "title": "Mild Caribbean-style lentil patties",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 80,
+    "serves": 4,
+    "texture": "regular",
+    "summary": "Golden turmeric pastry half-moons filled with a soft, thyme-scented red lentil and sweet potato filling, inspired by Jamaican patties but with no heat.",
+    "ingredients": [
+      "300g plain flour, plus extra for dusting",
+      "1 tsp ground turmeric",
+      "½ tsp salt",
+      "150g cold butter, diced",
+      "5–6 tbsp cold water",
+      "1 tbsp neutral oil",
+      "1 onion, finely chopped",
+      "1 garlic clove, crushed",
+      "1 tsp dried thyme",
+      "½ tsp ground allspice",
+      "1 tsp mild curry powder",
+      "1 small sweet potato (about 200g), peeled and finely diced",
+      "100g red lentils, rinsed",
+      "350ml vegetable stock",
+      "1 egg, beaten"
+    ],
+    "steps": [
+      "Mix the flour, turmeric and salt, then rub in the butter until it looks like breadcrumbs. Stir in enough water to make a firm dough. Wrap and rest in the fridge for 30 minutes.",
+      "Meanwhile, warm the oil in a pan and cook the onion gently for 8 minutes until soft. Add the garlic, thyme, allspice and curry powder for 1 minute.",
+      "Add the sweet potato, lentils and stock. Simmer for 20 minutes, stirring often, until thick and the lentils have collapsed. Mash lightly and leave to cool.",
+      "Heat the oven to 200°C (180°C fan) and line a baking tray. Roll the pastry out thinly and cut 8 circles about 14cm across (use a saucer).",
+      "Spoon filling onto one half of each circle, brush the edge with egg, fold over and press with a fork to seal. Put on the tray and brush with egg.",
+      "Bake for 25 minutes until golden."
+    ],
+    "tip": "All the flavour comes from thyme, allspice and mild curry powder instead of Scotch bonnet. Roll the pastry thinly so it stays tender rather than thick and heavy.",
+    "swaps": [
+      "Use shop-bought shortcrust pastry with a short ingredient list to save time",
+      "Use peeled butternut squash instead of sweet potato"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Cool and fridge for 3 days, or freeze baked patties for 3 months. Reheat from frozen at 180°C (160°C fan) for 20–25 minutes until piping hot in the middle. Good cold in a lunchbox."
+    }
+  },
+  {
+    "id": "soft-baked-potato-cottage-cheese-leek",
+    "title": "Soft baked potatoes with cottage cheese & leek",
+    "meal": "lunch",
+    "gentle": true,
+    "time": 50,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A jacket potato without the jacket: peeled potatoes boiled then baked until fluffy, topped with soft buttery leeks and cool cottage cheese.",
+    "ingredients": [
+      "4 medium floury potatoes (about 250g each), peeled and halved lengthways",
+      "15g butter",
+      "1 leek, trimmed, washed and very finely sliced",
+      "300g cottage cheese",
+      "40g mild cheddar, finely grated",
+      "1 tbsp chives, very finely chopped (optional)",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (180°C fan). Boil the potato halves in salted water for 12–15 minutes until just tender. Drain well and leave to steam dry for a few minutes.",
+      "Put the potatoes cut side up on a baking tray, brush with a little of the butter and bake for 20 minutes until lightly golden on top and fluffy inside.",
+      "Meanwhile, melt the rest of the butter in a pan, add the leek and a splash of water, cover and cook gently for 10–12 minutes until completely soft.",
+      "Gently fork open the potato halves, spoon over the leek and cottage cheese and scatter with the cheddar and chives, if using. Season with salt and pepper."
+    ],
+    "tip": "Peeling and part-boiling the potatoes gives a soft, fluffy jacket-potato feel with no tough outer layer. Cottage cheese adds protein without much richness.",
+    "swaps": [
+      "Top with a finely chopped soft-boiled egg instead of the cheddar",
+      "Use peeled sweet potatoes, boiled for 8–10 minutes"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Best freshly made. The cooked leeks keep in the fridge for 2 days; leftover potato can be kept 2 days and reheated until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "sweet-potato-feta-frittata",
+    "title": "Sweet potato & feta frittata",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 40,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "An Italian-style thick frittata with soft cubes of peeled sweet potato and pockets of salty feta, lovely warm or cold in a lunchbox.",
+    "ingredients": [
+      "400g sweet potatoes, peeled and cut into 1cm cubes",
+      "1 tbsp olive oil",
+      "1 small onion, finely chopped",
+      "6 eggs",
+      "3 tbsp milk",
+      "1 tsp dried oregano",
+      "100g feta, crumbled",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Boil the sweet potato cubes for 8–10 minutes until very tender. Drain well.",
+      "Heat the grill to medium. Warm the oil in a 24cm ovenproof non-stick frying pan and cook the onion gently for 8 minutes until soft.",
+      "Beat the eggs with the milk, oregano, salt and pepper.",
+      "Add the sweet potato to the pan and spread it out, pour over the eggs and scatter over the feta.",
+      "Cook over a low heat for 8–10 minutes until almost set, then slide under the grill for 3–4 minutes until just set and lightly golden.",
+      "Leave to settle for 5 minutes before cutting into wedges."
+    ],
+    "tip": "Low heat keeps the egg tender rather than rubbery. Boiling the sweet potato first ensures every cube is completely soft.",
+    "swaps": [
+      "Use peeled butternut squash instead of sweet potato",
+      "Use grated mature cheddar instead of feta"
+    ],
+    "nutrients": [
+      "protein",
+      "b12",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": true,
+      "text": "Cool quickly, then keep covered in the fridge for up to 2 days; eat cold or reheat until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "peanut-noodles-soft-tofu",
+    "title": "Peanut noodles with soft veg & tofu",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 25,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "Flat rice noodles tossed in a creamy, mild peanut and soy sauce with soft-cooked carrot, courgette ribbons and golden tofu; good warm or packed for lunch.",
+    "ingredients": [
+      "150g flat rice noodles",
+      "1 tbsp neutral oil",
+      "200g firm tofu, patted dry and cubed",
+      "1 carrot, peeled and finely grated",
+      "1 courgette, peeled and cut into thin ribbons with the peeler",
+      "3 tbsp smooth peanut butter",
+      "2 tbsp soy sauce",
+      "1 tbsp honey",
+      "1 tsp fresh ginger, finely grated",
+      "1 tbsp lime juice",
+      "4–5 tbsp hot water"
+    ],
+    "steps": [
+      "Cook the noodles according to the packet until soft, then drain and rinse briefly in warm water.",
+      "Warm the oil in a frying pan and fry the tofu for 5–6 minutes, turning, until lightly golden. Lift out.",
+      "Add the carrot and courgette to the pan with a splash of water and cook for 4–5 minutes until very soft.",
+      "Whisk the peanut butter, soy sauce, honey, ginger, lime juice and hot water into a smooth sauce.",
+      "Toss the noodles, vegetables, tofu and sauce together over a low heat until coated and warm."
+    ],
+    "tip": "Smooth peanut butter gives all the nutty flavour with no pieces of nut. Rice noodles cook up soft and slippery.",
+    "swaps": [
+      "Use tahini instead of peanut butter",
+      "Use 2 soft-boiled eggs instead of tofu"
+    ],
+    "nutrients": [
+      "protein"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Cool quickly and keep in the fridge for up to 2 days. Eat cold from a lunchbox (add a splash of water to loosen) or reheat until piping hot. Don't freeze."
+    }
+  },
+  {
+    "id": "paneer-bhurji-wrap",
+    "title": "Mild paneer bhurji wrap",
+    "meal": "lunch",
+    "gentle": false,
+    "time": 20,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "Crumbled paneer cooked with soft onion, ginger and passata in gentle spices, rolled up warm in a soft white flatbread with yoghurt.",
+    "ingredients": [
+      "1 tbsp neutral oil",
+      "1 onion, finely chopped",
+      "1 garlic clove, crushed",
+      "1 tsp fresh ginger, finely grated",
+      "½ tsp ground turmeric",
+      "1 tsp mild curry powder",
+      "4 tbsp passata",
+      "225g paneer, finely crumbled or grated",
+      "2 tbsp milk",
+      "1 tbsp coriander, very finely chopped (optional)",
+      "2 large soft white flour tortillas or flatbreads",
+      "2 tbsp plain yoghurt"
+    ],
+    "steps": [
+      "Warm the oil in a frying pan and cook the onion gently for 10 minutes until very soft. Add the garlic, ginger, turmeric and curry powder for 1 minute.",
+      "Stir in the passata and cook for 2 minutes.",
+      "Add the paneer and milk and cook for 3–4 minutes, stirring, until hot and soft. Stir in the coriander, if using.",
+      "Warm the tortillas in a dry pan for 20 seconds each side.",
+      "Spoon the paneer down the middle of each, add a spoonful of yoghurt and roll up."
+    ],
+    "tip": "Grating the paneer and adding a splash of milk keeps it soft and creamy rather than squeaky. Choose plain white flatbreads with a short ingredient list.",
+    "swaps": [
+      "Use 4 eggs, scrambled softly in the spiced onion, instead of paneer",
+      "Use crumbled firm tofu instead of paneer"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "The bhurji filling keeps in the fridge for 2 days; reheat until piping hot and wrap in a freshly warmed tortilla. Don't freeze."
+    }
+  }
+]

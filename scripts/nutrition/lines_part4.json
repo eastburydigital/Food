@@ -1,0 +1,1966 @@
+{
+ "1 butternut squash, peeled, deseeded and cubed": {
+  "parts": [
+   {
+    "food": "butternut_squash_raw",
+    "grams": 600
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "~750 g whole, ~600 g edible"
+ },
+ "1 carrot, peeled and diced": {
+  "parts": [
+   {
+    "food": "carrot_raw",
+    "grams": 75
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 cauliflower, cut into small florets (stalks removed)": {
+  "parts": [
+   {
+    "food": "cauliflower_raw",
+    "grams": 350
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "florets only"
+ },
+ "1 courgette, peeled and cut into ribbons with a peeler": {
+  "parts": [
+   {
+    "food": "courgette_raw",
+    "grams": 180
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 courgette, peeled and thinly sliced": {
+  "parts": [
+   {
+    "food": "courgette_raw",
+    "grams": 180
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 egg": {
+  "parts": [
+   {
+    "food": "egg_whole",
+    "grams": 58
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 garlic clove, crushed": {
+  "parts": [
+   {
+    "food": "garlic_raw",
+    "grams": 5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 lemon, juiced": {
+  "parts": [
+   {
+    "food": "lemon_juice",
+    "grams": 30
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 lemongrass stalk, bashed": {
+  "parts": [
+   {
+    "food": "lemongrass_raw",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": false,
+  "note": "removed before eating"
+ },
+ "1 litre vegetable stock": {
+  "parts": [
+   {
+    "food": "vegetable_stock",
+    "grams": 1000
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 onion, chopped": {
+  "parts": [
+   {
+    "food": "onion_raw",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 onion, thinly sliced": {
+  "parts": [
+   {
+    "food": "onion_raw",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 ripe banana, sliced": {
+  "parts": [
+   {
+    "food": "banana_raw",
+    "grams": 120
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 small bunch fresh coriander, stalks very finely chopped (leaves very finely chopped, optional)": {
+  "parts": [
+   {
+    "food": "coriander_fresh",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 small garlic clove, grated (optional)": {
+  "parts": [
+   {
+    "food": "garlic_raw",
+    "grams": 3
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 small onion, very finely chopped": {
+  "parts": [
+   {
+    "food": "onion_raw",
+    "grams": 80
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp Greek yoghurt": {
+  "parts": [
+   {
+    "food": "greek_yoghurt",
+    "grams": 20
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp caster sugar": {
+  "parts": [
+   {
+    "food": "sugar_white",
+    "grams": 12
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp cornflour mixed with 2 tbsp cold water": {
+  "parts": [
+   {
+    "food": "cornflour",
+    "grams": 10
+   },
+   {
+    "food": "water",
+    "grams": 30
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp fresh parsley, very finely chopped (optional)": {
+  "parts": [
+   {
+    "food": "parsley_fresh",
+    "grams": 4
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp honey or maple syrup": {
+  "parts": [
+   {
+    "food": "honey",
+    "grams": 21
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp light soy sauce": {
+  "parts": [
+   {
+    "food": "soy_sauce",
+    "grams": 17
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp milk": {
+  "parts": [
+   {
+    "food": "milk_semi_skimmed",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp olive oil": {
+  "parts": [
+   {
+    "food": "olive_oil",
+    "grams": 13
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp plain yoghurt": {
+  "parts": [
+   {
+    "food": "natural_yoghurt",
+    "grams": 20
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp smooth peanut butter (100% peanuts)": {
+  "parts": [
+   {
+    "food": "peanut_butter_smooth",
+    "grams": 16
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp tahini": {
+  "parts": [
+   {
+    "food": "tahini",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp vegetarian Worcestershire sauce or soy sauce": {
+  "parts": [
+   {
+    "food": "worcestershire_sauce_vegetarian",
+    "grams": 17
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tbsp warm water": {
+  "parts": [
+   {
+    "food": "water",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 thumb-sized piece fresh ginger, peeled": {
+  "parts": [
+   {
+    "food": "ginger_fresh",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp butter": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp dried oregano": {
+  "parts": [
+   {
+    "food": "oregano_dried",
+    "grams": 1
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp fresh dill, very finely chopped (optional)": {
+  "parts": [
+   {
+    "food": "dill_fresh",
+    "grams": 1
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp grated fresh ginger": {
+  "parts": [
+   {
+    "food": "ginger_fresh",
+    "grams": 2
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp ground cumin": {
+  "parts": [
+   {
+    "food": "cumin_ground",
+    "grams": 2
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp honey (optional)": {
+  "parts": [
+   {
+    "food": "honey",
+    "grams": 7
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp lime juice": {
+  "parts": [
+   {
+    "food": "lime_juice",
+    "grams": 5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp neutral oil": {
+  "parts": [
+   {
+    "food": "vegetable_oil",
+    "grams": 4
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp salt": {
+  "parts": [
+   {
+    "food": "salt",
+    "grams": 6
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp sugar": {
+  "parts": [
+   {
+    "food": "sugar_white",
+    "grams": 4
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp toasted sesame oil": {
+  "parts": [
+   {
+    "food": "sesame_oil_toasted",
+    "grams": 4
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 tsp very finely snipped chives (optional)": {
+  "parts": [
+   {
+    "food": "chives_fresh",
+    "grams": 1
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1 yellow pepper, peeled with a speed peeler, deseeded and sliced": {
+  "parts": [
+   {
+    "food": "yellow_pepper_raw",
+    "grams": 130
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1/2 lemon, finely zested and juiced": {
+  "parts": [
+   {
+    "food": "lemon_zest",
+    "grams": 1
+   },
+   {
+    "food": "lemon_juice",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1/2 tsp dried oregano": {
+  "parts": [
+   {
+    "food": "oregano_dried",
+    "grams": 0.5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1/2 tsp ground cumin": {
+  "parts": [
+   {
+    "food": "cumin_ground",
+    "grams": 1
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1/2 tsp salt": {
+  "parts": [
+   {
+    "food": "salt",
+    "grams": 3
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1/4 tsp ground cinnamon": {
+  "parts": [
+   {
+    "food": "cinnamon_ground",
+    "grams": 0.6
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1/4 tsp sweet paprika": {
+  "parts": [
+   {
+    "food": "paprika_sweet",
+    "grams": 0.5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "100g baby spinach": {
+  "parts": [
+   {
+    "food": "spinach_raw",
+    "grams": 100
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "100g caster sugar (for the sponge)": {
+  "parts": [
+   {
+    "food": "sugar_white",
+    "grams": 100
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "100g day-old white bread, crusts removed, torn into small pieces": {
+  "parts": [
+   {
+    "food": "white_bread",
+    "grams": 100
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "100g light brown sugar": {
+  "parts": [
+   {
+    "food": "brown_sugar_soft",
+    "grams": 100
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "100g orzo": {
+  "parts": [
+   {
+    "food": "pasta_dry",
+    "grams": 100
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "100g red lentils, rinsed": {
+  "parts": [
+   {
+    "food": "red_lentils_dry",
+    "grams": 100
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "100g smooth peanut butter": {
+  "parts": [
+   {
+    "food": "peanut_butter_smooth",
+    "grams": 100
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "100g thin rice vermicelli noodles": {
+  "parts": [
+   {
+    "food": "rice_noodles_dry",
+    "grams": 100
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "100ml hot water": {
+  "parts": [
+   {
+    "food": "water",
+    "grams": 100
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "10g butter": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 10
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "120g mature cheddar, grated": {
+  "parts": [
+   {
+    "food": "cheddar",
+    "grams": 120
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "125g mozzarella ball, torn": {
+  "parts": [
+   {
+    "food": "mozzarella",
+    "grams": 125
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "150g Greek or natural yoghurt": {
+  "parts": [
+   {
+    "food": "greek_yoghurt",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "150g couscous": {
+  "parts": [
+   {
+    "food": "couscous_dry",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "150g plain flour": {
+  "parts": [
+   {
+    "food": "plain_flour",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "150g red lentils, rinsed": {
+  "parts": [
+   {
+    "food": "red_lentils_dry",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "150g silken tofu, cubed": {
+  "parts": [
+   {
+    "food": "tofu_silken",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "150g white jasmine rice": {
+  "parts": [
+   {
+    "food": "jasmine_rice_dry",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "150ml milk": {
+  "parts": [
+   {
+    "food": "milk_semi_skimmed",
+    "grams": 154.5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "150ml soured cream, to serve": {
+  "parts": [
+   {
+    "food": "soured_cream",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "15g butter": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "15g plain flour": {
+  "parts": [
+   {
+    "food": "plain_flour",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "175g caster sugar": {
+  "parts": [
+   {
+    "food": "sugar_white",
+    "grams": 175
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "175g strong white bread flour": {
+  "parts": [
+   {
+    "food": "strong_white_bread_flour",
+    "grams": 175
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "1–2 eggs": {
+  "parts": [
+   {
+    "food": "egg_whole",
+    "grams": 87
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "1.5 eggs"
+ },
+ "2 apples, peeled, cored and sliced": {
+  "parts": [
+   {
+    "food": "apple_raw",
+    "grams": 220
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 carrots, peeled and cut into 1cm dice": {
+  "parts": [
+   {
+    "food": "carrot_raw",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 carrots, peeled and finely grated": {
+  "parts": [
+   {
+    "food": "carrot_raw",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 courgettes, peeled and finely diced": {
+  "parts": [
+   {
+    "food": "courgette_raw",
+    "grams": 360
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 eggs": {
+  "parts": [
+   {
+    "food": "egg_whole",
+    "grams": 116
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 garlic cloves, crushed": {
+  "parts": [
+   {
+    "food": "garlic_raw",
+    "grams": 10
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 leeks (white and pale green parts only), halved lengthways and very finely sliced": {
+  "parts": [
+   {
+    "food": "leek_raw",
+    "grams": 200
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "white/pale green only ~100 g each"
+ },
+ "2 lemons, zested and juiced": {
+  "parts": [
+   {
+    "food": "lemon_zest",
+    "grams": 4
+   },
+   {
+    "food": "lemon_juice",
+    "grams": 60
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 red peppers, peeled with a vegetable peeler, deseeded and finely diced": {
+  "parts": [
+   {
+    "food": "red_pepper_raw",
+    "grams": 260
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 ripe pears, peeled, cored and chopped": {
+  "parts": [
+   {
+    "food": "pear_raw",
+    "grams": 270
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 slices white bread, toasted and buttered": {
+  "parts": [
+   {
+    "food": "white_bread",
+    "grams": 72
+   },
+   {
+    "food": "butter",
+    "grams": 10
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 sweet potatoes, peeled and cubed": {
+  "parts": [
+   {
+    "food": "sweet_potato_raw",
+    "grams": 440
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tbsp chopped parsley": {
+  "parts": [
+   {
+    "food": "parsley_fresh",
+    "grams": 8
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tbsp crème fraîche": {
+  "parts": [
+   {
+    "food": "creme_fraiche",
+    "grams": 30
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tbsp honey": {
+  "parts": [
+   {
+    "food": "honey",
+    "grams": 42
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tbsp milk": {
+  "parts": [
+   {
+    "food": "milk_semi_skimmed",
+    "grams": 30
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tbsp parsley, very finely chopped": {
+  "parts": [
+   {
+    "food": "parsley_fresh",
+    "grams": 8
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tbsp plain yoghurt": {
+  "parts": [
+   {
+    "food": "natural_yoghurt",
+    "grams": 40
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tbsp soured cream": {
+  "parts": [
+   {
+    "food": "soured_cream",
+    "grams": 30
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tbsp tahini": {
+  "parts": [
+   {
+    "food": "tahini",
+    "grams": 30
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tbsp water": {
+  "parts": [
+   {
+    "food": "water",
+    "grams": 30
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tsp caster sugar": {
+  "parts": [
+   {
+    "food": "sugar_white",
+    "grams": 8
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 tsp honey": {
+  "parts": [
+   {
+    "food": "honey",
+    "grams": 14
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 very ripe pears, peeled, cored and coarsely grated": {
+  "parts": [
+   {
+    "food": "pear_raw",
+    "grams": 270
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2 x 410g tins peach slices in juice, drained": {
+  "parts": [
+   {
+    "food": "peaches_canned_in_juice",
+    "grams": 480
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "200g block of feta": {
+  "parts": [
+   {
+    "food": "feta",
+    "grams": 200
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "200g cottage cheese": {
+  "parts": [
+   {
+    "food": "cottage_cheese",
+    "grams": 200
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "200g firm tofu, patted dry and cubed": {
+  "parts": [
+   {
+    "food": "tofu_firm",
+    "grams": 200
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "200g full-fat cream cheese, cold": {
+  "parts": [
+   {
+    "food": "cream_cheese_full_fat",
+    "grams": 200
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "200g medium egg noodles": {
+  "parts": [
+   {
+    "food": "egg_noodles_dry",
+    "grams": 200
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "200g spinach": {
+  "parts": [
+   {
+    "food": "spinach_raw",
+    "grams": 200
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "200ml hot vegetable stock": {
+  "parts": [
+   {
+    "food": "vegetable_stock",
+    "grams": 200
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "20g butter": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 20
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "20g vegetarian Italian-style hard cheese, finely grated (optional)": {
+  "parts": [
+   {
+    "food": "veg_italian_hard_cheese",
+    "grams": 20
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "225g paneer, finely crumbled or grated": {
+  "parts": [
+   {
+    "food": "paneer",
+    "grams": 225
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "250g Greek-style yoghurt": {
+  "parts": [
+   {
+    "food": "greek_yoghurt",
+    "grams": 250
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "250g plain white flour, plus extra for dusting": {
+  "parts": [
+   {
+    "food": "plain_flour",
+    "grams": 260
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "+10 g dusting"
+ },
+ "250g self-raising flour, plus extra for dusting": {
+  "parts": [
+   {
+    "food": "self_raising_flour",
+    "grams": 260
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "+10 g dusting"
+ },
+ "250ml milk": {
+  "parts": [
+   {
+    "food": "milk_semi_skimmed",
+    "grams": 257.5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "25g butter, melted, plus a little for greasing": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 28
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "+3 g greasing"
+ },
+ "280g block firm tofu (calcium-set), drained": {
+  "parts": [
+   {
+    "food": "tofu_firm",
+    "grams": 280
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "2–3 eggs": {
+  "parts": [
+   {
+    "food": "egg_whole",
+    "grams": 145
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "2.5 eggs"
+ },
+ "3 egg yolks": {
+  "parts": [
+   {
+    "food": "egg_yolk",
+    "grams": 51
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "3 medium potatoes, peeled and diced": {
+  "parts": [
+   {
+    "food": "potato_raw",
+    "grams": 510
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "170 g each peeled"
+ },
+ "3 tbsp cocoa powder (for the sponge)": {
+  "parts": [
+   {
+    "food": "cocoa_powder",
+    "grams": 18
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "3 tbsp golden syrup": {
+  "parts": [
+   {
+    "food": "golden_syrup",
+    "grams": 63
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "3 tbsp passata": {
+  "parts": [
+   {
+    "food": "passata",
+    "grams": 48
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "3 tbsp smooth peanut butter": {
+  "parts": [
+   {
+    "food": "peanut_butter_smooth",
+    "grams": 48
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "3 tbsp water": {
+  "parts": [
+   {
+    "food": "water",
+    "grams": 45
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "3/4 tsp agar powder": {
+  "parts": [
+   {
+    "food": "agar_powder",
+    "grams": 1.5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "300g butternut squash, peeled and diced small": {
+  "parts": [
+   {
+    "food": "butternut_squash_raw",
+    "grams": 300
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "300g couscous": {
+  "parts": [
+   {
+    "food": "couscous_dry",
+    "grams": 300
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "300g pasta shells": {
+  "parts": [
+   {
+    "food": "pasta_dry",
+    "grams": 300
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "300g silken tofu, drained": {
+  "parts": [
+   {
+    "food": "tofu_silken",
+    "grams": 300
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "300g white jasmine or sushi rice": {
+  "parts": [
+   {
+    "food": "jasmine_rice_dry",
+    "grams": 300
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "300ml passata": {
+  "parts": [
+   {
+    "food": "passata",
+    "grams": 309
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "300ml whole milk": {
+  "parts": [
+   {
+    "food": "milk_whole",
+    "grams": 309
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "30g cheddar, grated": {
+  "parts": [
+   {
+    "food": "cheddar",
+    "grams": 30
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "30g semolina": {
+  "parts": [
+   {
+    "food": "semolina",
+    "grams": 30
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "320g sheet ready-rolled puff pastry": {
+  "parts": [
+   {
+    "food": "puff_pastry",
+    "grams": 320
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "3–4 tbsp ice-cold water": {
+  "parts": [
+   {
+    "food": "water",
+    "grams": 52.5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "4 eating apples (about 600g), peeled, cored and thinly sliced": {
+  "parts": [
+   {
+    "food": "apple_raw",
+    "grams": 480
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "600 g whole, ~480 g peeled/cored"
+ },
+ "4 eggs, lightly beaten": {
+  "parts": [
+   {
+    "food": "egg_whole",
+    "grams": 232
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "4 ripe pears, peeled, halved and cored": {
+  "parts": [
+   {
+    "food": "pear_raw",
+    "grams": 540
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "4 soft white pittas": {
+  "parts": [
+   {
+    "food": "pitta_white",
+    "grams": 240
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "4 tbsp milk or single cream": {
+  "parts": [
+   {
+    "food": "milk_semi_skimmed",
+    "grams": 60
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "4 tbsp single cream": {
+  "parts": [
+   {
+    "food": "single_cream",
+    "grams": 60
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "4 tbsp water": {
+  "parts": [
+   {
+    "food": "water",
+    "grams": 60
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "400g firm tofu, cut into 3cm cubes": {
+  "parts": [
+   {
+    "food": "tofu_firm",
+    "grams": 400
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "400g passata": {
+  "parts": [
+   {
+    "food": "passata",
+    "grams": 400
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "400g potatoes, peeled and diced": {
+  "parts": [
+   {
+    "food": "potato_raw",
+    "grams": 400
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "400g tin butter beans, drained and rinsed": {
+  "parts": [
+   {
+    "food": "butter_beans_canned_drained",
+    "grams": 235
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "400ml milk": {
+  "parts": [
+   {
+    "food": "milk_semi_skimmed",
+    "grams": 412
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "40g butter": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 40
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "40g cheddar, finely grated": {
+  "parts": [
+   {
+    "food": "cheddar",
+    "grams": 40
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "40g icing sugar": {
+  "parts": [
+   {
+    "food": "icing_sugar",
+    "grams": 40
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "410g tin apricot halves in juice, drained": {
+  "parts": [
+   {
+    "food": "apricots_canned_in_juice",
+    "grams": 240
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "450ml hot water": {
+  "parts": [
+   {
+    "food": "water",
+    "grams": 450
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "500g block shortcrust pastry": {
+  "parts": [
+   {
+    "food": "shortcrust_pastry",
+    "grams": 500
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "500g floury potatoes, peeled and cut into chunks": {
+  "parts": [
+   {
+    "food": "potato_raw",
+    "grams": 500
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "500g potato gnocchi": {
+  "parts": [
+   {
+    "food": "gnocchi_fresh",
+    "grams": 500
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "500g pumpkin or butternut squash, peeled and cubed": {
+  "parts": [
+   {
+    "food": "pumpkin_raw",
+    "grams": 500
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "500ml milk (for the custard)": {
+  "parts": [
+   {
+    "food": "milk_semi_skimmed",
+    "grams": 515
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "50g butter": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 50
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "50g cold butter, cubed": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 50
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "50g porridge oats (fine or rolled)": {
+  "parts": [
+   {
+    "food": "porridge_oats",
+    "grams": 50
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "50g sugar": {
+  "parts": [
+   {
+    "food": "sugar_white",
+    "grams": 50
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "6 eggs": {
+  "parts": [
+   {
+    "food": "egg_whole",
+    "grams": 348
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "6 slices white bread, crusts removed": {
+  "parts": [
+   {
+    "food": "white_bread",
+    "grams": 162
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "~27 g per slice without crusts"
+ },
+ "600g potatoes, peeled": {
+  "parts": [
+   {
+    "food": "potato_raw",
+    "grams": 600
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "600ml milk": {
+  "parts": [
+   {
+    "food": "milk_semi_skimmed",
+    "grams": 618
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "60g cheddar, grated": {
+  "parts": [
+   {
+    "food": "cheddar",
+    "grams": 60
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "60g plain flour": {
+  "parts": [
+   {
+    "food": "plain_flour",
+    "grams": 60
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "700g floury potatoes, peeled and cut into chunks": {
+  "parts": [
+   {
+    "food": "potato_raw",
+    "grams": 700
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "700g sweet potatoes, peeled and diced": {
+  "parts": [
+   {
+    "food": "sweet_potato_raw",
+    "grams": 700
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "75g butter, softened": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 75
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "75g fresh white breadcrumbs": {
+  "parts": [
+   {
+    "food": "breadcrumbs_fresh_white",
+    "grams": 75
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "75g white chocolate, broken up": {
+  "parts": [
+   {
+    "food": "white_chocolate",
+    "grams": 75
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "8 trifle sponges, or a 20cm plain sponge": {
+  "parts": [
+   {
+    "food": "trifle_sponges",
+    "grams": 152
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "80g baby spinach": {
+  "parts": [
+   {
+    "food": "spinach_raw",
+    "grams": 80
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "80g panko breadcrumbs": {
+  "parts": [
+   {
+    "food": "panko_breadcrumbs",
+    "grams": 80
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "900ml water": {
+  "parts": [
+   {
+    "food": "water",
+    "grams": 900
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "Butter for greasing": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 3
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "Buttery mash and gravy, to serve": {
+  "parts": [
+   {
+    "food": "mashed_potato_buttery",
+    "grams": 180
+   },
+   {
+    "food": "gravy_vegetarian",
+    "grams": 50
+   }
+  ],
+  "per_serving": true,
+  "include": true
+ },
+ "Greek yoghurt, to serve": {
+  "parts": [
+   {
+    "food": "greek_yoghurt",
+    "grams": 30
+   }
+  ],
+  "per_serving": true,
+  "include": true
+ },
+ "Oil for frying": {
+  "parts": [
+   {
+    "food": "vegetable_oil",
+    "grams": 10
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "Pinch of ground cardamom (optional)": {
+  "parts": [
+   {
+    "food": "cardamom_ground",
+    "grams": 0.3
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "Pinch of nutmeg": {
+  "parts": [
+   {
+    "food": "nutmeg_ground",
+    "grams": 0.3
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "Plain flour, for dusting": {
+  "parts": [
+   {
+    "food": "plain_flour",
+    "grams": 10
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "dusting absorbed"
+ },
+ "Small knob of butter": {
+  "parts": [
+   {
+    "food": "butter",
+    "grams": 7
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "Splash of milk": {
+  "parts": [
+   {
+    "food": "milk_semi_skimmed",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "Vegetable oil, for greasing": {
+  "parts": [
+   {
+    "food": "vegetable_oil",
+    "grams": 3
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "Warm plain naan, to serve": {
+  "parts": [
+   {
+    "food": "naan_plain",
+    "grams": 90
+   }
+  ],
+  "per_serving": true,
+  "include": true
+ },
+ "White jasmine rice, to serve": {
+  "parts": [
+   {
+    "food": "jasmine_rice_cooked",
+    "grams": 150
+   }
+  ],
+  "per_serving": true,
+  "include": true
+ },
+ "White sourdough, to serve": {
+  "parts": [
+   {
+    "food": "sourdough_white",
+    "grams": 45
+   }
+  ],
+  "per_serving": true,
+  "include": true,
+  "note": "1 slice"
+ },
+ "½ lime, juiced": {
+  "parts": [
+   {
+    "food": "lime_juice",
+    "grams": 10
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "½ tsp baking powder": {
+  "parts": [
+   {
+    "food": "baking_powder",
+    "grams": 2
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "½ tsp garam masala": {
+  "parts": [
+   {
+    "food": "garam_masala",
+    "grams": 1
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ },
+ "½ tsp ground turmeric": {
+  "parts": [
+   {
+    "food": "turmeric_ground",
+    "grams": 1.5
+   }
+  ],
+  "per_serving": false,
+  "include": true
+ }
+}

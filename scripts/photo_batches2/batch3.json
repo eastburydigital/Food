@@ -1,0 +1,628 @@
+[
+ {
+  "id": "soft-vegetable-upma",
+  "title": "Soft carrot upma",
+  "meal": "breakfast",
+  "texture": "soft",
+  "summary": "A South Indian savoury semolina porridge with soft grated carrot, ginger and a squeeze of lemon.",
+  "ingredients": [
+   "100g semolina",
+   "1 tbsp butter or ghee",
+   "1 small onion, very finely chopped",
+   "1 carrot, peeled and finely grated",
+   "1/2 tsp fresh ginger, finely grated (discard any stringy fibres)",
+   "1/4 tsp ground turmeric",
+   "450ml hot water",
+   "1/2 tsp salt",
+   "1 tsp lemon juice"
+  ],
+  "steps": [
+   "Toast the semolina in a dry pan over a medium heat, stirring, for 3–4 minutes until it smells toasty. Tip into a bowl.",
+   "Melt the butter or ghee in the same pan and cook the onion and carrot gently for 8 minutes until very soft.",
+   "Stir in the ginger and turmeric for 30 seconds, then pour in the hot water and salt and bring to the boil.",
+   "Turn the heat to low and pour in the semolina in a slow stream, stirring constantly so no lumps form.",
+   "Cover and cook for 3 minutes until thick and soft, then stir in the lemon juice and serve."
+  ]
+ },
+ {
+  "id": "swedish-cardamom-pancakes",
+  "title": "Swedish cardamom pancakes",
+  "meal": "breakfast",
+  "texture": "soft",
+  "summary": "Thin, tender Swedish-style pancakes with a hint of cardamom, folded and served with smooth jam.",
+  "ingredients": [
+   "125g plain flour",
+   "1/2 tsp ground cardamom",
+   "1 tbsp caster sugar",
+   "Pinch of salt",
+   "3 eggs",
+   "400ml milk",
+   "25g butter, melted, plus extra for the pan",
+   "4 tbsp seedless jam, to serve"
+  ],
+  "steps": [
+   "Whisk the flour, cardamom, sugar and salt in a bowl. Add the eggs and half the milk and whisk to a smooth, thick batter.",
+   "Whisk in the rest of the milk and the melted butter, then leave to rest for 15 minutes.",
+   "Heat a non-stick frying pan over a medium heat and add a little butter. Pour in a small ladle of batter and swirl to coat the pan thinly.",
+   "Cook for about 1 minute until set, flip and cook for 30 seconds more. Repeat with the rest of the batter.",
+   "Fold into quarters and serve with the seedless jam."
+  ]
+ },
+ {
+  "id": "mild-breakfast-quesadilla",
+  "title": "Mild breakfast quesadillas",
+  "meal": "breakfast",
+  "texture": "regular",
+  "summary": "Soft scrambled egg and melted cheddar folded into toasted flour tortillas with a little smoky-sweet passata.",
+  "ingredients": [
+   "4 eggs",
+   "1 tbsp milk",
+   "10g butter",
+   "2 tbsp passata",
+   "1/4 tsp sweet paprika",
+   "2 large soft white flour tortillas",
+   "50g mild cheddar, grated"
+  ],
+  "steps": [
+   "Beat the eggs with the milk. Melt the butter in a non-stick pan over a low heat and stir the eggs until just softly set. Tip onto a plate and wipe the pan.",
+   "Mix the passata with the paprika.",
+   "Lay a tortilla in the dry pan, spread half of it with half the passata, scatter over a quarter of the cheese, then half the egg and another quarter of the cheese.",
+   "Fold the tortilla over and cook over a medium heat for 2 minutes each side until golden and the cheese has melted. Repeat with the second tortilla.",
+   "Cut into wedges and serve."
+  ]
+ },
+ {
+  "id": "whipped-feta-honey-dip",
+  "title": "Whipped feta & honey dip",
+  "meal": "snack",
+  "texture": "smooth",
+  "summary": "A no-cook, creamy whipped feta and yoghurt dip with lemon and a drizzle of honey.",
+  "ingredients": [
+   "200g feta, crumbled",
+   "150g Greek yoghurt",
+   "1 tbsp lemon juice",
+   "1 tbsp olive oil",
+   "1 tsp honey",
+   "4 soft white pittas, warmed and cut into strips, to serve"
+  ],
+  "steps": [
+   "Blitz the feta and yoghurt in a food processor for 2–3 minutes until completely smooth and fluffy.",
+   "Add the lemon juice and olive oil and blitz again briefly.",
+   "Spread onto a plate, drizzle with the honey and serve with the pitta strips."
+  ]
+ },
+ {
+  "id": "banana-custard-pots",
+  "title": "Banana custard pots",
+  "meal": "dessert",
+  "texture": "smooth",
+  "summary": "Homemade vanilla custard stirred with smooth mashed banana, served warm or cold in little pots.",
+  "ingredients": [
+   "400ml whole milk",
+   "3 egg yolks",
+   "2 tbsp caster sugar",
+   "1 tbsp cornflour",
+   "1 tsp vanilla extract",
+   "2 ripe bananas"
+  ],
+  "steps": [
+   "Heat the milk in a saucepan until steaming but not boiling.",
+   "Whisk the egg yolks, sugar and cornflour together in a bowl, then slowly pour in the hot milk, whisking all the time.",
+   "Pour back into the pan and stir constantly over a low heat for 4–5 minutes until thick and smooth. Stir in the vanilla.",
+   "Mash the bananas until completely smooth (or blend them) and stir into the custard.",
+   "Spoon into 4 small pots and eat warm, or cool and keep in the fridge."
+  ]
+ },
+ {
+  "id": "honey-yoghurt-panna-cotta",
+  "title": "Honey yoghurt panna cotta",
+  "meal": "dessert",
+  "texture": "smooth",
+  "summary": "Wobbly, vegetarian panna cottas set with agar, made with milk, Greek yoghurt and honey (allow 1 hour to set).",
+  "ingredients": [
+   "250ml whole milk",
+   "3 tbsp honey",
+   "3/4 tsp agar powder",
+   "250g Greek yoghurt, at room temperature",
+   "1 tsp vanilla extract",
+   "4 tsp seedless jam, to serve"
+  ],
+  "steps": [
+   "Whisk the honey and agar powder into the cold milk in a small pan.",
+   "Bring to the boil, whisking, then simmer for 2 minutes so the agar dissolves fully.",
+   "Take off the heat for 1 minute, then quickly whisk in the yoghurt and vanilla until smooth.",
+   "Pour straight into 4 small ramekins or glasses and put in the fridge for at least 1 hour to set.",
+   "Serve topped with a teaspoon of seedless jam."
+  ]
+ },
+ {
+  "id": "silky-greek-fava-soup",
+  "title": "Silky Greek fava soup",
+  "meal": "lunch",
+  "texture": "smooth",
+  "summary": "Inspired by Santorini fava, yellow split peas are simmered until they collapse, then blended into a thick, golden soup with oregano and a squeeze of lemon.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 onion, finely chopped",
+   "1 carrot, peeled and finely diced",
+   "1 garlic clove, crushed",
+   "250g yellow split peas, rinsed well",
+   "1.2 litres vegetable stock",
+   "1 bay leaf",
+   "1 tsp dried oregano",
+   "½ lemon, juiced",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Warm the oil in a large pan and soften the onion and carrot for 10 minutes. Add the garlic for 1 minute.",
+   "Add the split peas, stock, bay leaf and oregano. Bring to the boil and skim off any foam.",
+   "Simmer, partly covered, for 45–50 minutes, stirring now and then, until the split peas have completely broken down. Add a splash of water if it gets too thick.",
+   "Remove the bay leaf and blend until very smooth.",
+   "Stir in the lemon juice, season with salt and pepper, and loosen with hot water to your liking."
+  ]
+ },
+ {
+  "id": "celeriac-potato-veloute",
+  "title": "Celeriac & potato velouté",
+  "meal": "lunch",
+  "texture": "smooth",
+  "summary": "A classic French velouté with a gentle, nutty celeriac flavour, finished with milk, a spoon of crème fraîche and a little nutmeg.",
+  "ingredients": [
+   "1 tbsp butter",
+   "1 onion, finely chopped",
+   "1 small celeriac (about 600g), peeled and diced",
+   "1 medium potato (about 200g), peeled and diced",
+   "900ml vegetable stock",
+   "½ tsp dried thyme",
+   "150ml milk",
+   "2 tbsp crème fraîche",
+   "Pinch of ground nutmeg",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Melt the butter in a large pan and cook the onion gently for 8 minutes until soft.",
+   "Add the celeriac, potato, stock and thyme. Simmer for 20–25 minutes until the celeriac is very soft.",
+   "Add the milk and blend until completely smooth.",
+   "Stir in the crème fraîche and nutmeg, season with salt and pepper and reheat gently."
+  ]
+ },
+ {
+  "id": "smooth-chickpea-tahini-soup",
+  "title": "Smooth chickpea & tahini soup",
+  "meal": "lunch",
+  "texture": "smooth",
+  "summary": "A Middle Eastern-style soup of chickpeas simmered with cumin and coriander, blended very smooth with tahini and lemon.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 onion, finely chopped",
+   "2 garlic cloves, crushed",
+   "1 tsp ground cumin",
+   "1 tsp ground coriander",
+   "2 x 400g tins chickpeas, drained and rinsed",
+   "900ml vegetable stock",
+   "2 tbsp tahini",
+   "½ lemon, juiced",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft. Add the garlic, cumin and coriander for 1 minute.",
+   "Add the chickpeas and stock and simmer for 20 minutes so the chickpeas soften further.",
+   "Add the tahini and lemon juice and blend for 2–3 minutes until completely smooth, then push through a sieve to catch any skins.",
+   "Season with salt and pepper and reheat gently, adding hot water if it's too thick."
+  ]
+ },
+ {
+  "id": "steamed-tofu-carrot-dumplings",
+  "title": "Steamed tofu & carrot dumplings",
+  "meal": "lunch",
+  "texture": "regular",
+  "summary": "Chinese-style dumplings filled with a soft, gingery tofu, carrot and courgette mixture, steamed until tender and served with a sweet soy dip.",
+  "ingredients": [
+   "1 tbsp neutral oil",
+   "1 carrot, peeled and finely grated",
+   "1 courgette, peeled, finely grated and squeezed dry",
+   "1 garlic clove, crushed",
+   "1 tsp fresh ginger, finely grated (discard any stringy fibres)",
+   "200g firm tofu, patted dry and crumbled finely",
+   "2 tbsp soy sauce",
+   "1 tsp cornflour",
+   "24 round dumpling (gyoza) wrappers",
+   "1 tsp honey",
+   "1 tbsp warm water"
+  ],
+  "steps": [
+   "Warm the oil in a frying pan and cook the carrot and courgette for 5 minutes until very soft. Add the garlic and ginger for 1 minute.",
+   "Take off the heat and mix in the tofu, 1 tbsp of the soy sauce and the cornflour. Leave to cool for 10 minutes.",
+   "Put a heaped teaspoon of filling in the centre of each wrapper. Wet the edge with water, fold in half and press firmly to seal, pleating if you like.",
+   "Line a steamer with baking paper. Steam the dumplings in batches, spaced apart, for 8–10 minutes until the wrappers are soft and translucent.",
+   "Mix the remaining soy sauce with the honey and warm water to make a dipping sauce, and serve with the dumplings."
+  ]
+ },
+ {
+  "id": "polish-potato-pancakes",
+  "title": "Polish potato pancakes with soured cream",
+  "meal": "lunch",
+  "texture": "regular",
+  "summary": "Placki ziemniaczane: thin, golden fritters of finely grated peeled potato, served with a cool spoonful of soured cream.",
+  "ingredients": [
+   "1kg floury potatoes, peeled",
+   "1 small onion, peeled",
+   "1 egg",
+   "2 tbsp plain flour",
+   "½ tsp salt",
+   "Oil for frying",
+   "150ml soured cream, to serve"
+  ],
+  "steps": [
+   "Finely grate the potatoes and onion. Tip into a clean tea towel and squeeze out as much liquid as you can.",
+   "Mix the potato and onion with the egg, flour and salt.",
+   "Heat a thin layer of oil in a large frying pan over a medium heat. Add heaped tablespoons of the mixture and flatten them into thin pancakes.",
+   "Fry for 3–4 minutes per side until golden and cooked through. Drain on kitchen paper and keep warm while you cook the rest.",
+   "Serve hot with the soured cream."
+  ]
+ },
+ {
+  "id": "sweet-potato-feta-frittata",
+  "title": "Sweet potato & feta frittata",
+  "meal": "lunch",
+  "texture": "soft",
+  "summary": "An Italian-style thick frittata with soft cubes of peeled sweet potato and pockets of salty feta, lovely warm or cold in a lunchbox.",
+  "ingredients": [
+   "400g sweet potatoes, peeled and cut into 1cm cubes",
+   "1 tbsp olive oil",
+   "1 small onion, finely chopped",
+   "6 eggs",
+   "3 tbsp milk",
+   "1 tsp dried oregano",
+   "100g feta, crumbled",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Boil the sweet potato cubes for 8–10 minutes until very tender. Drain well.",
+   "Heat the grill to medium. Warm the oil in a 24cm ovenproof non-stick frying pan and cook the onion gently for 8 minutes until soft.",
+   "Beat the eggs with the milk, oregano, salt and pepper.",
+   "Add the sweet potato to the pan and spread it out, pour over the eggs and scatter over the feta.",
+   "Cook over a low heat for 8–10 minutes until almost set, then slide under the grill for 3–4 minutes until just set and lightly golden.",
+   "Leave to settle for 5 minutes before cutting into wedges."
+  ]
+ },
+ {
+  "id": "malaysian-tofu-potato-curry",
+  "title": "Malaysian-style tofu & potato curry",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "A fragrant, mild coconut curry with lemongrass, turmeric and warm spices, inspired by Malaysian kari.",
+  "ingredients": [
+   "1 onion, roughly chopped",
+   "3 garlic cloves, peeled",
+   "1 thumb-sized piece fresh ginger, peeled",
+   "2 tbsp vegetable oil",
+   "1 lemongrass stalk, bashed with a rolling pin",
+   "1 cinnamon stick",
+   "2 star anise",
+   "1 tbsp mild curry powder",
+   "1 tsp ground turmeric",
+   "600g potatoes, peeled and cut into 3cm chunks",
+   "2 carrots, peeled and thinly sliced",
+   "400ml tin coconut milk",
+   "300ml vegetable stock",
+   "400g firm tofu, pressed and cubed",
+   "1 tbsp soy sauce",
+   "1 tsp soft brown sugar",
+   "1/2 lime, juiced",
+   "White rice, to serve"
+  ],
+  "steps": [
+   "Blitz the onion, garlic and ginger to a paste in a mini chopper or blender with a splash of water.",
+   "Heat the oil in a large pan and cook the paste with the lemongrass, cinnamon and star anise for 8 minutes until soft, sweet and lightly golden.",
+   "Stir in the curry powder and turmeric for 1 minute.",
+   "Add the potatoes, carrots, coconut milk and stock. Simmer, partly covered, for 20 minutes until the vegetables are very tender.",
+   "Add the tofu, soy and sugar and simmer for 5 minutes more.",
+   "Remove the lemongrass, cinnamon and star anise, stir in the lime juice and serve with rice."
+  ]
+ },
+ {
+  "id": "moong-dal-khichdi",
+  "title": "Moong dal khichdi",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "A soothing, porridge-soft Indian one-pot of white rice and split yellow lentils with ghee and turmeric.",
+  "ingredients": [
+   "150g white basmati rice",
+   "100g split yellow moong dal",
+   "1 tbsp ghee or butter",
+   "1/2 tsp ground cumin",
+   "1/2 tsp ground turmeric",
+   "1 tsp grated fresh ginger",
+   "1 carrot, peeled and finely diced",
+   "1.1 litres water",
+   "1/2 tsp salt"
+  ],
+  "steps": [
+   "Rinse the rice and moong dal together in a sieve until the water runs clear.",
+   "Melt the ghee in a large pan and stir in the cumin, turmeric and ginger for 30 seconds.",
+   "Add the rice, dal, carrot, water and salt. Bring to the boil, then cover and simmer gently for 30–35 minutes, stirring now and then, until very soft and porridge-like.",
+   "Mash lightly with the back of a spoon, loosen with a little hot water if needed and serve."
+  ]
+ },
+ {
+  "id": "japanese-simmered-tofu-potatoes",
+  "title": "Japanese-style simmered tofu & potatoes",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "A homely nikujaga-style pot of potatoes, carrots and tofu gently simmered in a sweet soy broth.",
+  "ingredients": [
+   "1 tbsp vegetable oil",
+   "1 onion, thinly sliced",
+   "600g potatoes, peeled and cut into 3cm chunks",
+   "2 carrots, peeled and cut into 1cm slices",
+   "500ml vegetable stock",
+   "3 tbsp soy sauce",
+   "2 tbsp mirin",
+   "1 tbsp caster sugar",
+   "400g firm tofu, cut into 3cm cubes",
+   "80g baby spinach"
+  ],
+  "steps": [
+   "Heat the oil in a wide pan and cook the onion gently for 8–10 minutes until completely soft.",
+   "Add the potatoes and carrots, then pour in the stock, soy, mirin and sugar.",
+   "Bring to a simmer, cover with a lid slightly ajar and cook for 20–25 minutes until the potatoes and carrots are fork-soft.",
+   "Add the tofu and simmer for 5 minutes more, spooning the broth over.",
+   "Stir in the spinach until just wilted and serve in bowls with some of the broth."
+  ]
+ },
+ {
+  "id": "smoky-lentil-butter-bean-stew",
+  "title": "Smoky red lentil & butter bean stew",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "A thick, smoky-sweet tomato stew of red lentils and carrot, made creamy with blended butter beans.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 onion, finely chopped",
+   "2 carrots, peeled and finely diced",
+   "2 garlic cloves, crushed",
+   "2 tsp smoked paprika (sweet, not hot)",
+   "1 tsp ground cumin",
+   "400g tin butter beans, drained",
+   "500ml vegetable stock",
+   "150g red lentils, rinsed",
+   "500g passata",
+   "1 tbsp tomato purée",
+   "1 tsp soft brown sugar",
+   "1 tbsp vegetarian Worcestershire sauce",
+   "50g cheddar, grated",
+   "Soft buttery mash, to serve"
+  ],
+  "steps": [
+   "Soften the onion and carrots in the oil for 10 minutes. Add the garlic, paprika and cumin and stir for 1 minute.",
+   "Blend the butter beans with 200ml of the stock until completely smooth.",
+   "Add the blended beans, remaining stock, lentils, passata, tomato purée, sugar and Worcestershire to the pan.",
+   "Simmer for 25 minutes, stirring often, until the lentils have broken down and the stew is thick.",
+   "Serve over mash, topped with the grated cheddar."
+  ]
+ },
+ {
+  "id": "quick-yoghurt-dough-pizza",
+  "title": "Quick yoghurt-dough margherita pizza",
+  "meal": "dinner",
+  "texture": "regular",
+  "summary": "No-yeast, two-ingredient pizza bases topped with a simple garlicky tomato sauce and melting mozzarella.",
+  "ingredients": [
+   "250g self-raising flour, plus extra for dusting",
+   "250g Greek-style yoghurt",
+   "Pinch of salt",
+   "150ml passata",
+   "1 small garlic clove, crushed",
+   "1 tsp dried oregano",
+   "1 tsp olive oil",
+   "125g mozzarella ball, torn",
+   "30g cheddar, grated"
+  ],
+  "steps": [
+   "Heat the oven to 220°C (200°C fan) and put two baking trays in to heat.",
+   "Mix the flour, yoghurt and salt into a soft dough. Knead briefly on a floured surface, halve and roll each into a thin 25cm round.",
+   "Stir together the passata, garlic, oregano and olive oil.",
+   "Carefully place the bases on the hot trays, spread with the sauce and top with the mozzarella and cheddar.",
+   "Bake for 12–15 minutes until the base is golden and the cheese is bubbling."
+  ]
+ },
+ {
+  "id": "lentil-ricotta-balls-tomato-sauce",
+  "title": "Red lentil & ricotta balls in tomato sauce",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "Tender baked lentil and cheese 'meatballs' simmered in a rich tomato sauce, served over spaghetti.",
+  "ingredients": [
+   "100g red lentils, rinsed",
+   "300ml water",
+   "100g ricotta",
+   "75g fresh white breadcrumbs",
+   "30g vegetarian Italian-style hard cheese, finely grated",
+   "1 egg, beaten",
+   "2 garlic cloves, crushed",
+   "2 tsp dried oregano",
+   "2 tbsp olive oil",
+   "700g passata",
+   "1 tsp caster sugar",
+   "300g spaghetti",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Simmer the lentils in the water for 15 minutes, stirring often, until soft and all the water is absorbed. Spread on a plate to cool for 10 minutes.",
+   "Heat the oven to 200°C (180°C fan). Mix the lentils with the ricotta, breadcrumbs, hard cheese, egg, half the garlic and 1 tsp of the oregano. Season and roll into 16 balls.",
+   "Place on a lined tray, brush with 1 tbsp of the oil and bake for 20 minutes until firm and golden.",
+   "Meanwhile, warm the remaining oil and cook the rest of the garlic for 1 minute. Add the passata, sugar and remaining oregano and simmer for 15 minutes.",
+   "Cook the spaghetti according to the packet. Add the baked balls to the sauce, simmer gently for 5 minutes and serve over the spaghetti."
+  ]
+ },
+ {
+  "id": "pastina-in-cheesy-broth",
+  "title": "Pastina in cheesy broth",
+  "meal": "lunch",
+  "texture": "soft",
+  "summary": "Tiny pasta stars cooked very soft in broth and made creamy with egg and grated cheese.",
+  "ingredients": [
+   "750ml vegetable stock",
+   "80g pastina or other tiny soup pasta, such as stelline",
+   "1 egg",
+   "25g vegetarian Italian-style hard cheese, finely grated",
+   "15g butter",
+   "Pinch of black pepper (optional)"
+  ],
+  "steps": [
+   "Bring the stock to the boil, add the pasta and simmer for 7–9 minutes, a minute or two past the packet time, until very soft.",
+   "Beat the egg with the cheese in a jug.",
+   "Take the pan off the heat and stir in the butter, then slowly pour in the egg mixture, stirring all the time.",
+   "Return to a very low heat for 1–2 minutes, stirring, until the egg is cooked and the broth is creamy. Season with pepper, if using."
+  ]
+ },
+ {
+  "id": "smooth-yellow-moong-dal",
+  "title": "Smooth yellow moong dal",
+  "meal": "dinner",
+  "texture": "smooth",
+  "summary": "Split yellow lentils simmered until they collapse into a mild, buttery, soup-like dal.",
+  "ingredients": [
+   "200g split yellow moong dal, rinsed well",
+   "900ml water",
+   "1/2 tsp ground turmeric",
+   "1 tbsp butter or ghee",
+   "1/2 tsp ground cumin",
+   "1 tsp grated fresh ginger",
+   "1/2 tsp salt",
+   "1 tsp lemon juice",
+   "White rice or soft white chapati, to serve"
+  ],
+  "steps": [
+   "Put the dal, water and turmeric in a pan. Bring to the boil, skim off any foam, then simmer for 25–30 minutes, stirring now and then, until completely broken down.",
+   "Whisk hard or blend until smooth, adding a splash of water if it's too thick.",
+   "Melt the butter in a small pan and cook the cumin and ginger gently for 1 minute without browning.",
+   "Stir the spiced butter into the dal with the salt and lemon juice. Serve with rice or soft chapati."
+  ]
+ },
+ {
+  "id": "victoria-sponge-seedless-jam",
+  "title": "Victoria sponge with seedless jam",
+  "meal": "snack",
+  "texture": "soft",
+  "summary": "A classic light sponge sandwiched with smooth jam and vanilla buttercream.",
+  "ingredients": [
+   "200g butter, softened, plus extra for greasing",
+   "200g caster sugar",
+   "4 eggs",
+   "200g self-raising flour",
+   "1 tsp baking powder",
+   "2 tbsp milk",
+   "100g butter, softened (for the buttercream)",
+   "200g icing sugar, plus extra for dusting",
+   "1 tsp vanilla extract",
+   "5 tbsp smooth apricot jam or other seedless jam"
+  ],
+  "steps": [
+   "Heat the oven to 190°C (170°C fan). Grease and line two 20cm sandwich tins.",
+   "Beat the 200g butter, caster sugar, eggs, flour, baking powder and milk together until smooth.",
+   "Divide between the tins and bake for 20–22 minutes until golden and springy. Cool for 10 minutes in the tins, then on a rack.",
+   "Beat the 100g butter with the icing sugar and vanilla until pale and fluffy.",
+   "Spread the jam over one sponge and the buttercream over the other, sandwich together and dust with icing sugar."
+  ]
+ },
+ {
+  "id": "mango-yoghurt-fool",
+  "title": "Mango & yoghurt fool",
+  "meal": "dessert",
+  "texture": "smooth",
+  "summary": "Silky mango purée rippled through whipped cream and Greek-style yoghurt.",
+  "ingredients": [
+   "425g tin mango slices in juice, drained",
+   "1 tsp lime juice",
+   "150ml double cream",
+   "1 tbsp icing sugar",
+   "200g Greek-style yoghurt"
+  ],
+  "steps": [
+   "Blend the mango with the lime juice until completely smooth.",
+   "Whip the cream with the icing sugar to soft peaks, then fold in the yoghurt.",
+   "Ripple most of the mango purée through the cream mixture.",
+   "Spoon into glasses and top with the remaining purée. Serve straight away or chill until needed."
+  ]
+ },
+ {
+  "id": "peach-frozen-yoghurt",
+  "title": "Peach frozen yoghurt",
+  "meal": "dessert",
+  "texture": "smooth",
+  "summary": "A creamy, no-churn frozen yoghurt made by blending frozen tinned peaches with Greek yoghurt (allow 3 hours to freeze the fruit).",
+  "ingredients": [
+   "2 x 410g tins peach slices in juice, drained",
+   "250g Greek-style yoghurt",
+   "3 tbsp honey",
+   "1 tsp lemon juice"
+  ],
+  "steps": [
+   "Spread the peaches on a lined tray and freeze for 3 hours until solid.",
+   "Blend the frozen peaches with the yoghurt, honey and lemon juice until smooth and thick, scraping down the sides as needed.",
+   "Eat straight away as soft-serve, or freeze in a lidded tub for 1 hour for firmer scoops."
+  ]
+ },
+ {
+  "id": "eves-pudding-with-custard",
+  "title": "Eve's pudding with custard",
+  "meal": "dessert",
+  "texture": "soft",
+  "summary": "Soft cinnamon apples baked under a light sponge, served warm with homemade vanilla custard.",
+  "ingredients": [
+   "4 eating apples (about 600g), peeled, cored and thinly sliced",
+   "2 tbsp caster sugar",
+   "1/2 tsp ground cinnamon",
+   "2 tbsp water",
+   "100g butter, softened, plus extra for greasing",
+   "100g caster sugar (for the sponge)",
+   "2 eggs",
+   "100g self-raising flour",
+   "2 tbsp milk",
+   "500ml milk (for the custard)",
+   "3 egg yolks",
+   "2 tbsp cornflour",
+   "40g caster sugar (for the custard)",
+   "1 tsp vanilla extract"
+  ],
+  "steps": [
+   "Heat the oven to 180°C (160°C fan) and grease a 1.5 litre ovenproof dish.",
+   "Simmer the apples, 2 tbsp sugar, cinnamon and water in a covered pan for 5–8 minutes until softening, then tip into the dish.",
+   "Beat the butter, 100g sugar, eggs, flour and 2 tbsp milk together until smooth and spread over the apples.",
+   "Bake for 35–40 minutes until golden and springy.",
+   "Meanwhile, for the custard, whisk the egg yolks, cornflour and 40g sugar in a bowl. Heat the 500ml milk until steaming and whisk it onto the yolks.",
+   "Return the custard to the pan and stir over a low heat until thick, then stir in the vanilla. Serve the pudding warm with the custard."
+  ]
+ },
+ {
+  "id": "baked-glamorgan-sausages",
+  "title": "Baked Glamorgan sausages",
+  "meal": "dinner",
+  "texture": "regular",
+  "summary": "Welsh cheese and leek 'sausages' bound with soft breadcrumbs and egg, baked rather than fried and easy to freeze in batches.",
+  "ingredients": [
+   "15g butter",
+   "1 leek (white and pale green part only), halved lengthways and very finely sliced",
+   "200g fresh white breadcrumbs",
+   "150g Caerphilly or mild cheddar, finely grated",
+   "1 tsp dried thyme",
+   "1 tsp Dijon mustard",
+   "2 eggs, beaten",
+   "3 tbsp milk",
+   "2 tbsp plain flour",
+   "2 tbsp olive oil",
+   "Salt and pepper",
+   "Buttery mash and gravy, to serve"
+  ],
+  "steps": [
+   "Melt the butter in a pan, add the leek, cover and cook gently for 12 minutes, stirring now and then, until completely soft. Leave to cool for 5 minutes.",
+   "Mix the breadcrumbs, cheese, thyme, mustard and cooked leek in a bowl and season with salt and pepper.",
+   "Stir in the eggs and milk to make a mixture that holds together when squeezed.",
+   "With damp hands, shape into 12 small sausages and roll each one lightly in the flour.",
+   "Heat the oven to 200°C (180°C fan). Put the sausages on a lined tray, brush with the oil and bake for 20–25 minutes, turning halfway, until golden.",
+   "Serve with buttery mash and gravy."
+  ]
+ }
+]

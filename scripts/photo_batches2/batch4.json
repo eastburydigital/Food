@@ -1,0 +1,620 @@
+[
+ {
+  "id": "ground-rice-porridge-peach",
+  "title": "Ground rice porridge with peach purée",
+  "meal": "breakfast",
+  "texture": "smooth",
+  "summary": "A silky, vanilla-scented milk porridge made with ground rice and swirled with soft peach purée.",
+  "ingredients": [
+   "40g ground rice",
+   "400ml whole milk",
+   "1 tbsp caster sugar",
+   "1/4 tsp vanilla extract",
+   "2 ripe peaches, peeled, stoned and chopped",
+   "1 tbsp water",
+   "Pinch of ground cinnamon"
+  ],
+  "steps": [
+   "Whisk the ground rice and sugar into the cold milk in a saucepan.",
+   "Bring to a simmer, stirring constantly, then cook for 5–6 minutes until thick and smooth. Stir in the vanilla.",
+   "Meanwhile, simmer the peaches with the water and cinnamon in a small covered pan for 8–10 minutes until very soft, then mash or blend until smooth.",
+   "Spoon the porridge into bowls and swirl the peach purée through."
+  ]
+ },
+ {
+  "id": "batch-drop-scones",
+  "title": "Batch-and-freeze drop scones",
+  "meal": "breakfast",
+  "texture": "soft",
+  "summary": "Small, fluffy Scotch pancakes that freeze well for quick breakfasts warmed in the toaster.",
+  "ingredients": [
+   "225g self-raising flour",
+   "1 tsp baking powder",
+   "2 tbsp caster sugar",
+   "1 egg",
+   "250ml milk",
+   "15g butter, melted, plus extra for the pan"
+  ],
+  "steps": [
+   "Mix the flour, baking powder and sugar in a bowl and make a well in the middle.",
+   "Add the egg and half the milk and whisk to a smooth paste, then whisk in the rest of the milk and the melted butter to make a thick, pourable batter.",
+   "Heat a large non-stick frying pan over a medium heat and wipe with a little butter.",
+   "Drop in tablespoons of batter, spaced apart. Cook for 1–2 minutes until bubbles appear on top, then flip and cook for 1 minute more.",
+   "Keep warm wrapped in a clean tea towel while you cook the rest."
+  ]
+ },
+ {
+  "id": "ricotta-honey-brioche-banana",
+  "title": "Ricotta & honey brioche with warm banana",
+  "meal": "breakfast",
+  "texture": "regular",
+  "summary": "Soft toasted brioche spread with creamy ricotta, topped with buttery cinnamon banana and a drizzle of honey.",
+  "ingredients": [
+   "10g butter",
+   "1 ripe banana, sliced",
+   "Pinch of ground cinnamon",
+   "2 thick slices brioche",
+   "100g ricotta",
+   "2 tsp honey"
+  ],
+  "steps": [
+   "Melt the butter in a frying pan over a medium heat, add the banana slices and cinnamon and cook for 1–2 minutes each side until soft and golden.",
+   "Lightly toast the brioche.",
+   "Spread the ricotta thickly over the brioche, pile the warm banana on top and drizzle with the honey."
+  ]
+ },
+ {
+  "id": "beetroot-yoghurt-dip",
+  "title": "No-cook beetroot & yoghurt dip",
+  "meal": "snack",
+  "texture": "smooth",
+  "summary": "A bright pink, mildly spiced dip made in minutes from ready-cooked beetroot and creamy yoghurt.",
+  "ingredients": [
+   "250g cooked beetroot (vacuum-packed, not in vinegar), chopped",
+   "150g Greek yoghurt",
+   "1/2 tsp ground cumin",
+   "1 tsp lemon juice",
+   "Salt",
+   "1 tsp fresh dill, very finely chopped (optional)",
+   "4 soft white pittas or slices of white bread, to serve"
+  ],
+  "steps": [
+   "Blitz the beetroot in a food processor until completely smooth.",
+   "Add the yoghurt, cumin, lemon juice and a pinch of salt and blitz again until evenly pink and creamy.",
+   "Stir in the dill, if using, and serve with soft bread or pitta."
+  ]
+ },
+ {
+  "id": "peach-vanilla-smoothie",
+  "title": "Peach & vanilla yoghurt smoothie",
+  "meal": "snack",
+  "texture": "smooth",
+  "summary": "A no-cook, silky smoothie of tinned peaches, yoghurt, milk and vanilla.",
+  "ingredients": [
+   "410g tin peach slices in juice, drained",
+   "150g plain yoghurt",
+   "150ml milk",
+   "1/2 tsp vanilla extract",
+   "1 tsp honey (optional)"
+  ],
+  "steps": [
+   "Put the peaches, yoghurt, milk, vanilla and honey, if using, in a blender.",
+   "Blend for 1 minute until completely smooth, then pour into glasses."
+  ]
+ },
+ {
+  "id": "mild-devilled-eggs",
+  "title": "Mild devilled eggs",
+  "meal": "snack",
+  "texture": "soft",
+  "summary": "Hard-boiled egg halves filled with a creamy, smooth yolk mix and dusted with sweet paprika.",
+  "ingredients": [
+   "4 eggs",
+   "2 tbsp mayonnaise",
+   "1 tbsp plain yoghurt",
+   "1/2 tsp lemon juice",
+   "Salt and pepper",
+   "Pinch of sweet paprika",
+   "1 tsp fresh chives, very finely chopped (optional)"
+  ],
+  "steps": [
+   "Lower the eggs into a pan of simmering water and cook for 10 minutes. Cool in cold water, then peel.",
+   "Halve the eggs lengthways and scoop the yolks into a bowl.",
+   "Mash the yolks with the mayonnaise, yoghurt and lemon juice until completely smooth. Season with salt and pepper.",
+   "Spoon or pipe the mixture back into the egg whites, dust with sweet paprika and scatter with chives, if using."
+  ]
+ },
+ {
+  "id": "mild-spiced-parsnip-apple-soup",
+  "title": "Mild spiced parsnip & apple soup",
+  "meal": "lunch",
+  "texture": "smooth",
+  "summary": "Sweet parsnips and a peeled apple simmered with gentle curry spice and ginger, then blended with a splash of milk.",
+  "ingredients": [
+   "1 tbsp butter",
+   "1 onion, finely chopped",
+   "600g parsnips, peeled, woody cores removed, chopped",
+   "1 eating apple, peeled, cored and chopped",
+   "1 tsp mild curry powder",
+   "1 tsp fresh ginger, finely grated",
+   "1 litre vegetable stock",
+   "100ml milk",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Melt the butter in a large pan and cook the onion gently for 8 minutes until soft.",
+   "Stir in the curry powder and ginger for 1 minute.",
+   "Add the parsnips, apple and stock. Simmer for 20–25 minutes until the parsnips are very soft.",
+   "Add the milk and blend until completely smooth. If any fibres remain, push through a sieve. Season with salt and pepper and reheat gently."
+  ]
+ },
+ {
+  "id": "spanish-garlic-bread-soup",
+  "title": "Spanish garlic & bread soup with egg",
+  "meal": "lunch",
+  "texture": "soft",
+  "summary": "Sopa de ajo: day-old white bread simmered in a sweet paprika and garlic broth until it melts, with an egg poached in each bowl.",
+  "ingredients": [
+   "2 tbsp olive oil",
+   "4 garlic cloves, thinly sliced",
+   "100g day-old white bread, crusts removed, torn into small pieces",
+   "1 tsp sweet smoked paprika",
+   "1 litre vegetable stock",
+   "4 eggs",
+   "Salt"
+  ],
+  "steps": [
+   "Warm the oil in a wide pan over a low heat and cook the garlic gently for 2–3 minutes until soft and pale golden.",
+   "Add the bread and stir for 2 minutes so it soaks up the oil. Stir in the paprika for 30 seconds.",
+   "Pour in the stock and simmer for 10 minutes, whisking now and then, until the bread has broken down. Season with salt.",
+   "Crack the eggs into the simmering soup, cover and cook for 3–4 minutes until the whites are set.",
+   "Ladle into bowls with one egg in each."
+  ]
+ },
+ {
+  "id": "veggie-croque-monsieur",
+  "title": "Veggie croque monsieur",
+  "meal": "lunch",
+  "texture": "regular",
+  "summary": "A French café classic without the ham: soft white bread filled and topped with a little béchamel and melted cheddar, then grilled until bubbling.",
+  "ingredients": [
+   "15g butter, plus extra for spreading",
+   "15g plain flour",
+   "150ml milk",
+   "Pinch of ground nutmeg",
+   "80g mature cheddar, grated",
+   "1 tsp vegetarian Worcestershire sauce",
+   "4 slices soft white bread"
+  ],
+  "steps": [
+   "Melt the 15g butter in a small pan, stir in the flour for 1 minute, then whisk in the milk a little at a time. Simmer for 2 minutes until thick, then stir in the nutmeg, Worcestershire sauce and half the cheese.",
+   "Heat the grill to medium-high. Lightly butter one side of each slice of bread.",
+   "Lay 2 slices buttered side down on a baking tray. Spread with a spoonful of the sauce, then top with the remaining bread, buttered side up.",
+   "Grill for 2 minutes until golden, then turn over.",
+   "Spread the rest of the sauce over the tops, scatter with the remaining cheese and grill for 3–4 minutes until bubbling and golden."
+  ]
+ },
+ {
+  "id": "korean-style-vegetable-pancake",
+  "title": "Korean-style vegetable pancake",
+  "meal": "lunch",
+  "texture": "regular",
+  "summary": "A mild take on yachaejeon: a thin, savoury pancake packed with softened courgette, carrot and onion, served with a sweet soy dip.",
+  "ingredients": [
+   "2 tbsp neutral oil",
+   "1 small onion, very finely chopped",
+   "1 courgette, peeled and grated",
+   "1 carrot, peeled and finely grated",
+   "100g plain flour",
+   "1 tbsp cornflour",
+   "1 egg",
+   "150ml cold water",
+   "Pinch of salt",
+   "2 tbsp soy sauce",
+   "1 tsp honey"
+  ],
+  "steps": [
+   "Warm 1 tsp of the oil in a frying pan and cook the onion, courgette and carrot for 6–8 minutes until very soft. Tip into a bowl and leave to cool for a few minutes.",
+   "Whisk the flour, cornflour, egg, cold water and salt into a smooth batter, then stir in the cooked vegetables.",
+   "Heat half the remaining oil in the pan over a medium heat. Pour in half the batter and spread it into a thin round.",
+   "Cook for 3–4 minutes until golden underneath, flip and cook for 3 minutes more. Repeat with the rest of the oil and batter.",
+   "Mix the soy sauce and honey for dipping. Cut the pancakes into wedges and serve with the dip."
+  ]
+ },
+ {
+  "id": "creamy-leek-cheddar-crepes",
+  "title": "Creamy leek & cheddar crêpes",
+  "meal": "lunch",
+  "texture": "soft",
+  "summary": "Thin French crêpes wrapped around meltingly soft leeks in a cheddar sauce, then warmed through in the oven.",
+  "ingredients": [
+   "125g plain flour",
+   "2 eggs",
+   "500ml milk",
+   "40g butter",
+   "2 leeks, trimmed, halved lengthways, washed and very finely sliced",
+   "1 tbsp plain flour, for the sauce",
+   "80g mature cheddar, grated",
+   "Pinch of ground nutmeg",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Whisk the 125g flour, eggs and 300ml of the milk into a smooth batter with a pinch of salt. Rest for 10 minutes.",
+   "Melt 25g of the butter in a pan, add the leeks and a splash of water, cover and cook gently for 12–15 minutes until completely soft.",
+   "Stir the 1 tbsp flour into the leeks, then gradually add the remaining 200ml milk and simmer for 2 minutes until thick. Stir in half the cheese and the nutmeg, and season.",
+   "Heat a non-stick frying pan, brush with a little of the remaining butter and make 8 thin crêpes, cooking each for about 1 minute per side.",
+   "Heat the oven to 200°C (180°C fan). Spoon some filling along each crêpe, roll up and lay in a baking dish. Scatter over the rest of the cheese and bake for 12–15 minutes until hot and melted."
+  ]
+ },
+ {
+  "id": "peanut-noodles-soft-tofu",
+  "title": "Peanut noodles with soft veg & tofu",
+  "meal": "lunch",
+  "texture": "regular",
+  "summary": "Flat rice noodles tossed in a creamy, mild peanut and soy sauce with soft-cooked carrot, courgette ribbons and golden tofu; good warm or packed for lunch.",
+  "ingredients": [
+   "150g flat rice noodles",
+   "1 tbsp neutral oil",
+   "200g firm tofu, patted dry and cubed",
+   "1 carrot, peeled and finely grated",
+   "1 courgette, peeled and cut into thin ribbons with the peeler",
+   "3 tbsp smooth peanut butter",
+   "2 tbsp soy sauce",
+   "1 tbsp honey",
+   "1 tsp fresh ginger, finely grated (discard any stringy fibres)",
+   "1 tbsp lime juice",
+   "4–5 tbsp hot water"
+  ],
+  "steps": [
+   "Cook the noodles according to the packet until soft, then drain and rinse briefly in warm water.",
+   "Warm the oil in a frying pan and fry the tofu for 5–6 minutes, turning, until lightly golden. Lift out.",
+   "Add the carrot, courgette and ginger to the pan with a splash of water and cook for 4–5 minutes until very soft.",
+   "Whisk the peanut butter, soy sauce, honey, lime juice and hot water into a smooth sauce.",
+   "Toss the noodles, vegetables, tofu and sauce together over a low heat until coated and warm."
+  ]
+ },
+ {
+  "id": "thai-style-coconut-noodles-tofu",
+  "title": "Thai-style coconut noodles with tofu",
+  "meal": "dinner",
+  "texture": "regular",
+  "summary": "Silky rice noodles in a fragrant lemongrass, ginger and lime coconut broth, made without curry paste.",
+  "ingredients": [
+   "200g flat rice noodles",
+   "1 tbsp vegetable oil",
+   "1 lemongrass stalk, bashed with a rolling pin",
+   "2 garlic cloves, crushed",
+   "1 tbsp grated fresh ginger",
+   "1 small bunch fresh coriander, stalks very finely chopped (leaves very finely chopped, optional)",
+   "1 tsp ground turmeric",
+   "1 tsp ground coriander",
+   "400ml tin light coconut milk",
+   "300ml vegetable stock",
+   "280g firm tofu, pressed and cubed",
+   "1 courgette, peeled and thinly sliced",
+   "100g baby spinach",
+   "1 tbsp soy sauce",
+   "1 tsp soft brown sugar",
+   "1 lime, juiced"
+  ],
+  "steps": [
+   "Soak or cook the rice noodles according to the packet, then drain.",
+   "Heat the oil in a large pan and gently fry the lemongrass, garlic, ginger and chopped coriander stalks for 2 minutes.",
+   "Stir in the turmeric and ground coriander, then pour in the coconut milk and stock. Simmer for 5 minutes.",
+   "Add the tofu and courgette and simmer for 8 minutes until the courgette is very soft.",
+   "Stir in the spinach until wilted, then season with the soy, sugar and lime juice. Remove the lemongrass.",
+   "Divide the noodles between bowls, ladle over the broth and scatter with a little very finely chopped coriander leaf, if you like."
+  ]
+ },
+ {
+  "id": "steamed-silken-tofu-ginger-soy",
+  "title": "Steamed silken tofu with ginger soy",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "Warm, wobbly silken tofu with a light ginger and soy dressing, served over soft rice with wilted spinach.",
+  "ingredients": [
+   "150g white jasmine rice",
+   "300g silken tofu",
+   "100g baby spinach",
+   "2 tbsp soy sauce",
+   "1 tbsp water",
+   "1 tsp honey",
+   "1 tsp finely grated fresh ginger",
+   "1 tsp toasted sesame oil"
+  ],
+  "steps": [
+   "Cook the rice according to the packet, adding an extra splash of water for a softer result.",
+   "Carefully slide the tofu onto a heatproof plate that fits in a steamer (or a plate set on a rack in a lidded pan of simmering water). Steam for 8 minutes.",
+   "Wilt the spinach in a pan with a splash of water for 1–2 minutes, then squeeze out excess water.",
+   "Mix the soy, water, honey, ginger and sesame oil in a small pan and warm through.",
+   "Spoon the rice into bowls, add the spinach, then cut the tofu into large pieces, place on top and spoon over the dressing."
+  ]
+ },
+ {
+  "id": "lentil-aubergine-moussaka",
+  "title": "Red lentil & aubergine moussaka",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "Layers of soft peeled aubergine, potato and cinnamon-spiced lentil sauce under a golden cheesy topping.",
+  "ingredients": [
+   "2 aubergines, peeled and sliced 1cm thick",
+   "500g potatoes, peeled and sliced 5mm thick",
+   "3 tbsp olive oil",
+   "1 onion, finely chopped",
+   "2 garlic cloves, crushed",
+   "150g red lentils, rinsed",
+   "500g passata",
+   "1 tbsp tomato purée",
+   "300ml vegetable stock",
+   "1 tsp dried oregano",
+   "1/2 tsp ground cinnamon",
+   "40g butter",
+   "40g plain flour",
+   "500ml milk",
+   "Pinch of ground nutmeg",
+   "60g cheddar, grated",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Heat the oven to 200°C (180°C fan). Brush the aubergine slices with 2 tbsp of the oil and roast on a lined tray for 25 minutes until very soft.",
+   "Meanwhile, boil the potato slices for 6 minutes until just tender, then drain.",
+   "Soften the onion in the remaining oil for 10 minutes. Add the garlic, lentils, passata, tomato purée, stock, oregano and cinnamon and simmer for 20 minutes until thick. Season with salt and pepper.",
+   "Make the sauce: melt the butter, stir in the flour for 1 minute, then gradually whisk in the milk and simmer until thick. Add the nutmeg and half the cheese.",
+   "Layer the potatoes, lentil sauce and aubergine in a large ovenproof dish, finishing with lentils. Pour over the white sauce and scatter with the remaining cheese.",
+   "Bake for 35 minutes until golden and bubbling. Rest for 10 minutes before serving."
+  ]
+ },
+ {
+  "id": "slow-cooker-squash-chickpea-tagine",
+  "title": "Slow-cooker squash & chickpea tagine",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "A warmly spiced Moroccan-style stew of soft squash and carrot, thickened with blended chickpeas and served with buttery couscous (slow-cooks for 6 hours).",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 onion, finely chopped",
+   "2 garlic cloves, crushed",
+   "500g butternut squash, peeled and cut into 2cm chunks",
+   "2 carrots, peeled and finely diced",
+   "400g tin chickpeas, drained",
+   "500ml vegetable stock",
+   "100g red lentils, rinsed",
+   "500g passata",
+   "1 tsp ground cumin",
+   "1 tsp ground cinnamon",
+   "1 tsp ground ginger",
+   "1 tsp sweet paprika",
+   "1 tbsp honey",
+   "1/2 lemon, juiced",
+   "300g couscous",
+   "Salt",
+   "375ml hot vegetable stock (for the couscous)",
+   "15g butter"
+  ],
+  "steps": [
+   "Soften the onion in the oil in a frying pan for 8–10 minutes, adding the garlic for the last minute.",
+   "Blend the chickpeas with 200ml of the stock until completely smooth.",
+   "Put the softened onion and garlic, squash, carrots, blended chickpeas, remaining stock, lentils, passata, cumin, cinnamon, ginger, paprika and honey into the slow cooker and stir.",
+   "Cover and cook on low for 6 hours until the vegetables are very soft. Stir in the lemon juice and season with salt.",
+   "Just before serving, put the couscous in a bowl with the butter, pour over the hot stock, cover and leave for 5 minutes, then fluff with a fork.",
+   "Serve the tagine over the couscous, lightly mashing the squash if you like it softer."
+  ]
+ },
+ {
+  "id": "satay-noodles-tofu",
+  "title": "Mild satay noodles with tofu",
+  "meal": "dinner",
+  "texture": "regular",
+  "summary": "Egg noodles, soft peeled veg and tofu tossed in a creamy, smooth peanut and lime sauce.",
+  "ingredients": [
+   "280g firm tofu, pressed and cubed",
+   "1 tbsp cornflour",
+   "2 tbsp vegetable oil",
+   "1 carrot, peeled and cut into ribbons with a peeler",
+   "1 courgette, peeled and cut into ribbons with a peeler",
+   "100g baby spinach",
+   "200g medium egg noodles",
+   "3 tbsp smooth peanut butter",
+   "2 tbsp soy sauce",
+   "1 tbsp honey",
+   "1 tbsp lime juice",
+   "1 tsp grated fresh ginger",
+   "100ml hot water"
+  ],
+  "steps": [
+   "Toss the tofu in the cornflour and fry in 1 tbsp of the oil for 8 minutes until golden. Set aside.",
+   "Add the remaining oil, carrot and courgette ribbons with a splash of water. Cover and cook for 6–8 minutes until very soft, then stir in the spinach to wilt.",
+   "Meanwhile, cook the noodles according to the packet and drain.",
+   "Whisk the peanut butter, soy, honey, lime juice, ginger and hot water until smooth.",
+   "Toss the noodles, veg, tofu and sauce together in the pan over a low heat until coated and hot."
+  ]
+ },
+ {
+  "id": "lentil-potato-casserole-cheesy-dumplings",
+  "title": "Lentil casserole with cheesy dumplings",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "A hearty, thick red lentil, carrot and potato casserole topped with fluffy cheddar and thyme dumplings.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 onion, finely chopped",
+   "3 carrots, peeled and cut into chunks",
+   "400g potatoes, peeled and cut into chunks",
+   "150g red lentils, rinsed",
+   "1 litre vegetable stock",
+   "2 tbsp tomato purée",
+   "1 tbsp vegetarian Worcestershire sauce",
+   "2 tsp dried thyme",
+   "1 bay leaf",
+   "150g self-raising flour",
+   "50g cold butter, grated",
+   "50g cheddar, grated",
+   "90ml milk, roughly",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Soften the onion in the oil in a large casserole pan for 10 minutes.",
+   "Add the carrots, potatoes, lentils, stock, tomato purée, Worcestershire, 1 tsp of the thyme and the bay leaf. Season and simmer, covered, for 25 minutes until the vegetables are tender and the lentils have thickened the gravy.",
+   "Meanwhile, mix the flour, butter, cheese and remaining thyme with a pinch of salt. Stir in enough milk to make a soft, sticky dough and shape into 8 balls.",
+   "Remove the bay leaf. Sit the dumplings on top of the casserole, cover with a lid and simmer gently for 20 minutes until they are risen and fluffy.",
+   "Serve in bowls."
+  ]
+ },
+ {
+  "id": "silky-sweet-potato-ginger-soup",
+  "title": "Silky sweet potato & ginger soup",
+  "meal": "lunch",
+  "texture": "smooth",
+  "summary": "Naturally sweet, golden soup with a gentle warmth from fresh ginger.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 onion, finely chopped",
+   "2cm piece fresh ginger, peeled and grated",
+   "700g sweet potatoes, peeled and diced",
+   "1 litre vegetable stock",
+   "100ml milk",
+   "Salt"
+  ],
+  "steps": [
+   "Soften the onion in the oil over a low heat for 8 minutes, then add the ginger for 1 minute.",
+   "Add the sweet potatoes and stock and simmer for 20 minutes until very soft.",
+   "Add the milk and blend until completely smooth. Season with salt and reheat gently."
+  ]
+ },
+ {
+  "id": "warm-honey-cinnamon-milk",
+  "title": "Warm honey & cinnamon milk",
+  "meal": "snack",
+  "texture": "smooth",
+  "summary": "A comforting mug of warm milk with honey and cinnamon, boosted with a little milk powder.",
+  "ingredients": [
+   "250ml milk",
+   "1 tbsp skimmed milk powder (optional, for extra protein)",
+   "Pinch of ground cinnamon",
+   "1 tsp honey",
+   "Few drops of vanilla extract"
+  ],
+  "steps": [
+   "Whisk the milk powder and cinnamon into the cold milk in a small pan.",
+   "Heat gently until steaming but not boiling.",
+   "Take off the heat, stir in the honey and vanilla and pour into a mug."
+  ]
+ },
+ {
+  "id": "golden-syrup-sponge-pudding",
+  "title": "Golden syrup sponge pudding",
+  "meal": "dessert",
+  "texture": "soft",
+  "summary": "A light, steamy sponge with a sticky golden syrup top, made quickly in the microwave.",
+  "ingredients": [
+   "3 tbsp golden syrup",
+   "100g butter, softened, plus extra for greasing",
+   "100g caster sugar",
+   "2 eggs",
+   "100g self-raising flour",
+   "2 tbsp milk",
+   "1/2 tsp vanilla extract"
+  ],
+  "steps": [
+   "Grease a 1.2 litre microwave-safe pudding basin and spoon the syrup into the bottom.",
+   "Beat the butter, sugar, eggs, flour, milk and vanilla together until smooth, then spoon over the syrup and level the top.",
+   "Cover loosely with a microwave-safe plate and cook on high (800W) for 5–6 minutes until risen and just set in the middle.",
+   "Leave to stand for 5 minutes, then turn out onto a plate."
+  ]
+ },
+ {
+  "id": "lemon-drizzle-loaf",
+  "title": "Lemon drizzle loaf",
+  "meal": "snack",
+  "texture": "soft",
+  "summary": "A tender lemon loaf soaked with a sharp, sweet lemon drizzle.",
+  "ingredients": [
+   "175g butter, softened, plus extra for greasing",
+   "175g caster sugar",
+   "3 eggs",
+   "175g self-raising flour",
+   "2 tbsp milk",
+   "1 unwaxed lemon, finely zested and juiced",
+   "85g icing sugar"
+  ],
+  "steps": [
+   "Heat the oven to 180°C (160°C fan). Grease and line a 900g loaf tin.",
+   "Beat the butter, caster sugar, eggs, flour, milk and lemon zest together until pale and smooth.",
+   "Spoon into the tin and bake for 45–50 minutes until a skewer comes out clean.",
+   "Mix the lemon juice with the icing sugar.",
+   "Prick the warm cake all over with a skewer, spoon over the drizzle and leave to cool in the tin."
+  ]
+ },
+ {
+  "id": "honey-vanilla-baked-pears",
+  "title": "Honey & vanilla baked pears",
+  "meal": "dessert",
+  "texture": "soft",
+  "summary": "A lower-sugar pudding of peeled pears baked until meltingly tender in honeyed apple juice.",
+  "ingredients": [
+   "4 ripe pears, peeled, halved and cored",
+   "2 tbsp honey",
+   "100ml apple juice",
+   "1/2 tsp vanilla extract",
+   "Pinch of ground cinnamon"
+  ],
+  "steps": [
+   "Heat the oven to 190°C (170°C fan) and put the pears cut side up in an ovenproof dish.",
+   "Mix the honey, apple juice, vanilla and cinnamon and pour over the pears.",
+   "Cover with foil and bake for 25 minutes.",
+   "Uncover, spoon the juices over and bake for 10–15 minutes more until very tender. Serve warm with the juices."
+  ]
+ },
+ {
+  "id": "chocolate-self-saucing-pudding",
+  "title": "Chocolate self-saucing pudding",
+  "meal": "dessert",
+  "texture": "soft",
+  "summary": "A soft chocolate sponge that bakes on top of its own rich, glossy chocolate sauce.",
+  "ingredients": [
+   "150g self-raising flour",
+   "100g caster sugar",
+   "3 tbsp cocoa powder (for the sponge)",
+   "150ml milk",
+   "75g butter, melted, plus extra for greasing",
+   "1 egg",
+   "1 tsp vanilla extract",
+   "100g light brown soft sugar",
+   "2 tbsp cocoa powder (for the sauce)",
+   "300ml boiling water"
+  ],
+  "steps": [
+   "Heat the oven to 180°C (160°C fan) and grease a 1.5 litre ovenproof dish.",
+   "Mix the flour, caster sugar and 3 tbsp cocoa in a bowl.",
+   "Whisk the milk, melted butter, egg and vanilla together, stir into the dry ingredients until smooth and spread in the dish.",
+   "Mix the brown sugar and 2 tbsp cocoa and sprinkle evenly over the top.",
+   "Carefully pour the boiling water over the back of a spoon onto the pudding — don't stir.",
+   "Bake for 30–35 minutes until the sponge is set on top with sauce underneath. Stand for 5 minutes before serving."
+  ]
+ },
+ {
+  "id": "jam-bread-butter-pudding",
+  "title": "Jam bread & butter pudding",
+  "meal": "dessert",
+  "texture": "soft",
+  "summary": "Buttered white bread layered with seedless jam and baked in a soft vanilla custard, with no raisins or peel.",
+  "ingredients": [
+   "6 slices white bread, crusts removed",
+   "30g butter, softened, plus extra for greasing",
+   "4 tbsp smooth apricot jam or other seedless jam",
+   "3 eggs",
+   "300ml whole milk",
+   "100ml double cream",
+   "50g caster sugar",
+   "1 tsp vanilla extract",
+   "Pinch of ground nutmeg"
+  ],
+  "steps": [
+   "Grease a 1.5 litre ovenproof dish. Butter the bread, spread with the jam and cut each slice into 4 triangles.",
+   "Arrange the triangles in the dish, overlapping, jam side up.",
+   "Whisk the eggs, milk, cream, sugar and vanilla, pour over the bread and press down gently. Leave to soak for 20 minutes.",
+   "Heat the oven to 180°C (160°C fan). Dust the pudding with nutmeg and stand the dish in a roasting tin. Pour hot water from the kettle into the tin to come halfway up the dish.",
+   "Bake for 35–40 minutes until just set with a slight wobble. Leave to stand for 5 minutes before serving."
+  ]
+ }
+]

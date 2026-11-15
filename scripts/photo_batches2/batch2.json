@@ -1,0 +1,638 @@
+[
+ {
+  "id": "mild-egg-bhurji",
+  "title": "Mild egg bhurji on toast",
+  "meal": "breakfast",
+  "texture": "soft",
+  "summary": "Indian-style soft scrambled eggs with gently cooked onion, a little passata and warm, mild spices.",
+  "ingredients": [
+   "15g butter",
+   "1 small onion, very finely chopped",
+   "1/4 tsp ground cumin",
+   "1/4 tsp ground turmeric",
+   "3 tbsp passata",
+   "4 eggs, beaten with a pinch of salt",
+   "1 tbsp fresh coriander, very finely chopped (optional)",
+   "2 slices white bread, toasted and buttered"
+  ],
+  "steps": [
+   "Melt the butter in a non-stick pan over a low heat and cook the onion gently for 8–10 minutes until very soft and sweet, not browned.",
+   "Stir in the cumin and turmeric for 30 seconds, then add the passata and simmer for 2 minutes.",
+   "Pour in the eggs and stir slowly over a low heat until softly set and creamy.",
+   "Stir through the coriander, if using, and spoon onto the buttered toast."
+  ]
+ },
+ {
+  "id": "homemade-crumpets",
+  "title": "Homemade crumpets",
+  "meal": "breakfast",
+  "texture": "regular",
+  "summary": "Soft, bubbly British crumpets made from a simple yeasted batter that freeze well.",
+  "ingredients": [
+   "175g strong white bread flour",
+   "175g plain flour",
+   "1 tsp caster sugar",
+   "7g sachet fast-action dried yeast",
+   "350ml warm milk",
+   "150ml warm water",
+   "1/2 tsp bicarbonate of soda",
+   "1 tsp salt",
+   "Vegetable oil, for greasing",
+   "Butter, to serve"
+  ],
+  "steps": [
+   "Mix both flours, the sugar and yeast in a large bowl. Whisk in the warm milk to make a thick, smooth batter and beat for 3 minutes.",
+   "Cover and leave somewhere warm for about 1 hour until bubbly and nearly doubled.",
+   "Stir the bicarbonate of soda and salt into the warm water, beat it into the batter, then leave for 20 minutes.",
+   "Heat a heavy frying pan over a low-medium heat. Grease the pan and four 9cm crumpet or egg rings well with oil.",
+   "Sit the rings in the pan and spoon in batter to about 1cm deep. Cook for 8–10 minutes until the tops are covered in holes and just set.",
+   "Lift off the rings, flip the crumpets and cook for 1 minute more. Repeat with the rest of the batter, re-greasing the rings each time.",
+   "Toast and spread with butter to serve."
+  ]
+ },
+ {
+  "id": "lemony-butter-bean-smash-toast",
+  "title": "Lemony whipped butter beans on toast",
+  "meal": "breakfast",
+  "texture": "regular",
+  "summary": "Butter beans warmed with garlic and cumin, then blended with lemon and yoghurt into a silky spread for toast.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 small garlic clove, crushed",
+   "400g tin butter beans, drained and rinsed",
+   "3 tbsp water",
+   "1/4 tsp ground cumin",
+   "1/2 lemon, juiced",
+   "2 tbsp plain yoghurt",
+   "Salt and pepper",
+   "2 slices white sourdough or white bread",
+   "1 tbsp fresh parsley, very finely chopped (optional)"
+  ],
+  "steps": [
+   "Warm the oil in a small pan over a low heat and cook the garlic for 1 minute without browning.",
+   "Add the butter beans, water and cumin and simmer for 5 minutes until very soft.",
+   "Blend with the lemon juice and yoghurt until completely smooth (push through a sieve for extra silkiness), then season with salt and pepper.",
+   "Toast the bread, spread the warm bean purée thickly on top and scatter with parsley, if using."
+  ]
+ },
+ {
+  "id": "roast-carrot-tahini-dip",
+  "title": "Silky roast carrot & tahini dip",
+  "meal": "snack",
+  "texture": "smooth",
+  "summary": "Sweet, soft-roasted carrots blended with a little tahini, lemon and yoghurt into a velvety dip.",
+  "ingredients": [
+   "500g carrots, peeled and chopped",
+   "1 tbsp olive oil",
+   "1/2 tsp ground cumin",
+   "1 tbsp tahini",
+   "1 tbsp lemon juice",
+   "2 tbsp plain yoghurt",
+   "3 tbsp water",
+   "Salt",
+   "4 soft white pittas, warmed, to serve"
+  ],
+  "steps": [
+   "Heat the oven to 200°C (180°C fan). Toss the carrots with the oil and cumin in a roasting tin.",
+   "Cover with foil and roast for 20 minutes, then uncover and roast for 15–20 minutes more until very soft.",
+   "Cool slightly, then blend with the tahini, lemon juice, yoghurt and water until completely smooth. Season with salt.",
+   "Serve with warm pitta, torn into strips."
+  ]
+ },
+ {
+  "id": "peanut-butter-oat-bites",
+  "title": "No-bake peanut butter oat bites",
+  "meal": "snack",
+  "texture": "soft",
+  "summary": "Soft, fudgy no-bake bites of oats blitzed to a fine flour, smooth peanut butter and honey for lunchboxes and quick energy.",
+  "ingredients": [
+   "100g porridge oats",
+   "100g smooth peanut butter",
+   "3 tbsp honey",
+   "1 tsp vanilla extract",
+   "Pinch of salt",
+   "20g milk chocolate, finely grated (optional)"
+  ],
+  "steps": [
+   "Blitz the oats in a food processor for 1–2 minutes until they are a fine flour with no flakes left.",
+   "If the peanut butter is stiff, warm it with the honey in the microwave for 20 seconds. Mix the oats, peanut butter, honey, vanilla and salt into a soft dough, then leave for 10 minutes so the oats soften.",
+   "Roll into 14 small balls, about 1 tablespoon each, and roll in the grated chocolate, if using.",
+   "Put in the fridge for 30 minutes to firm up."
+  ]
+ },
+ {
+  "id": "passata-pitta-pizzas",
+  "title": "Cheese & passata pitta pizzas",
+  "meal": "snack",
+  "texture": "regular",
+  "summary": "Quick mini pizzas on soft white pitta with smooth tomato sauce and melted mozzarella — good hot or cold.",
+  "ingredients": [
+   "2 soft white pitta breads",
+   "4 tbsp passata",
+   "1 tsp tomato purée",
+   "1/2 tsp dried oregano",
+   "60g grated mozzarella",
+   "1 tsp olive oil"
+  ],
+  "steps": [
+   "Heat the oven to 200°C (180°C fan).",
+   "Mix the passata, tomato purée and oregano and spread over the pittas.",
+   "Scatter over the mozzarella and drizzle with the oil.",
+   "Bake on a tray for 8–10 minutes until bubbling, then cool slightly and cut into strips."
+  ]
+ },
+ {
+  "id": "silky-courgette-basil-soup",
+  "title": "Silky courgette & basil soup",
+  "meal": "lunch",
+  "texture": "smooth",
+  "summary": "A pale green Italian-style soup of peeled courgettes and potato, blended with a handful of basil until velvety.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 onion, finely chopped",
+   "1 garlic clove, crushed",
+   "4 courgettes (about 800g), peeled and chopped",
+   "1 medium potato (about 200g), peeled and diced",
+   "900ml vegetable stock",
+   "15g basil leaves (a small handful)",
+   "20g vegetarian Italian-style hard cheese, finely grated (optional)",
+   "1 tsp lemon juice",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft. Add the garlic for 1 minute.",
+   "Add the courgettes, potato and stock. Bring to the boil, then simmer for 15–20 minutes until everything is very soft.",
+   "Add the basil leaves and simmer for 1 minute more so they wilt.",
+   "Blend until completely smooth, then stir in the lemon juice and season with salt and pepper.",
+   "Serve with the grated cheese stirred through, if using."
+  ]
+ },
+ {
+  "id": "chinese-tomato-egg-soup",
+  "title": "Chinese tomato & egg soup",
+  "meal": "lunch",
+  "texture": "soft",
+  "summary": "A light, home-style Chinese soup of passata and stock, thickened slightly and swirled with soft ribbons of egg and cubes of silken tofu.",
+  "ingredients": [
+   "1 tsp neutral oil",
+   "1 garlic clove, crushed",
+   "1 tsp fresh ginger, finely grated (discard any stringy fibres)",
+   "400g passata",
+   "700ml vegetable stock",
+   "1 tbsp light soy sauce",
+   "1 tsp sugar",
+   "1 tbsp cornflour mixed with 2 tbsp cold water",
+   "150g silken tofu, cut into small cubes",
+   "3 eggs, beaten",
+   "Salt"
+  ],
+  "steps": [
+   "Warm the oil in a pan and cook the garlic and ginger gently for 1 minute.",
+   "Add the passata, stock, soy sauce and sugar. Simmer for 5 minutes.",
+   "Stir in the cornflour mixture and simmer for 1 minute until slightly thickened.",
+   "Slide in the tofu and heat through for 2 minutes.",
+   "Turn the heat low. Pour in the beaten eggs in a thin stream while slowly stirring, so they set into soft ribbons. Season with salt and serve."
+  ]
+ },
+ {
+  "id": "caribbean-red-lentil-coconut-soup",
+  "title": "Caribbean-style red lentil & coconut soup",
+  "meal": "lunch",
+  "texture": "smooth",
+  "summary": "A mild, Caribbean-inspired soup of red lentils and carrot with thyme, allspice and light coconut milk, blended until creamy.",
+  "ingredients": [
+   "1 tbsp neutral oil",
+   "1 onion, finely chopped",
+   "2 garlic cloves, crushed",
+   "1 tsp fresh ginger, finely grated",
+   "1 tsp dried thyme",
+   "½ tsp ground allspice",
+   "2 carrots, peeled and diced",
+   "200g red lentils, rinsed",
+   "800ml vegetable stock",
+   "400ml tin light coconut milk",
+   "½ lime, juiced",
+   "Salt"
+  ],
+  "steps": [
+   "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft.",
+   "Add the garlic, ginger, thyme and allspice and stir for 1 minute.",
+   "Add the carrots, lentils, stock and coconut milk. Simmer for 20–25 minutes, stirring now and then, until the lentils have collapsed and the carrots are very soft.",
+   "Blend until smooth, add the lime juice and season with salt."
+  ]
+ },
+ {
+  "id": "mild-japanese-curry-rice",
+  "title": "Mild Japanese-style curry rice",
+  "meal": "lunch",
+  "texture": "soft",
+  "summary": "A from-scratch Japanese curry with a glossy, gently sweet sauce, soft potato, carrot and tofu, spooned over white rice.",
+  "ingredients": [
+   "1 tbsp neutral oil",
+   "1 onion, finely chopped",
+   "1 garlic clove, crushed",
+   "1 tsp fresh ginger, finely grated (discard any stringy fibres)",
+   "2 carrots, peeled and cut into 1cm dice",
+   "400g potatoes, peeled and cut into 1.5cm dice",
+   "600ml vegetable stock",
+   "1 eating apple, peeled and finely grated",
+   "200g firm tofu, cut into cubes",
+   "30g butter",
+   "2 tbsp plain flour",
+   "1 tbsp mild curry powder",
+   "1 tbsp tomato purée",
+   "1 tbsp soy sauce",
+   "1 tsp honey",
+   "250g white rice"
+  ],
+  "steps": [
+   "Warm the oil in a large pan and cook the onion gently for 10 minutes until very soft. Add the garlic and ginger for 1 minute.",
+   "Add the carrots, potatoes, stock and apple. Simmer for 15 minutes, then add the tofu and simmer for 5 minutes more until the vegetables are very soft.",
+   "Meanwhile, cook the rice according to the packet.",
+   "In a small pan, melt the butter, stir in the flour and cook for 2 minutes until light golden. Stir in the curry powder for 30 seconds.",
+   "Whisk a ladle of the hot stock into the roux until smooth, then stir it back into the curry with the tomato purée, soy sauce and honey. Simmer for 5 minutes until thick and glossy.",
+   "Serve the curry over the rice."
+  ]
+ },
+ {
+  "id": "pisto-with-soft-eggs",
+  "title": "Spanish pisto with soft eggs",
+  "meal": "lunch",
+  "texture": "soft",
+  "summary": "A Spanish-style stew of peeled courgette and red pepper in passata, cooked down until jammy, with eggs gently baked on top.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 onion, finely chopped",
+   "2 garlic cloves, crushed",
+   "2 red peppers, peeled with a vegetable peeler, deseeded and finely diced",
+   "2 courgettes, peeled and finely diced",
+   "1 tsp sweet paprika",
+   "400g passata",
+   "½ tsp sugar",
+   "4 eggs",
+   "Salt",
+   "2 slices soft white bread, to serve"
+  ],
+  "steps": [
+   "Warm the oil in a wide, lidded frying pan and cook the onion and peppers gently for 10 minutes until soft.",
+   "Add the garlic, courgettes and paprika and cook for 5 minutes more.",
+   "Stir in the passata and sugar and simmer, partly covered, for 15 minutes until the vegetables are very soft and the sauce is thick. Season with salt.",
+   "Make 4 hollows, crack in the eggs, cover and cook over a low heat for 6–8 minutes until the whites are set.",
+   "Serve with the bread for mopping up."
+  ]
+ },
+ {
+  "id": "soft-baked-potato-cottage-cheese-leek",
+  "title": "Soft baked potatoes with cottage cheese & leek",
+  "meal": "lunch",
+  "texture": "soft",
+  "summary": "A jacket potato without the jacket: peeled potatoes boiled then baked until fluffy, topped with soft buttery leeks and cool cottage cheese.",
+  "ingredients": [
+   "4 medium floury potatoes (about 250g each), peeled and halved lengthways",
+   "15g butter",
+   "1 leek, trimmed, halved lengthways, washed and very finely sliced",
+   "300g cottage cheese",
+   "40g mild cheddar, finely grated",
+   "1 tbsp chives, very finely chopped (optional)",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Heat the oven to 200°C (180°C fan). Boil the potato halves in salted water for 12–15 minutes until just tender. Drain well and leave to steam dry for a few minutes.",
+   "Put the potatoes cut side up on a baking tray, brush with a little of the butter and bake for 20 minutes until lightly golden on top and fluffy inside.",
+   "Meanwhile, melt the rest of the butter in a pan, add the leek and a splash of water, cover and cook gently for 10–12 minutes until completely soft.",
+   "Gently fork open the potato halves, spoon over the leek and cottage cheese and scatter with the cheddar and chives, if using. Season with salt and pepper."
+  ]
+ },
+ {
+  "id": "tofu-katsu-curry",
+  "title": "Tofu katsu curry",
+  "meal": "dinner",
+  "texture": "regular",
+  "summary": "Oven-crisp panko tofu with a smooth, sweet Japanese-style curry sauce and fluffy white rice.",
+  "ingredients": [
+   "400g firm tofu, drained and pressed",
+   "3 tbsp plain flour",
+   "1 egg, beaten",
+   "80g panko breadcrumbs",
+   "3 tbsp vegetable oil",
+   "1 onion, roughly chopped",
+   "2 carrots, peeled and chopped",
+   "2 garlic cloves, crushed",
+   "1 tsp grated fresh ginger",
+   "2 tbsp mild curry powder",
+   "1 tbsp plain flour (for the sauce)",
+   "600ml vegetable stock",
+   "1 apple, peeled, cored and grated",
+   "1 tbsp soy sauce",
+   "1 tbsp honey",
+   "300g white jasmine or sushi rice"
+  ],
+  "steps": [
+   "Heat the oven to 220°C (200°C fan) and line a tray with baking paper.",
+   "Cut the tofu into 8 slabs. Dip each in the 3 tbsp flour, then the egg, then press into the panko.",
+   "Lay on the tray, drizzle with 2 tbsp of the oil and bake for 25 minutes, turning halfway, until golden.",
+   "Meanwhile, soften the onion and carrots in the remaining oil for 10 minutes. Add the garlic and ginger for 1 minute.",
+   "Stir in the curry powder and the 1 tbsp flour, then gradually add the stock, grated apple, soy and honey. Simmer for 15 minutes until the carrots are very soft.",
+   "Blend the sauce until completely smooth, adding a splash of water if it is too thick.",
+   "Cook the rice according to the packet instructions.",
+   "Slice the tofu, lay it on the rice and spoon some of the sauce over so the crumb softens a little; serve the rest alongside."
+  ]
+ },
+ {
+  "id": "one-pot-tomato-orzo-mozzarella",
+  "title": "One-pot creamy tomato orzo",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "Orzo simmered in tomato and stock until creamy, finished with mascarpone, spinach and melting mozzarella.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "2 garlic cloves, crushed",
+   "300g orzo",
+   "500g passata",
+   "700ml vegetable stock",
+   "1 tsp dried oregano",
+   "100g baby spinach",
+   "60g mascarpone",
+   "125g mozzarella ball, torn",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Warm the oil in a wide, deep pan and cook the garlic for 1 minute without browning.",
+   "Add the orzo, passata, stock and oregano. Bring to a simmer and cook for 12–14 minutes, stirring often, until the orzo is very soft and most of the liquid is absorbed.",
+   "Stir in the spinach until wilted, then the mascarpone. Season with salt and pepper.",
+   "Dot the mozzarella over the top, cover with a lid for 2 minutes until melted, and serve."
+  ]
+ },
+ {
+  "id": "carrot-thyme-risotto",
+  "title": "Sweet carrot & thyme risotto",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "A bright orange, creamy risotto with finely grated carrot melted right into the rice.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "15g butter",
+   "1 small onion, very finely chopped",
+   "4 carrots (about 300g), peeled and finely grated",
+   "1 tsp dried thyme",
+   "250g risotto rice",
+   "1 litre hot vegetable stock",
+   "30g vegetarian Italian-style hard cheese, finely grated",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Heat the oil and butter in a wide pan and cook the onion gently for 8 minutes until very soft.",
+   "Add the carrots and thyme and cook for 5 minutes, stirring, until the carrot starts to collapse.",
+   "Stir in the rice for 1 minute, then add the stock a ladle at a time, stirring and letting each addition be absorbed before adding the next. This takes about 20 minutes.",
+   "When the rice is very tender and creamy, stir in the cheese, season with salt and pepper and serve."
+  ]
+ },
+ {
+  "id": "creamy-leek-cheddar-pot-pie",
+  "title": "Creamy leek & cheddar pot pie",
+  "meal": "dinner",
+  "texture": "regular",
+  "summary": "Soft leeks, potato and carrot in a cheesy sauce under a golden puff pastry lid.",
+  "ingredients": [
+   "40g butter",
+   "2 leeks (white and pale green parts only), halved lengthways and very finely sliced",
+   "2 carrots, peeled and diced",
+   "400g potatoes, peeled and diced",
+   "40g plain flour",
+   "500ml milk",
+   "200ml vegetable stock",
+   "1 tsp dried thyme",
+   "100g baby spinach",
+   "100g mature cheddar, grated",
+   "Salt and pepper",
+   "320g sheet ready-rolled puff pastry",
+   "1 egg, beaten"
+  ],
+  "steps": [
+   "Melt the butter in a large pan and cook the leeks and carrots gently, covered, for 15 minutes until very soft.",
+   "Meanwhile, boil the potatoes for 10 minutes until tender, then drain.",
+   "Stir the flour into the leeks for 1 minute, then gradually stir in the milk and stock. Add the thyme and simmer for 5 minutes until thick.",
+   "Stir in the potatoes, spinach and cheese and season with salt and pepper. Tip into a pie dish and leave to cool for 10 minutes.",
+   "Heat the oven to 200°C (180°C fan). Lay the pastry over the dish, trim, crimp the edges, cut a steam hole and brush with egg.",
+   "Bake for 25–30 minutes until puffed and golden."
+  ]
+ },
+ {
+  "id": "sweet-sour-tofu",
+  "title": "Gentle sweet & sour tofu",
+  "meal": "dinner",
+  "texture": "regular",
+  "summary": "Golden tofu and soft peeled peppers in a glossy, tangy-sweet takeaway-style sauce.",
+  "ingredients": [
+   "400g firm tofu, pressed and cut into 2cm cubes",
+   "3 tbsp cornflour, plus 1 tsp for the sauce",
+   "3 tbsp vegetable oil",
+   "1 red pepper, peeled with a speed peeler, deseeded and sliced",
+   "1 yellow pepper, peeled with a speed peeler, deseeded and sliced",
+   "1 carrot, peeled and thinly sliced",
+   "1 small onion, thinly sliced",
+   "150ml smooth orange juice (no bits)",
+   "3 tbsp tomato ketchup",
+   "2 tbsp rice vinegar",
+   "2 tbsp soft brown sugar",
+   "1 tbsp soy sauce",
+   "White rice, to serve"
+  ],
+  "steps": [
+   "Toss the tofu in 3 tbsp cornflour. Fry in 2 tbsp of the oil in a large non-stick frying pan for 8–10 minutes, turning, until golden. Set aside.",
+   "Add the remaining oil, the peppers, carrot and onion with a splash of water. Cover and cook for 8–10 minutes, stirring, until very soft.",
+   "Whisk the orange juice, ketchup, vinegar, sugar, soy and 1 tsp cornflour, pour into the pan and bubble for 2 minutes until glossy.",
+   "Return the tofu, toss to coat and serve with rice."
+  ]
+ },
+ {
+  "id": "lentil-stuffed-courgettes",
+  "title": "Lentil-stuffed courgette boats",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "Peeled courgette halves baked until tender and filled with a herby tomato and lentil sauce under bubbling mozzarella.",
+  "ingredients": [
+   "4 medium courgettes, peeled and halved lengthways",
+   "1 tbsp olive oil",
+   "1 small onion, finely chopped",
+   "1 garlic clove, crushed",
+   "100g red lentils, rinsed",
+   "300ml passata",
+   "200ml vegetable stock",
+   "1 tsp dried oregano",
+   "125g mozzarella ball, torn",
+   "20g vegetarian Italian-style hard cheese, finely grated",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Heat the oven to 200°C (180°C fan). Scoop out the soft centres of the courgettes with a teaspoon and finely chop the scooped flesh.",
+   "Lay the courgette halves cut-side up in a baking dish, cover with foil and bake for 15 minutes to soften.",
+   "Meanwhile, soften the onion in the oil for 8 minutes. Add the garlic, chopped courgette flesh, lentils, passata, stock and oregano and simmer for 20 minutes until thick. Season with salt and pepper.",
+   "Spoon the lentil sauce into the courgettes, top with the mozzarella and hard cheese and bake uncovered for 20 minutes until golden and the courgettes are very soft."
+  ]
+ },
+ {
+  "id": "buttery-coddled-eggs",
+  "title": "Buttery coddled eggs with soft toast",
+  "meal": "breakfast",
+  "texture": "soft",
+  "summary": "Eggs gently cooked in a buttered cup until just set, with fingers of lightly toasted white bread.",
+  "ingredients": [
+   "1 tsp butter",
+   "2 eggs (British Lion stamped)",
+   "1 tbsp milk",
+   "Pinch of salt",
+   "1 slice white bread, crusts removed"
+  ],
+  "steps": [
+   "Rub the butter around the inside of a ramekin or small heatproof cup.",
+   "Crack in the eggs and add the milk and salt.",
+   "Stand the ramekin in a small pan with hot water halfway up the sides, cover and simmer gently for 8–10 minutes until the whites are set.",
+   "Meanwhile, lightly toast the bread and cut it into fingers.",
+   "Stir the eggs gently with a teaspoon and eat with the soft toast."
+  ]
+ },
+ {
+  "id": "soft-rice-noodles-ginger-broth-egg",
+  "title": "Soft rice noodles in ginger broth with egg",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "Fine rice noodles and very soft carrot in a light ginger-soy broth with silky egg ribbons.",
+  "ingredients": [
+   "1 litre vegetable stock",
+   "2 thin slices fresh ginger, peeled",
+   "1 tbsp light soy sauce",
+   "1 carrot, peeled and cut into thin matchsticks",
+   "100g thin rice vermicelli noodles",
+   "2 eggs",
+   "1/2 tsp toasted sesame oil (optional)"
+  ],
+  "steps": [
+   "Simmer the stock with the ginger and soy sauce for 5 minutes.",
+   "Add the carrot and simmer for 8 minutes until very soft.",
+   "Meanwhile, soak the noodles as the packet says, drain, then add to the broth for 1–2 minutes until very soft. Remove the ginger slices.",
+   "Beat the eggs and drizzle into the simmering broth, stirring gently, and cook for 1 minute until set.",
+   "Snip the noodles into short lengths with clean scissors and serve with a few drops of sesame oil, if using."
+  ]
+ },
+ {
+  "id": "pear-ginger-crumble",
+  "title": "Pear & ginger crumble",
+  "meal": "dessert",
+  "texture": "soft",
+  "summary": "Soft stewed pears with warm ginger under a buttery, fine crumble.",
+  "ingredients": [
+   "6 ripe pears (about 1kg), peeled, cored and chopped",
+   "2 tbsp caster sugar",
+   "1/2 tsp ground ginger",
+   "3 tbsp water",
+   "150g plain flour",
+   "75g cold butter, diced",
+   "75g light brown soft sugar"
+  ],
+  "steps": [
+   "Heat the oven to 190°C (170°C fan).",
+   "Simmer the pears, caster sugar, ginger and water in a covered pan for 8–10 minutes until soft. Tip into an ovenproof dish.",
+   "Rub the butter into the flour until it looks like fine breadcrumbs, then stir in the brown sugar.",
+   "Scatter the crumble over the fruit and bake for 25–30 minutes until golden and bubbling."
+  ]
+ },
+ {
+  "id": "vanilla-tapioca-pudding",
+  "title": "Vanilla tapioca pudding",
+  "meal": "dessert",
+  "texture": "soft",
+  "summary": "Soft, glossy tapioca pearls cooked slowly in milk with vanilla and nutmeg.",
+  "ingredients": [
+   "60g small pearl tapioca",
+   "600ml milk",
+   "40g caster sugar",
+   "1 tsp vanilla extract",
+   "Pinch of ground nutmeg"
+  ],
+  "steps": [
+   "Rinse the tapioca, put it in a pan with the milk and leave to soak for 15 minutes.",
+   "Bring slowly to a simmer and cook gently for 20–25 minutes, stirring often, until the pearls are clear and very soft.",
+   "Stir in the sugar and vanilla and cook for 2 minutes more.",
+   "Dust with nutmeg and serve warm or cold."
+  ]
+ },
+ {
+  "id": "soft-peanut-butter-cookies",
+  "title": "Soft peanut butter cookies",
+  "meal": "snack",
+  "texture": "soft",
+  "summary": "Chewy, soft-baked cookies made with smooth peanut butter (makes 16).",
+  "ingredients": [
+   "125g smooth peanut butter (100% peanuts)",
+   "75g butter, softened",
+   "100g light brown soft sugar",
+   "1 egg",
+   "1/2 tsp vanilla extract",
+   "150g plain flour",
+   "1/2 tsp bicarbonate of soda",
+   "Pinch of salt"
+  ],
+  "steps": [
+   "Heat the oven to 180°C (160°C fan) and line two baking trays.",
+   "Beat the peanut butter, butter and sugar until creamy, then beat in the egg and vanilla.",
+   "Stir in the flour, bicarbonate of soda and salt to make a soft dough.",
+   "Roll into 16 balls, space well apart on the trays and flatten slightly.",
+   "Bake for 9–10 minutes until just set at the edges but still soft in the middle. Cool on the trays for 10 minutes, then on a rack."
+  ]
+ },
+ {
+  "id": "apricot-white-chocolate-mousse",
+  "title": "Apricot & white chocolate mousse",
+  "meal": "dessert",
+  "texture": "smooth",
+  "summary": "A soft-set, creamy mousse of silken tofu, tinned apricots and a little white chocolate (allow 2 hours to set).",
+  "ingredients": [
+   "75g white chocolate, broken up",
+   "300g silken tofu, drained",
+   "410g tin apricot halves in juice, drained",
+   "1 tbsp honey",
+   "1/2 tsp vanilla extract"
+  ],
+  "steps": [
+   "Melt the chocolate in a bowl over a pan of barely simmering water, or in the microwave in short bursts.",
+   "Blend the tofu, apricots, honey and vanilla until completely smooth.",
+   "Add the melted chocolate and blend again briefly.",
+   "Pour into 4 small glasses, cover and set in the fridge for 2 hours."
+  ]
+ },
+ {
+  "id": "persian-aubergine-split-pea-stew",
+  "title": "Mild Persian-style aubergine stew",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "A gently spiced khoresh-style stew of melting peeled aubergine and yellow split peas in a lemony tomato sauce, served with basmati rice and yoghurt.",
+  "ingredients": [
+   "2 tbsp olive oil",
+   "1 onion, finely chopped",
+   "2 garlic cloves, crushed",
+   "1 tsp ground turmeric",
+   "1 tsp ground cinnamon",
+   "1/2 tsp ground cumin",
+   "150g yellow split peas, rinsed",
+   "2 tbsp tomato purée",
+   "500g passata",
+   "800ml vegetable stock",
+   "2 aubergines, peeled and cut into 2cm cubes",
+   "1 lemon, juiced",
+   "1 tsp caster sugar",
+   "Pinch of saffron, soaked in 2 tbsp hot water (optional)",
+   "Salt",
+   "300g white basmati rice",
+   "200g Greek-style yoghurt, to serve"
+  ],
+  "steps": [
+   "Soften the onion in 1 tbsp of the oil in a large pan for 10 minutes. Add the garlic, turmeric, cinnamon and cumin and stir for 1 minute.",
+   "Add the split peas, tomato purée, passata and stock. Bring to the boil, then cover and simmer gently for 40 minutes, stirring now and then.",
+   "Meanwhile, cook the aubergine in the remaining oil in a frying pan with a splash of water, covered, for 10 minutes, stirring, until soft and lightly golden.",
+   "Add the aubergine to the stew and simmer, uncovered, for 20–25 minutes more until the split peas have collapsed and the aubergine is melting. Add a splash of water if it gets too thick.",
+   "Mash lightly with a potato masher, then stir in the lemon juice, sugar, saffron (if using) and salt to taste.",
+   "While the stew finishes, cook the rice according to the packet. Serve the stew over the rice with a spoonful of yoghurt."
+  ]
+ }
+]

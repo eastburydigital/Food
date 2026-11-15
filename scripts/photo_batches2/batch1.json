@@ -1,0 +1,630 @@
+[
+ {
+  "id": "japanese-rolled-omelette",
+  "title": "Japanese rolled omelette (tamagoyaki)",
+  "meal": "breakfast",
+  "texture": "soft",
+  "summary": "Lightly sweet, soft layers of egg rolled up in a small pan and sliced into tender pieces.",
+  "ingredients": [
+   "4 eggs",
+   "2 tsp caster sugar",
+   "1 tsp soy sauce",
+   "1 tbsp milk",
+   "1 tsp neutral oil, such as vegetable oil"
+  ],
+  "steps": [
+   "Whisk the eggs, sugar, soy sauce and milk together well, without making it too frothy.",
+   "Heat a small non-stick frying pan over a medium-low heat and wipe it with a little oil on kitchen paper.",
+   "Pour in a thin layer of egg and tilt to cover the pan. When it is just set but still slightly wet on top, roll it up from the far side towards you with a spatula.",
+   "Push the roll to the far side, wipe the pan with a little more oil and pour in another thin layer, lifting the roll so the egg runs underneath. When just set, roll it back towards you.",
+   "Repeat until all the egg is used. Tip onto a board, wrap in a clean tea towel for 2 minutes to firm up, then slice into thick pieces."
+  ]
+ },
+ {
+  "id": "baked-vanilla-oats-pear",
+  "title": "Baked vanilla oats with pear",
+  "meal": "breakfast",
+  "texture": "soft",
+  "summary": "A soft, custardy tray of baked porridge with soft grated pear, ready to slice for the week.",
+  "ingredients": [
+   "25g butter, melted, plus a little for greasing",
+   "150g porridge oats",
+   "1 tsp baking powder",
+   "1 tsp ground cinnamon",
+   "Pinch of salt",
+   "2 eggs",
+   "400ml milk",
+   "2 tbsp maple syrup",
+   "1 tsp vanilla extract",
+   "2 very ripe pears, peeled, cored and coarsely grated"
+  ],
+  "steps": [
+   "Heat the oven to 190°C (170°C fan) and grease a 20cm square baking dish with a little butter.",
+   "Mix the oats, baking powder, cinnamon and salt in a large bowl.",
+   "Whisk the eggs, milk, maple syrup, vanilla and melted butter together, then stir into the oats with the grated pear.",
+   "Pour into the dish and bake for 30–35 minutes until just set and lightly golden.",
+   "Rest for 5 minutes, then cut into squares and serve warm."
+  ]
+ },
+ {
+  "id": "soft-boiled-eggs-soldiers",
+  "title": "Soft-boiled eggs with buttered soldiers",
+  "meal": "breakfast",
+  "texture": "regular",
+  "summary": "The classic 10-minute British breakfast: jammy eggs with strips of buttered white toast for dipping.",
+  "ingredients": [
+   "2 eggs, at room temperature",
+   "2 slices white bread",
+   "10g butter",
+   "Pinch of salt"
+  ],
+  "steps": [
+   "Bring a small pan of water to the boil, gently lower in the eggs and simmer for 6 minutes for jammy yolks (5 minutes for runny).",
+   "Meanwhile, toast the bread, spread with the butter and cut into strips.",
+   "Sit the eggs in egg cups, slice off the tops, sprinkle with salt and dip in the soldiers."
+  ]
+ },
+ {
+  "id": "soft-tofu-spinach-scramble",
+  "title": "Soft tofu & spinach scramble",
+  "meal": "breakfast",
+  "texture": "soft",
+  "summary": "Finely crumbled tofu cooked until creamy with golden turmeric, soy and a little wilted spinach, served on toast.",
+  "ingredients": [
+   "280g block firm tofu (calcium-set), drained",
+   "1 tbsp olive oil",
+   "1/4 tsp ground turmeric",
+   "1 tbsp soy sauce",
+   "3 tbsp milk",
+   "50g baby spinach, very finely chopped",
+   "2 slices white bread, toasted"
+  ],
+  "steps": [
+   "Pat the tofu dry and crumble it very finely with a fork.",
+   "Heat the oil in a non-stick pan over a medium-low heat, add the turmeric and stir for 20 seconds.",
+   "Add the tofu and soy sauce and cook, stirring, for 3–4 minutes.",
+   "Add the spinach and milk and cook for 2 minutes more until the spinach has wilted and the mixture is creamy.",
+   "Spoon onto the toast and serve."
+  ]
+ },
+ {
+  "id": "soft-cheddar-breadsticks",
+  "title": "Soft cheddar breadsticks",
+  "meal": "snack",
+  "texture": "regular",
+  "summary": "Soft, pull-apart white bread sticks baked with a little mature cheddar — a mild lunchbox snack that keeps well in a tin.",
+  "ingredients": [
+   "250g strong white bread flour",
+   "7g sachet fast-action dried yeast",
+   "1 tsp caster sugar",
+   "1/2 tsp salt",
+   "75g mature cheddar, finely grated",
+   "160ml warm milk",
+   "20g butter, melted",
+   "1 egg, beaten",
+   "1/2 tsp sweet paprika (optional)"
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar, salt and a third of the cheese in a large bowl.",
+   "Add the warm milk and melted butter and mix to a soft dough (add a splash more milk if dry). Knead for 8 minutes until smooth and springy.",
+   "Cover and leave somewhere warm for about 1 hour until doubled in size.",
+   "Heat the oven to 200°C (180°C fan) and line two baking trays with baking paper.",
+   "Divide the dough into 12 pieces and roll each into a 20cm stick. Lay on the trays, cover loosely with a tea towel and leave for 15 minutes.",
+   "Brush with the beaten egg and scatter with the rest of the cheese and the paprika, if using.",
+   "Bake for 12–14 minutes until pale golden but still soft. Wrap in a clean tea towel as they cool so they stay soft."
+  ]
+ },
+ {
+  "id": "warm-golden-milk",
+  "title": "Warm golden milk",
+  "meal": "snack",
+  "texture": "smooth",
+  "summary": "A comforting mug of warm milk gently spiced with turmeric, ginger and cinnamon and sweetened with honey.",
+  "ingredients": [
+   "300ml milk",
+   "1/2 tsp ground turmeric",
+   "1/4 tsp ground ginger",
+   "1/4 tsp ground cinnamon",
+   "1–2 tsp honey",
+   "1/4 tsp vanilla extract"
+  ],
+  "steps": [
+   "Whisk the turmeric, ginger and cinnamon into the cold milk in a small pan.",
+   "Heat gently, whisking, until steaming but not boiling.",
+   "Stir in the honey and vanilla and pour into a mug."
+  ]
+ },
+ {
+  "id": "lemon-iced-fairy-cakes",
+  "title": "Lemon-iced fairy cakes",
+  "meal": "snack",
+  "texture": "soft",
+  "summary": "Light vanilla sponge fairy cakes with a simple lemon drizzle icing — a soft, plain lunchbox bake.",
+  "ingredients": [
+   "110g butter, softened",
+   "110g caster sugar",
+   "2 eggs",
+   "1 tsp vanilla extract",
+   "110g self-raising flour",
+   "1 tbsp milk",
+   "100g icing sugar",
+   "1 tbsp lemon juice"
+  ],
+  "steps": [
+   "Heat the oven to 180°C (160°C fan) and line a 12-hole bun tin with paper cases.",
+   "Beat the butter and caster sugar together until pale and fluffy.",
+   "Beat in the eggs one at a time with the vanilla, then fold in the flour and milk.",
+   "Divide between the cases and bake for 15–18 minutes until golden and springy. Cool on a rack.",
+   "Mix the icing sugar and lemon juice to a thick, smooth icing and drizzle over the cooled cakes."
+  ]
+ },
+ {
+  "id": "sweet-potato-white-miso-soup",
+  "title": "Sweet potato & white miso soup",
+  "meal": "lunch",
+  "texture": "smooth",
+  "summary": "A Japanese-inspired velvety soup of peeled sweet potato and ginger, finished with mellow white miso for a savoury depth.",
+  "ingredients": [
+   "1 tbsp neutral oil",
+   "1 small onion, finely chopped",
+   "1 tsp fresh ginger, finely grated",
+   "700g sweet potatoes, peeled and chopped",
+   "900ml vegetable stock",
+   "2 tbsp white (shiro) miso paste",
+   "1 tsp soy sauce"
+  ],
+  "steps": [
+   "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft. Add the ginger for 1 minute.",
+   "Add the sweet potatoes and stock. Simmer for 15–20 minutes until very soft.",
+   "Take the pan off the heat. Mix the miso with a ladle of the hot stock until smooth, then stir it back in with the soy sauce.",
+   "Blend until silky. Reheat gently without boiling."
+  ]
+ },
+ {
+  "id": "polish-dill-potato-soup",
+  "title": "Polish creamy dill & potato soup",
+  "meal": "lunch",
+  "texture": "smooth",
+  "summary": "Inspired by zupa koperkowa, a mild potato and carrot soup enriched with milk and a little soured cream, with plenty of dill cooked in.",
+  "ingredients": [
+   "1 tbsp butter",
+   "1 onion, finely chopped",
+   "1 carrot, peeled and diced",
+   "700g potatoes, peeled and diced",
+   "1 litre vegetable stock",
+   "1 bay leaf",
+   "1 tbsp plain flour",
+   "200ml milk",
+   "2 tbsp soured cream",
+   "2 tbsp dill, very finely chopped",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Melt the butter in a large pan and cook the onion and carrot gently for 10 minutes until soft.",
+   "Add the potatoes, stock and bay leaf. Simmer for 15–20 minutes until the potatoes are very soft.",
+   "Whisk the flour into the milk until smooth, then stir it into the soup and simmer for 2 minutes until slightly thickened.",
+   "Remove the bay leaf, add the dill and simmer for 1 minute more.",
+   "Blend until smooth, stir in the soured cream and season with salt and pepper."
+  ]
+ },
+ {
+  "id": "aloo-paratha",
+  "title": "Mild aloo paratha",
+  "meal": "lunch",
+  "texture": "regular",
+  "summary": "Soft white-flour flatbreads stuffed with gently spiced mashed potato and cooked in a dry pan with a little butter.",
+  "ingredients": [
+   "250g plain white flour, plus extra for dusting",
+   "½ tsp salt",
+   "1 tbsp neutral oil",
+   "150ml warm water",
+   "500g floury potatoes, peeled and chopped",
+   "½ tsp ground cumin",
+   "½ tsp garam masala",
+   "¼ tsp ground turmeric",
+   "1 tbsp coriander, very finely chopped (optional)",
+   "20g butter, melted",
+   "4 tbsp plain yoghurt, to serve"
+  ],
+  "steps": [
+   "Mix the flour, salt, oil and water into a soft dough. Knead for 5 minutes, cover and rest for 20 minutes.",
+   "Meanwhile, boil the potatoes for 15 minutes until very soft. Drain well and mash completely smooth with the cumin, garam masala, turmeric, coriander (if using) and a pinch of salt. Leave to cool a little.",
+   "Divide the dough and filling into 4. Roll a piece of dough into a 12cm circle, put a ball of filling in the middle, gather the edges over and pinch to seal.",
+   "Dust with flour and gently roll out to about 18cm, flattening any air pockets. Repeat with the rest.",
+   "Cook each paratha in a dry frying pan over a medium heat for 2 minutes per side, then brush with melted butter and cook for 30 seconds more each side until golden in patches.",
+   "Serve warm with the yoghurt."
+  ]
+ },
+ {
+  "id": "baked-falafel-soft-pitta",
+  "title": "Baked falafel in soft pitta",
+  "meal": "lunch",
+  "texture": "regular",
+  "summary": "Smooth blended chickpea falafel, baked rather than fried, tucked into warm white pittas with a garlicky tahini yoghurt sauce.",
+  "ingredients": [
+   "2 tbsp olive oil",
+   "1 onion, finely chopped",
+   "2 garlic cloves, crushed",
+   "2 x 400g tins chickpeas, drained, rinsed and patted dry",
+   "1 tsp ground cumin",
+   "1 tsp ground coriander",
+   "2 tbsp parsley, very finely chopped",
+   "3 tbsp plain flour",
+   "½ tsp baking powder",
+   "½ tsp salt",
+   "150g plain yoghurt",
+   "1 tbsp tahini",
+   "1 tbsp lemon juice",
+   "4 soft white pittas"
+  ],
+  "steps": [
+   "Heat the oven to 200°C (180°C fan) and line a baking tray with baking paper.",
+   "Warm 1 tbsp of the oil in a pan and cook the onion gently for 8 minutes until soft. Add half the garlic for 1 minute.",
+   "Blend the onion mixture, chickpeas, cumin, coriander, parsley, flour, baking powder and salt in a food processor until very smooth, scraping down the sides. If it is too soft to shape, blend in another tablespoon of flour.",
+   "Shape into 16 small patties, put on the tray and brush with the remaining oil. Bake for 25 minutes, turning halfway, until golden and firm.",
+   "Mix the yoghurt, tahini, lemon juice and remaining garlic with a pinch of salt.",
+   "Warm the pittas, split them open and fill with the falafel and a spoonful of the sauce."
+  ]
+ },
+ {
+  "id": "mild-caribbean-lentil-patties",
+  "title": "Mild Caribbean-style lentil patties",
+  "meal": "lunch",
+  "texture": "regular",
+  "summary": "Golden turmeric pastry half-moons filled with a soft, thyme-scented red lentil and sweet potato filling, inspired by Jamaican patties but with no heat.",
+  "ingredients": [
+   "300g plain flour, plus extra for dusting",
+   "1 tsp ground turmeric",
+   "½ tsp salt",
+   "150g cold butter, diced",
+   "5–6 tbsp cold water",
+   "1 tbsp neutral oil",
+   "1 onion, finely chopped",
+   "1 garlic clove, crushed",
+   "1 tsp dried thyme",
+   "½ tsp ground allspice",
+   "1 tsp mild curry powder",
+   "1 small sweet potato (about 200g), peeled and finely diced",
+   "100g red lentils, rinsed",
+   "350ml vegetable stock",
+   "1 egg, beaten"
+  ],
+  "steps": [
+   "Mix the flour, turmeric and salt, then rub in the butter until it looks like breadcrumbs. Stir in enough water to make a firm dough. Wrap and rest in the fridge for 30 minutes.",
+   "Meanwhile, warm the oil in a pan and cook the onion gently for 8 minutes until soft. Add the garlic, thyme, allspice and curry powder for 1 minute.",
+   "Add the sweet potato, lentils and stock. Simmer for 20 minutes, stirring often, until thick and the lentils have collapsed. Mash well so no firm pieces remain, then leave to cool.",
+   "Heat the oven to 200°C (180°C fan) and line a baking tray. Roll the pastry out thinly and cut 8 circles about 14cm across (use a saucer).",
+   "Spoon filling onto one half of each circle, brush the edge with egg, fold over and press with a fork to seal. Put on the tray and brush with egg.",
+   "Bake for 25 minutes until golden."
+  ]
+ },
+ {
+  "id": "paneer-bhurji-wrap",
+  "title": "Mild paneer bhurji wrap",
+  "meal": "lunch",
+  "texture": "regular",
+  "summary": "Crumbled paneer cooked with soft onion, ginger and passata in gentle spices, rolled up warm in a soft white flatbread with yoghurt.",
+  "ingredients": [
+   "1 tbsp neutral oil",
+   "1 onion, finely chopped",
+   "1 garlic clove, crushed",
+   "1 tsp fresh ginger, finely grated",
+   "½ tsp ground turmeric",
+   "1 tsp mild curry powder",
+   "4 tbsp passata",
+   "225g paneer, finely crumbled or grated",
+   "1 tsp lemon juice",
+   "Salt",
+   "2 tbsp milk",
+   "1 tbsp coriander, very finely chopped (optional)",
+   "2 large soft white flour tortillas or flatbreads",
+   "2 tbsp plain yoghurt"
+  ],
+  "steps": [
+   "Warm the oil in a frying pan and cook the onion gently for 10 minutes until very soft. Add the garlic, ginger, turmeric and curry powder for 1 minute.",
+   "Stir in the passata and cook for 2 minutes.",
+   "Add the paneer and milk and cook for 3–4 minutes, stirring, until hot and soft. Stir in the lemon juice and coriander, if using, and season with salt.",
+   "Warm the tortillas in a dry pan for 20 seconds each side.",
+   "Spoon the paneer down the middle of each, add a spoonful of yoghurt and roll up."
+  ]
+ },
+ {
+  "id": "aloo-paneer-curry",
+  "title": "Mild aloo paneer curry",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "Tender potatoes and soft paneer in a gently spiced, creamy tomato sauce.",
+  "ingredients": [
+   "1 tbsp vegetable oil",
+   "15g butter",
+   "1 onion, finely chopped",
+   "2 garlic cloves, crushed",
+   "1 tsp grated fresh ginger",
+   "1 tsp ground cumin",
+   "1 tsp ground coriander",
+   "1/2 tsp ground turmeric",
+   "1 tsp garam masala",
+   "500g passata",
+   "200ml water",
+   "600g potatoes, peeled and cut into 2cm cubes",
+   "225g paneer, cut into 2cm cubes",
+   "4 tbsp single cream",
+   "1 tsp lemon juice",
+   "Salt",
+   "Warm plain naan or white rice, to serve"
+  ],
+  "steps": [
+   "Heat the oil and butter in a large pan and cook the onion gently for 10 minutes until very soft.",
+   "Add the garlic, ginger, cumin, ground coriander, turmeric and garam masala and stir for 1 minute.",
+   "Pour in the passata and water, add the potatoes and simmer, covered, for 20 minutes until the potatoes are very tender.",
+   "Add the paneer and simmer for 5 minutes until it is soft and warmed through.",
+   "Stir in the cream and lemon juice, season with salt and serve with naan or rice."
+  ]
+ },
+ {
+  "id": "gnocchi-courgette-ricotta-sauce",
+  "title": "Gnocchi with silky courgette sauce",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "Pillowy gnocchi coated in a pale green sauce of blended peeled courgette, ricotta and a little cheese.",
+  "ingredients": [
+   "1 tbsp olive oil",
+   "1 garlic clove, crushed",
+   "2 courgettes, peeled and diced",
+   "100ml vegetable stock",
+   "100g ricotta",
+   "20g vegetarian Italian-style hard cheese, finely grated",
+   "1/2 lemon, finely zested and juiced",
+   "500g pack fresh gnocchi",
+   "1 tbsp basil, very finely chopped (optional)",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Warm the oil in a pan and gently cook the garlic for 1 minute.",
+   "Add the courgettes and stock, cover and cook for 10–12 minutes until completely soft.",
+   "Blend the courgettes with the ricotta, cheese, lemon zest and a squeeze of the juice until smooth. Season with salt and pepper, adding more lemon to taste.",
+   "Cook the gnocchi in boiling salted water until they float, about 2–3 minutes, then drain.",
+   "Toss the gnocchi with the warm sauce and finish with a little very finely chopped basil if you like."
+  ]
+ },
+ {
+  "id": "cheese-onion-potato-pie",
+  "title": "Cheese, onion & potato pie",
+  "meal": "dinner",
+  "texture": "regular",
+  "summary": "A classic northern-style pie of soft, cheesy potato and sweet onion in crisp shortcrust pastry.",
+  "ingredients": [
+   "700g floury potatoes, peeled and cut into chunks",
+   "25g butter",
+   "1 onion, finely chopped",
+   "200g mature cheddar, grated",
+   "3 tbsp milk",
+   "Pinch of ground nutmeg",
+   "Salt and pepper",
+   "500g block shortcrust pastry",
+   "Plain flour, for dusting",
+   "1 egg, beaten"
+  ],
+  "steps": [
+   "Boil the potatoes for 15 minutes until soft, drain and mash until smooth.",
+   "Meanwhile, melt the butter and cook the onion gently for 10 minutes until very soft and sweet.",
+   "Mix the potato, onion, cheese, milk and nutmeg. Season with salt and pepper and leave to cool a little.",
+   "Heat the oven to 200°C (180°C fan). Roll out two-thirds of the pastry on a floured surface and line a 23cm pie dish.",
+   "Spoon in the filling, roll out the remaining pastry for a lid, seal the edges and cut a small steam hole. Brush with egg.",
+   "Bake for 35–40 minutes until deep golden. Rest for 10 minutes before slicing."
+  ]
+ },
+ {
+  "id": "paneer-tikka-traybake",
+  "title": "Paneer tikka traybake",
+  "meal": "dinner",
+  "texture": "regular",
+  "summary": "A Friday-night fakeaway of mildly spiced yoghurt-marinated paneer roasted with soft potatoes and peeled sweet peppers.",
+  "ingredients": [
+   "450g paneer, cut into 3cm cubes",
+   "150g Greek-style yoghurt",
+   "1 tbsp mild curry powder",
+   "1 tsp garam masala",
+   "1 tsp sweet paprika",
+   "1 garlic clove, crushed",
+   "1 tsp grated fresh ginger",
+   "1/2 lemon, juiced",
+   "2 red peppers",
+   "600g potatoes, peeled and cut into 2cm chunks",
+   "2 tbsp vegetable oil",
+   "Salt",
+   "Warm plain naan, to serve"
+  ],
+  "steps": [
+   "Mix the yoghurt, curry powder, garam masala, paprika, garlic, ginger and lemon juice. Stir in the paneer and leave to marinate while the veg cooks.",
+   "Heat the oven to 220°C (200°C fan). Put the whole peppers and the potatoes on a large tray, toss the potatoes in the oil and a pinch of salt and roast for 30 minutes.",
+   "Move the peppers to a bowl, cover with a plate for 10 minutes, then peel off the skins, discard the seeds and slice the flesh.",
+   "Add the paneer to the tray with the potatoes and roast for 15 minutes until hot and golden at the edges.",
+   "Toss in the peeled peppers and serve with warm naan."
+  ]
+ },
+ {
+  "id": "leek-cheddar-crustless-quiche",
+  "title": "Leek & cheddar crustless quiche",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "A soft, set savoury custard with melting leeks and cheddar, no pastry needed.",
+  "ingredients": [
+   "15g butter, plus extra for greasing",
+   "2 leeks (white and pale green parts only), halved lengthways and very finely sliced",
+   "6 eggs",
+   "300ml milk",
+   "2 tbsp plain flour",
+   "100g mature cheddar, grated",
+   "Pinch of ground nutmeg",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Heat the oven to 180°C (160°C fan) and grease a 23cm ovenproof dish.",
+   "Melt the butter in a pan and cook the leeks gently, covered, for 12–15 minutes until very soft. Spread over the base of the dish.",
+   "Whisk the flour with a little of the milk until smooth, then whisk in the remaining milk, the eggs, most of the cheese and the nutmeg. Season with salt and pepper.",
+   "Pour over the leeks, scatter with the rest of the cheese and bake for 30–35 minutes until just set with a slight wobble.",
+   "Leave to settle for 5 minutes before slicing."
+  ]
+ },
+ {
+  "id": "banana-semolina-breakfast-bowl",
+  "title": "Banana semolina breakfast bowl",
+  "meal": "breakfast",
+  "texture": "smooth",
+  "summary": "Warm, silky semolina cooked in milk with mashed ripe banana and a pinch of cinnamon.",
+  "ingredients": [
+   "250ml milk",
+   "30g semolina",
+   "1 small ripe banana",
+   "Pinch of ground cinnamon",
+   "1 tsp honey or maple syrup (optional)"
+  ],
+  "steps": [
+   "Warm the milk in a small pan until steaming.",
+   "Sprinkle in the semolina, whisking all the time, then simmer gently for 4–5 minutes, stirring, until thick and smooth.",
+   "Mash the banana very smoothly with a fork and stir it into the semolina with the cinnamon.",
+   "Spoon into a bowl and drizzle with honey or maple syrup, if using."
+  ]
+ },
+ {
+  "id": "gnocchi-silky-carrot-sauce",
+  "title": "Gnocchi in silky carrot sauce",
+  "meal": "dinner",
+  "texture": "soft",
+  "summary": "Pillowy potato gnocchi tossed in a sweet, smooth carrot and ricotta sauce.",
+  "ingredients": [
+   "3 carrots (about 300g), peeled and sliced",
+   "300ml vegetable stock",
+   "1 tsp butter",
+   "50g ricotta",
+   "500g pack fresh potato gnocchi",
+   "15g vegetarian Italian-style hard cheese, finely grated",
+   "Salt and pepper"
+  ],
+  "steps": [
+   "Simmer the carrots in the stock for 15–18 minutes until very soft.",
+   "Blend the carrots and stock with the butter and ricotta to a silky sauce. Season and keep warm.",
+   "Cook the gnocchi in boiling salted water until they float, then 1 minute more, and drain.",
+   "Toss the gnocchi in the sauce and top with the grated cheese."
+  ]
+ },
+ {
+  "id": "silky-apple-pear-puree",
+  "title": "Silky apple & pear purée",
+  "meal": "snack",
+  "texture": "smooth",
+  "summary": "Peeled apples and pears stewed and blended into a smooth, naturally sweet purée.",
+  "ingredients": [
+   "2 eating apples, peeled, cored and chopped",
+   "2 ripe pears, peeled, cored and chopped",
+   "4 tbsp water",
+   "Pinch of ground cinnamon (optional)"
+  ],
+  "steps": [
+   "Put the fruit, water and cinnamon in a pan, cover and simmer gently for 12–15 minutes until very soft.",
+   "Blend or mash until completely smooth.",
+   "Serve warm or cool, on its own or stirred through porridge."
+  ]
+ },
+ {
+  "id": "vanilla-blancmange",
+  "title": "Vanilla blancmange",
+  "meal": "dessert",
+  "texture": "smooth",
+  "summary": "An old-fashioned set milk pudding thickened with cornflour (allow 3 hours to set).",
+  "ingredients": [
+   "40g cornflour (about 4 tbsp)",
+   "50g caster sugar",
+   "600ml semi-skimmed or whole milk",
+   "1 tsp vanilla extract"
+  ],
+  "steps": [
+   "Mix the cornflour and sugar with 4 tbsp of the milk to a smooth paste.",
+   "Heat the rest of the milk until steaming, then pour it onto the paste, whisking.",
+   "Return to the pan and simmer, stirring constantly, for 2–3 minutes until thick.",
+   "Take off the heat, stir in the vanilla and pour into a rinsed mould or 4 small glasses.",
+   "Cool, cover and set in the fridge for 3 hours."
+  ]
+ },
+ {
+  "id": "soft-spiced-carrot-cake",
+  "title": "Soft spiced carrot cake",
+  "meal": "snack",
+  "texture": "soft",
+  "summary": "A moist, gently spiced carrot cake with no nuts or dried fruit, topped with cream cheese frosting.",
+  "ingredients": [
+   "150ml sunflower oil, plus extra for greasing",
+   "175g light brown soft sugar",
+   "3 eggs",
+   "200g carrots, peeled and very finely grated",
+   "200g self-raising flour",
+   "1 tsp bicarbonate of soda",
+   "2 tsp ground cinnamon",
+   "1/2 tsp ground ginger",
+   "50g butter, softened",
+   "100g icing sugar",
+   "200g full-fat cream cheese, cold",
+   "1/2 tsp vanilla extract"
+  ],
+  "steps": [
+   "Heat the oven to 180°C (160°C fan). Grease and line a 20cm square tin.",
+   "Whisk the oil, brown sugar and eggs together, then stir in the carrot.",
+   "Fold in the flour, bicarbonate of soda, cinnamon and ginger until just combined.",
+   "Pour into the tin and bake for 35–40 minutes until a skewer comes out clean. Cool completely.",
+   "Beat the butter and icing sugar together, then briefly beat in the cream cheese and vanilla. Spread over the cake."
+  ]
+ },
+ {
+  "id": "no-bake-vanilla-cheesecake-pots",
+  "title": "No-bake vanilla cheesecake pots",
+  "meal": "dessert",
+  "texture": "soft",
+  "summary": "Creamy vanilla cheesecake on a buttery shortbread base with a glossy apricot topping (allow 2 hours to firm up).",
+  "ingredients": [
+   "100g all-butter shortbread biscuits",
+   "25g butter, melted",
+   "200g full-fat cream cheese",
+   "150g Greek-style yoghurt",
+   "40g icing sugar",
+   "1 tsp vanilla extract",
+   "1 tsp lemon juice",
+   "4 tbsp smooth apricot jam",
+   "1 tsp water"
+  ],
+  "steps": [
+   "Crush the shortbread to fine crumbs in a bag with a rolling pin, mix with the melted butter and press into the bottom of 4 small glasses.",
+   "Beat the cream cheese, yoghurt, icing sugar, vanilla and lemon juice together until smooth, then spoon over the bases.",
+   "Warm the jam with the water until runny and spoon over the top.",
+   "Cover and leave in the fridge for 2 hours to firm up."
+  ]
+ },
+ {
+  "id": "peach-custard-sunday-trifle",
+  "title": "Peach & custard Sunday trifle",
+  "meal": "dessert",
+  "texture": "soft",
+  "summary": "A celebration trifle of jam-spread sponge, soft peaches, homemade custard and whipped cream (allow 3 hours for cooling and setting).",
+  "ingredients": [
+   "600ml whole milk",
+   "4 egg yolks",
+   "3 tbsp cornflour",
+   "75g caster sugar",
+   "2 tsp vanilla extract, divided",
+   "8 trifle sponges, or a 20cm plain sponge",
+   "150g smooth apricot jam or other seedless jam",
+   "2 x 410g tins peach slices in juice",
+   "300ml double cream",
+   "1 tbsp icing sugar",
+   "25g dark chocolate, finely grated (optional)"
+  ],
+  "steps": [
+   "For the custard, whisk the egg yolks, cornflour and caster sugar in a bowl. Heat the milk until steaming and whisk it onto the yolks.",
+   "Return to the pan and stir over a low heat until thick. Stir in 1 tsp vanilla, cover the surface with baking paper to stop a skin forming and cool completely.",
+   "Split the sponges, spread with jam and arrange in the base of a 2 litre glass bowl.",
+   "Drain the peaches, keeping 6 tbsp of the juice. Spoon the juice over the sponge, then chop the peaches small and scatter over.",
+   "Pour the cooled custard over the fruit and leave in the fridge for 2 hours to set.",
+   "Whip the cream with the icing sugar and remaining 1 tsp vanilla to soft peaks, spread over the custard and finish with grated chocolate, if using."
+  ]
+ }
+]

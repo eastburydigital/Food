@@ -459,10 +459,11 @@ function nutritionHtml(r) {
       <div class="big-stat protein"><b>${n.protein}g</b><span>protein</span></div>
     </div>
     <dl class="nutri-grid">
-      ${row('Carbs', n.carbs, 'g')}${row('of which sugars', n.sugars, 'g')}
-      ${row('Fat', n.fat, 'g')}${row('of which saturates', n.satfat, 'g')}
+      ${row('Carbs', n.carbs, 'g')}${row('Sugars', n.sugars, 'g')}
+      ${row('Fat', n.fat, 'g')}${row('Saturates', n.satfat, 'g')}
       ${row('Fibre', n.fibre, 'g')}${row('Salt', n.salt, 'g')}
     </dl>
+    ${n.salt > 2.5 && r.ingredients.some((l) => /stock/i.test(l)) ? '<p class="fine">Most of the salt comes from the stock. Reduced-salt stock roughly halves it.</p>' : ''}
     <p class="fine">Estimated from UK food-composition data for one of ${r.serves} servings${n.servedWith.length ? `, including ${esc(n.servedWith.join(' and ').toLowerCase())}` : ''}.${factor !== 1 ? ' Per-serving values stay the same when you change the number of servings.' : ''}${adapted(r).status === 'adapted' && !state.showOriginal.has(r.id) ? ' Based on the original recipe, before your swaps.' : ''} Actual values vary with brands and portion sizes.</p>`;
 }
 

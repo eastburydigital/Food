@@ -50,3 +50,6 @@ Netlify publishes `public/` and runs the build command in `netlify.toml`, which 
 ## Install on your phone
 - iPhone: open the site in Safari → Share → Add to Home Screen
 - Android: open in Chrome → ⋮ → Install app
+
+## Nutrition
+Per-serving estimates come from `scripts/nutrition/`: `foods.json` (per-100 g values from UK composition data), `lines.json` (each ingredient line → foods and grams) and `calculate.py`, which writes a `nutrition` object into each recipe. After adding or editing recipes, map any new ingredient lines in `lines.json` and run `python3 -I scripts/nutrition/calculate.py`. Recipes get the "protein" label at 12 g or more per serving.

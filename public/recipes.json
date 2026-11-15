@@ -37,7 +37,19 @@
       "batch": false,
       "text": "Best fresh. Leftovers keep in a covered bowl in the fridge for 1 day — loosen with milk and reheat until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 465,
+      "protein": 18,
+      "carbs": 78,
+      "sugars": 46,
+      "fat": 10,
+      "satfat": 4.3,
+      "fibre": 6.3,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "soft-scrambled-eggs",
@@ -76,7 +88,19 @@
       "batch": false,
       "text": "Best eaten straight away. Scrambled eggs go rubbery when stored and reheated."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 465,
+      "protein": 25,
+      "carbs": 32,
+      "sugars": 2,
+      "fat": 26,
+      "satfat": 11.3,
+      "fibre": 1.8,
+      "salt": 2.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "banana-peanut-smoothie",
@@ -114,7 +138,19 @@
       "batch": false,
       "text": "Best fresh. Can be kept in a sealed bottle in the fridge for up to 1 day — shake before drinking."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 425,
+      "protein": 20,
+      "carbs": 54,
+      "sugars": 51,
+      "fat": 15,
+      "satfat": 5.7,
+      "fibre": 2.9,
+      "salt": 0.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "yoghurt-stewed-pear",
@@ -143,7 +179,6 @@
       "Use peeled apple, or add a strip of orange zest while stewing"
     ],
     "nutrients": [
-      "protein",
       "calcium",
       "b12"
     ],
@@ -153,7 +188,19 @@
       "batch": true,
       "text": "Stew a big batch of pears. Keep in a sealed tub in the fridge for 3 days, or freeze in portions for 3 months. Add the yoghurt when serving."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 275,
+      "protein": 9,
+      "carbs": 25,
+      "sugars": 25,
+      "fat": 15,
+      "satfat": 10.2,
+      "fibre": 4.5,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "banana-pancakes",
@@ -193,7 +240,21 @@
       "batch": true,
       "text": "Cool, then stack with baking paper between. Fridge for 2 days or freeze for 2 months. Reheat in a toaster or dry pan."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 470,
+      "protein": 15,
+      "carbs": 79,
+      "sugars": 40,
+      "fat": 11,
+      "satfat": 4.8,
+      "fibre": 3.4,
+      "salt": 0.8,
+      "servedWith": [
+        "Maple syrup and sliced banana"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "mild-shakshuka",
@@ -237,7 +298,21 @@
       "batch": true,
       "text": "Batch-cook the sauce only: fridge for 2 days or freeze for 3 months. Cook fresh eggs in the reheated sauce."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 485,
+      "protein": 26,
+      "carbs": 37,
+      "sugars": 19,
+      "fat": 24,
+      "satfat": 8.0,
+      "fibre": 6.5,
+      "salt": 1.7,
+      "servedWith": [
+        "White bread"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "cheese-spinach-omelette",
@@ -275,7 +350,19 @@
       "batch": false,
       "text": "Best eaten straight away."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 400,
+      "protein": 30,
+      "carbs": 1,
+      "sugars": 1,
+      "fat": 30,
+      "satfat": 13.5,
+      "fibre": 0.7,
+      "salt": 2.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "carrot-ginger-soup",
@@ -313,7 +400,19 @@
       "batch": true,
       "text": "Cool quickly, then fridge for 3 days or freeze in portions for 3 months. Add the crème fraîche after reheating."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 140,
+      "protein": 2,
+      "carbs": 17,
+      "sugars": 14,
+      "fat": 8,
+      "satfat": 2.9,
+      "fibre": 4.9,
+      "salt": 2.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "butternut-squash-soup",
@@ -351,7 +450,19 @@
       "batch": true,
       "text": "Cool quickly, then fridge for 3 days or freeze in portions for 3 months. Add any cream after reheating."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 150,
+      "protein": 3,
+      "carbs": 17,
+      "sugars": 10,
+      "fat": 8,
+      "satfat": 1.6,
+      "fibre": 3.3,
+      "salt": 2.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "red-lentil-soup",
@@ -382,7 +493,6 @@
       "Add a peeled sweet potato for a sweeter soup"
     ],
     "nutrients": [
-      "protein",
       "iron"
     ],
     "storage": {
@@ -391,7 +501,19 @@
       "batch": true,
       "text": "Thickens as it stands. Fridge for 3 days or freeze for 3 months; loosen with water when reheating."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 200,
+      "protein": 10,
+      "carbs": 26,
+      "sugars": 7,
+      "fat": 5,
+      "satfat": 0.9,
+      "fibre": 6.1,
+      "salt": 2.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "tomato-soup-grilled-cheese",
@@ -431,7 +553,19 @@
       "batch": true,
       "text": "Batch-cook the soup: fridge for 3 days or freeze for 3 months. Make the toastie fresh."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 595,
+      "protein": 21,
+      "carbs": 55,
+      "sugars": 21,
+      "fat": 31,
+      "satfat": 18.7,
+      "fibre": 6.4,
+      "salt": 3.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "potato-leek-soup",
@@ -464,7 +598,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Potato soup can go a little grainy when frozen — blend again after reheating."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 190,
+      "protein": 5,
+      "carbs": 26,
+      "sugars": 4,
+      "fat": 8,
+      "satfat": 4.5,
+      "fibre": 3.3,
+      "salt": 2.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "hummus-pepper-wrap",
@@ -489,14 +635,28 @@
     ],
     "tip": "Jarred peppers are already cooked and peel easily — check every strip for skin.",
     "swaps": [],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 1,
       "freezerMonths": 0,
       "batch": false,
       "text": "Best made fresh. Can be wrapped and kept in the fridge until the next day."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 455,
+      "protein": 15,
+      "carbs": 42,
+      "sugars": 7,
+      "fat": 23,
+      "satfat": 7.1,
+      "fibre": 5.8,
+      "salt": 2.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "egg-mayo-sandwich",
@@ -532,7 +692,19 @@
       "batch": false,
       "text": "Keep the egg mayo filling in a sealed tub in the fridge for 2 days. Make sandwiches fresh. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 445,
+      "protein": 22,
+      "carbs": 34,
+      "sugars": 3,
+      "fat": 25,
+      "satfat": 4.8,
+      "fibre": 2.1,
+      "salt": 1.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "courgette-feta-fritters",
@@ -569,7 +741,21 @@
       "batch": true,
       "text": "Cool, then fridge for 2 days or freeze between baking paper for 2 months. Reheat in the oven until hot all the way through."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 430,
+      "protein": 23,
+      "carbs": 27,
+      "sugars": 6,
+      "fat": 25,
+      "satfat": 11.7,
+      "fibre": 3.4,
+      "salt": 1.6,
+      "servedWith": [
+        "Greek yoghurt"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "avocado-egg-toast",
@@ -604,7 +790,19 @@
       "batch": false,
       "text": "Best eaten straight away — avocado browns quickly."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 360,
+      "protein": 16,
+      "carbs": 22,
+      "sugars": 1,
+      "fat": 22,
+      "satfat": 5.2,
+      "fibre": 4.0,
+      "salt": 1.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "squash-lentil-dhal",
@@ -648,7 +846,21 @@
       "batch": true,
       "text": "Great for batch cooking. Fridge for 3 days or freeze in portions for 3 months. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 530,
+      "protein": 19,
+      "carbs": 82,
+      "sugars": 8,
+      "fat": 12,
+      "satfat": 7.0,
+      "fibre": 8.9,
+      "salt": 1.1,
+      "servedWith": [
+        "White basmati rice"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "butternut-risotto",
@@ -679,14 +891,28 @@
     "swaps": [
       "Use peeled sweet potato instead of squash"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 1,
       "freezerMonths": 0,
       "batch": false,
       "text": "Risotto contains rice, so cool within 1 hour, fridge, and eat within 1 day. Reheat only once, until steaming hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 555,
+      "protein": 14,
+      "carbs": 83,
+      "sugars": 10,
+      "fat": 19,
+      "satfat": 9.4,
+      "fibre": 4.2,
+      "salt": 3.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lemon-spinach-risotto",
@@ -715,14 +941,28 @@
     ],
     "tip": "Blending the spinach gives you the greens without the stringy leaves.",
     "swaps": [],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 1,
       "freezerMonths": 0,
       "batch": false,
       "text": "Risotto contains rice, so cool within 1 hour, fridge, and eat within 1 day. Reheat only once, until steaming hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 500,
+      "protein": 14,
+      "carbs": 73,
+      "sugars": 5,
+      "fat": 17,
+      "satfat": 10.3,
+      "fibre": 2.8,
+      "salt": 3.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "squash-mac-cheese",
@@ -764,7 +1004,19 @@
       "batch": true,
       "text": "Fridge for 2 days or freeze in portions for 2 months. Add a splash of milk when reheating."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 620,
+      "protein": 25,
+      "carbs": 73,
+      "sugars": 12,
+      "fat": 25,
+      "satfat": 15.0,
+      "fibre": 3.8,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "honey-soy-tofu",
@@ -809,7 +1061,21 @@
       "batch": false,
       "text": "Store the tofu and carrots for 2 days in the fridge. Cooked rice must be cooled within 1 hour and eaten within 1 day."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 570,
+      "protein": 25,
+      "carbs": 75,
+      "sugars": 24,
+      "fat": 18,
+      "satfat": 2.4,
+      "fibre": 5.0,
+      "salt": 2.5,
+      "servedWith": [
+        "White jasmine rice"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "butter-paneer",
@@ -854,7 +1120,21 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. The sauce freezes well; add a splash of cream when reheating. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 755,
+      "protein": 22,
+      "carbs": 62,
+      "sugars": 14,
+      "fat": 45,
+      "satfat": 28.4,
+      "fibre": 3.6,
+      "salt": 0.4,
+      "servedWith": [
+        "White basmati rice or plain naan"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "gnocchi-tomato-bake",
@@ -884,14 +1164,28 @@
     "swaps": [
       "Use cheddar instead of mozzarella"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 0,
       "batch": false,
       "text": "Fridge for 2 days. Gnocchi goes soft when frozen, but you can freeze the sauce on its own for 3 months."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 460,
+      "protein": 16,
+      "carbs": 64,
+      "sugars": 9,
+      "fat": 14,
+      "satfat": 6.6,
+      "fibre": 5.6,
+      "salt": 2.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lentil-shepherds-pie",
@@ -937,7 +1231,19 @@
       "batch": true,
       "text": "Ideal for batch cooking. Fridge for 3 days or freeze (whole or in portions) for 3 months. Defrost in the fridge overnight, then reheat until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 575,
+      "protein": 22,
+      "carbs": 77,
+      "sugars": 10,
+      "fat": 20,
+      "satfat": 10.0,
+      "fibre": 11.6,
+      "salt": 1.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "cauliflower-cheese",
@@ -975,7 +1281,19 @@
       "batch": true,
       "text": "Fridge for 2 days or freeze for 2 months. Reheat in the oven until bubbling."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 380,
+      "protein": 20,
+      "carbs": 17,
+      "sugars": 10,
+      "fat": 26,
+      "satfat": 15.7,
+      "fibre": 2.5,
+      "salt": 1.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "halloumi-traybake",
@@ -1016,7 +1334,19 @@
       "batch": false,
       "text": "Fridge for 2 days. Halloumi goes rubbery if frozen, but the roast veg alone freezes for 2 months."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 505,
+      "protein": 20,
+      "carbs": 42,
+      "sugars": 19,
+      "fat": 28,
+      "satfat": 14.3,
+      "fibre": 8.2,
+      "salt": 2.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "egg-fried-rice",
@@ -1055,7 +1385,19 @@
       "batch": false,
       "text": "Cool within 1 hour, fridge, and eat within 1 day. Reheat only once, until steaming hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 465,
+      "protein": 18,
+      "carbs": 63,
+      "sugars": 4,
+      "fat": 15,
+      "satfat": 2.9,
+      "fibre": 2.0,
+      "salt": 2.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "red-pepper-pasta",
@@ -1085,14 +1427,28 @@
     "swaps": [
       "Use ricotta instead of cream cheese"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 3,
       "batch": true,
       "text": "Sauce: fridge for 2 days or freeze for 3 months. Cooked pasta with sauce keeps 2 days in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 555,
+      "protein": 21,
+      "carbs": 78,
+      "sugars": 9,
+      "fat": 16,
+      "satfat": 8.8,
+      "fibre": 4.8,
+      "salt": 1.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "spinach-ricotta-pasta-bake",
@@ -1135,7 +1491,19 @@
       "batch": true,
       "text": "Fridge for 2 days or freeze for 2 months. Reheat covered in the oven until hot all the way through."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 510,
+      "protein": 26,
+      "carbs": 62,
+      "sugars": 10,
+      "fat": 16,
+      "satfat": 9.4,
+      "fibre": 4.9,
+      "salt": 0.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "miso-noodle-soup",
@@ -1172,7 +1540,19 @@
       "batch": false,
       "text": "Best fresh. The broth (without noodles or tofu) keeps 1 day in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 325,
+      "protein": 14,
+      "carbs": 53,
+      "sugars": 7,
+      "fat": 6,
+      "satfat": 0.9,
+      "fibre": 4.4,
+      "salt": 4.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "sweet-potato-coconut-curry",
@@ -1214,7 +1594,21 @@
       "batch": true,
       "text": "Great for batch cooking. Fridge for 3 days or freeze for 3 months. Cook rice fresh. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 540,
+      "protein": 9,
+      "carbs": 74,
+      "sugars": 11,
+      "fat": 23,
+      "satfat": 16.6,
+      "fibre": 6.0,
+      "salt": 1.0,
+      "servedWith": [
+        "White basmati rice"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "baked-eggs-spinach",
@@ -1251,7 +1645,21 @@
       "batch": false,
       "text": "Best eaten straight away."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 330,
+      "protein": 24,
+      "carbs": 18,
+      "sugars": 3,
+      "fat": 18,
+      "satfat": 7.3,
+      "fibre": 1.6,
+      "salt": 1.2,
+      "servedWith": [
+        "White toast"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "cheesy-polenta",
@@ -1281,6 +1689,7 @@
     "tip": "Polenta is made from finely ground corn, without the tough husks of whole sweetcorn kernels. Try a small portion first.",
     "swaps": [],
     "nutrients": [
+      "protein",
       "calcium"
     ],
     "storage": {
@@ -1289,7 +1698,19 @@
       "batch": false,
       "text": "Polenta sets firm in the fridge (2 days) — slice and fry it, or reheat with milk. The tomato sauce freezes for 3 months."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 625,
+      "protein": 18,
+      "carbs": 70,
+      "sugars": 11,
+      "fat": 29,
+      "satfat": 14.2,
+      "fibre": 4.8,
+      "salt": 3.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "stewed-apple-custard",
@@ -1326,7 +1747,19 @@
       "batch": true,
       "text": "Stewed apple keeps 3 days in the fridge or freezes for 3 months. Custard keeps 2 days in the fridge — don't freeze it."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 220,
+      "protein": 6,
+      "carbs": 32,
+      "sugars": 29,
+      "fat": 8,
+      "satfat": 3.5,
+      "fibre": 2.1,
+      "salt": 0.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "rice-pudding",
@@ -1364,7 +1797,19 @@
       "batch": false,
       "text": "Cool within 1 hour, fridge, and eat within 1 day. Eat cold, or reheat once until steaming hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 315,
+      "protein": 11,
+      "carbs": 44,
+      "sugars": 25,
+      "fat": 11,
+      "satfat": 6.9,
+      "fibre": 0.1,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "banana-bread",
@@ -1403,7 +1848,19 @@
       "text": "Keep wrapped in a tin at room temperature for 3 days. Freeze whole or in slices for 3 months.",
       "roomDays": 3
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 255,
+      "protein": 4,
+      "carbs": 40,
+      "sugars": 22,
+      "fat": 9,
+      "satfat": 5.2,
+      "fibre": 1.4,
+      "salt": 0.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "homemade-hummus",
@@ -1432,7 +1889,6 @@
     "tip": "Removing the chickpea skins and blending for longer gives a much smoother result. Tahini is smooth ground sesame, not whole seeds.",
     "swaps": [],
     "nutrients": [
-      "protein",
       "iron"
     ],
     "storage": {
@@ -1441,7 +1897,21 @@
       "batch": true,
       "text": "Keep in a sealed tub in the fridge for 3 days, or freeze for 2 months. Stir well after thawing."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 330,
+      "protein": 11,
+      "carbs": 38,
+      "sugars": 2,
+      "fat": 13,
+      "satfat": 1.8,
+      "fibre": 5.9,
+      "salt": 0.7,
+      "servedWith": [
+        "White pitta"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "banana-oat-bars",
@@ -1480,7 +1950,19 @@
       "batch": true,
       "text": "Keep in a sealed tub in the fridge for 3 days, or wrap bars individually and freeze for 3 months. Thaw overnight or warm for 20 seconds in the microwave."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 160,
+      "protein": 5,
+      "carbs": 27,
+      "sugars": 15,
+      "fat": 3,
+      "satfat": 0.9,
+      "fibre": 2.5,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "peanut-overnight-oats",
@@ -1518,7 +2000,19 @@
       "batch": true,
       "text": "Make 2 jars at once — they keep for 2 days in the fridge. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 440,
+      "protein": 17,
+      "carbs": 48,
+      "sugars": 22,
+      "fat": 20,
+      "satfat": 7.5,
+      "fibre": 5.6,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "mango-tofu-smoothie",
@@ -1555,7 +2049,19 @@
       "batch": false,
       "text": "Best fresh. Keeps in a sealed bottle in the fridge for 1 day — shake well."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 350,
+      "protein": 16,
+      "carbs": 57,
+      "sugars": 52,
+      "fat": 8,
+      "satfat": 2.7,
+      "fibre": 4.7,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "french-toast-apple",
@@ -1596,7 +2102,19 @@
       "batch": false,
       "text": "Best fresh. Cooked French toast can be frozen for 1 month and reheated in a toaster. The apples keep 3 days in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 400,
+      "protein": 16,
+      "carbs": 57,
+      "sugars": 27,
+      "fat": 12,
+      "satfat": 4.9,
+      "fibre": 4.7,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "cottage-cheese-pancakes",
@@ -1638,7 +2156,21 @@
       "batch": true,
       "text": "Cool, then stack with baking paper between. Fridge for 2 days or freeze for 2 months. Reheat in a toaster or dry pan."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 400,
+      "protein": 24,
+      "carbs": 45,
+      "sugars": 22,
+      "fat": 14,
+      "satfat": 6.9,
+      "fibre": 1.8,
+      "salt": 1.6,
+      "servedWith": [
+        "Sliced banana or stewed pear"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "egg-muffins",
@@ -1670,7 +2202,6 @@
       "Use feta instead of cheddar"
     ],
     "nutrients": [
-      "protein",
       "b12"
     ],
     "storage": {
@@ -1679,7 +2210,19 @@
       "batch": true,
       "text": "Fridge in a sealed tub for 2 days, or freeze for 2 months. Reheat until piping hot, or eat cold from the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 130,
+      "protein": 11,
+      "carbs": 1,
+      "sugars": 1,
+      "fat": 9,
+      "satfat": 4.0,
+      "fibre": 0.4,
+      "salt": 0.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "cauliflower-cheddar-soup",
@@ -1719,7 +2262,19 @@
       "batch": true,
       "text": "Freeze before adding the cheese for the best texture, then stir it in when reheating. Fridge for 3 days or freeze for 3 months."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 215,
+      "protein": 11,
+      "carbs": 16,
+      "sugars": 7,
+      "fat": 12,
+      "satfat": 6.9,
+      "fibre": 3.4,
+      "salt": 2.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "spinach-potato-soup",
@@ -1758,7 +2313,19 @@
       "batch": true,
       "text": "Cool quickly, then fridge for 3 days or freeze for 3 months. Add the crème fraîche after reheating."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 165,
+      "protein": 4,
+      "carbs": 20,
+      "sugars": 5,
+      "fat": 8,
+      "satfat": 2.8,
+      "fibre": 3.4,
+      "salt": 2.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "pepper-butter-bean-soup",
@@ -1789,7 +2356,6 @@
       "Use cannellini beans instead of butter beans"
     ],
     "nutrients": [
-      "protein",
       "iron"
     ],
     "storage": {
@@ -1798,7 +2364,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Loosen with a little water when reheating."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 120,
+      "protein": 5,
+      "carbs": 14,
+      "sugars": 6,
+      "fat": 4,
+      "satfat": 0.8,
+      "fibre": 4.8,
+      "salt": 2.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "egg-drop-soup",
@@ -1837,7 +2415,19 @@
       "batch": false,
       "text": "Best fresh. Leftovers keep 1 day in the fridge — reheat gently until steaming."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 165,
+      "protein": 13,
+      "carbs": 9,
+      "sugars": 2,
+      "fat": 9,
+      "satfat": 2.2,
+      "fibre": 0.7,
+      "salt": 4.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "cheese-potato-cakes",
@@ -1875,7 +2465,19 @@
       "batch": true,
       "text": "Freeze uncooked cakes between baking paper for 3 months and fry from frozen (add a few minutes). Cooked cakes keep 2 days in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 250,
+      "protein": 10,
+      "carbs": 30,
+      "sugars": 1,
+      "fat": 11,
+      "satfat": 5.5,
+      "fibre": 2.6,
+      "salt": 0.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "egg-onion-rice-bowl",
@@ -1913,7 +2515,19 @@
       "batch": false,
       "text": "Best eaten straight away. Cook rice fresh, or cool leftover rice within 1 hour and eat within 1 day."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 430,
+      "protein": 21,
+      "carbs": 60,
+      "sugars": 14,
+      "fat": 11,
+      "satfat": 3.1,
+      "fibre": 2.1,
+      "salt": 3.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "spanish-tortilla",
@@ -1951,7 +2565,19 @@
       "batch": true,
       "text": "Cool, wrap and keep in the fridge for 2 days. Eat cold or warm gently. Don't freeze — the egg goes watery."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 430,
+      "protein": 14,
+      "carbs": 24,
+      "sugars": 3,
+      "fat": 31,
+      "satfat": 5.5,
+      "fibre": 2.6,
+      "salt": 0.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lentil-bolognese",
@@ -1997,7 +2623,21 @@
       "batch": true,
       "text": "Freeze the sauce in portions for 3 months, or fridge for 3 days. Cook pasta fresh."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 525,
+      "protein": 23,
+      "carbs": 86,
+      "sugars": 15,
+      "fat": 7,
+      "satfat": 2.0,
+      "fibre": 10.1,
+      "salt": 1.9,
+      "servedWith": [
+        "Vegetarian Italian-style hard cheese"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "tofu-korma",
@@ -2045,7 +2685,21 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Reheat gently — don't let it boil after the yoghurt goes in. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 595,
+      "protein": 23,
+      "carbs": 58,
+      "sugars": 10,
+      "fat": 30,
+      "satfat": 15.7,
+      "fibre": 4.4,
+      "salt": 0.3,
+      "servedWith": [
+        "White basmati rice"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "lentil-lasagne",
@@ -2087,7 +2741,19 @@
       "batch": true,
       "text": "Freeze whole or in portions for 3 months. Defrost in the fridge overnight, then reheat covered until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 480,
+      "protein": 21,
+      "carbs": 58,
+      "sugars": 17,
+      "fat": 17,
+      "satfat": 8.9,
+      "fibre": 7.2,
+      "salt": 1.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "leek-potato-gratin",
@@ -2119,6 +2785,7 @@
       "Use half stock, half milk for a lighter version"
     ],
     "nutrients": [
+      "protein",
       "calcium"
     ],
     "storage": {
@@ -2127,7 +2794,19 @@
       "batch": true,
       "text": "Fridge for 2 days or freeze in portions for 2 months. Reheat covered in the oven."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 650,
+      "protein": 13,
+      "carbs": 40,
+      "sugars": 6,
+      "fat": 50,
+      "satfat": 31.0,
+      "fibre": 4.0,
+      "salt": 0.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "saag-paneer",
@@ -2174,7 +2853,21 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. The paneer may firm up slightly after freezing. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 615,
+      "protein": 24,
+      "carbs": 55,
+      "sugars": 8,
+      "fat": 32,
+      "satfat": 19.9,
+      "fibre": 4.9,
+      "salt": 1.0,
+      "servedWith": [
+        "White basmati rice or plain naan"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "mild-egg-curry",
@@ -2218,7 +2911,21 @@
       "batch": false,
       "text": "Freeze the sauce on its own for 3 months and add freshly boiled eggs. With eggs, keep in the fridge for up to 2 days. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 680,
+      "protein": 24,
+      "carbs": 62,
+      "sugars": 13,
+      "fat": 36,
+      "satfat": 19.7,
+      "fibre": 4.9,
+      "salt": 1.2,
+      "servedWith": [
+        "White basmati rice"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "courgette-ricotta-pasta",
@@ -2259,7 +2966,19 @@
       "batch": false,
       "text": "Best fresh. Keeps 2 days in the fridge; add a splash of water when reheating. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 610,
+      "protein": 28,
+      "carbs": 76,
+      "sugars": 8,
+      "fat": 21,
+      "satfat": 12.2,
+      "fibre": 5.4,
+      "salt": 0.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "slow-cooker-lentil-stew",
@@ -2292,7 +3011,6 @@
       "No slow cooker? Simmer in a covered pan for 40 minutes, stirring often."
     ],
     "nutrients": [
-      "protein",
       "iron"
     ],
     "storage": {
@@ -2301,7 +3019,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze in portions for 3 months. Loosen with water when reheating."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 220,
+      "protein": 11,
+      "carbs": 39,
+      "sugars": 12,
+      "fat": 1,
+      "satfat": 0.3,
+      "fibre": 8.0,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "baked-feta-pasta",
@@ -2341,7 +3071,19 @@
       "batch": false,
       "text": "Fridge for 2 days. Reheat with a splash of water. The sauce alone freezes for 2 months."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 605,
+      "protein": 23,
+      "carbs": 69,
+      "sugars": 11,
+      "fat": 25,
+      "satfat": 11.3,
+      "fibre": 4.6,
+      "salt": 2.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "spinach-feta-filo-pie",
@@ -2384,7 +3126,19 @@
       "batch": true,
       "text": "Fridge for 2 days, or freeze (baked) for 2 months. Reheat in the oven so the pastry crisps up."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 495,
+      "protein": 23,
+      "carbs": 38,
+      "sugars": 4,
+      "fat": 28,
+      "satfat": 16.2,
+      "fibre": 3.7,
+      "salt": 2.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "chocolate-tofu-pots",
@@ -2418,7 +3172,19 @@
       "batch": true,
       "text": "Cover and keep in the fridge for 3 days. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 205,
+      "protein": 6,
+      "carbs": 18,
+      "sugars": 14,
+      "fat": 12,
+      "satfat": 5.9,
+      "fibre": 2.5,
+      "salt": 0.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "banana-nice-cream",
@@ -2449,7 +3215,19 @@
       "batch": false,
       "text": "Best eaten fresh. Freeze leftovers in a tub for up to 1 month — let it soften for 10 minutes before scooping."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 220,
+      "protein": 4,
+      "carbs": 43,
+      "sugars": 38,
+      "fat": 5,
+      "satfat": 0.9,
+      "fibre": 3.1,
+      "salt": 0.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "baked-egg-custard",
@@ -2479,7 +3257,6 @@
       "Add a strip of lemon zest to the milk while it warms"
     ],
     "nutrients": [
-      "protein",
       "calcium",
       "b12"
     ],
@@ -2489,7 +3266,19 @@
       "batch": false,
       "text": "Cool, cover and keep in the fridge for 2 days. Eat cold. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 180,
+      "protein": 10,
+      "carbs": 16,
+      "sugars": 16,
+      "fat": 9,
+      "satfat": 4.1,
+      "fibre": 0.0,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "semolina-pudding",
@@ -2526,7 +3315,19 @@
       "batch": false,
       "text": "Fridge for 2 days. Reheat with a splash of milk. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 250,
+      "protein": 9,
+      "carbs": 36,
+      "sugars": 24,
+      "fat": 8,
+      "satfat": 4.8,
+      "fibre": 0.6,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "apple-cinnamon-muffins",
@@ -2565,7 +3366,19 @@
       "text": "Keep in a tin at room temperature for 3 days, or freeze for 3 months. Thaw at room temperature or warm for 15 seconds.",
       "roomDays": 3
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 190,
+      "protein": 4,
+      "carbs": 25,
+      "sugars": 11,
+      "fat": 8,
+      "satfat": 4.7,
+      "fibre": 1.2,
+      "salt": 0.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "cheese-scones",
@@ -2603,7 +3416,19 @@
       "text": "Best on the day. Keep in a tin at room temperature for 2 days, or freeze for 3 months and warm through in the oven.",
       "roomDays": 2
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 205,
+      "protein": 6,
+      "carbs": 21,
+      "sugars": 1,
+      "fat": 10,
+      "satfat": 6.2,
+      "fibre": 1.0,
+      "salt": 0.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "mango-lassi",
@@ -2630,8 +3455,7 @@
       "Use soya yoghurt and milk to make it dairy-free"
     ],
     "nutrients": [
-      "calcium",
-      "protein"
+      "calcium"
     ],
     "storage": {
       "fridgeDays": 1,
@@ -2639,7 +3463,19 @@
       "batch": false,
       "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake before drinking."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 205,
+      "protein": 11,
+      "carbs": 30,
+      "sugars": 29,
+      "fat": 5,
+      "satfat": 3.1,
+      "fibre": 2.6,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "nourishing-milkshake",
@@ -2678,7 +3514,19 @@
       "batch": false,
       "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake well."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 455,
+      "protein": 20,
+      "carbs": 55,
+      "sugars": 52,
+      "fat": 18,
+      "satfat": 7.5,
+      "fibre": 2.9,
+      "salt": 0.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "steamed-egg-custard",
@@ -2707,7 +3555,6 @@
       "Add a few cubes of silken tofu before steaming"
     ],
     "nutrients": [
-      "protein",
       "b12"
     ],
     "storage": {
@@ -2716,7 +3563,19 @@
       "batch": false,
       "text": "Best eaten warm and fresh. Can be kept covered in the fridge for 1 day and eaten cold. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 130,
+      "protein": 11,
+      "carbs": 3,
+      "sugars": 2,
+      "fat": 8,
+      "satfat": 2.3,
+      "fibre": 0.2,
+      "salt": 2.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "avgolemono-soup",
@@ -2746,16 +3605,26 @@
       "Use white rice instead of orzo",
       "Stir in finely chopped dill at the end"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 0,
       "batch": false,
       "text": "Fridge for 2 days. Reheat gently without boiling, or the egg will split. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 190,
+      "protein": 10,
+      "carbs": 26,
+      "sugars": 2,
+      "fat": 5,
+      "satfat": 1.4,
+      "fibre": 1.4,
+      "salt": 3.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "ginger-congee",
@@ -2785,16 +3654,26 @@
     "swaps": [
       "Add cubes of silken tofu instead of egg"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 1,
       "freezerMonths": 0,
       "batch": false,
       "text": "Contains rice: cool within 1 hour, fridge, and eat within 1 day. Reheat once with a splash of water until steaming. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 240,
+      "protein": 11,
+      "carbs": 30,
+      "sugars": 2,
+      "fat": 8,
+      "satfat": 2.1,
+      "fibre": 0.8,
+      "salt": 4.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "vegetarian-kedgeree",
@@ -2837,7 +3716,19 @@
       "batch": false,
       "text": "Contains rice: cool within 1 hour, fridge, and eat within 1 day. Reheat once until steaming hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 445,
+      "protein": 17,
+      "carbs": 58,
+      "sugars": 4,
+      "fat": 16,
+      "satfat": 7.5,
+      "fibre": 2.1,
+      "salt": 1.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "cilbir-eggs",
@@ -2878,7 +3769,21 @@
       "batch": false,
       "text": "Best eaten straight away."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 510,
+      "protein": 25,
+      "carbs": 26,
+      "sugars": 6,
+      "fat": 34,
+      "satfat": 17.7,
+      "fibre": 1.6,
+      "salt": 1.4,
+      "servedWith": [
+        "White sourdough"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "ricotta-gnudi",
@@ -2919,7 +3824,19 @@
       "batch": true,
       "text": "Freeze uncooked gnudi on a tray, then bag for 2 months — cook from frozen for 5–6 minutes. Cooked gnudi keep 2 days in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 515,
+      "protein": 27,
+      "carbs": 19,
+      "sugars": 4,
+      "fat": 37,
+      "satfat": 23.0,
+      "fibre": 0.7,
+      "salt": 1.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "silky-borscht",
@@ -2957,7 +3874,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Add the soured cream after reheating."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 165,
+      "protein": 4,
+      "carbs": 22,
+      "sugars": 13,
+      "fat": 7,
+      "satfat": 2.5,
+      "fibre": 5.1,
+      "salt": 2.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lemon-posset",
@@ -2989,7 +3918,19 @@
       "batch": true,
       "text": "Cover and keep in the fridge for 3 days. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 570,
+      "protein": 2,
+      "carbs": 28,
+      "sugars": 28,
+      "fat": 51,
+      "satfat": 31.6,
+      "fibre": 0.1,
+      "salt": 0.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "squash-tofu-soup",
@@ -3019,16 +3960,26 @@
     "swaps": [
       "Use peeled sweet potato instead of squash"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 3,
       "freezerMonths": 3,
       "batch": true,
       "text": "Fridge for 3 days or freeze in portions for 3 months. Blend again after thawing if it separates."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 150,
+      "protein": 7,
+      "carbs": 18,
+      "sugars": 10,
+      "fat": 6,
+      "satfat": 1.1,
+      "fibre": 3.5,
+      "salt": 1.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "egg-enriched-mash",
@@ -3067,7 +4018,19 @@
       "batch": false,
       "text": "Fridge for 2 days. Freezes for 1 month but may go a little grainy — beat in a splash of milk when reheating until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 460,
+      "protein": 15,
+      "carbs": 45,
+      "sugars": 3,
+      "fat": 26,
+      "satfat": 14.1,
+      "fibre": 4.0,
+      "salt": 0.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "vanilla-protein-shake",
@@ -3104,7 +4067,19 @@
       "batch": false,
       "text": "Best fresh. Keeps 1 day in a sealed bottle in the fridge — shake well."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 410,
+      "protein": 23,
+      "carbs": 35,
+      "sugars": 35,
+      "fat": 20,
+      "satfat": 12.8,
+      "fibre": 0.0,
+      "salt": 0.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "cottage-cheese-dip",
@@ -3141,7 +4116,21 @@
       "batch": true,
       "text": "Keep covered in the fridge for 3 days. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 255,
+      "protein": 15,
+      "carbs": 31,
+      "sugars": 4,
+      "fat": 7,
+      "satfat": 2.6,
+      "fibre": 1.9,
+      "salt": 1.1,
+      "servedWith": [
+        "White pitta"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "yoghurt-jam-pot",
@@ -3166,7 +4155,6 @@
       "Use stewed pear or apple instead of jam"
     ],
     "nutrients": [
-      "protein",
       "calcium"
     ],
     "storage": {
@@ -3175,7 +4163,19 @@
       "batch": false,
       "text": "Best made fresh. Can be made the night before and kept covered in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 275,
+      "protein": 9,
+      "carbs": 25,
+      "sugars": 25,
+      "fat": 15,
+      "satfat": 10.2,
+      "fibre": 0.2,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "peanut-banana-toast",
@@ -3201,16 +4201,26 @@
     "swaps": [
       "Use smooth tahini instead of peanut butter"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 0,
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten straight away."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 240,
+      "protein": 8,
+      "carbs": 32,
+      "sugars": 15,
+      "fat": 9,
+      "satfat": 1.6,
+      "fibre": 3.2,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "poached-egg-mash",
@@ -3247,7 +4257,19 @@
       "batch": false,
       "text": "Best eaten straight away. Leftover mash keeps 2 days in the fridge — cook eggs fresh."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 415,
+      "protein": 21,
+      "carbs": 45,
+      "sugars": 3,
+      "fat": 18,
+      "satfat": 7.2,
+      "fibre": 4.0,
+      "salt": 0.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "squash-couscous",
@@ -3280,6 +4302,7 @@
       "Use white rice instead of couscous"
     ],
     "nutrients": [
+      "protein",
       "calcium"
     ],
     "storage": {
@@ -3288,7 +4311,19 @@
       "batch": false,
       "text": "Fridge for 2 days. Eat cold or reheat until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 470,
+      "protein": 16,
+      "carbs": 68,
+      "sugars": 9,
+      "fat": 15,
+      "satfat": 5.6,
+      "fibre": 5.4,
+      "salt": 1.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "potato-cheese-pierogi",
@@ -3333,7 +4368,21 @@
       "batch": true,
       "text": "Freeze uncooked pierogi on a tray, then bag for 3 months — boil from frozen for 6–7 minutes. Cooked pierogi keep 2 days in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 625,
+      "protein": 20,
+      "carbs": 81,
+      "sugars": 8,
+      "fat": 25,
+      "satfat": 13.0,
+      "fibre": 5.4,
+      "salt": 0.6,
+      "servedWith": [
+        "Soured cream"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "pumpkin-tofu-curry",
@@ -3379,7 +4428,21 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months. Cook rice fresh, or cool leftover rice within 1 hour, fridge, and eat within 1 day; reheat only once."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 655,
+      "protein": 21,
+      "carbs": 59,
+      "sugars": 11,
+      "fat": 37,
+      "satfat": 23.2,
+      "fibre": 5.0,
+      "salt": 1.5,
+      "servedWith": [
+        "White jasmine rice"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "japanese-rolled-omelette",
@@ -3419,7 +4482,19 @@
       "batch": false,
       "text": "Lovely cold in a lunchbox. Cool quickly, cover and keep in the fridge for up to 1 day. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 190,
+      "protein": 15,
+      "carbs": 4,
+      "sugars": 4,
+      "fat": 13,
+      "satfat": 3.1,
+      "fibre": 0.0,
+      "salt": 0.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "mild-egg-bhurji",
@@ -3461,7 +4536,19 @@
       "batch": false,
       "text": "Best eaten straight away. Any leftover egg should be cooled quickly, kept covered in the fridge and eaten within 1 day, reheated once until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 355,
+      "protein": 19,
+      "carbs": 21,
+      "sugars": 5,
+      "fat": 22,
+      "satfat": 9.6,
+      "fibre": 2.1,
+      "salt": 1.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "soft-vegetable-upma",
@@ -3502,7 +4589,19 @@
       "batch": false,
       "text": "Cool, cover and keep in the fridge for up to 2 days. It firms up as it cools: loosen with a splash of hot water and reheat until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 255,
+      "protein": 6,
+      "carbs": 43,
+      "sugars": 6,
+      "fat": 7,
+      "satfat": 3.8,
+      "fibre": 3.3,
+      "salt": 1.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "ground-rice-porridge-peach",
@@ -3543,7 +4642,19 @@
       "batch": false,
       "text": "Best made fresh. If keeping leftovers, cool within 1 hour, keep covered in the fridge and eat within 1 day, reheating once until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 260,
+      "protein": 9,
+      "carbs": 39,
+      "sugars": 23,
+      "fat": 8,
+      "satfat": 4.8,
+      "fibre": 1.6,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "baked-vanilla-oats-pear",
@@ -3578,14 +4689,28 @@
       "Use 2 mashed ripe bananas instead of the pears and leave out the maple syrup",
       "Use 1 peeled, finely grated eating apple instead of the pears"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 2,
       "batch": true,
       "text": "Cool, cut into portions and keep covered in the fridge for up to 2 days, or wrap individually and freeze for up to 2 months. Defrost overnight in the fridge and reheat with a splash of milk until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 340,
+      "protein": 12,
+      "carbs": 42,
+      "sugars": 18,
+      "fat": 13,
+      "satfat": 6.1,
+      "fibre": 5.6,
+      "salt": 0.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "homemade-crumpets",
@@ -3630,7 +4755,21 @@
       "batch": true,
       "text": "Makes about 12. Cool on a rack, then keep in an airtight tin for up to 2 days, or freeze in a bag for up to 3 months and toast straight from frozen."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 290,
+      "protein": 9,
+      "carbs": 45,
+      "sugars": 4,
+      "fat": 8,
+      "satfat": 4.5,
+      "fibre": 2.2,
+      "salt": 1.4,
+      "servedWith": [
+        "Butter"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "swedish-cardamom-pancakes",
@@ -3663,14 +4802,28 @@
       "Fill with a spoonful of stewed peeled apple instead of jam",
       "Use ground cinnamon instead of cardamom"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 2,
       "batch": true,
       "text": "Makes about 12. Cool, stack between sheets of baking paper and keep covered in the fridge for up to 2 days, or freeze for up to 2 months. Warm in a dry pan or the microwave until hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 325,
+      "protein": 12,
+      "carbs": 43,
+      "sugars": 20,
+      "fat": 12,
+      "satfat": 5.9,
+      "fibre": 1.3,
+      "salt": 0.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "batch-drop-scones",
@@ -3709,7 +4862,19 @@
       "batch": true,
       "text": "Makes about 16. Cool under a tea towel, then keep in an airtight tin for 1 day, or freeze between sheets of baking paper for up to 3 months. Warm from frozen in the toaster or microwave."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 295,
+      "protein": 9,
+      "carbs": 49,
+      "sugars": 10,
+      "fat": 7,
+      "satfat": 3.5,
+      "fibre": 2.0,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "soft-boiled-eggs-soldiers",
@@ -3746,7 +4911,19 @@
       "batch": false,
       "text": "Eat straight away; soft-boiled eggs shouldn't be kept."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 395,
+      "protein": 21,
+      "carbs": 33,
+      "sugars": 3,
+      "fat": 20,
+      "satfat": 8.4,
+      "fibre": 2.0,
+      "salt": 1.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lemony-butter-bean-smash-toast",
@@ -3789,7 +4966,19 @@
       "batch": false,
       "text": "Keep the bean purée in a covered tub in the fridge for up to 3 days and spread on freshly made toast. Don't freeze (it contains yoghurt)."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 285,
+      "protein": 13,
+      "carbs": 37,
+      "sugars": 4,
+      "fat": 8,
+      "satfat": 1.5,
+      "fibre": 7.2,
+      "salt": 1.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "mild-breakfast-quesadilla",
@@ -3832,7 +5021,19 @@
       "batch": false,
       "text": "Best eaten fresh. Leftovers can be cooled quickly, kept covered in the fridge for up to 1 day and reheated in a dry pan until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 500,
+      "protein": 27,
+      "carbs": 34,
+      "sugars": 3,
+      "fat": 28,
+      "satfat": 12.6,
+      "fibre": 1.9,
+      "salt": 1.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "ricotta-honey-brioche-banana",
@@ -3868,7 +5069,19 @@
       "batch": false,
       "text": "Best made fresh. Opened ricotta keeps covered in the fridge for 2–3 days; check the pack."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 330,
+      "protein": 9,
+      "carbs": 41,
+      "sugars": 24,
+      "fat": 15,
+      "satfat": 9.2,
+      "fibre": 1.8,
+      "salt": 0.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "soft-tofu-spinach-scramble",
@@ -3911,7 +5124,19 @@
       "batch": false,
       "text": "Keep leftovers in a covered tub in the fridge for up to 2 days and reheat until piping hot, with a splash of milk to loosen. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 350,
+      "protein": 24,
+      "carbs": 20,
+      "sugars": 4,
+      "fat": 19,
+      "satfat": 3.0,
+      "fibre": 3.8,
+      "salt": 1.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "roast-carrot-tahini-dip",
@@ -3951,7 +5176,19 @@
       "batch": false,
       "text": "Keep in a covered tub in the fridge for up to 3 days. If you want to freeze it, blend without the yoghurt, freeze for up to 3 months, then stir the yoghurt in once defrosted."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 255,
+      "protein": 8,
+      "carbs": 40,
+      "sugars": 11,
+      "fat": 7,
+      "satfat": 1.2,
+      "fibre": 5.4,
+      "salt": 0.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "whipped-feta-honey-dip",
@@ -3990,7 +5227,19 @@
       "batch": false,
       "text": "Keep covered in the fridge for up to 3 days; add the honey just before serving. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 365,
+      "protein": 15,
+      "carbs": 33,
+      "sugars": 5,
+      "fat": 19,
+      "satfat": 10.4,
+      "fibre": 1.8,
+      "salt": 2.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "beetroot-yoghurt-dip",
@@ -4027,7 +5276,19 @@
       "batch": false,
       "text": "Keep in a covered tub in the fridge for up to 3 days. Don't freeze (it contains yoghurt)."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 225,
+      "protein": 9,
+      "carbs": 36,
+      "sugars": 8,
+      "fat": 5,
+      "satfat": 2.7,
+      "fibre": 3.3,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "soft-cheddar-breadsticks",
@@ -4071,7 +5332,19 @@
       "batch": true,
       "text": "Makes 12. Keep in an airtight tin for up to 2 days, or freeze in a bag for up to 3 months. Defrost at room temperature and warm briefly in the oven."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 250,
+      "protein": 11,
+      "carbs": 31,
+      "sugars": 3,
+      "fat": 9,
+      "satfat": 5.1,
+      "fibre": 1.7,
+      "salt": 0.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "peanut-butter-oat-bites",
@@ -4108,7 +5381,19 @@
       "batch": true,
       "text": "Keep in a covered tub in the fridge for up to 4 days, or freeze for up to 3 months and defrost in the fridge or a lunchbox for an hour."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 190,
+      "protein": 6,
+      "carbs": 19,
+      "sugars": 10,
+      "fat": 9,
+      "satfat": 1.9,
+      "fibre": 2.4,
+      "salt": 0.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "banana-custard-pots",
@@ -4146,7 +5431,19 @@
       "batch": false,
       "text": "Cover the surface with baking paper to stop a skin forming, then cool and keep in the fridge for up to 1 day (the banana darkens after that). Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 200,
+      "protein": 6,
+      "carbs": 27,
+      "sugars": 23,
+      "fat": 8,
+      "satfat": 3.5,
+      "fibre": 0.8,
+      "salt": 0.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "peach-vanilla-smoothie",
@@ -4182,7 +5479,19 @@
       "batch": false,
       "text": "Best drunk straight away. Keep in a sealed bottle in the fridge for up to 1 day and shake well before drinking."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 155,
+      "protein": 8,
+      "carbs": 24,
+      "sugars": 24,
+      "fat": 4,
+      "satfat": 2.1,
+      "fibre": 1.0,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "warm-golden-milk",
@@ -4221,7 +5530,19 @@
       "batch": false,
       "text": "Best made fresh. Mix a larger batch of the dry spices and keep in a jar for quick mugs."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 185,
+      "protein": 11,
+      "carbs": 24,
+      "sugars": 23,
+      "fat": 5,
+      "satfat": 3.4,
+      "fibre": 0.7,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "passata-pitta-pizzas",
@@ -4252,6 +5573,7 @@
       "Add a few slices of peeled, very soft roasted red pepper"
     ],
     "nutrients": [
+      "protein",
       "calcium"
     ],
     "storage": {
@@ -4260,7 +5582,19 @@
       "batch": false,
       "text": "Cool and keep covered in the fridge for up to 2 days. Nice cold in a lunchbox, or reheat in the oven until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 270,
+      "protein": 13,
+      "carbs": 31,
+      "sugars": 3,
+      "fat": 10,
+      "satfat": 4.9,
+      "fibre": 2.4,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "honey-yoghurt-panna-cotta",
@@ -4300,7 +5634,19 @@
       "batch": false,
       "text": "Keep covered in the fridge for up to 3 days. Don't freeze (it contains yoghurt)."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 195,
+      "protein": 6,
+      "carbs": 23,
+      "sugars": 23,
+      "fat": 9,
+      "satfat": 5.7,
+      "fibre": 0.4,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "mild-devilled-eggs",
@@ -4341,7 +5687,19 @@
       "batch": false,
       "text": "Keep covered in the fridge and eat within 1 day. Don't freeze (contains egg and mayonnaise)."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 270,
+      "protein": 15,
+      "carbs": 1,
+      "sugars": 1,
+      "fat": 23,
+      "satfat": 4.0,
+      "fibre": 0.1,
+      "salt": 1.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lemon-iced-fairy-cakes",
@@ -4382,7 +5740,19 @@
       "batch": true,
       "text": "Keep in an airtight tin for up to 3 days. Freeze un-iced cakes for up to 3 months, defrost at room temperature, then ice."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 185,
+      "protein": 2,
+      "carbs": 24,
+      "sugars": 18,
+      "fat": 9,
+      "satfat": 5.0,
+      "fibre": 0.3,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "silky-courgette-basil-soup",
@@ -4424,7 +5794,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze in portions for 3 months (freeze before adding cheese). Defrost in the fridge overnight and reheat until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 145,
+      "protein": 7,
+      "carbs": 16,
+      "sugars": 6,
+      "fat": 6,
+      "satfat": 1.8,
+      "fibre": 3.9,
+      "salt": 2.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "silky-greek-fava-soup",
@@ -4469,7 +5851,19 @@
       "batch": true,
       "text": "Thickens as it stands. Fridge for 3 days or freeze in portions for 3 months. Defrost overnight in the fridge and reheat until piping hot, adding a splash of water."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 275,
+      "protein": 15,
+      "carbs": 39,
+      "sugars": 6,
+      "fat": 5,
+      "satfat": 1.0,
+      "fibre": 8.8,
+      "salt": 2.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "mild-spiced-parsnip-apple-soup",
@@ -4509,7 +5903,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze in portions for 3 months. Defrost in the fridge overnight and reheat until piping hot, whisking if it has separated."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 170,
+      "protein": 4,
+      "carbs": 26,
+      "sugars": 15,
+      "fat": 6,
+      "satfat": 2.6,
+      "fibre": 7.7,
+      "salt": 2.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "sweet-potato-white-miso-soup",
@@ -4547,7 +5953,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze in portions for 3 months. Defrost overnight in the fridge and reheat gently until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 220,
+      "protein": 4,
+      "carbs": 41,
+      "sugars": 13,
+      "fat": 5,
+      "satfat": 0.7,
+      "fibre": 6.2,
+      "salt": 3.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "chinese-tomato-egg-soup",
@@ -4593,7 +6011,19 @@
       "batch": false,
       "text": "Best eaten fresh. Cool quickly and keep in the fridge for up to 1 day; reheat gently until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 195,
+      "protein": 13,
+      "carbs": 14,
+      "sugars": 9,
+      "fat": 9,
+      "satfat": 2.2,
+      "fibre": 2.1,
+      "salt": 3.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "celeriac-potato-veloute",
@@ -4634,7 +6064,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze for 3 months (best frozen before the crème fraîche goes in). Defrost in the fridge overnight and reheat until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 165,
+      "protein": 5,
+      "carbs": 17,
+      "sugars": 7,
+      "fat": 8,
+      "satfat": 4.6,
+      "fibre": 6.1,
+      "salt": 2.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "spanish-garlic-bread-soup",
@@ -4667,7 +6109,6 @@
       "Use unsmoked sweet paprika for a milder flavour"
     ],
     "nutrients": [
-      "protein",
       "b12"
     ],
     "storage": {
@@ -4676,7 +6117,19 @@
       "batch": false,
       "text": "Best eaten straight away. Leftovers keep in the fridge for 1 day; reheat gently until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 215,
+      "protein": 10,
+      "carbs": 14,
+      "sugars": 2,
+      "fat": 13,
+      "satfat": 2.7,
+      "fibre": 1.3,
+      "salt": 2.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "polish-dill-potato-soup",
@@ -4719,7 +6172,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze for 2 months, ideally before adding the soured cream. Potato soups can thicken; reheat until piping hot and whisk in a splash of milk."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 240,
+      "protein": 7,
+      "carbs": 41,
+      "sugars": 8,
+      "fat": 6,
+      "satfat": 3.6,
+      "fibre": 4.3,
+      "salt": 2.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "caribbean-red-lentil-coconut-soup",
@@ -4765,7 +6230,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze in portions for 3 months. Defrost overnight in the fridge and reheat until piping hot with a splash of water."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 310,
+      "protein": 14,
+      "carbs": 35,
+      "sugars": 8,
+      "fat": 12,
+      "satfat": 7.0,
+      "fibre": 7.8,
+      "salt": 2.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "smooth-chickpea-tahini-soup",
@@ -4800,7 +6277,6 @@
       "Swirl in 1 tbsp Greek yoghurt per bowl"
     ],
     "nutrients": [
-      "protein",
       "iron"
     ],
     "storage": {
@@ -4809,7 +6285,19 @@
       "batch": true,
       "text": "Thickens on standing. Fridge for 3 days or freeze in portions for 3 months. Reheat until piping hot, loosening with a little water."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 255,
+      "protein": 11,
+      "carbs": 23,
+      "sugars": 4,
+      "fat": 12,
+      "satfat": 1.7,
+      "fibre": 8.6,
+      "salt": 2.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "veggie-croque-monsieur",
@@ -4852,7 +6340,19 @@
       "batch": false,
       "text": "Best eaten hot, straight from the grill. The sauce can be made a day ahead and kept in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 495,
+      "protein": 20,
+      "carbs": 43,
+      "sugars": 7,
+      "fat": 27,
+      "satfat": 16.4,
+      "fibre": 2.3,
+      "salt": 1.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "aloo-paratha",
@@ -4896,7 +6396,19 @@
       "batch": true,
       "text": "Cool, then fridge for 2 days or freeze between sheets of baking paper for 2 months. Reheat from frozen in a dry pan over a low heat until piping hot in the middle."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 400,
+      "protein": 10,
+      "carbs": 70,
+      "sugars": 3,
+      "fat": 9,
+      "satfat": 3.3,
+      "fibre": 4.3,
+      "salt": 0.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "mild-japanese-curry-rice",
@@ -4938,14 +6450,28 @@
       "Use peeled sweet potato instead of carrot",
       "Serve over soft udon noodles instead of rice"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 1,
       "freezerMonths": 0,
       "batch": true,
       "text": "Cool the rice and curry within 1 hour, cover and refrigerate. Eat within 1 day and reheat only once, until piping hot. Don't freeze the rice. To batch cook, keep the curry separate from the rice: it then freezes for up to 3 months."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 530,
+      "protein": 16,
+      "carbs": 84,
+      "sugars": 12,
+      "fat": 15,
+      "satfat": 5.1,
+      "fibre": 6.0,
+      "salt": 2.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "steamed-tofu-carrot-dumplings",
@@ -4981,14 +6507,28 @@
       "Use finely chopped, well-squeezed cooked spinach instead of courgette",
       "Use peeled, finely grated sweet potato instead of the carrot"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 2,
       "batch": true,
       "text": "Freeze uncooked dumplings on a lined tray, then bag them, for up to 2 months; steam from frozen for 12–14 minutes until piping hot. Cooked dumplings keep in the fridge for 2 days."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 240,
+      "protein": 12,
+      "carbs": 29,
+      "sugars": 5,
+      "fat": 8,
+      "satfat": 1.0,
+      "fibre": 3.0,
+      "salt": 1.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "korean-style-vegetable-pancake",
@@ -5024,14 +6564,28 @@
       "Use peeled, grated sweet potato instead of carrot",
       "Add 50g finely crumbled firm tofu to the batter for extra protein"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 1,
       "batch": false,
       "text": "Best fresh. Cool, then fridge for 2 days or freeze for 1 month; reheat in a dry pan or the oven until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 410,
+      "protein": 12,
+      "carbs": 52,
+      "sugars": 10,
+      "fat": 17,
+      "satfat": 1.9,
+      "fibre": 4.6,
+      "salt": 2.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "baked-falafel-soft-pitta",
@@ -5081,7 +6635,19 @@
       "batch": true,
       "text": "Baked falafel keep in the fridge for 3 days or freeze for 3 months; reheat in the oven until piping hot. The yoghurt sauce keeps 2 days in the fridge and shouldn't be frozen."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 455,
+      "protein": 19,
+      "carbs": 59,
+      "sugars": 7,
+      "fat": 14,
+      "satfat": 2.4,
+      "fibre": 10.1,
+      "salt": 1.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "pisto-with-soft-eggs",
@@ -5127,7 +6693,19 @@
       "batch": true,
       "text": "Make a double batch of the pisto without eggs: fridge for 3 days or freeze for 3 months. Reheat until piping hot and cook fresh eggs in it. Leftovers with egg keep 1 day in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 470,
+      "protein": 26,
+      "carbs": 46,
+      "sugars": 27,
+      "fat": 20,
+      "satfat": 4.5,
+      "fibre": 10.0,
+      "salt": 1.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "polish-potato-pancakes",
@@ -5166,7 +6744,19 @@
       "batch": true,
       "text": "Cool, then fridge for 2 days or freeze between baking paper for 2 months. Reheat on a tray in a 200°C (180°C fan) oven for 10–15 minutes until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 325,
+      "protein": 9,
+      "carbs": 50,
+      "sugars": 4,
+      "fat": 12,
+      "satfat": 5.1,
+      "fibre": 4.5,
+      "salt": 0.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "creamy-leek-cheddar-crepes",
@@ -5211,7 +6801,19 @@
       "batch": true,
       "text": "Plain crêpes freeze well interleaved with baking paper for 2 months. Filled crêpes keep in the fridge for 2 days; reheat in the oven until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 385,
+      "protein": 18,
+      "carbs": 33,
+      "sugars": 8,
+      "fat": 21,
+      "satfat": 11.9,
+      "fibre": 2.8,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "mild-caribbean-lentil-patties",
@@ -5252,14 +6854,28 @@
       "Use shop-bought shortcrust pastry with a short ingredient list to save time",
       "Use peeled butternut squash instead of sweet potato"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 3,
       "freezerMonths": 3,
       "batch": true,
       "text": "Cool and fridge for 3 days, or freeze baked patties for 3 months. Reheat from frozen at 180°C (160°C fan) for 20–25 minutes until piping hot in the middle. Good cold in a lunchbox."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 730,
+      "protein": 17,
+      "carbs": 80,
+      "sugars": 6,
+      "fat": 37,
+      "satfat": 20.5,
+      "fibre": 7.8,
+      "salt": 2.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "soft-baked-potato-cottage-cheese-leek",
@@ -5299,7 +6915,19 @@
       "batch": false,
       "text": "Best freshly made. The cooked leeks keep in the fridge for 2 days; leftover potato can be kept 2 days and reheated until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 325,
+      "protein": 17,
+      "carbs": 42,
+      "sugars": 5,
+      "fat": 10,
+      "satfat": 6.2,
+      "fibre": 4.5,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "sweet-potato-feta-frittata",
@@ -5344,7 +6972,19 @@
       "batch": true,
       "text": "Cool quickly, then keep covered in the fridge for up to 2 days; eat cold or reheat until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 310,
+      "protein": 17,
+      "carbs": 23,
+      "sugars": 8,
+      "fat": 17,
+      "satfat": 6.5,
+      "fibre": 3.5,
+      "salt": 1.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "peanut-noodles-soft-tofu",
@@ -5390,7 +7030,19 @@
       "batch": false,
       "text": "Cool quickly and keep in the fridge for up to 2 days. Eat cold from a lunchbox (add a splash of water to loosen) or reheat until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 680,
+      "protein": 28,
+      "carbs": 78,
+      "sugars": 15,
+      "fat": 27,
+      "satfat": 4.0,
+      "fibre": 6.6,
+      "salt": 2.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "paneer-bhurji-wrap",
@@ -5439,7 +7091,19 @@
       "batch": false,
       "text": "The bhurji filling keeps in the fridge for 2 days; reheat until piping hot and wrap in a freshly warmed tortilla. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 685,
+      "protein": 30,
+      "carbs": 47,
+      "sugars": 13,
+      "fat": 41,
+      "satfat": 21.2,
+      "fibre": 3.9,
+      "salt": 1.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "tofu-katsu-curry",
@@ -5494,7 +7158,19 @@
       "batch": true,
       "text": "Make a double batch of the curry sauce: it keeps for 3 days in the fridge or 3 months in the freezer. The baked tofu keeps for 2 days in the fridge; re-crisp in a hot oven. Cool leftover rice within 1 hour, keep in the fridge, eat within 1 day and reheat only once until piping hot. Don't freeze cooked rice."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 690,
+      "protein": 26,
+      "carbs": 99,
+      "sugars": 14,
+      "fat": 21,
+      "satfat": 2.7,
+      "fibre": 6.2,
+      "salt": 2.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "malaysian-tofu-potato-curry",
@@ -5549,7 +7225,21 @@
       "batch": true,
       "text": "Great for batch cooking. Keep the curry in the fridge for 3 days or freeze in portions for 3 months (the potatoes may soften a little). Defrost overnight in the fridge and reheat until piping hot. Cook rice fresh; if you keep leftover rice, cool it within 1 hour, eat within 1 day, reheat once and don't freeze it."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 735,
+      "protein": 24,
+      "carbs": 83,
+      "sugars": 10,
+      "fat": 34,
+      "satfat": 18.0,
+      "fibre": 7.4,
+      "salt": 1.4,
+      "servedWith": [
+        "White rice"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "thai-style-coconut-noodles-tofu",
@@ -5602,7 +7292,19 @@
       "batch": false,
       "text": "Best eaten fresh. Keep leftover broth and noodles separately in the fridge for up to 2 days and reheat the broth until piping hot before pouring over. Not suitable for freezing."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 545,
+      "protein": 21,
+      "carbs": 63,
+      "sugars": 6,
+      "fat": 23,
+      "satfat": 10.3,
+      "fibre": 5.0,
+      "salt": 1.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "aloo-paneer-curry",
@@ -5654,7 +7356,21 @@
       "batch": true,
       "text": "Keeps for 3 days in the fridge. To freeze, cool before adding the cream and freeze in portions for up to 3 months; defrost in the fridge, reheat until piping hot, then stir in the cream. If serving with rice, cool any leftover rice within 1 hour, eat within 1 day, reheat once and don't freeze it."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 700,
+      "protein": 24,
+      "carbs": 81,
+      "sugars": 14,
+      "fat": 30,
+      "satfat": 14.3,
+      "fibre": 7.3,
+      "salt": 1.4,
+      "servedWith": [
+        "Warm plain naan or white rice"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "one-pot-tomato-orzo-mozzarella",
@@ -5698,7 +7414,19 @@
       "batch": true,
       "text": "Keeps for 2 days in the fridge. Freeze portions (ideally before adding the mozzarella) for up to 2 months. Defrost in the fridge and reheat with a splash of water until piping hot, adding fresh mozzarella if you like."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 500,
+      "protein": 19,
+      "carbs": 63,
+      "sugars": 10,
+      "fat": 18,
+      "satfat": 9.7,
+      "fibre": 4.7,
+      "salt": 2.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "moong-dal-khichdi",
@@ -5731,16 +7459,26 @@
       "Use red lentils instead of moong dal",
       "Swap the carrot for peeled, diced courgette"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 1,
       "freezerMonths": 0,
       "batch": false,
       "text": "Contains cooked rice: cool within 1 hour, keep in the fridge and eat within 1 day. Reheat only once, with a splash of water, until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 255,
+      "protein": 9,
+      "carbs": 45,
+      "sugars": 2,
+      "fat": 4,
+      "satfat": 2.3,
+      "fibre": 3.0,
+      "salt": 0.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "steamed-silken-tofu-ginger-soy",
@@ -5783,7 +7521,19 @@
       "batch": false,
       "text": "Best eaten straight away. If you keep leftover rice, cool it within 1 hour, keep in the fridge, eat within 1 day and reheat only once until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 405,
+      "protein": 16,
+      "carbs": 66,
+      "sugars": 5,
+      "fat": 7,
+      "satfat": 1.2,
+      "fibre": 2.2,
+      "salt": 2.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "gnocchi-courgette-ricotta-sauce",
@@ -5818,14 +7568,28 @@
       "Toss the sauce through small pasta shapes instead of gnocchi",
       "Use cream cheese instead of ricotta"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 0,
       "batch": false,
       "text": "Best eaten fresh. Keep leftovers in the fridge for up to 2 days and reheat gently with a splash of water until piping hot. Not suitable for freezing."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 400,
+      "protein": 14,
+      "carbs": 59,
+      "sugars": 4,
+      "fat": 11,
+      "satfat": 4.5,
+      "fibre": 5.0,
+      "salt": 2.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "carrot-thyme-risotto",
@@ -5865,7 +7629,19 @@
       "batch": false,
       "text": "Contains cooked rice: cool within 1 hour, keep in the fridge and eat within 1 day. Reheat only once, with a splash of stock, until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 355,
+      "protein": 8,
+      "carbs": 58,
+      "sugars": 8,
+      "fat": 10,
+      "satfat": 4.2,
+      "fibre": 3.3,
+      "salt": 2.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "japanese-simmered-tofu-potatoes",
@@ -5911,7 +7687,19 @@
       "batch": false,
       "text": "Keeps for 3 days in the fridge and tastes even better the next day. Reheat until piping hot. Not ideal for freezing as the potatoes and tofu turn spongy."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 350,
+      "protein": 19,
+      "carbs": 41,
+      "sugars": 14,
+      "fat": 12,
+      "satfat": 1.6,
+      "fibre": 6.2,
+      "salt": 3.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lentil-aubergine-moussaka",
@@ -5965,7 +7753,19 @@
       "batch": true,
       "text": "Ideal for batch cooking. Keeps for 3 days in the fridge or freeze whole or in portions for 3 months. Defrost in the fridge overnight and reheat until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 415,
+      "protein": 16,
+      "carbs": 44,
+      "sugars": 12,
+      "fat": 18,
+      "satfat": 7.8,
+      "fibre": 8.0,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "cheese-onion-potato-pie",
@@ -6011,7 +7811,19 @@
       "batch": true,
       "text": "Keeps for 3 days in the fridge. Freeze whole or in slices for up to 3 months, wrapped well. Defrost in the fridge and reheat in the oven until piping hot so the pastry crisps up again."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 660,
+      "protein": 18,
+      "carbs": 65,
+      "sugars": 4,
+      "fat": 37,
+      "satfat": 19.3,
+      "fibre": 4.4,
+      "salt": 1.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "creamy-leek-cheddar-pot-pie",
@@ -6060,7 +7872,19 @@
       "batch": true,
       "text": "Keeps for 3 days in the fridge. The filling freezes well for 3 months: defrost in the fridge, add a fresh pastry lid and bake until piping hot. Reheat leftovers in the oven until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 730,
+      "protein": 22,
+      "carbs": 66,
+      "sugars": 13,
+      "fat": 42,
+      "satfat": 22.2,
+      "fibre": 6.4,
+      "salt": 2.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "smoky-lentil-butter-bean-stew",
@@ -6110,7 +7934,21 @@
       "batch": true,
       "text": "Perfect for batch cooking. Keeps for 3 days in the fridge or freeze in portions for 3 months. Defrost in the fridge and reheat until piping hot, adding a splash of water."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 535,
+      "protein": 22,
+      "carbs": 69,
+      "sugars": 16,
+      "fat": 17,
+      "satfat": 8.5,
+      "fibre": 13.2,
+      "salt": 2.0,
+      "servedWith": [
+        "Soft buttery mash"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "slow-cooker-squash-chickpea-tagine",
@@ -6165,7 +8003,19 @@
       "batch": true,
       "text": "Great for batch cooking. Keep the tagine in the fridge for 3 days or freeze in portions for 3 months; defrost in the fridge and reheat until piping hot. Make the couscous fresh."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 420,
+      "protein": 16,
+      "carbs": 70,
+      "sugars": 15,
+      "fat": 7,
+      "satfat": 2.2,
+      "fibre": 9.8,
+      "salt": 1.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "paneer-tikka-traybake",
@@ -6213,7 +8063,21 @@
       "batch": false,
       "text": "Best eaten fresh. Keep leftovers in the fridge for up to 2 days and reheat in a hot oven until piping hot. Not suitable for freezing."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 870,
+      "protein": 35,
+      "carbs": 79,
+      "sugars": 14,
+      "fat": 46,
+      "satfat": 22.6,
+      "fibre": 6.7,
+      "salt": 1.3,
+      "servedWith": [
+        "Warm plain naan"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "sweet-sour-tofu",
@@ -6261,7 +8125,21 @@
       "batch": false,
       "text": "Keep the tofu and sauce in the fridge for up to 2 days and reheat until piping hot. Cool leftover rice within 1 hour, keep in the fridge, eat within 1 day and reheat only once. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 650,
+      "protein": 25,
+      "carbs": 81,
+      "sugars": 25,
+      "fat": 24,
+      "satfat": 2.8,
+      "fibre": 5.4,
+      "salt": 1.2,
+      "servedWith": [
+        "White rice"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "quick-yoghurt-dough-pizza",
@@ -6305,7 +8183,19 @@
       "batch": false,
       "text": "Keep leftover slices in the fridge for 2 days and reheat in a hot oven until piping hot. Baked, cooled pizzas can be wrapped and frozen for 1 month; reheat from frozen in a hot oven."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 870,
+      "protein": 35,
+      "carbs": 103,
+      "sugars": 12,
+      "fat": 34,
+      "satfat": 20.8,
+      "fibre": 5.8,
+      "salt": 2.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "satay-noodles-tofu",
@@ -6354,7 +8244,19 @@
       "batch": false,
       "text": "Keep leftovers in the fridge for up to 2 days. Reheat with a splash of water until piping hot, or eat cold. Not suitable for freezing."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 610,
+      "protein": 28,
+      "carbs": 62,
+      "sugars": 12,
+      "fat": 26,
+      "satfat": 3.6,
+      "fibre": 6.8,
+      "salt": 1.9,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "leek-cheddar-crustless-quiche",
@@ -6398,7 +8300,19 @@
       "batch": false,
       "text": "Cool quickly, cover and keep in the fridge for up to 2 days. Eat cold or reheat until piping hot. Don't freeze — the egg custard turns watery."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 315,
+      "protein": 21,
+      "carbs": 9,
+      "sugars": 5,
+      "fat": 22,
+      "satfat": 10.9,
+      "fibre": 1.3,
+      "salt": 1.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lentil-stuffed-courgettes",
@@ -6444,7 +8358,19 @@
       "batch": false,
       "text": "Keep leftovers in the fridge for up to 2 days and reheat until piping hot. Don't freeze — the baked courgettes go watery."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 280,
+      "protein": 18,
+      "carbs": 22,
+      "sugars": 9,
+      "fat": 12,
+      "satfat": 6.0,
+      "fibre": 6.4,
+      "salt": 1.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lentil-ricotta-balls-tomato-sauce",
@@ -6493,7 +8419,19 @@
       "batch": true,
       "text": "Freeze the balls in their sauce for up to 3 months; defrost in the fridge and reheat until piping hot. Keeps for 3 days in the fridge. Cook the pasta fresh."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 600,
+      "protein": 26,
+      "carbs": 85,
+      "sugars": 13,
+      "fat": 15,
+      "satfat": 5.0,
+      "fibre": 8.0,
+      "salt": 0.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lentil-potato-casserole-cheesy-dumplings",
@@ -6543,7 +8481,19 @@
       "batch": true,
       "text": "Freeze the casserole without the dumplings in portions for up to 3 months; defrost in the fridge, reheat until piping hot and add freshly made dumplings. Leftovers with dumplings keep for 3 days in the fridge."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 565,
+      "protein": 20,
+      "carbs": 75,
+      "sugars": 12,
+      "fat": 21,
+      "satfat": 10.4,
+      "fibre": 9.8,
+      "salt": 3.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "banana-semolina-breakfast-bowl",
@@ -6583,7 +8533,19 @@
       "batch": false,
       "text": "Best eaten fresh, as it thickens as it stands. Fridge for up to 1 day and reheat with a splash of milk until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 335,
+      "protein": 13,
+      "carbs": 61,
+      "sugars": 37,
+      "fat": 5,
+      "satfat": 3.0,
+      "fibre": 2.3,
+      "salt": 0.3,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "buttery-coddled-eggs",
@@ -6623,7 +8585,19 @@
       "batch": false,
       "text": "Eat straight away; don't keep or freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 255,
+      "protein": 17,
+      "carbs": 12,
+      "sugars": 2,
+      "fat": 15,
+      "satfat": 5.8,
+      "fibre": 0.7,
+      "salt": 1.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "pastina-in-cheesy-broth",
@@ -6662,7 +8636,19 @@
       "batch": false,
       "text": "Best fresh, as the pasta keeps soaking up the broth. Fridge for up to 1 day and reheat gently with a splash of water until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 310,
+      "protein": 14,
+      "carbs": 31,
+      "sugars": 3,
+      "fat": 14,
+      "satfat": 7.5,
+      "fibre": 1.6,
+      "salt": 3.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "silky-sweet-potato-ginger-soup",
@@ -6699,7 +8685,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze in portions for 3 months. Defrost in the fridge and reheat until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 225,
+      "protein": 4,
+      "carbs": 41,
+      "sugars": 14,
+      "fat": 5,
+      "satfat": 1.2,
+      "fibre": 6.2,
+      "salt": 2.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "gnocchi-silky-carrot-sauce",
@@ -6730,14 +8728,28 @@
       "Use peeled butternut squash instead of carrots",
       "Serve the sauce with soft-cooked small pasta shapes instead of gnocchi"
     ],
-    "nutrients": [],
+    "nutrients": [
+      "protein"
+    ],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 3,
       "batch": false,
       "text": "Fridge leftovers for up to 2 days and reheat until piping hot. The carrot sauce on its own freezes for 3 months; cook the gnocchi fresh."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 525,
+      "protein": 15,
+      "carbs": 95,
+      "sugars": 13,
+      "fat": 9,
+      "satfat": 5.0,
+      "fibre": 8.7,
+      "salt": 4.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "soft-rice-noodles-ginger-broth-egg",
@@ -6778,7 +8790,19 @@
       "batch": false,
       "text": "Best eaten fresh as the noodles soften further. Fridge for up to 1 day and reheat until piping hot. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 315,
+      "protein": 12,
+      "carbs": 48,
+      "sugars": 5,
+      "fat": 8,
+      "satfat": 2.2,
+      "fibre": 2.3,
+      "salt": 5.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "smooth-yellow-moong-dal",
@@ -6821,7 +8845,21 @@
       "batch": true,
       "text": "The dal keeps 3 days in the fridge or freezes for 3 months; reheat until piping hot. If serving with rice, cool leftover rice within 1 hour, fridge and eat within 1 day, reheat only once and don't freeze it."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 400,
+      "protein": 16,
+      "carbs": 72,
+      "sugars": 1,
+      "fat": 4,
+      "satfat": 2.1,
+      "fibre": 4.7,
+      "salt": 0.8,
+      "servedWith": [
+        "White rice or soft white chapati"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "warm-honey-cinnamon-milk",
@@ -6860,7 +8898,19 @@
       "batch": false,
       "text": "Make fresh each time."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 170,
+      "protein": 12,
+      "carbs": 22,
+      "sugars": 22,
+      "fat": 4,
+      "satfat": 2.9,
+      "fibre": 0.2,
+      "salt": 0.4,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "silky-apple-pear-puree",
@@ -6894,7 +8944,19 @@
       "batch": true,
       "text": "Fridge in a covered pot for 3 days, or freeze in ice-cube trays or small pots for 3 months."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 55,
+      "protein": 0,
+      "carbs": 13,
+      "sugars": 13,
+      "fat": 0,
+      "satfat": 0.0,
+      "fibre": 2.9,
+      "salt": 0.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "pear-ginger-crumble",
@@ -6932,7 +8994,19 @@
       "batch": true,
       "text": "Fridge for 3 days or freeze (cooked or uncooked) for 3 months. Reheat until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 305,
+      "protein": 3,
+      "carbs": 49,
+      "sugars": 31,
+      "fat": 11,
+      "satfat": 6.6,
+      "fibre": 4.8,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "victoria-sponge-seedless-jam",
@@ -6975,7 +9049,19 @@
       "batch": false,
       "text": "Keep in an airtight tin in a cool place for 2 days. Unfilled sponges freeze, well wrapped, for 2 months; defrost and fill on the day."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 510,
+      "protein": 5,
+      "carbs": 61,
+      "sugars": 47,
+      "fat": 27,
+      "satfat": 16.4,
+      "fibre": 0.8,
+      "salt": 0.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "golden-syrup-sponge-pudding",
@@ -7013,7 +9099,19 @@
       "batch": false,
       "text": "Fridge for 2 days, or freeze portions for 2 months. Reheat in the microwave in short bursts until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 470,
+      "protein": 6,
+      "carbs": 56,
+      "sugars": 39,
+      "fat": 24,
+      "satfat": 14.3,
+      "fibre": 0.9,
+      "salt": 0.8,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "vanilla-blancmange",
@@ -7051,7 +9149,19 @@
       "batch": false,
       "text": "Keep covered in the fridge for 2 days. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 160,
+      "protein": 5,
+      "carbs": 29,
+      "sugars": 20,
+      "fat": 3,
+      "satfat": 1.7,
+      "fibre": 0.0,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "vanilla-tapioca-pudding",
@@ -7089,7 +9199,19 @@
       "batch": false,
       "text": "Fridge covered for 2 days; it thickens when cold, so loosen with a splash of milk. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 170,
+      "protein": 5,
+      "carbs": 32,
+      "sugars": 17,
+      "fat": 3,
+      "satfat": 1.7,
+      "fibre": 0.1,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "mango-yoghurt-fool",
@@ -7127,7 +9249,19 @@
       "batch": false,
       "text": "Keep covered in the fridge for up to 2 days. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 285,
+      "protein": 4,
+      "carbs": 13,
+      "sugars": 13,
+      "fat": 24,
+      "satfat": 15.2,
+      "fibre": 0.6,
+      "salt": 0.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "lemon-drizzle-loaf",
@@ -7167,7 +9301,19 @@
       "batch": false,
       "text": "Keep in an airtight tin for 3 days, or freeze slices, wrapped, for 2 months."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 320,
+      "protein": 4,
+      "carbs": 39,
+      "sugars": 26,
+      "fat": 16,
+      "satfat": 9.8,
+      "fibre": 0.6,
+      "salt": 0.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "soft-spiced-carrot-cake",
@@ -7211,7 +9357,19 @@
       "batch": false,
       "text": "With the frosting, keep covered in the fridge for 3 days. The un-iced cake freezes, wrapped, for 2 months."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 345,
+      "protein": 4,
+      "carbs": 37,
+      "sugars": 25,
+      "fat": 20,
+      "satfat": 6.2,
+      "fibre": 1.2,
+      "salt": 0.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "soft-peanut-butter-cookies",
@@ -7252,7 +9410,19 @@
       "batch": true,
       "text": "Keep in an airtight tin for 3 days. Freeze baked cookies, or balls of raw dough, for 3 months; bake dough from frozen for 1–2 minutes longer."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 145,
+      "protein": 4,
+      "carbs": 14,
+      "sugars": 7,
+      "fat": 8,
+      "satfat": 3.2,
+      "fibre": 0.9,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "peach-frozen-yoghurt",
@@ -7286,7 +9456,19 @@
       "batch": false,
       "text": "Freeze in a lidded tub for up to 1 month; soften for 10–15 minutes before scooping. Don't refreeze once melted."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 180,
+      "protein": 4,
+      "carbs": 28,
+      "sugars": 28,
+      "fat": 6,
+      "satfat": 4.2,
+      "fibre": 1.0,
+      "salt": 0.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "honey-vanilla-baked-pears",
@@ -7322,7 +9504,19 @@
       "batch": false,
       "text": "Fridge in their juices for 3 days; eat cold or reheat gently until hot. Not suited to freezing."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 105,
+      "protein": 0,
+      "carbs": 25,
+      "sugars": 25,
+      "fat": 0,
+      "satfat": 0.0,
+      "fibre": 3.8,
+      "salt": 0.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "no-bake-vanilla-cheesecake-pots",
@@ -7362,7 +9556,19 @@
       "batch": false,
       "text": "Keep covered in the fridge for up to 2 days. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 430,
+      "protein": 6,
+      "carbs": 42,
+      "sugars": 31,
+      "fat": 26,
+      "satfat": 17.2,
+      "fibre": 0.7,
+      "salt": 0.7,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "apricot-white-chocolate-mousse",
@@ -7398,7 +9604,19 @@
       "batch": false,
       "text": "Keep covered in the fridge for up to 2 days. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 185,
+      "protein": 6,
+      "carbs": 22,
+      "sugars": 21,
+      "fat": 8,
+      "satfat": 4.0,
+      "fibre": 1.0,
+      "salt": 0.0,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "eves-pudding-with-custard",
@@ -7445,7 +9663,19 @@
       "batch": false,
       "text": "Fridge the pudding and custard separately for up to 2 days; reheat until piping hot. The pudding (without custard) freezes for 2 months; don't freeze the custard."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 440,
+      "protein": 9,
+      "carbs": 56,
+      "sugars": 41,
+      "fat": 20,
+      "satfat": 11.2,
+      "fibre": 2.1,
+      "salt": 0.6,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "chocolate-self-saucing-pudding",
@@ -7488,7 +9718,19 @@
       "batch": false,
       "text": "Fridge for up to 2 days and reheat in the microwave until piping hot (the sauce soaks in, so it becomes more fudgy). Not suited to freezing."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 360,
+      "protein": 6,
+      "carbs": 53,
+      "sugars": 35,
+      "fat": 13,
+      "satfat": 8.0,
+      "fibre": 2.5,
+      "salt": 0.5,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "peach-custard-sunday-trifle",
@@ -7532,7 +9774,19 @@
       "batch": false,
       "text": "Keep covered in the fridge and eat within 2 days. Don't freeze."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 465,
+      "protein": 7,
+      "carbs": 51,
+      "sugars": 42,
+      "fat": 26,
+      "satfat": 15.2,
+      "fibre": 1.2,
+      "salt": 0.2,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "persian-aubergine-split-pea-stew",
@@ -7585,7 +9839,19 @@
       "batch": true,
       "text": "The stew keeps for 3 days in the fridge or 3 months in the freezer; defrost in the fridge and reheat until piping hot. Cook rice fresh: if you keep leftover rice, cool it within 1 hour, eat within 1 day, reheat only once and don't freeze it."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 620,
+      "protein": 22,
+      "carbs": 96,
+      "sugars": 16,
+      "fat": 14,
+      "satfat": 5.1,
+      "fibre": 10.9,
+      "salt": 2.1,
+      "servedWith": [],
+      "complete": true
+    }
   },
   {
     "id": "baked-glamorgan-sausages",
@@ -7633,7 +9899,21 @@
       "batch": true,
       "text": "Freeze uncooked sausages on a lined tray, then bag up and keep for 3 months; bake from frozen for 30–35 minutes until piping hot in the middle. Cooked sausages keep in the fridge for 2 days; reheat in the oven until piping hot."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 615,
+      "protein": 21,
+      "carbs": 58,
+      "sugars": 5,
+      "fat": 34,
+      "satfat": 16.4,
+      "fibre": 4.7,
+      "salt": 2.0,
+      "servedWith": [
+        "Buttery mash and gravy"
+      ],
+      "complete": true
+    }
   },
   {
     "id": "jam-bread-butter-pudding",
@@ -7674,6 +9954,18 @@
       "batch": false,
       "text": "Cool quickly, cover and keep in the fridge for up to 2 days. Reheat until piping hot. Don't freeze — the egg custard turns watery."
     },
-    "image": true
+    "image": true,
+    "nutrition": {
+      "kcal": 320,
+      "protein": 8,
+      "carbs": 32,
+      "sugars": 20,
+      "fat": 18,
+      "satfat": 10.2,
+      "fibre": 0.9,
+      "salt": 0.5,
+      "servedWith": [],
+      "complete": true
+    }
   }
 ]

@@ -36,7 +36,7 @@ def check(r, ids, titles):
     if not re.fullmatch(r'[a-z0-9]+(-[a-z0-9]+)*', r.get('id', '')): hard.append('bad id')
     if r['id'] in ids: hard.append('duplicate id')
     if r['title'].lower() in titles: hard.append('duplicate title')
-    if r['meal'] not in ('breakfast', 'lunch', 'dinner', 'snack'): hard.append('bad meal')
+    if r['meal'] not in ('breakfast', 'lunch', 'dinner', 'snack', 'dessert'): hard.append('bad meal')
     if r['texture'] not in ('smooth', 'soft', 'regular'): hard.append('bad texture')
     if not isinstance(r['gentle'], bool): hard.append('gentle not bool')
     if not (isinstance(r['time'], int) and 1 <= r['time'] <= 600): hard.append('bad time')

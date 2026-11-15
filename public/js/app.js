@@ -78,7 +78,7 @@ const save = {
 store.onError = () => toast('Couldn’t save — your phone’s storage may be full.');
 
 // ---------- Constants ----------
-const MEALS = [['all', 'All'], ['breakfast', 'Breakfast'], ['lunch', 'Lunch'], ['dinner', 'Dinner'], ['snack', 'Snacks & sweet']];
+const MEALS = [['all', 'All'], ['breakfast', 'Breakfast'], ['lunch', 'Lunch'], ['dinner', 'Dinner'], ['dessert', 'Desserts'], ['snack', 'Snacks & bakes']];
 const FILTERS = [
   ['quick', '⏱ 20 min or less', (r) => r.time <= 20],
   ['batch', '🍱 Batch cook', (r) => r.storage?.batch],
@@ -97,7 +97,7 @@ const TEXTURES = {
 const NUTRIENT_LABEL = { protein: 'Protein', iron: 'Iron', calcium: 'Calcium', b12: 'Vitamin B12' };
 const DAYS = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
 const DAY_NAMES = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
-const EMOJI = { breakfast: '🥣', lunch: '🥪', dinner: '🍲', snack: '🍮' };
+const EMOJI = { breakfast: '🥣', lunch: '🥪', dinner: '🍲', dessert: '🍮', snack: '🧁' };
 const SAT_LABEL = { good: '😊 Sat well', ok: '😐 OK', bad: '😣 Didn’t sit well' };
 const DISCLAIMER = 'Recipe ideas only, not medical advice. Everyone’s Crohn’s is different, so check changes to your diet with your IBD team or dietitian.';
 const RULES = [

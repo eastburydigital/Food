@@ -1294,7 +1294,7 @@
   {
     "id": "stewed-apple-custard",
     "title": "Stewed apple & custard",
-    "meal": "snack",
+    "meal": "dessert",
     "gentle": true,
     "time": 20,
     "serves": 4,
@@ -1331,7 +1331,7 @@
   {
     "id": "rice-pudding",
     "title": "Creamy rice pudding",
-    "meal": "snack",
+    "meal": "dessert",
     "gentle": true,
     "time": 50,
     "serves": 4,
@@ -2389,7 +2389,7 @@
   {
     "id": "chocolate-tofu-pots",
     "title": "Silky chocolate pots",
-    "meal": "snack",
+    "meal": "dessert",
     "gentle": false,
     "time": 10,
     "serves": 4,
@@ -2423,7 +2423,7 @@
   {
     "id": "banana-nice-cream",
     "title": "Banana & peanut butter ice cream",
-    "meal": "snack",
+    "meal": "dessert",
     "gentle": true,
     "time": 5,
     "serves": 2,
@@ -2454,7 +2454,7 @@
   {
     "id": "baked-egg-custard",
     "title": "Baked egg custard",
-    "meal": "snack",
+    "meal": "dessert",
     "gentle": true,
     "time": 50,
     "serves": 4,
@@ -2494,7 +2494,7 @@
   {
     "id": "semolina-pudding",
     "title": "Semolina pudding with jam",
-    "meal": "snack",
+    "meal": "dessert",
     "gentle": true,
     "time": 15,
     "serves": 3,
@@ -2962,7 +2962,7 @@
   {
     "id": "lemon-posset",
     "title": "Lemon posset",
-    "meal": "snack",
+    "meal": "dessert",
     "gentle": false,
     "time": 10,
     "serves": 4,

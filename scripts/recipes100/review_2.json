@@ -6,7 +6,7 @@
     "gentle": false,
     "time": 20,
     "serves": 2,
-    "texture": "soft",
+    "texture": "regular",
     "summary": "Crumbled paneer cooked with soft onion, ginger and passata in gentle spices, rolled up warm in a soft white flatbread with yoghurt.",
     "ingredients": [
       "1 tbsp neutral oil",
@@ -17,6 +17,8 @@
       "1 tsp mild curry powder",
       "4 tbsp passata",
       "225g paneer, finely crumbled or grated",
+      "1 tsp lemon juice",
+      "Salt",
       "2 tbsp milk",
       "1 tbsp coriander, very finely chopped (optional)",
       "2 large soft white flour tortillas or flatbreads",
@@ -25,7 +27,7 @@
     "steps": [
       "Warm the oil in a frying pan and cook the onion gently for 10 minutes until very soft. Add the garlic, ginger, turmeric and curry powder for 1 minute.",
       "Stir in the passata and cook for 2 minutes.",
-      "Add the paneer and milk and cook for 3–4 minutes, stirring, until hot and soft. Stir in the coriander, if using.",
+      "Add the paneer and milk and cook for 3–4 minutes, stirring, until hot and soft. Stir in the lemon juice and coriander, if using, and season with salt.",
       "Warm the tortillas in a dry pan for 20 seconds each side.",
       "Spoon the paneer down the middle of each, add a spoonful of yoghurt and roll up."
     ],
@@ -80,9 +82,9 @@
       "Stir in the curry powder and the 1 tbsp flour, then gradually add the stock, grated apple, soy and honey. Simmer for 15 minutes until the carrots are very soft.",
       "Blend the sauce until completely smooth, adding a splash of water if it is too thick.",
       "Cook the rice according to the packet instructions.",
-      "Slice the tofu and serve on the rice with the sauce poured alongside."
+      "Slice the tofu, lay it on the rice and spoon some of the sauce over so the crumb softens a little; serve the rest alongside."
     ],
-    "tip": "The sauce is blended until silky, so there are no pieces of onion or carrot to chew. Baking rather than deep-frying keeps the coating crisp without being greasy.",
+    "tip": "The sauce is blended until silky, so there are no pieces of onion or carrot to chew. Spooning sauce over the baked crumb softens it, and chew each mouthful well.",
     "swaps": [
       "Use thick slices of halloumi instead of tofu (skip the egg wash and just dust in flour and panko)",
       "Serve the sauce over soft udon noodles instead of rice"
@@ -110,7 +112,7 @@
     "summary": "A fragrant, mild coconut curry with lemongrass, turmeric and warm spices, inspired by Malaysian kari.",
     "ingredients": [
       "1 onion, roughly chopped",
-      "3 garlic cloves",
+      "3 garlic cloves, peeled",
       "1 thumb-sized piece fresh ginger, peeled",
       "2 tbsp vegetable oil",
       "1 lemongrass stalk, bashed with a rolling pin",
@@ -119,7 +121,7 @@
       "1 tbsp mild curry powder",
       "1 tsp ground turmeric",
       "600g potatoes, peeled and cut into 3cm chunks",
-      "2 carrots, peeled and sliced",
+      "2 carrots, peeled and thinly sliced",
       "400ml tin coconut milk",
       "300ml vegetable stock",
       "400g firm tofu, pressed and cubed",
@@ -168,7 +170,7 @@
       "1 lemongrass stalk, bashed with a rolling pin",
       "2 garlic cloves, crushed",
       "1 tbsp grated fresh ginger",
-      "Small bunch fresh coriander, stalks very finely chopped, leaves very finely chopped (optional)",
+      "1 small bunch fresh coriander, stalks very finely chopped (leaves very finely chopped, optional)",
       "1 tsp ground turmeric",
       "1 tsp ground coriander",
       "400ml tin light coconut milk",
@@ -186,7 +188,7 @@
       "Stir in the turmeric and ground coriander, then pour in the coconut milk and stock. Simmer for 5 minutes.",
       "Add the tofu and courgette and simmer for 8 minutes until the courgette is very soft.",
       "Stir in the spinach until wilted, then season with the soy, sugar and lime juice. Remove the lemongrass.",
-      "Divide the noodles between bowls, ladle over the broth and scatter with the coriander leaves if you like."
+      "Divide the noodles between bowls, ladle over the broth and scatter with a little very finely chopped coriander leaf, if you like."
     ],
     "tip": "Shop-bought Thai curry pastes often contain chilli and shrimp paste, so this builds the flavour from lemongrass, ginger and lime instead. Cooking the coriander stalks keeps their flavour without any raw leaves.",
     "swaps": [
@@ -229,6 +231,8 @@
       "600g potatoes, peeled and cut into 2cm cubes",
       "225g paneer, cut into 2cm cubes",
       "4 tbsp single cream",
+      "1 tsp lemon juice",
+      "Salt",
       "Warm plain naan or white rice, to serve"
     ],
     "steps": [
@@ -236,7 +240,7 @@
       "Add the garlic, ginger, cumin, ground coriander, turmeric and garam masala and stir for 1 minute.",
       "Pour in the passata and water, add the potatoes and simmer, covered, for 20 minutes until the potatoes are very tender.",
       "Add the paneer and simmer for 5 minutes until it is soft and warmed through.",
-      "Stir in the cream and serve with naan or rice."
+      "Stir in the cream and lemon juice, season with salt and serve with naan or rice."
     ],
     "tip": "Simmering the paneer in the sauce, rather than frying it, keeps it soft. Blend the sauce before adding the potatoes if you'd like it completely smooth.",
     "swaps": [
@@ -329,8 +333,7 @@
       "Swap the carrot for peeled, diced courgette"
     ],
     "nutrients": [
-      "protein",
-      "iron"
+      "protein"
     ],
     "storage": {
       "fridgeDays": 1,
@@ -397,15 +400,15 @@
       "100ml vegetable stock",
       "100g ricotta",
       "20g vegetarian Italian-style hard cheese, finely grated",
-      "1/2 lemon, finely zested",
+      "1/2 lemon, finely zested and juiced",
       "500g pack fresh gnocchi",
-      "Basil, very finely chopped (optional)",
+      "1 tbsp basil, very finely chopped (optional)",
       "Salt and pepper"
     ],
     "steps": [
       "Warm the oil in a pan and gently cook the garlic for 1 minute.",
       "Add the courgettes and stock, cover and cook for 10–12 minutes until completely soft.",
-      "Blend the courgettes with the ricotta, cheese and lemon zest until smooth. Season with salt and pepper.",
+      "Blend the courgettes with the ricotta, cheese, lemon zest and a squeeze of the juice until smooth. Season with salt and pepper, adding more lemon to taste.",
       "Cook the gnocchi in boiling salted water until they float, about 2–3 minutes, then drain.",
       "Toss the gnocchi with the warm sauce and finish with a little very finely chopped basil if you like."
     ],
@@ -414,9 +417,7 @@
       "Toss the sauce through small pasta shapes instead of gnocchi",
       "Use cream cheese instead of ricotta"
     ],
-    "nutrients": [
-      "calcium"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 0,
@@ -455,9 +456,7 @@
       "Use peeled, grated courgette instead of carrot",
       "Swap the hard cheese for 2 tbsp mascarpone"
     ],
-    "nutrients": [
-      "calcium"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 1,
       "freezerMonths": 0,
@@ -477,8 +476,8 @@
     "ingredients": [
       "1 tbsp vegetable oil",
       "1 onion, thinly sliced",
-      "600g potatoes, peeled and cut into large chunks",
-      "2 carrots, peeled and cut into chunks",
+      "600g potatoes, peeled and cut into 3cm chunks",
+      "2 carrots, peeled and cut into 1cm slices",
       "500ml vegetable stock",
       "3 tbsp soy sauce",
       "2 tbsp mirin",
@@ -487,13 +486,13 @@
       "80g baby spinach"
     ],
     "steps": [
-      "Heat the oil in a wide pan and cook the onion gently for 5 minutes until softened.",
+      "Heat the oil in a wide pan and cook the onion gently for 8–10 minutes until completely soft.",
       "Add the potatoes and carrots, then pour in the stock, soy, mirin and sugar.",
-      "Bring to a simmer, cover with a lid slightly ajar and cook for 20 minutes until the vegetables are very tender.",
+      "Bring to a simmer, cover with a lid slightly ajar and cook for 20–25 minutes until the potatoes and carrots are fork-soft.",
       "Add the tofu and simmer for 5 minutes more, spooning the broth over.",
       "Stir in the spinach until just wilted and serve in bowls with some of the broth."
     ],
-    "tip": "Everything is simmered rather than fried, and the potatoes and carrots become fork-soft. Cook the onion until completely soft before adding the rest.",
+    "tip": "Everything is simmered rather than fried, and the potatoes and carrots become fork-soft. Keep the carrot slices thin so they soften at the same rate as the potatoes.",
     "swaps": [
       "Use peeled chunks of butternut squash instead of carrots",
       "Add 4 halved hard-boiled eggs instead of tofu"
@@ -535,12 +534,13 @@
       "40g plain flour",
       "500ml milk",
       "Pinch of ground nutmeg",
-      "60g cheddar, grated"
+      "60g cheddar, grated",
+      "Salt and pepper"
     ],
     "steps": [
       "Heat the oven to 200°C (180°C fan). Brush the aubergine slices with 2 tbsp of the oil and roast on a lined tray for 25 minutes until very soft.",
       "Meanwhile, boil the potato slices for 6 minutes until just tender, then drain.",
-      "Soften the onion in the remaining oil for 10 minutes. Add the garlic, lentils, passata, tomato purée, stock, oregano and cinnamon and simmer for 20 minutes until thick.",
+      "Soften the onion in the remaining oil for 10 minutes. Add the garlic, lentils, passata, tomato purée, stock, oregano and cinnamon and simmer for 20 minutes until thick. Season with salt and pepper.",
       "Make the sauce: melt the butter, stir in the flour for 1 minute, then gradually whisk in the milk and simmer until thick. Add the nutmeg and half the cheese.",
       "Layer the potatoes, lentil sauce and aubergine in a large ovenproof dish, finishing with lentils. Pour over the white sauce and scatter with the remaining cheese.",
       "Bake for 35 minutes until golden and bubbling. Rest for 10 minutes before serving."
@@ -584,14 +584,14 @@
       "1 egg, beaten"
     ],
     "steps": [
-      "Boil the potatoes for 15 minutes until soft, drain and roughly mash.",
+      "Boil the potatoes for 15 minutes until soft, drain and mash until smooth.",
       "Meanwhile, melt the butter and cook the onion gently for 10 minutes until very soft and sweet.",
       "Mix the potato, onion, cheese, milk and nutmeg. Season with salt and pepper and leave to cool a little.",
       "Heat the oven to 200°C (180°C fan). Roll out two-thirds of the pastry on a floured surface and line a 23cm pie dish.",
       "Spoon in the filling, roll out the remaining pastry for a lid, seal the edges and cut a small steam hole. Brush with egg.",
       "Bake for 35–40 minutes until deep golden. Rest for 10 minutes before slicing."
     ],
-    "tip": "The filling is soft and smooth; cook the onion until it melts so there are no firm pieces. Pick a shop-bought pastry made with butter and a short ingredient list.",
+    "tip": "The filling is soft and smooth; cook the onion until it melts so there are no firm pieces. Shortcrust needs chewing, so eat it slowly — or use the mash-topped swap on a sore day. Pick a shop-bought pastry made with butter and a short ingredient list.",
     "swaps": [
       "Use a mash topping instead of the pastry lid",
       "Swap half the cheddar for crumbled Lancashire cheese"
@@ -614,11 +614,11 @@
     "gentle": false,
     "time": 70,
     "serves": 4,
-    "texture": "soft",
+    "texture": "regular",
     "summary": "Soft leeks, potato and carrot in a cheesy sauce under a golden puff pastry lid.",
     "ingredients": [
       "40g butter",
-      "2 leeks, trimmed and finely sliced",
+      "2 leeks (white and pale green parts only), halved lengthways and very finely sliced",
       "2 carrots, peeled and diced",
       "400g potatoes, peeled and diced",
       "40g plain flour",
@@ -627,14 +627,15 @@
       "1 tsp dried thyme",
       "100g baby spinach",
       "100g mature cheddar, grated",
+      "Salt and pepper",
       "320g sheet ready-rolled puff pastry",
       "1 egg, beaten"
     ],
     "steps": [
       "Melt the butter in a large pan and cook the leeks and carrots gently, covered, for 15 minutes until very soft.",
-      "Meanwhile, boil the potatoes for 8 minutes until just tender, then drain.",
+      "Meanwhile, boil the potatoes for 10 minutes until tender, then drain.",
       "Stir the flour into the leeks for 1 minute, then gradually stir in the milk and stock. Add the thyme and simmer for 5 minutes until thick.",
-      "Stir in the potatoes, spinach and cheese. Tip into a pie dish and leave to cool for 10 minutes.",
+      "Stir in the potatoes, spinach and cheese and season with salt and pepper. Tip into a pie dish and leave to cool for 10 minutes.",
       "Heat the oven to 200°C (180°C fan). Lay the pastry over the dish, trim, crimp the edges, cut a steam hole and brush with egg.",
       "Bake for 25–30 minutes until puffed and golden."
     ],
@@ -707,16 +708,17 @@
     "id": "slow-cooker-squash-chickpea-tagine",
     "title": "Slow-cooker squash & chickpea tagine",
     "meal": "dinner",
-    "gentle": true,
-    "time": 375,
+    "gentle": false,
+    "time": 390,
     "serves": 6,
     "texture": "soft",
     "summary": "A warmly spiced Moroccan-style stew of soft squash and carrot, thickened with blended chickpeas and served with buttery couscous (slow-cooks for 6 hours).",
     "ingredients": [
+      "1 tbsp olive oil",
       "1 onion, finely chopped",
       "2 garlic cloves, crushed",
       "500g butternut squash, peeled and cut into 2cm chunks",
-      "2 carrots, peeled and sliced",
+      "2 carrots, peeled and finely diced",
       "400g tin chickpeas, drained",
       "500ml vegetable stock",
       "100g red lentils, rinsed",
@@ -728,13 +730,15 @@
       "1 tbsp honey",
       "1/2 lemon, juiced",
       "300g couscous",
+      "Salt",
       "375ml hot vegetable stock (for the couscous)",
       "15g butter"
     ],
     "steps": [
+      "Soften the onion in the oil in a frying pan for 8–10 minutes, adding the garlic for the last minute.",
       "Blend the chickpeas with 200ml of the stock until completely smooth.",
-      "Put the onion, garlic, squash, carrots, blended chickpeas, remaining stock, lentils, passata, cumin, cinnamon, ginger, paprika and honey into the slow cooker and stir.",
-      "Cover and cook on low for 6 hours until the vegetables are very soft. Stir in the lemon juice.",
+      "Put the softened onion and garlic, squash, carrots, blended chickpeas, remaining stock, lentils, passata, cumin, cinnamon, ginger, paprika and honey into the slow cooker and stir.",
+      "Cover and cook on low for 6 hours until the vegetables are very soft. Stir in the lemon juice and season with salt.",
       "Just before serving, put the couscous in a bowl with the butter, pour over the hot stock, cover and leave for 5 minutes, then fluff with a fork.",
       "Serve the tagine over the couscous, lightly mashing the squash if you like it softer."
     ],
@@ -775,13 +779,14 @@
       "2 red peppers",
       "600g potatoes, peeled and cut into 2cm chunks",
       "2 tbsp vegetable oil",
+      "Salt",
       "Warm plain naan, to serve"
     ],
     "steps": [
       "Mix the yoghurt, curry powder, garam masala, paprika, garlic, ginger and lemon juice. Stir in the paneer and leave to marinate while the veg cooks.",
-      "Heat the oven to 220°C (200°C fan). Put the whole peppers and the potatoes on a large tray, toss the potatoes in the oil and roast for 30 minutes.",
+      "Heat the oven to 220°C (200°C fan). Put the whole peppers and the potatoes on a large tray, toss the potatoes in the oil and a pinch of salt and roast for 30 minutes.",
       "Move the peppers to a bowl, cover with a plate for 10 minutes, then peel off the skins, discard the seeds and slice the flesh.",
-      "Add the paneer to the tray with the potatoes and roast for 15 minutes until lightly charred at the edges.",
+      "Add the paneer to the tray with the potatoes and roast for 15 minutes until hot and golden at the edges.",
       "Toss in the peeled peppers and serve with warm naan."
     ],
     "tip": "Roasting the peppers whole makes their skins slip off easily, leaving just the soft, sweet flesh. The spice blend is fragrant rather than hot.",
@@ -905,7 +910,7 @@
       "2 tbsp vegetable oil",
       "1 carrot, peeled and cut into ribbons with a peeler",
       "1 courgette, peeled and cut into ribbons with a peeler",
-      "2 large handfuls baby spinach",
+      "100g baby spinach",
       "200g medium egg noodles",
       "3 tbsp smooth peanut butter",
       "2 tbsp soy sauce",
@@ -916,7 +921,7 @@
     ],
     "steps": [
       "Toss the tofu in the cornflour and fry in 1 tbsp of the oil for 8 minutes until golden. Set aside.",
-      "Add the remaining oil, carrot and courgette ribbons with a splash of water. Cover and cook for 5 minutes until very soft, then stir in the spinach to wilt.",
+      "Add the remaining oil, carrot and courgette ribbons with a splash of water. Cover and cook for 6–8 minutes until very soft, then stir in the spinach to wilt.",
       "Meanwhile, cook the noodles according to the packet and drain.",
       "Whisk the peanut butter, soy, honey, lime juice, ginger and hot water until smooth.",
       "Toss the noodles, veg, tofu and sauce together in the pan over a low heat until coated and hot."
@@ -949,7 +954,7 @@
     "summary": "A soft, set savoury custard with melting leeks and cheddar, no pastry needed.",
     "ingredients": [
       "15g butter, plus extra for greasing",
-      "2 leeks, trimmed and finely sliced",
+      "2 leeks (white and pale green parts only), halved lengthways and very finely sliced",
       "6 eggs",
       "300ml milk",
       "2 tbsp plain flour",
@@ -1000,12 +1005,13 @@
       "200ml vegetable stock",
       "1 tsp dried oregano",
       "125g mozzarella ball, torn",
-      "20g vegetarian Italian-style hard cheese, finely grated"
+      "20g vegetarian Italian-style hard cheese, finely grated",
+      "Salt and pepper"
     ],
     "steps": [
       "Heat the oven to 200°C (180°C fan). Scoop out the soft centres of the courgettes with a teaspoon and finely chop the scooped flesh.",
       "Lay the courgette halves cut-side up in a baking dish, cover with foil and bake for 15 minutes to soften.",
-      "Meanwhile, soften the onion in the oil for 8 minutes. Add the garlic, chopped courgette flesh, lentils, passata, stock and oregano and simmer for 20 minutes until thick.",
+      "Meanwhile, soften the onion in the oil for 8 minutes. Add the garlic, chopped courgette flesh, lentils, passata, stock and oregano and simmer for 20 minutes until thick. Season with salt and pepper.",
       "Spoon the lentil sauce into the courgettes, top with the mozzarella and hard cheese and bake uncovered for 20 minutes until golden and the courgettes are very soft."
     ],
     "tip": "Peeling the courgettes before baking means the whole boat is soft enough to cut with a spoon. Spoon any extra filling around the courgettes in the dish.",
@@ -1022,7 +1028,7 @@
       "fridgeDays": 2,
       "freezerMonths": 0,
       "batch": false,
-      "text": "Keep leftovers in the fridge for up to 2 days and reheat until piping hot. The filling can be frozen on its own for 3 months, but the baked courgettes go watery, so don't freeze those."
+      "text": "Keep leftovers in the fridge for up to 2 days and reheat until piping hot. Don't freeze — the baked courgettes go watery."
     }
   },
   {
@@ -1096,7 +1102,7 @@
       "150g self-raising flour",
       "50g cold butter, grated",
       "50g cheddar, grated",
-      "About 90ml milk",
+      "90ml milk, roughly",
       "Salt and pepper"
     ],
     "steps": [
@@ -1113,8 +1119,7 @@
     ],
     "nutrients": [
       "protein",
-      "iron",
-      "calcium"
+      "iron"
     ],
     "storage": {
       "fridgeDays": 3,
@@ -1466,31 +1471,30 @@
     }
   },
   {
-    "id": "pear-ginger-oat-crumble",
+    "id": "pear-ginger-crumble",
     "title": "Pear & ginger crumble",
     "meal": "dessert",
     "gentle": false,
     "time": 50,
     "serves": 6,
     "texture": "soft",
-    "summary": "Soft stewed pears with warm ginger under a buttery oat crumble.",
+    "summary": "Soft stewed pears with warm ginger under a buttery, fine crumble.",
     "ingredients": [
       "6 ripe pears (about 1kg), peeled, cored and chopped",
       "2 tbsp caster sugar",
       "1/2 tsp ground ginger",
       "3 tbsp water",
-      "100g plain flour",
+      "150g plain flour",
       "75g cold butter, diced",
-      "50g porridge oats",
-      "50g light brown soft sugar"
+      "75g light brown soft sugar"
     ],
     "steps": [
       "Heat the oven to 190°C (170°C fan).",
       "Simmer the pears, caster sugar, ginger and water in a covered pan for 8–10 minutes until soft. Tip into an ovenproof dish.",
-      "Rub the butter into the flour until it looks like breadcrumbs, then stir in the oats and brown sugar.",
+      "Rub the butter into the flour until it looks like fine breadcrumbs, then stir in the brown sugar.",
       "Scatter the crumble over the fruit and bake for 25–30 minutes until golden and bubbling."
     ],
-    "tip": "Use fine porridge oats rather than jumbo oats; they soften in the fruit juices. Serving with custard softens the topping further.",
+    "tip": "The topping is made without oats so it stays fine and sandy rather than chewy. Serving with custard softens it further.",
     "swaps": [
       "Use peeled eating apples instead of pears",
       "Use cinnamon instead of ginger"
@@ -1506,7 +1510,7 @@
   {
     "id": "victoria-sponge-seedless-jam",
     "title": "Victoria sponge with seedless jam",
-    "meal": "dessert",
+    "meal": "snack",
     "gentle": false,
     "time": 50,
     "serves": 10,
@@ -1676,7 +1680,7 @@
       "Blend the mango with the lime juice until completely smooth.",
       "Whip the cream with the icing sugar to soft peaks, then fold in the yoghurt.",
       "Ripple most of the mango purée through the cream mixture.",
-      "Spoon into glasses and top with the remaining purée. Serve straight away or keep in the fridge for up to 2 hours."
+      "Spoon into glasses and top with the remaining purée. Serve straight away or chill until needed."
     ],
     "tip": "Mango has no seeds and blends perfectly smooth. Using half yoghurt keeps it lighter than an all-cream fool.",
     "swaps": [
@@ -1696,7 +1700,7 @@
   {
     "id": "lemon-drizzle-loaf",
     "title": "Lemon drizzle loaf",
-    "meal": "dessert",
+    "meal": "snack",
     "gentle": false,
     "time": 70,
     "serves": 10,
@@ -1735,7 +1739,7 @@
   {
     "id": "soft-spiced-carrot-cake",
     "title": "Soft spiced carrot cake",
-    "meal": "dessert",
+    "meal": "snack",
     "gentle": false,
     "time": 75,
     "serves": 12,
@@ -1778,7 +1782,7 @@
   {
     "id": "soft-peanut-butter-cookies",
     "title": "Soft peanut butter cookies",
-    "meal": "dessert",
+    "meal": "snack",
     "gentle": false,
     "time": 25,
     "serves": 16,
@@ -1840,9 +1844,7 @@
       "Use tinned mango instead of peaches",
       "Use maple syrup instead of honey"
     ],
-    "nutrients": [
-      "calcium"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 0,
       "freezerMonths": 1,
@@ -1916,9 +1918,7 @@
       "Top with smooth mango purée instead of jam",
       "Use rich tea biscuits instead of shortbread"
     ],
-    "nutrients": [
-      "calcium"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 0,
@@ -1934,7 +1934,7 @@
     "time": 140,
     "serves": 4,
     "texture": "smooth",
-    "summary": "A light, airy-tasting mousse of silken tofu, tinned apricots and a little white chocolate (allow 2 hours to set).",
+    "summary": "A soft-set, creamy mousse of silken tofu, tinned apricots and a little white chocolate (allow 2 hours to set).",
     "ingredients": [
       "75g white chocolate, broken up",
       "300g silken tofu, drained",
@@ -1953,9 +1953,7 @@
       "Use tinned peaches instead of apricots",
       "Use maple syrup instead of honey"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 0,
@@ -2001,9 +1999,7 @@
       "Use peeled pears instead of apples",
       "Use 500ml ready-made fresh custard with a short ingredient list"
     ],
-    "nutrients": [
-      "calcium"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 2,
@@ -2088,14 +2084,151 @@
       "Use sliced Victoria sponge with seedless jam instead of trifle sponges",
       "Use tinned mango or pears instead of peaches"
     ],
-    "nutrients": [
-      "calcium"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 0,
       "batch": false,
       "text": "Keep covered in the fridge and eat within 2 days. Don't freeze."
+    }
+  },
+  {
+    "id": "persian-aubergine-split-pea-stew",
+    "title": "Mild Persian-style aubergine stew",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 85,
+    "serves": 4,
+    "texture": "soft",
+    "summary": "A gently spiced khoresh-style stew of melting peeled aubergine and yellow split peas in a lemony tomato sauce, served with basmati rice and yoghurt.",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed",
+      "1 tsp ground turmeric",
+      "1 tsp ground cinnamon",
+      "1/2 tsp ground cumin",
+      "150g yellow split peas, rinsed",
+      "2 tbsp tomato purée",
+      "500g passata",
+      "800ml vegetable stock",
+      "2 aubergines, peeled and cut into 2cm cubes",
+      "1 lemon, juiced",
+      "1 tsp caster sugar",
+      "Pinch of saffron, soaked in 2 tbsp hot water (optional)",
+      "Salt",
+      "300g white basmati rice",
+      "200g Greek-style yoghurt, to serve"
+    ],
+    "steps": [
+      "Soften the onion in 1 tbsp of the oil in a large pan for 10 minutes. Add the garlic, turmeric, cinnamon and cumin and stir for 1 minute.",
+      "Add the split peas, tomato purée, passata and stock. Bring to the boil, then cover and simmer gently for 40 minutes, stirring now and then.",
+      "Meanwhile, cook the aubergine in the remaining oil in a frying pan with a splash of water, covered, for 10 minutes, stirring, until soft and lightly golden.",
+      "Add the aubergine to the stew and simmer, uncovered, for 20–25 minutes more until the split peas have collapsed and the aubergine is melting. Add a splash of water if it gets too thick.",
+      "Mash lightly with a potato masher, then stir in the lemon juice, sugar, saffron (if using) and salt to taste.",
+      "While the stew finishes, cook the rice according to the packet. Serve the stew over the rice with a spoonful of yoghurt."
+    ],
+    "tip": "Traditionally this uses whole dried limes, which are hard to break down, so lemon juice gives the same sour note. Peeling the aubergine and cooking the split peas until they fall apart keeps it soft.",
+    "swaps": [
+      "Use red lentils instead of split peas, simmering for 20 minutes before adding the aubergine",
+      "Use peeled courgette instead of aubergine"
+    ],
+    "nutrients": [
+      "protein",
+      "iron"
+    ],
+    "storage": {
+      "fridgeDays": 3,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "The stew keeps for 3 days in the fridge or 3 months in the freezer; defrost in the fridge and reheat until piping hot. Cook rice fresh: if you keep leftover rice, cool it within 1 hour, eat within 1 day, reheat only once and don't freeze it."
+    }
+  },
+  {
+    "id": "baked-glamorgan-sausages",
+    "title": "Baked Glamorgan sausages",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 50,
+    "serves": 4,
+    "texture": "regular",
+    "summary": "Welsh cheese and leek 'sausages' bound with soft breadcrumbs and egg, baked rather than fried and easy to freeze in batches.",
+    "ingredients": [
+      "15g butter",
+      "1 leek (white and pale green part only), halved lengthways and very finely sliced",
+      "200g fresh white breadcrumbs",
+      "150g Caerphilly or mild cheddar, finely grated",
+      "1 tsp dried thyme",
+      "1 tsp Dijon mustard",
+      "2 eggs, beaten",
+      "3 tbsp milk",
+      "2 tbsp plain flour",
+      "2 tbsp olive oil",
+      "Salt and pepper",
+      "Buttery mash and gravy, to serve"
+    ],
+    "steps": [
+      "Melt the butter in a pan, add the leek, cover and cook gently for 12 minutes, stirring now and then, until completely soft. Leave to cool for 5 minutes.",
+      "Mix the breadcrumbs, cheese, thyme, mustard and cooked leek in a bowl and season with salt and pepper.",
+      "Stir in the eggs and milk to make a mixture that holds together when squeezed.",
+      "With damp hands, shape into 12 small sausages and roll each one lightly in the flour.",
+      "Heat the oven to 200°C (180°C fan). Put the sausages on a lined tray, brush with the oil and bake for 20–25 minutes, turning halfway, until golden.",
+      "Serve with buttery mash and gravy."
+    ],
+    "tip": "Use plain white bread for the crumbs and cook the leek until silky so there are no stringy pieces. Baking gives a light golden outside without deep-frying.",
+    "swaps": [
+      "Use crumbly Lancashire cheese instead of Caerphilly",
+      "Add 50g very finely chopped, well-wilted spinach (squeezed dry) to the mix"
+    ],
+    "nutrients": [
+      "protein",
+      "calcium"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 3,
+      "batch": true,
+      "text": "Freeze uncooked sausages on a lined tray, then bag up and keep for 3 months; bake from frozen for 30–35 minutes until piping hot in the middle. Cooked sausages keep in the fridge for 2 days; reheat in the oven until piping hot."
+    }
+  },
+  {
+    "id": "jam-bread-butter-pudding",
+    "title": "Jam bread & butter pudding",
+    "meal": "dessert",
+    "gentle": false,
+    "time": 80,
+    "serves": 6,
+    "texture": "soft",
+    "summary": "Buttered white bread layered with seedless jam and baked in a soft vanilla custard, with no raisins or peel.",
+    "ingredients": [
+      "6 slices white bread, crusts removed",
+      "30g butter, softened, plus extra for greasing",
+      "4 tbsp smooth apricot jam or other seedless jam",
+      "3 eggs",
+      "300ml whole milk",
+      "100ml double cream",
+      "50g caster sugar",
+      "1 tsp vanilla extract",
+      "Pinch of ground nutmeg"
+    ],
+    "steps": [
+      "Grease a 1.5 litre ovenproof dish. Butter the bread, spread with the jam and cut each slice into 4 triangles.",
+      "Arrange the triangles in the dish, overlapping, jam side up.",
+      "Whisk the eggs, milk, cream, sugar and vanilla, pour over the bread and press down gently. Leave to soak for 20 minutes.",
+      "Heat the oven to 180°C (160°C fan). Dust the pudding with nutmeg and stand the dish in a roasting tin. Pour hot water from the kettle into the tin to come halfway up the dish.",
+      "Bake for 35–40 minutes until just set with a slight wobble. Leave to stand for 5 minutes before serving."
+    ],
+    "tip": "Cutting off the crusts, soaking the bread well and baking in a water bath keeps the whole pudding soft, with no crisp edges. No dried fruit here — the jam adds the sweetness.",
+    "swaps": [
+      "Use sliced brioche instead of white bread",
+      "Use lemon curd instead of jam"
+    ],
+    "nutrients": [],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 0,
+      "batch": false,
+      "text": "Cool quickly, cover and keep in the fridge for up to 2 days. Reheat until piping hot. Don't freeze — the egg custard turns watery."
     }
   }
 ]

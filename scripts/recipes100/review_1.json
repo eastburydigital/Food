@@ -93,7 +93,7 @@
       "1 tbsp butter or ghee",
       "1 small onion, very finely chopped",
       "1 carrot, peeled and finely grated",
-      "1/2 tsp grated fresh ginger",
+      "1/2 tsp fresh ginger, finely grated (discard any stringy fibres)",
       "1/4 tsp ground turmeric",
       "450ml hot water",
       "1/2 tsp salt",
@@ -124,7 +124,7 @@
     "title": "Ground rice porridge with peach purée",
     "meal": "breakfast",
     "gentle": true,
-    "time": 15,
+    "time": 20,
     "serves": 2,
     "texture": "smooth",
     "summary": "A silky, vanilla-scented milk porridge made with ground rice and swirled with soft peach purée.",
@@ -149,7 +149,8 @@
       "Use semolina instead of ground rice"
     ],
     "nutrients": [
-      "calcium"
+      "calcium",
+      "b12"
     ],
     "storage": {
       "fridgeDays": 1,
@@ -162,11 +163,11 @@
     "id": "baked-vanilla-oats-pear",
     "title": "Baked vanilla oats with pear",
     "meal": "breakfast",
-    "gentle": true,
+    "gentle": false,
     "time": 45,
     "serves": 4,
     "texture": "soft",
-    "summary": "A soft, custardy tray of baked porridge with tender pieces of peeled pear, ready to slice for the week.",
+    "summary": "A soft, custardy tray of baked porridge with soft grated pear, ready to slice for the week.",
     "ingredients": [
       "25g butter, melted, plus a little for greasing",
       "150g porridge oats",
@@ -177,19 +178,19 @@
       "400ml milk",
       "2 tbsp maple syrup",
       "1 tsp vanilla extract",
-      "2 ripe pears, peeled, cored and finely diced"
+      "2 very ripe pears, peeled, cored and coarsely grated"
     ],
     "steps": [
       "Heat the oven to 190°C (170°C fan) and grease a 20cm square baking dish with a little butter.",
       "Mix the oats, baking powder, cinnamon and salt in a large bowl.",
-      "Whisk the eggs, milk, maple syrup, vanilla and melted butter together, then stir into the oats with the pear.",
+      "Whisk the eggs, milk, maple syrup, vanilla and melted butter together, then stir into the oats with the grated pear.",
       "Pour into the dish and bake for 30–35 minutes until just set and lightly golden.",
       "Rest for 5 minutes, then cut into squares and serve warm."
     ],
-    "tip": "Baking the oats in milk makes them very soft, and very ripe pear melts into the mix. Choose plain porridge oats rather than jumbo oats for the softest result.",
+    "tip": "Baking the oats in milk makes them very soft, and grated ripe pear melts into the mix with no firm pieces. Choose plain porridge oats rather than jumbo oats for the softest result.",
     "swaps": [
       "Use 2 mashed ripe bananas instead of the pears and leave out the maple syrup",
-      "Use peeled, finely diced apple, but add 5 extra minutes in the oven"
+      "Use 1 peeled, finely grated eating apple instead of the pears"
     ],
     "nutrients": [],
     "storage": {
@@ -207,7 +208,7 @@
     "time": 130,
     "serves": 6,
     "texture": "regular",
-    "summary": "Soft, bubbly British crumpets made from a simple yeasted batter, perfect for batch-making and freezing.",
+    "summary": "Soft, bubbly British crumpets made from a simple yeasted batter that freeze well.",
     "ingredients": [
       "175g strong white bread flour",
       "175g plain flour",
@@ -290,7 +291,7 @@
     "time": 25,
     "serves": 4,
     "texture": "soft",
-    "summary": "Small, fluffy Scotch pancakes that freeze brilliantly for quick breakfasts straight from the toaster.",
+    "summary": "Small, fluffy Scotch pancakes that freeze well for quick breakfasts warmed in the toaster.",
     "ingredients": [
       "225g self-raising flour",
       "1 tsp baking powder",
@@ -358,13 +359,13 @@
   },
   {
     "id": "lemony-butter-bean-smash-toast",
-    "title": "Lemony butter bean smash on toast",
+    "title": "Lemony whipped butter beans on toast",
     "meal": "breakfast",
     "gentle": false,
     "time": 15,
     "serves": 2,
     "texture": "regular",
-    "summary": "A Middle Eastern-inspired warm, silky butter bean purée with cumin and lemon, spread thickly on toast.",
+    "summary": "Butter beans warmed with garlic and cumin, then blended with lemon and yoghurt into a silky spread for toast.",
     "ingredients": [
       "1 tbsp olive oil",
       "1 small garlic clove, crushed",
@@ -380,7 +381,7 @@
     "steps": [
       "Warm the oil in a small pan over a low heat and cook the garlic for 1 minute without browning.",
       "Add the butter beans, water and cumin and simmer for 5 minutes until very soft.",
-      "Blend with the lemon juice and yoghurt until completely smooth, then season with salt and pepper.",
+      "Blend with the lemon juice and yoghurt until completely smooth (push through a sieve for extra silkiness), then season with salt and pepper.",
       "Toast the bread, spread the warm bean purée thickly on top and scatter with parsley, if using."
     ],
     "tip": "Blending the beans until completely smooth breaks down their skins. Use a mini food processor or stick blender rather than a fork for the smoothest result.",
@@ -535,7 +536,7 @@
       "2 tbsp plain yoghurt",
       "3 tbsp water",
       "Salt",
-      "Soft white pitta, warmed, to serve"
+      "4 soft white pittas, warmed, to serve"
     ],
     "steps": [
       "Heat the oven to 200°C (180°C fan). Toss the carrots with the oil and cumin in a roasting tin.",
@@ -571,7 +572,7 @@
       "1 tbsp lemon juice",
       "1 tbsp olive oil",
       "1 tsp honey",
-      "Soft white pitta, warmed and cut into strips, to serve"
+      "4 soft white pittas, warmed and cut into strips, to serve"
     ],
     "steps": [
       "Blitz the feta and yoghurt in a food processor for 2–3 minutes until completely smooth and fluffy.",
@@ -610,7 +611,7 @@
       "1 tsp lemon juice",
       "Salt",
       "1 tsp fresh dill, very finely chopped (optional)",
-      "Soft white bread or pitta, to serve"
+      "4 soft white pittas or slices of white bread, to serve"
     ],
     "steps": [
       "Blitz the beetroot in a food processor until completely smooth.",
@@ -631,39 +632,46 @@
     }
   },
   {
-    "id": "cheddar-cheese-straws",
-    "title": "Twisted cheddar cheese straws",
+    "id": "soft-cheddar-breadsticks",
+    "title": "Soft cheddar breadsticks",
     "meal": "snack",
     "gentle": false,
-    "time": 30,
-    "serves": 8,
+    "time": 110,
+    "serves": 6,
     "texture": "regular",
-    "summary": "Flaky, cheesy puff pastry twists that keep well in a tin and travel happily in a lunchbox.",
+    "summary": "Soft, pull-apart white bread sticks baked with a little mature cheddar — a mild lunchbox snack that keeps well in a tin.",
     "ingredients": [
-      "320g sheet ready-rolled all-butter puff pastry",
-      "1 egg, beaten",
+      "250g strong white bread flour",
+      "7g sachet fast-action dried yeast",
+      "1 tsp caster sugar",
+      "1/2 tsp salt",
       "75g mature cheddar, finely grated",
+      "160ml warm milk",
+      "20g butter, melted",
+      "1 egg, beaten",
       "1/2 tsp sweet paprika (optional)"
     ],
     "steps": [
-      "Heat the oven to 220°C (200°C fan) and line two baking trays with baking paper.",
-      "Unroll the pastry and brush with beaten egg. Scatter the cheese and paprika, if using, over one half.",
-      "Fold the other half over, press down firmly and roll lightly with a rolling pin to seal.",
-      "Cut into 1.5cm strips, twist each one a few times and lay on the trays. Brush with a little more egg.",
-      "Bake for 12–15 minutes until puffed and golden, then cool on a rack."
+      "Mix the flour, yeast, sugar, salt and a third of the cheese in a large bowl.",
+      "Add the warm milk and melted butter and mix to a soft dough (add a splash more milk if dry). Knead for 8 minutes until smooth and springy.",
+      "Cover and leave somewhere warm for about 1 hour until doubled in size.",
+      "Heat the oven to 200°C (180°C fan) and line two baking trays with baking paper.",
+      "Divide the dough into 12 pieces and roll each into a 20cm stick. Lay on the trays, cover loosely with a tea towel and leave for 15 minutes.",
+      "Brush with the beaten egg and scatter with the rest of the cheese and the paprika, if using.",
+      "Bake for 12–14 minutes until pale golden but still soft. Wrap in a clean tea towel as they cool so they stay soft."
     ],
-    "tip": "Pastry is rich, so these are a good-day snack rather than a flare-day one. Pick a puff pastry with a short ingredient list — all-butter ones usually are.",
+    "tip": "Unlike crisp pastry cheese straws, these stay soft and bready, with no hard shards. Take them out while still pale so the outsides stay tender.",
     "swaps": [
       "Use vegetarian Italian-style hard cheese instead of cheddar",
-      "Spread the pastry thinly with tomato purée before adding the cheese"
+      "Use 1 tsp dried oregano instead of paprika"
     ],
     "nutrients": [],
     "storage": {
-      "roomDays": 3,
+      "roomDays": 2,
       "fridgeDays": 0,
       "freezerMonths": 3,
       "batch": true,
-      "text": "Makes about 20. Keep in an airtight tin for up to 3 days. Freeze the unbaked twists on a tray, then bag them for up to 3 months and bake from frozen for 2–3 minutes longer."
+      "text": "Makes 12. Keep in an airtight tin for up to 2 days, or freeze in a bag for up to 3 months. Defrost at room temperature and warm briefly in the oven."
     }
   },
   {
@@ -674,7 +682,7 @@
     "time": 45,
     "serves": 7,
     "texture": "soft",
-    "summary": "Soft, fudgy no-bake bites of finely blitzed oats, smooth peanut butter and honey for lunchboxes and quick energy.",
+    "summary": "Soft, fudgy no-bake bites of oats blitzed to a fine flour, smooth peanut butter and honey for lunchboxes and quick energy.",
     "ingredients": [
       "100g porridge oats",
       "100g smooth peanut butter",
@@ -684,19 +692,17 @@
       "20g milk chocolate, finely grated (optional)"
     ],
     "steps": [
-      "Blitz the oats in a food processor until they look like coarse flour.",
-      "If the peanut butter is stiff, warm it with the honey in the microwave for 20 seconds. Mix the oats, peanut butter, honey, vanilla and salt into a soft dough.",
+      "Blitz the oats in a food processor for 1–2 minutes until they are a fine flour with no flakes left.",
+      "If the peanut butter is stiff, warm it with the honey in the microwave for 20 seconds. Mix the oats, peanut butter, honey, vanilla and salt into a soft dough, then leave for 10 minutes so the oats soften.",
       "Roll into 14 small balls, about 1 tablespoon each, and roll in the grated chocolate, if using.",
       "Put in the fridge for 30 minutes to firm up."
     ],
-    "tip": "Blitzing the oats gives a smooth, fudgy texture with no rough bits. Choose a peanut butter that is just peanuts and a little salt, and make sure it says smooth.",
+    "tip": "Blitzing the oats to a fine flour gives a smooth, fudgy texture with no rough bits. Choose a peanut butter that is just peanuts and a little salt, and make sure it says smooth.",
     "swaps": [
       "Use smooth almond butter or tahini instead of peanut butter",
       "Use maple syrup instead of honey"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 4,
       "freezerMonths": 3,
@@ -707,7 +713,7 @@
   {
     "id": "banana-custard-pots",
     "title": "Banana custard pots",
-    "meal": "snack",
+    "meal": "dessert",
     "gentle": true,
     "time": 20,
     "serves": 4,
@@ -804,7 +810,8 @@
       "Use maple syrup instead of honey"
     ],
     "nutrients": [
-      "calcium"
+      "calcium",
+      "b12"
     ],
     "storage": {
       "fridgeDays": 0,
@@ -854,8 +861,8 @@
   {
     "id": "honey-yoghurt-panna-cotta",
     "title": "Honey yoghurt panna cotta",
-    "meal": "snack",
-    "gentle": false,
+    "meal": "dessert",
+    "gentle": true,
     "time": 75,
     "serves": 4,
     "texture": "smooth",
@@ -986,15 +993,16 @@
       "4 courgettes (about 800g), peeled and chopped",
       "1 medium potato (about 200g), peeled and diced",
       "900ml vegetable stock",
-      "Small handful of basil leaves",
+      "15g basil leaves (a small handful)",
       "20g vegetarian Italian-style hard cheese, finely grated (optional)",
+      "1 tsp lemon juice",
       "Salt and pepper"
     ],
     "steps": [
       "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft. Add the garlic for 1 minute.",
       "Add the courgettes, potato and stock. Bring to the boil, then simmer for 15–20 minutes until everything is very soft.",
       "Add the basil leaves and simmer for 1 minute more so they wilt.",
-      "Blend until completely smooth, then season with salt and pepper.",
+      "Blend until completely smooth, then stir in the lemon juice and season with salt and pepper.",
       "Serve with the grated cheese stirred through, if using."
     ],
     "tip": "Peeling the courgettes keeps the soup silky and pale, and the basil is cooked and blended in rather than scattered on top. Choose a stock with a short ingredient list.",
@@ -1078,7 +1086,7 @@
       "Melt the butter in a large pan and cook the onion gently for 8 minutes until soft.",
       "Stir in the curry powder and ginger for 1 minute.",
       "Add the parsnips, apple and stock. Simmer for 20–25 minutes until the parsnips are very soft.",
-      "Add the milk and blend until completely smooth. Season with salt and pepper and reheat gently."
+      "Add the milk and blend until completely smooth. If any fibres remain, push through a sieve. Season with salt and pepper and reheat gently."
     ],
     "tip": "Cutting out the woody centre of larger parsnips keeps the soup silky, and a mild curry powder gives warmth without heat.",
     "swaps": [
@@ -1142,7 +1150,7 @@
     "ingredients": [
       "1 tsp neutral oil",
       "1 garlic clove, crushed",
-      "1 tsp fresh ginger, finely grated",
+      "1 tsp fresh ginger, finely grated (discard any stringy fibres)",
       "400g passata",
       "700ml vegetable stock",
       "1 tbsp light soy sauce",
@@ -1367,10 +1375,10 @@
     "steps": [
       "Warm the oil in a large pan and cook the onion gently for 8 minutes until soft. Add the garlic, cumin and coriander for 1 minute.",
       "Add the chickpeas and stock and simmer for 20 minutes so the chickpeas soften further.",
-      "Add the tahini and lemon juice and blend for 2–3 minutes until completely smooth. Push through a sieve if you want it extra silky.",
+      "Add the tahini and lemon juice and blend for 2–3 minutes until completely smooth, then push through a sieve to catch any skins.",
       "Season with salt and pepper and reheat gently, adding hot water if it's too thick."
     ],
-    "tip": "Chickpeas must be blended until no whole pieces remain; sieving catches any stray skins. Choose tins with just chickpeas, water and salt.",
+    "tip": "Chickpeas must be blended until no whole pieces remain; sieving catches any stray skins, so don't skip it. Choose tins with just chickpeas, water and salt.",
     "swaps": [
       "Use smooth peanut butter instead of tahini",
       "Swirl in 1 tbsp Greek yoghurt per bowl"
@@ -1401,13 +1409,13 @@
       "150ml milk",
       "Pinch of ground nutmeg",
       "80g mature cheddar, grated",
-      "½ tsp Dijon mustard (optional)",
+      "1 tsp vegetarian Worcestershire sauce",
       "4 slices soft white bread"
     ],
     "steps": [
-      "Melt the 15g butter in a small pan, stir in the flour for 1 minute, then whisk in the milk a little at a time. Simmer for 2 minutes until thick, then stir in the nutmeg and half the cheese.",
+      "Melt the 15g butter in a small pan, stir in the flour for 1 minute, then whisk in the milk a little at a time. Simmer for 2 minutes until thick, then stir in the nutmeg, Worcestershire sauce and half the cheese.",
       "Heat the grill to medium-high. Lightly butter one side of each slice of bread.",
-      "Lay 2 slices buttered side down on a baking tray. Spread with the mustard, if using, and a spoonful of the sauce, then top with the remaining bread, buttered side up.",
+      "Lay 2 slices buttered side down on a baking tray. Spread with a spoonful of the sauce, then top with the remaining bread, buttered side up.",
       "Grill for 2 minutes until golden, then turn over.",
       "Spread the rest of the sauce over the tops, scatter with the remaining cheese and grill for 3–4 minutes until bubbling and golden."
     ],
@@ -1418,7 +1426,8 @@
     ],
     "nutrients": [
       "protein",
-      "calcium"
+      "calcium",
+      "b12"
     ],
     "storage": {
       "fridgeDays": 0,
@@ -1460,7 +1469,7 @@
     "tip": "Plain white flour keeps these softer and lower in fibre than traditional wholemeal atta. The spices are warm rather than hot.",
     "swaps": [
       "Mash 50g grated paneer into the filling",
-      "Serve with a spoonful of smooth mango chutney instead of yoghurt"
+      "Serve with thick Greek yoghurt mixed with a pinch of ground cumin"
     ],
     "nutrients": [],
     "storage": {
@@ -1483,9 +1492,9 @@
       "1 tbsp neutral oil",
       "1 onion, finely chopped",
       "1 garlic clove, crushed",
-      "1 tsp fresh ginger, finely grated",
-      "2 carrots, peeled and cut into small chunks",
-      "400g potatoes, peeled and cut into small chunks",
+      "1 tsp fresh ginger, finely grated (discard any stringy fibres)",
+      "2 carrots, peeled and cut into 1cm dice",
+      "400g potatoes, peeled and cut into 1.5cm dice",
       "600ml vegetable stock",
       "1 eating apple, peeled and finely grated",
       "200g firm tofu, cut into cubes",
@@ -1510,14 +1519,12 @@
       "Use peeled sweet potato instead of carrot",
       "Serve over soft udon noodles instead of rice"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 1,
-      "freezerMonths": 3,
+      "freezerMonths": 0,
       "batch": true,
-      "text": "Cool the rice and curry within 1 hour and refrigerate. Eat rice within 1 day, reheat it only once until piping hot, and don't freeze it. The curry on its own keeps 3 days in the fridge or freezes for 3 months."
+      "text": "Cool the rice and curry within 1 hour, cover and refrigerate. Eat within 1 day and reheat only once, until piping hot. Don't freeze the rice. To batch cook, keep the curry separate from the rice: it then freezes for up to 3 months."
     }
   },
   {
@@ -1527,14 +1534,14 @@
     "gentle": false,
     "time": 50,
     "serves": 4,
-    "texture": "soft",
+    "texture": "regular",
     "summary": "Chinese-style dumplings filled with a soft, gingery tofu, carrot and courgette mixture, steamed until tender and served with a sweet soy dip.",
     "ingredients": [
       "1 tbsp neutral oil",
       "1 carrot, peeled and finely grated",
       "1 courgette, peeled, finely grated and squeezed dry",
       "1 garlic clove, crushed",
-      "1 tsp fresh ginger, finely grated",
+      "1 tsp fresh ginger, finely grated (discard any stringy fibres)",
       "200g firm tofu, patted dry and crumbled finely",
       "2 tbsp soy sauce",
       "1 tsp cornflour",
@@ -1552,11 +1559,9 @@
     "tip": "Cooking the grated vegetables before filling means they're fully soft inside the dumplings. Look for wrappers made with just flour, water and salt.",
     "swaps": [
       "Use finely chopped, well-squeezed cooked spinach instead of courgette",
-      "Pan-fry the bases in a little oil before steaming for a golden finish"
+      "Use peeled, finely grated sweet potato instead of the carrot"
     ],
-    "nutrients": [
-      "protein"
-    ],
+    "nutrients": [],
     "storage": {
       "fridgeDays": 2,
       "freezerMonths": 2,
@@ -1575,7 +1580,7 @@
     "summary": "A mild take on yachaejeon: a thin, savoury pancake packed with softened courgette, carrot and onion, served with a sweet soy dip.",
     "ingredients": [
       "2 tbsp neutral oil",
-      "1 small onion, very thinly sliced",
+      "1 small onion, very finely chopped",
       "1 courgette, peeled and grated",
       "1 carrot, peeled and finely grated",
       "100g plain flour",
@@ -1634,7 +1639,7 @@
     "steps": [
       "Heat the oven to 200°C (180°C fan) and line a baking tray with baking paper.",
       "Warm 1 tbsp of the oil in a pan and cook the onion gently for 8 minutes until soft. Add half the garlic for 1 minute.",
-      "Blend the onion mixture, chickpeas, cumin, coriander, parsley, flour, baking powder and salt in a food processor until very smooth, scraping down the sides.",
+      "Blend the onion mixture, chickpeas, cumin, coriander, parsley, flour, baking powder and salt in a food processor until very smooth, scraping down the sides. If it is too soft to shape, blend in another tablespoon of flour.",
       "Shape into 16 small patties, put on the tray and brush with the remaining oil. Bake for 25 minutes, turning halfway, until golden and firm.",
       "Mix the yoghurt, tahini, lemon juice and remaining garlic with a pinch of salt.",
       "Warm the pittas, split them open and fill with the falafel and a spoonful of the sauce."
@@ -1743,7 +1748,7 @@
     "title": "Creamy leek & cheddar crêpes",
     "meal": "lunch",
     "gentle": false,
-    "time": 45,
+    "time": 55,
     "serves": 4,
     "texture": "soft",
     "summary": "Thin French crêpes wrapped around meltingly soft leeks in a cheddar sauce, then warmed through in the oven.",
@@ -1787,7 +1792,7 @@
     "title": "Mild Caribbean-style lentil patties",
     "meal": "lunch",
     "gentle": false,
-    "time": 80,
+    "time": 85,
     "serves": 4,
     "texture": "regular",
     "summary": "Golden turmeric pastry half-moons filled with a soft, thyme-scented red lentil and sweet potato filling, inspired by Jamaican patties but with no heat.",
@@ -1811,7 +1816,7 @@
     "steps": [
       "Mix the flour, turmeric and salt, then rub in the butter until it looks like breadcrumbs. Stir in enough water to make a firm dough. Wrap and rest in the fridge for 30 minutes.",
       "Meanwhile, warm the oil in a pan and cook the onion gently for 8 minutes until soft. Add the garlic, thyme, allspice and curry powder for 1 minute.",
-      "Add the sweet potato, lentils and stock. Simmer for 20 minutes, stirring often, until thick and the lentils have collapsed. Mash lightly and leave to cool.",
+      "Add the sweet potato, lentils and stock. Simmer for 20 minutes, stirring often, until thick and the lentils have collapsed. Mash well so no firm pieces remain, then leave to cool.",
       "Heat the oven to 200°C (180°C fan) and line a baking tray. Roll the pastry out thinly and cut 8 circles about 14cm across (use a saucer).",
       "Spoon filling onto one half of each circle, brush the edge with egg, fold over and press with a fork to seal. Put on the tray and brush with egg.",
       "Bake for 25 minutes until golden."
@@ -1841,7 +1846,7 @@
     "ingredients": [
       "4 medium floury potatoes (about 250g each), peeled and halved lengthways",
       "15g butter",
-      "1 leek, trimmed, washed and very finely sliced",
+      "1 leek, trimmed, halved lengthways, washed and very finely sliced",
       "300g cottage cheese",
       "40g mild cheddar, finely grated",
       "1 tbsp chives, very finely chopped (optional)",
@@ -1859,8 +1864,7 @@
       "Use peeled sweet potatoes, boiled for 8–10 minutes"
     ],
     "nutrients": [
-      "protein",
-      "calcium"
+      "protein"
     ],
     "storage": {
       "fridgeDays": 2,
@@ -1920,7 +1924,7 @@
     "gentle": false,
     "time": 25,
     "serves": 2,
-    "texture": "soft",
+    "texture": "regular",
     "summary": "Flat rice noodles tossed in a creamy, mild peanut and soy sauce with soft-cooked carrot, courgette ribbons and golden tofu; good warm or packed for lunch.",
     "ingredients": [
       "150g flat rice noodles",
@@ -1931,15 +1935,15 @@
       "3 tbsp smooth peanut butter",
       "2 tbsp soy sauce",
       "1 tbsp honey",
-      "1 tsp fresh ginger, finely grated",
+      "1 tsp fresh ginger, finely grated (discard any stringy fibres)",
       "1 tbsp lime juice",
       "4–5 tbsp hot water"
     ],
     "steps": [
       "Cook the noodles according to the packet until soft, then drain and rinse briefly in warm water.",
       "Warm the oil in a frying pan and fry the tofu for 5–6 minutes, turning, until lightly golden. Lift out.",
-      "Add the carrot and courgette to the pan with a splash of water and cook for 4–5 minutes until very soft.",
-      "Whisk the peanut butter, soy sauce, honey, ginger, lime juice and hot water into a smooth sauce.",
+      "Add the carrot, courgette and ginger to the pan with a splash of water and cook for 4–5 minutes until very soft.",
+      "Whisk the peanut butter, soy sauce, honey, lime juice and hot water into a smooth sauce.",
       "Toss the noodles, vegetables, tofu and sauce together over a low heat until coated and warm."
     ],
     "tip": "Smooth peanut butter gives all the nutty flavour with no pieces of nut. Rice noodles cook up soft and slippery.",
@@ -1948,7 +1952,8 @@
       "Use 2 soft-boiled eggs instead of tofu"
     ],
     "nutrients": [
-      "protein"
+      "protein",
+      "iron"
     ],
     "storage": {
       "fridgeDays": 2,

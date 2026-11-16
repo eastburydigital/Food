@@ -7911,5 +7911,104 @@
   ],
   "per_serving": false,
   "include": true
+ },
+ "1 thumb-sized piece (3cm) fresh ginger, peeled and finely grated": {
+  "parts": [
+   {
+    "food": "ginger_fresh",
+    "grams": 15
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": ""
+ },
+ "2 tbsp white miso paste": {
+  "parts": [
+   {
+    "food": "white_miso",
+    "grams": 36
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": ""
+ },
+ "150g silken tofu, cut into cubes": {
+  "parts": [
+   {
+    "food": "tofu_silken",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": ""
+ },
+ "150g dried ramen noodles (wheat, not fried)": {
+  "parts": [
+   {
+    "food": "egg_noodles_dry",
+    "grams": 150
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": "ramen noodles use wheat noodle values"
+ },
+ "50g baby spinach": {
+  "parts": [
+   {
+    "food": "spinach_raw",
+    "grams": 50
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": ""
+ },
+ "400ml reduced-salt vegetable stock": {
+  "parts": [
+   {
+    "food": "vegetable_stock_reduced_salt",
+    "grams": 400
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": ""
+ },
+ "400ml water": {
+  "parts": [
+   {
+    "food": "water",
+    "grams": 400
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": ""
+ },
+ "2 tsp soy sauce": {
+  "parts": [
+   {
+    "food": "soy_sauce",
+    "grams": 12
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": ""
+ },
+ "1½ tbsp white miso paste": {
+  "parts": [
+   {
+    "food": "white_miso",
+    "grams": 27
+   }
+  ],
+  "per_serving": false,
+  "include": true,
+  "note": ""
  }
 }

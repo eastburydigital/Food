@@ -1,0 +1,63 @@
+[
+  {
+    "id": "gentle-miso-ramen",
+    "title": "Gentle miso ramen",
+    "meal": "dinner",
+    "gentle": false,
+    "time": 30,
+    "serves": 2,
+    "texture": "soft",
+    "summary": "A comforting bowl of soft ramen noodles in a savoury miso and ginger broth, with a jammy egg, silken tofu and soft carrot.",
+    "ingredients": [
+      "1 tbsp vegetable oil",
+      "1 small onion, finely chopped",
+      "1 thumb-sized piece (3cm) fresh ginger, peeled and finely grated",
+      "1 garlic clove, crushed",
+      "400ml reduced-salt vegetable stock",
+      "400ml water",
+      "2 tsp soy sauce",
+      "1 tsp mirin or a pinch of sugar",
+      "1½ tbsp white miso paste",
+      "1 carrot, peeled and cut into thin ribbons",
+      "2 eggs",
+      "150g silken tofu, cut into cubes",
+      "150g dried ramen noodles (wheat, not fried)",
+      "50g baby spinach"
+    ],
+    "steps": [
+      "Boil the eggs for 6½ minutes, then cool in cold water and peel.",
+      "Soften the onion in the oil for 8 minutes, then add the ginger and garlic for 1 minute.",
+      "Add the stock, water, soy sauce, mirin and carrot. Simmer for 10 minutes until the carrot is very soft. Strain out the onion if you'd like a clear broth.",
+      "Meanwhile, cook the noodles as the packet says until soft, then drain.",
+      "Take the broth off the heat and whisk in the miso. Add the spinach and stir until wilted, then chop it finely in the pan with scissors.",
+      "Divide the noodles between bowls, ladle over the broth, add the tofu and top with the halved eggs."
+    ],
+    "tip": "Leave out the usual toppings that are hard to digest: spring onion, sesame seeds, chilli oil, bamboo shoots and seaweed. Don't boil the miso — add it off the heat. Ramen broth is salty, so reduced-salt stock and leaving some broth in the bowl both help.",
+    "swaps": [
+      "Use udon noodles for an even softer bowl",
+      "Use fried tofu cubes instead of silken tofu on a good day"
+    ],
+    "nutrients": [
+      "protein",
+      "b12"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freezerMonths": 3,
+      "batch": false,
+      "text": "Best fresh. Keep the broth on its own in the fridge for 2 days or freeze it for 3 months. Cook noodles and eggs fresh."
+    },
+    "nutrition": {
+      "kcal": 560,
+      "protein": 26,
+      "carbs": 71,
+      "sugars": 12,
+      "fat": 18,
+      "satfat": 3.3,
+      "fibre": 6.1,
+      "salt": 6.6,
+      "servedWith": [],
+      "complete": true
+    }
+  }
+]

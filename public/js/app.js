@@ -600,14 +600,38 @@ function chime() {
 }
 // The site sits behind a Netlify login that lasts about an hour. When the app comes
 // back to the front, check it's still valid and reload to the login if not.
-async function checkSession() {
+let sessionPrompted = false;
+async function checkSession(fromImage = false) {
   if (!navigator.onLine) return;
   try {
     const res = await fetch('/recipes.json', { method: 'HEAD', cache: 'no-store' });
     const left = Number(res.headers.get('Netlify-Site-Protection-Expires-In'));
-    if (res.status === 401 || res.redirected || (!Number.isNaN(left) && res.headers.has('Netlify-Site-Protection-Expires-In') && left < 120)) location.reload();
+    const expired = res.status === 401 || res.redirected;
+    const expiring = !Number.isNaN(left) && res.headers.has('Netlify-Site-Protection-Expires-In') && left < 120;
+    if (fromImage && expired) {
+      // Don't yank the page away mid-read: offer to sign in again.
+      if (!sessionPrompted) { sessionPrompted = true; toast('Your sign-in has expired, so new pictures can’t load', () => location.reload()); relabelUndo('Sign in'); }
+      return;
+    }
+    if (expired || expiring) location.reload();
   } catch { /* offline: carry on with the saved copy */ }
 }
+function relabelUndo(text) {
+  const b = document.querySelector('#toast [data-undo]');
+  if (b) b.textContent = text;
+}
+// If a recipe picture fails to load, show the small version instead and check the
+// login is still valid (an expired Netlify login blocks new downloads).
+document.addEventListener('error', (e) => {
+  const img = e.target;
+  if (!(img instanceof HTMLImageElement) || img.dataset.retried) return;
+  const src = img.getAttribute('src') || '';
+  if (!src.startsWith('/img/')) return;
+  img.dataset.retried = '1';
+  if (!src.startsWith('/img/thumb/')) img.src = src.replace('/img/', '/img/thumb/');
+  if (!location.hash.startsWith('#/cook')) checkSession(true);
+}, true);
+
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState !== 'visible') return;
   if (!location.hash.startsWith('#/cook')) checkSession();

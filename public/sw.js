@@ -33,9 +33,13 @@ self.addEventListener('fetch', (e) => {
     e.respondWith(caches.open('gk-img').then(async (cache) => {
       const hit = await cache.match(req);
       if (hit) return hit;
-      const res = await fetch(req);
-      if (clean(res)) cache.put(req, res.clone());
-      return res;
+      let res;
+      try { res = await fetch(req); } catch { res = null; }
+      if (clean(res)) { cache.put(req, res.clone()); return res; }
+      // Couldn't get the full picture (offline, or the site login has expired):
+      // fall back to the small card version if we have it.
+      const thumb = await cache.match(new URL(req.url).pathname.replace('/img/', '/img/thumb/'));
+      return thumb || res || Response.error();
     }));
     return;
   }

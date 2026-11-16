@@ -974,12 +974,14 @@ const TITLES = { home: 'Gentle Kitchen', plan: 'Plan', shopping: 'Shopping list'
 let lastListHash = '#/';
 let lastRoute = '';
 let prevRoute = '';
+const scrollMemory = new Map(); // page -> scroll position, so Back returns to the same place
 
 function render(keepPlace = false) {
   const hash = location.hash || '#/';
   const [, route = '', rawArg] = hash.split('/');
   const arg = safeDecode(rawArg);
   const newRoute = hash !== lastRoute;
+  if (newRoute && lastRoute) scrollMemory.set(lastRoute, window.scrollY);
   if (newRoute) prevRoute = lastRoute;
   lastRoute = hash;
   if (route !== 'cook') { document.body.classList.remove('cooking'); releaseAwake(); }
@@ -1003,7 +1005,8 @@ function render(keepPlace = false) {
   $('#page-title').textContent = TITLES[tab];
   if (keepPlace || !newRoute) window.scrollTo(0, y);
   else {
-    if (route && route !== 'recipe') window.scrollTo(0, 0);
+    // Recipes open at the top; lists come back to where you left them.
+    window.scrollTo(0, (route === 'recipe' || route === 'cook') ? 0 : (scrollMemory.get(hash) || 0));
     app.focus({ preventScroll: true });
   }
   timerBar();
@@ -1259,6 +1262,7 @@ window.addEventListener('storage', (e) => {
 
 // ---------- Boot ----------
 async function boot() {
+  if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
   applyTextSize();
   document.querySelectorAll('.mode button').forEach((b) => b.setAttribute('aria-pressed', b.dataset.mode === state.mode));
   updateBadge();
